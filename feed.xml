@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>1c599e83-9808-4977-b0ed-0d414bcd320d</vehicle_id>
+    <vehicle_registration_plate>HUM38U</vehicle_registration_plate>
+    <title>Kia EV6 PLUS RWD 218HK Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor</title>
+    <description>PLUS RWD 218HK Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor. Utrustningsnivå: Base, PLUS. Miltal: 5 908 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: HUM38U. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/1c599e83-9808-4977-b0ed-0d414bcd320d</link>
+    <url>https://goingebil.se/sok/id/1c599e83-9808-4977-b0ed-0d414bcd320d</url>
+    <brand>Kia</brand>
+    <make>Kia</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/6b451d24-5c85-41cc-8fd3-673c5d66fbba/928e1cd4-64ce-49aa-8353-243687013aae?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EV6</model>
+    <year>2022</year>
+    <mileage>
+      <value>59080</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>369000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>369000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>52e438bc-13ea-4c47-8427-61b42dbedbda</vehicle_id>
     <vehicle_registration_plate>EAL51U</vehicle_registration_plate>
     <title>Volvo XC40 B4 FWD Bensin Core SE</title>
@@ -823,8 +860,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</vehicle_id>
     <vehicle_registration_plate>TGR78A</vehicle_registration_plate>
-    <title>Dacia Sandero TCe 90 Essential IV/ PDC bak/ Media app/ Farthållare</title>
-    <description>TCe 90 Essential IV/ PDC bak/ Media app/ Farthållare. Miltal: 1 204 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: TGR78A. Kontakta oss för mer information om detta fordon.</description>
+    <title>Dacia Sandero TCe 90 Essential IV/ PDC bak/ Media app/ Farth��llare</title>
+    <description>TCe 90 Essential IV/ PDC bak/ Media app/ Farth��llare. Miltal: 1 204 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: TGR78A. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</link>
     <url>https://goingebil.se/sok/id/3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</url>
     <brand>Dacia</brand>
