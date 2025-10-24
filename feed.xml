@@ -7,6 +7,80 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>c10ef463-1b28-4a33-982a-045c3832e227</vehicle_id>
+    <vehicle_registration_plate>HOD80R</vehicle_registration_plate>
+    <title>Kia Sportage 1,6T Gdi AWD177HK GT Line</title>
+    <description>1,6T Gdi AWD177HK GT Line. Utrustningsnivå: GT-Line. Miltal: 14 545 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: HOD80R. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/c10ef463-1b28-4a33-982a-045c3832e227</link>
+    <url>https://goingebil.se/sok/id/c10ef463-1b28-4a33-982a-045c3832e227</url>
+    <brand>Kia</brand>
+    <make>Kia</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a4d4bd4f-1b81-49b8-a4de-13534eefc883/e171b49f-af59-4036-a4f3-00695e941410?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sportage</model>
+    <year>2019</year>
+    <mileage>
+      <value>145450</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>199000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>199000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>401fc1aa-052b-4311-a701-f80e3f4322f0</vehicle_id>
+    <vehicle_registration_plate>AXZ269</vehicle_registration_plate>
+    <title>Volvo XC60 D4 AWD Ocean Race Business E</title>
+    <description>D4 AWD Ocean Race Business E. Utrustningsnivå: Ocean Race. Miltal: 13 300 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AXZ269. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/401fc1aa-052b-4311-a701-f80e3f4322f0</link>
+    <url>https://goingebil.se/sok/id/401fc1aa-052b-4311-a701-f80e3f4322f0</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2ea39930-74c1-420e-ab19-a9152d3183e5/b10284a4-7931-45c3-911c-437450eb0800?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2016</year>
+    <mileage>
+      <value>133000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>229000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>229000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>1c599e83-9808-4977-b0ed-0d414bcd320d</vehicle_id>
     <vehicle_registration_plate>HUM38U</vehicle_registration_plate>
     <title>Kia EV6 PLUS RWD 218HK Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor</title>
@@ -114,43 +188,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>769d87df-56a7-4ad8-9f54-75a3d874ed43</vehicle_id>
-    <vehicle_registration_plate>SDK566</vehicle_registration_plate>
-    <title>Volvo XC40 Recharge T4 Inscription / Backkamera / Navi/ Skinn klädsel</title>
-    <description>Recharge T4 Inscription / Backkamera / Navi/ Skinn klädsel. Utrustningsnivå: Inscription. Miltal: 6 471 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: SDK566. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/769d87df-56a7-4ad8-9f54-75a3d874ed43</link>
-    <url>https://goingebil.se/sok/id/769d87df-56a7-4ad8-9f54-75a3d874ed43</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/00ca3e42-0495-471f-a608-ca087761d6df/2fb4b8e2-9ed4-45e8-a65d-13c5ad82bbc1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2022</year>
-    <mileage>
-      <value>64710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>349000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>349000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -860,8 +897,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</vehicle_id>
     <vehicle_registration_plate>TGR78A</vehicle_registration_plate>
-    <title>Dacia Sandero TCe 90 Essential IV/ PDC bak/ Media app/ Farth��llare</title>
-    <description>TCe 90 Essential IV/ PDC bak/ Media app/ Farth��llare. Miltal: 1 204 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: TGR78A. Kontakta oss för mer information om detta fordon.</description>
+    <title>Dacia Sandero TCe 90 Essential IV/ PDC bak/ Media app/ Farthållare</title>
+    <description>TCe 90 Essential IV/ PDC bak/ Media app/ Farthållare. Miltal: 1 204 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: TGR78A. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</link>
     <url>https://goingebil.se/sok/id/3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</url>
     <brand>Dacia</brand>
