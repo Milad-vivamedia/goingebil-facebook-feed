@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>52e438bc-13ea-4c47-8427-61b42dbedbda</vehicle_id>
+    <vehicle_registration_plate>EAL51U</vehicle_registration_plate>
+    <title>Volvo XC40 B4 FWD Bensin Core SE</title>
+    <description>B4 FWD Bensin Core SE. Utrustningsnivå: Core. Miltal: 4 432 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: EAL51U. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/52e438bc-13ea-4c47-8427-61b42dbedbda</link>
+    <url>https://goingebil.se/sok/id/52e438bc-13ea-4c47-8427-61b42dbedbda</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/eb922f34-9871-43c3-99c6-7f4553f7d84d/831b70c3-9d65-457a-874c-96b41e71730d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2024</year>
+    <mileage>
+      <value>44320</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>339000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>339000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>e3f1a8b3-feb7-48e5-9562-66607febf8ef</vehicle_id>
     <vehicle_registration_plate>HBF78Z</vehicle_registration_plate>
     <title>XPENG G9 AWD Premium Komfort/ Drag/ V2L/ XPilot/ Pano/ Luftfjädring</title>
@@ -83,8 +120,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>088a4acc-e065-41a2-8a49-2fdcc7901090</vehicle_id>
     <vehicle_registration_plate>MTN00L</vehicle_registration_plate>
-    <title>Volvo V60 Recharge T6 Inscription Expression</title>
-    <description>Recharge T6 Inscription Expression. Utrustningsnivå: Inscription Expression. Miltal: 7 877 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: MTN00L. Kontakta oss för mer information om detta fordon.</description>
+    <title>Volvo V60 Recharge T6 Inscription Expression/ Ljus- Teknik-pkt/ PDC/ LED/ Rattv/ Harman</title>
+    <description>Recharge T6 Inscription Expression/ Ljus- Teknik-pkt/ PDC/ LED/ Rattv/ Harman. Utrustningsnivå: Inscription Expression. Miltal: 7 877 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: MTN00L. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/088a4acc-e065-41a2-8a49-2fdcc7901090</link>
     <url>https://goingebil.se/sok/id/088a4acc-e065-41a2-8a49-2fdcc7901090</url>
     <brand>Volvo</brand>
@@ -120,8 +157,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9a930b62-ebaf-4722-aa2c-659f720f40ec</vehicle_id>
     <vehicle_registration_plate>YFY01G</vehicle_registration_plate>
-    <title>Volkswagen ID.3 204hk Värmepump</title>
-    <description>204hk Värmepump. Utrustningsnivå: Pro. Miltal: 2 721 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: YFY01G. Kontakta oss för mer information om detta fordon.</description>
+    <title>Volkswagen ID.3 204hk/ V-pump/ Komfort-pkt/ Adp farth/ Keyless/ PDC/ Nav/ LED</title>
+    <description>204hk/ V-pump/ Komfort-pkt/ Adp farth/ Keyless/ PDC/ Nav/ LED. Utrustningsnivå: Pro. Miltal: 2 721 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: YFY01G. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/9a930b62-ebaf-4722-aa2c-659f720f40ec</link>
     <url>https://goingebil.se/sok/id/9a930b62-ebaf-4722-aa2c-659f720f40ec</url>
     <brand>Volkswagen</brand>
@@ -194,8 +231,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>2bd5605b-1d24-4baf-bf62-2c78f56c0413</vehicle_id>
     <vehicle_registration_plate>FTW457</vehicle_registration_plate>
-    <title>Kia Rio 1,2 SPECIAL EDIT</title>
-    <description>1,2 SPECIAL EDIT. Utrustningsnivå: GLS. Miltal: 9 762 mil. Årsmodell: 2015. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: FTW457. Kontakta oss för mer information om detta fordon.</description>
+    <title>Kia Rio 1,2 SPECIAL EDIT/ ECC/ Nav/ Kamera/ PDC bak</title>
+    <description>1,2 SPECIAL EDIT/ ECC/ Nav/ Kamera/ PDC bak. Utrustningsnivå: GLS. Miltal: 9 762 mil. Årsmodell: 2015. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: FTW457. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/2bd5605b-1d24-4baf-bf62-2c78f56c0413</link>
     <url>https://goingebil.se/sok/id/2bd5605b-1d24-4baf-bf62-2c78f56c0413</url>
     <brand>Kia</brand>
@@ -231,8 +268,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>69d8b814-82eb-46ce-b954-e537366ee663</vehicle_id>
     <vehicle_registration_plate>BER28M</vehicle_registration_plate>
-    <title>Renault Clio 140 Zen 5-d</title>
-    <description>140 Zen 5-d. Utrustningsnivå: Zen. Miltal: 1 311 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: BER28M. Kontakta oss för mer information om detta fordon.</description>
+    <title>Renault Clio 140hk Zen AUT/ PDC bak/ Farth/ LED/ Lane Assist/ Pekskärm</title>
+    <description>140hk Zen AUT/ PDC bak/ Farth/ LED/ Lane Assist/ Pekskärm. Utrustningsnivå: Zen. Miltal: 1 311 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: BER28M. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/69d8b814-82eb-46ce-b954-e537366ee663</link>
     <url>https://goingebil.se/sok/id/69d8b814-82eb-46ce-b954-e537366ee663</url>
     <brand>Renault</brand>
@@ -897,8 +934,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>42493517-9388-42da-9dba-b2f7e246c750</vehicle_id>
     <vehicle_registration_plate>SNZ57U</vehicle_registration_plate>
-    <title>Volvo XC40 Plus Edition</title>
-    <description>Plus Edition. Utrustningsnivå: Plus. Miltal: 4 512 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: SNZ57U. Kontakta oss för mer information om detta fordon.</description>
+    <title>Volvo XC40 PLUS/ V-pump/ Elstol/ PDC/ Rattv/ Carplay</title>
+    <description>PLUS/ V-pump/ Elstol/ PDC/ Rattv/ Carplay. Utrustningsnivå: Plus. Miltal: 4 512 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: SNZ57U. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/42493517-9388-42da-9dba-b2f7e246c750</link>
     <url>https://goingebil.se/sok/id/42493517-9388-42da-9dba-b2f7e246c750</url>
     <brand>Volvo</brand>
@@ -1437,43 +1474,6 @@
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>7893f014-6104-42eb-8dac-7c3628fed4fb</vehicle_id>
-    <vehicle_registration_plate>SWU87J</vehicle_registration_plate>
-    <title>Toyota ProAce 2.0 D-4D Automatisk 144hk</title>
-    <description>2.0 D-4D Automatisk 144hk. Miltal: 9 271 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: SWU87J. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/7893f014-6104-42eb-8dac-7c3628fed4fb</link>
-    <url>https://goingebil.se/sok/id/7893f014-6104-42eb-8dac-7c3628fed4fb</url>
-    <brand>Toyota</brand>
-    <make>Toyota</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/fe6f06ec-6219-4ecf-bedc-a530dca667dc/1dbfbd23-dd00-471a-a067-fe6e95275b19?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>ProAce</model>
-    <year>2023</year>
-    <mileage>
-      <value>92710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
@@ -2331,43 +2331,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>184000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>d58b4005-4415-442c-af15-50fba444f167</vehicle_id>
-    <vehicle_registration_plate>XDK506</vehicle_registration_plate>
-    <title>Škoda Kodiaq 2.0 TSI 4x4 DSG SPORTLINE/ 360/ Adp Farth/ Elbaklucka/ Keyless</title>
-    <description>2.0 TSI 4x4 DSG SPORTLINE/ 360/ Adp Farth/ Elbaklucka/ Keyless. Utrustningsnivå: Sportline. Miltal: 8 799 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: XDK506. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/d58b4005-4415-442c-af15-50fba444f167</link>
-    <url>https://goingebil.se/sok/id/d58b4005-4415-442c-af15-50fba444f167</url>
-    <brand>Škoda</brand>
-    <make>Škoda</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e37c169e-e19b-4c76-9311-0b9e7feccd9f/9acb2559-51d5-40a6-8f6b-1a06bcb24fe6?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kodiaq</model>
-    <year>2022</year>
-    <mileage>
-      <value>87990</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
