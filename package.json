@@ -1,0 +1,21 @@
+{
+  "name": "goingebil-facebook-feed",
+  "version": "1.0.0",
+  "description": "Facebook Dynamic Ads feed generator for Göinge Bil",
+  "main": "generate-feed.js",
+  "scripts": {
+    "generate": "node generate-feed.js",
+    "test": "node generate-feed.js && echo 'Feed generated successfully!'"
+  },
+  "keywords": [
+    "facebook",
+    "dynamic-ads",
+    "automotive",
+    "feed"
+  ],
+  "author": "Göinge Bil",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

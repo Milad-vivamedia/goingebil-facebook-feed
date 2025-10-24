@@ -1,0 +1,112 @@
+╔══════════════════════════════════════════════════════════════╗
+║        GÖINGE BIL - GITHUB PAGES FEED SETUP (10 MIN)         ║
+╚══════════════════════════════════════════════════════════════╝
+
+📋 CHECKLIST:
+
+1️⃣  CREATE GITHUB REPOSITORY (2 min)
+   → Go to: https://github.com/new
+   → Name: goingebil-facebook-feed
+   → Select: Public
+   → ✓ Add README
+   → Click: Create repository
+
+2️⃣  UPLOAD FILES (3 min)
+   → Click: "Add file" → "Upload files"
+   → Upload these 4 files:
+      • .github/workflows/update-feed.yml
+      • generate-feed.js
+      • package.json
+      • .gitignore
+   → Click: "Commit changes"
+
+3️⃣  ENABLE GITHUB ACTIONS (1 min)
+   → Go to: "Actions" tab
+   → Click: "I understand my workflows, go ahead and enable them"
+   → Click: "Update Facebook Feed" workflow
+   → Click: "Run workflow" → "Run workflow"
+   → Wait for green checkmark ✅
+
+4️⃣  ENABLE GITHUB PAGES (2 min)
+   → Go to: "Settings" tab
+   → Click: "Pages" in left sidebar
+   → Source: Deploy from a branch
+   → Branch: gh-pages / root
+   → Click: "Save"
+   → Wait 1-2 minutes
+
+5️⃣  GET YOUR FEED URL (1 min)
+   Your URL will be:
+   https://USERNAME.github.io/goingebil-facebook-feed/feed.xml
+
+   (Replace USERNAME with your GitHub username)
+
+6️⃣  TEST IT (1 min)
+   → Open your feed URL in browser
+   → Should see XML starting with:
+      <?xml version="1.0" encoding="UTF-8"?>
+      <listings>
+   → If you see vehicles = SUCCESS! ✅
+
+7️⃣  ADD TO FACEBOOK (5 min)
+   → Go to: business.facebook.com/commerce
+   → Create Catalog → Vehicles
+   → Add Data Source → Scheduled Feed
+   → Paste your GitHub Pages URL
+   → Frequency: Every 1 hour
+   → Currency: SEK
+   → Upload!
+
+═══════════════════════════════════════════════════════════════
+
+✅ DONE! Your feed is:
+   • Live on GitHub Pages
+   • Updating every hour automatically
+   • Connected to Facebook
+   • 100% FREE forever!
+
+═══════════════════════════════════════════════════════════════
+
+📊 YOUR FEED URL:
+https://YOUR_USERNAME.github.io/goingebil-facebook-feed/feed.xml
+
+📱 STATUS PAGE:
+https://YOUR_USERNAME.github.io/goingebil-facebook-feed/
+
+═══════════════════════════════════════════════════════════════
+
+🔄 HOW IT WORKS:
+
+Every hour:
+GitHub Actions → Wayke API → Generate XML → GitHub Pages → Facebook
+
+═══════════════════════════════════════════════════════════════
+
+💰 COST: $0 FOREVER
+
+GitHub provides:
+• 2,000 Actions minutes/month (you use ~1/day)
+• 100GB Pages bandwidth
+• Free hosting
+
+═══════════════════════════════════════════════════════════════
+
+📚 NEED HELP?
+
+Read the full guide: SETUP_GUIDE.md
+
+═══════════════════════════════════════════════════════════════
+
+Files in the github-setup folder:
+
+📁 .github/workflows/update-feed.yml  ← GitHub Actions workflow
+📄 generate-feed.js                   ← Feed generator script
+📄 package.json                       ← Node.js config
+📄 .gitignore                         ← Git ignore file
+📖 SETUP_GUIDE.md                     ← Detailed instructions
+📖 README.md                          ← Repository readme
+📋 QUICK_START.txt                    ← This file
+
+═══════════════════════════════════════════════════════════════
+
+Good luck! 🚗💨
