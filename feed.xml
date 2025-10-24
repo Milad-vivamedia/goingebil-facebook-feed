@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listings>
-  <title>Göinge Bil - Begagnade Bilar</title>
-  <link rel="self" href="https://goingebil.se"/>
-  <listing>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Göinge Bil - Begagnade Bilar</title>
+    <link>https://goingebil.se</link>
+    <description>Göinge Bil Vehicle Inventory</description>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>769d87df-56a7-4ad8-9f54-75a3d874ed43</vehicle_id>
@@ -35,8 +37,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>088a4acc-e065-41a2-8a49-2fdcc7901090</vehicle_id>
@@ -69,8 +71,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9a930b62-ebaf-4722-aa2c-659f720f40ec</vehicle_id>
@@ -103,8 +105,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>11913284-abed-4a03-ae77-d4c1799624b6</vehicle_id>
@@ -137,8 +139,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>2bd5605b-1d24-4baf-bf62-2c78f56c0413</vehicle_id>
@@ -171,8 +173,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>69d8b814-82eb-46ce-b954-e537366ee663</vehicle_id>
@@ -205,8 +207,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>194b8221-5c27-4cc8-a73b-37d2e96cad28</vehicle_id>
@@ -239,8 +241,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1bec2743-534b-4605-9c36-18efae1b33d4</vehicle_id>
@@ -273,8 +275,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>72ab3e63-1ca2-4fc1-bc10-c4a1ea08a704</vehicle_id>
@@ -307,8 +309,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ff60045f-4dba-43de-9b23-52f639797b5a</vehicle_id>
@@ -341,8 +343,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>cc5efeb2-6bd2-4f84-9db6-d2fa4de726b3</vehicle_id>
@@ -375,8 +377,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>2630a3e3-f695-4ea9-8b97-f8c682acacc9</vehicle_id>
@@ -409,8 +411,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>5ad1249d-6b7e-4881-85c1-0bbf672e354b</vehicle_id>
@@ -443,8 +445,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f3019032-674b-4289-9533-700635c40376</vehicle_id>
@@ -477,8 +479,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1deba974-b659-47bb-8dbb-2373ac6831ab</vehicle_id>
@@ -511,8 +513,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>60ce6d75-5bbc-4de0-8ae7-d370c56ca3e1</vehicle_id>
@@ -545,8 +547,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>7efe3202-2200-4096-ab22-a099ceeeb8e6</vehicle_id>
@@ -579,8 +581,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>578e7dc9-e047-4642-bf2f-01980d37b305</vehicle_id>
@@ -613,8 +615,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>0c97cd39-4a76-4e18-bfcc-6a45c46872ac</vehicle_id>
@@ -647,8 +649,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>b5e046fe-6a93-46c8-8a15-c732b51f5f14</vehicle_id>
@@ -681,8 +683,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3c8ec2f7-38cf-4e4e-a71e-6b24b64d74fb</vehicle_id>
@@ -715,8 +717,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>d532bdfa-62bc-4489-93d4-236f5317830f</vehicle_id>
@@ -749,8 +751,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>d5838760-7e33-43f2-9c99-289a19f359d5</vehicle_id>
@@ -783,8 +785,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>42493517-9388-42da-9dba-b2f7e246c750</vehicle_id>
@@ -817,8 +819,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>47503095-fa53-46ee-b17b-ff07a0bcd8a7</vehicle_id>
@@ -851,8 +853,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e0f19f1b-1fb8-44c6-8723-a4de4319e513</vehicle_id>
@@ -885,8 +887,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>a835a72f-d139-4c86-9944-2d7a21d4079d</vehicle_id>
@@ -919,8 +921,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>6daa9b6f-78c3-4627-bb09-3b2eb530369f</vehicle_id>
@@ -953,8 +955,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c4034383-1ed1-4f8a-a662-e0596aba87ea</vehicle_id>
@@ -987,8 +989,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e1e4a867-96b8-4692-bc2c-58c9be23f211</vehicle_id>
@@ -1021,8 +1023,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9c0e8ba7-2688-4e72-9c81-8dec222cd0b4</vehicle_id>
@@ -1055,8 +1057,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>516960f5-3ae0-4468-8d13-1ec2c6ee0ea1</vehicle_id>
@@ -1089,8 +1091,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e5fb4a43-8a66-4f5f-8a27-f92de5267ab4</vehicle_id>
@@ -1123,8 +1125,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9eadd970-6af2-404b-9dc9-57612d2a2c53</vehicle_id>
@@ -1153,8 +1155,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>a1351b6b-8088-437a-96d0-b82757d0a562</vehicle_id>
@@ -1187,8 +1189,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ca5a3151-b004-4304-8eca-d2221bf99677</vehicle_id>
@@ -1221,8 +1223,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>11da6494-fc63-4d70-b884-88c059eb71ce</vehicle_id>
@@ -1255,8 +1257,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>eea46e07-c035-47d7-9401-bf1d6b949a69</vehicle_id>
@@ -1285,8 +1287,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>7893f014-6104-42eb-8dac-7c3628fed4fb</vehicle_id>
@@ -1319,8 +1321,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>6ff581d4-b008-4135-9949-b67d6386e3a7</vehicle_id>
@@ -1349,8 +1351,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c9358f55-8bd0-4287-9d5f-e902a52bf6dd</vehicle_id>
@@ -1379,8 +1381,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>cbf494bf-e77c-4883-b6a3-634a1796ff37</vehicle_id>
@@ -1409,8 +1411,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>26b1e78a-c5a4-4761-8d04-ba4b77c3e15c</vehicle_id>
@@ -1439,8 +1441,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>190c8380-8015-46ed-bb9c-9bcb50cdd169</vehicle_id>
@@ -1469,8 +1471,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>544e4f7b-7901-434a-8d67-2d030b86ade6</vehicle_id>
@@ -1503,8 +1505,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3cd8e7ba-96e6-402a-804d-f9e471429d16</vehicle_id>
@@ -1537,8 +1539,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1c5e48c9-473f-455f-9575-3c4e7f394669</vehicle_id>
@@ -1567,8 +1569,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>99342ba4-1294-48af-9f1c-6ab06697e396</vehicle_id>
@@ -1601,8 +1603,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>265d061b-7105-4cca-b446-8a4949c8e4ad</vehicle_id>
@@ -1635,8 +1637,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>66d4557a-96c0-42e3-9725-f3d5cd8c2194</vehicle_id>
@@ -1669,8 +1671,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ce95a245-dadd-441b-b005-ed8210764e11</vehicle_id>
@@ -1703,8 +1705,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f0cca7b5-86c9-4094-aba7-6d4e721f499f</vehicle_id>
@@ -1737,8 +1739,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>33a55dbc-b362-4b50-9d17-07ba532f86b8</vehicle_id>
@@ -1771,8 +1773,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>4451aa41-94a2-449d-b374-51683720175c</vehicle_id>
@@ -1801,8 +1803,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>98693276-7031-4727-b119-80b4ec447c45</vehicle_id>
@@ -1835,8 +1837,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>66570af6-8e0c-44c5-8a19-7b1f3460bb37</vehicle_id>
@@ -1869,8 +1871,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>879c88dd-1198-42e6-8af3-e2d8c157ea86</vehicle_id>
@@ -1903,8 +1905,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f63f55da-aa03-4eaf-8062-f0206d132d6b</vehicle_id>
@@ -1937,8 +1939,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>2c2db52a-0e39-4c03-b083-d14b5ce13fa8</vehicle_id>
@@ -1971,8 +1973,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c35220f4-108a-4d59-9a50-ffd41fc00ced</vehicle_id>
@@ -2005,8 +2007,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>60aa3240-3a08-4e97-be05-69d36f76ce1d</vehicle_id>
@@ -2039,8 +2041,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>4762100a-c0f4-4238-a504-762badb264eb</vehicle_id>
@@ -2073,8 +2075,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>b5d87a20-0d41-4e3d-a6f9-9a5e0039f611</vehicle_id>
@@ -2107,8 +2109,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>d58b4005-4415-442c-af15-50fba444f167</vehicle_id>
@@ -2141,8 +2143,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>bb7be721-e483-46d7-8e00-ce6d659fa955</vehicle_id>
@@ -2175,8 +2177,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e51093dc-aa27-4830-b74a-90d4eba8a2dc</vehicle_id>
@@ -2209,8 +2211,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c28c314f-2694-4e00-a207-50fecca91ec1</vehicle_id>
@@ -2243,8 +2245,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c32b73a9-f2a6-48ea-bb98-58d537417e67</vehicle_id>
@@ -2277,8 +2279,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>d31f9ddd-3af1-4408-a244-62d8fb0e378a</vehicle_id>
@@ -2311,8 +2313,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>8e3e877c-4dd9-4ac9-9625-ced3bce3f814</vehicle_id>
@@ -2341,8 +2343,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>09d1fda4-d107-4923-ba1c-6fa889d7f830</vehicle_id>
@@ -2375,8 +2377,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9cc592e3-ea15-4031-9de0-dd9a5657ddf0</vehicle_id>
@@ -2409,8 +2411,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>8b5ec04a-8edb-44d1-99d2-a20e6d2974df</vehicle_id>
@@ -2443,8 +2445,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>21fa3787-8dc3-4b59-bf6b-7b2a66d6982c</vehicle_id>
@@ -2477,8 +2479,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>a926d77e-4135-4551-bad6-362cdcd34654</vehicle_id>
@@ -2511,8 +2513,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>997ee707-6f88-4bb8-8364-6d32c4679b45</vehicle_id>
@@ -2545,8 +2547,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>8c691d54-8a7b-4ca4-9608-9e5ae5c5bc82</vehicle_id>
@@ -2579,8 +2581,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>aeb74c8f-17cd-4fd3-a615-a67c84a68162</vehicle_id>
@@ -2613,8 +2615,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>144e1cc2-3211-4ddd-8a54-5bdcfd776015</vehicle_id>
@@ -2647,8 +2649,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>db081111-2061-40ba-be99-8906e96a9c02</vehicle_id>
@@ -2681,8 +2683,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3a8d23ad-7653-4f3c-a133-a2bb21935b5a</vehicle_id>
@@ -2715,8 +2717,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>bed1b9c2-dd61-4111-a2e7-0a425a5b172d</vehicle_id>
@@ -2749,8 +2751,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f050fdc5-d45e-4130-ba76-c8d5628a80c9</vehicle_id>
@@ -2783,8 +2785,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9b497517-996a-4111-a1f7-1f998bc49728</vehicle_id>
@@ -2817,8 +2819,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>32ebc866-812e-4dcb-acb6-f51c8f991e02</vehicle_id>
@@ -2851,8 +2853,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>23106960-7095-4235-a471-c482f61e00e4</vehicle_id>
@@ -2881,8 +2883,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>0c428435-409f-42a9-a77e-8a4e6c74fa7e</vehicle_id>
@@ -2911,8 +2913,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f1e3055e-ab8b-48c7-a2b2-3901926dfe10</vehicle_id>
@@ -2941,8 +2943,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>10101f99-5151-4dd9-b218-2289a589f9c4</vehicle_id>
@@ -2971,8 +2973,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>119e8277-e71d-43f5-977a-27c930a17741</vehicle_id>
@@ -3005,8 +3007,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>d1a0bbbe-eefd-4cef-bde0-06b9234fffc8</vehicle_id>
@@ -3035,8 +3037,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e24af9da-aea9-4e00-8914-d2f5eacf0bfa</vehicle_id>
@@ -3069,8 +3071,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1368260d-c0d2-4a3b-aa18-4b8b834e0467</vehicle_id>
@@ -3099,8 +3101,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e468982e-aaaf-4759-a97d-44d6f53b8f03</vehicle_id>
@@ -3133,8 +3135,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1ee1f827-9f12-4773-8685-62df477b3194</vehicle_id>
@@ -3167,8 +3169,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>5981f899-b2ee-4dbb-88c2-2aace621e019</vehicle_id>
@@ -3201,8 +3203,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e4977f08-fd79-4741-abe3-1027377c89ad</vehicle_id>
@@ -3235,8 +3237,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e85ddefb-e843-4425-a191-e2ba7e2cedf3</vehicle_id>
@@ -3269,8 +3271,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ad55afd3-5c73-4f4b-9fa8-83cf78d9b390</vehicle_id>
@@ -3303,8 +3305,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>6a0fba8e-c2fa-47a0-a209-811bebf86491</vehicle_id>
@@ -3337,8 +3339,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>48fad66e-d2ed-423f-a0b0-a7a57710c33d</vehicle_id>
@@ -3371,8 +3373,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>20621fd3-2c96-4616-a62f-39167336a26c</vehicle_id>
@@ -3405,8 +3407,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>13c753c7-bd9c-4f81-aa91-cc925b698b6d</vehicle_id>
@@ -3439,8 +3441,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>13dcb4cb-987f-4077-b3df-ae75526380e8</vehicle_id>
@@ -3473,8 +3475,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c4bae23c-8394-4bed-a95c-1360d23203fe</vehicle_id>
@@ -3507,8 +3509,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>765640f4-7385-4a90-bc64-d7d2d5955a65</vehicle_id>
@@ -3541,8 +3543,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>bce85376-89ed-49f3-8909-387fb15d026c</vehicle_id>
@@ -3575,8 +3577,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>088dc1de-a5c1-4505-b3c8-85370921bbb5</vehicle_id>
@@ -3609,8 +3611,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>df4960c4-991d-4dbe-8438-5d2b41de6d09</vehicle_id>
@@ -3643,8 +3645,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>480877b0-ef4e-433f-b209-1e368931da0f</vehicle_id>
@@ -3673,8 +3675,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3ae66212-4199-418b-8622-7514b4767f64</vehicle_id>
@@ -3707,8 +3709,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>99020c68-3bae-490f-ba4d-844a1ec97fdb</vehicle_id>
@@ -3737,8 +3739,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>8567c3cb-714a-426b-960f-5ae89de8087d</vehicle_id>
@@ -3771,8 +3773,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>63496ceb-b5d8-4dae-893f-275665ff560c</vehicle_id>
@@ -3805,8 +3807,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>7eb11bdd-eea6-4f38-91c6-a0848fc310ff</vehicle_id>
@@ -3839,8 +3841,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>599f3e4f-839b-4c85-b9ab-988a68379aa4</vehicle_id>
@@ -3869,8 +3871,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3af3c229-44b1-40f7-8c03-fa8b2956bc5d</vehicle_id>
@@ -3903,8 +3905,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ad1e1d77-5544-4d44-975a-fff052847325</vehicle_id>
@@ -3937,8 +3939,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e35e4612-21a9-4607-98d7-d832d996bcf6</vehicle_id>
@@ -3971,8 +3973,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>746a652a-9291-4f07-b5b6-5801d9d90bcf</vehicle_id>
@@ -4005,8 +4007,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f7aaedfb-2f21-486c-8bde-af62e5a5e069</vehicle_id>
@@ -4039,8 +4041,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f2abfac6-d915-4cf2-a020-6b0332a7e708</vehicle_id>
@@ -4073,8 +4075,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f7b9274a-5734-4612-a0a8-eff2eb2feae2</vehicle_id>
@@ -4107,8 +4109,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ab9e07b0-7188-40f5-8200-a5632a11138f</vehicle_id>
@@ -4141,8 +4143,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1c4485fe-0159-4d14-8fee-c3fdb18ec349</vehicle_id>
@@ -4175,8 +4177,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ec1f4d4f-4c2b-44f8-8c3c-7e11bd9b0deb</vehicle_id>
@@ -4205,8 +4207,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>3fafde09-6ec4-4baf-bae9-41fbe3da0144</vehicle_id>
@@ -4239,8 +4241,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>fdac4a8f-f092-4170-82b7-aa6bbd2f20d0</vehicle_id>
@@ -4273,8 +4275,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>c73c3384-b104-4db7-b658-c23da54f9152</vehicle_id>
@@ -4307,8 +4309,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>da0631c5-f618-416a-992c-45cb658eb9ea</vehicle_id>
@@ -4341,8 +4343,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>6fdcde5c-21ad-40e6-a32d-592c8d94e9fc</vehicle_id>
@@ -4375,8 +4377,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</vehicle_id>
@@ -4409,8 +4411,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ad6d50a9-c5ad-43cc-9aae-261df2028f1b</vehicle_id>
@@ -4439,8 +4441,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>b374dcf5-6236-4ee4-92df-734d5792faf7</vehicle_id>
@@ -4473,8 +4475,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>828907eb-bd92-4da1-a6ca-30b0e8090c64</vehicle_id>
@@ -4507,8 +4509,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>80a2e2e2-e241-4f72-a833-80325bc1beab</vehicle_id>
@@ -4537,8 +4539,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>a903a2fa-c132-4974-b4d7-8ac7f70129f1</vehicle_id>
@@ -4571,8 +4573,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e50971a3-f47e-4e90-b4bc-0981566cdab5</vehicle_id>
@@ -4605,8 +4607,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1e957c8b-bfaa-4bef-9b69-040866786018</vehicle_id>
@@ -4639,8 +4641,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>ab4db153-0c92-4012-8c57-3b9dc21348b6</vehicle_id>
@@ -4673,8 +4675,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>d88be703-ad67-4862-8fe0-4cfb4bbce2cf</vehicle_id>
@@ -4707,8 +4709,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f18a3640-1739-4fa2-adbf-c3360f142a00</vehicle_id>
@@ -4737,8 +4739,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>a94ae943-a8a5-4148-8079-7f2516845235</vehicle_id>
@@ -4767,8 +4769,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>bc7014d5-0eef-4ca6-9ef3-27e884d42e67</vehicle_id>
@@ -4801,8 +4803,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>110eed60-e8c4-43af-8077-f15046b38dc2</vehicle_id>
@@ -4835,8 +4837,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>749e29b7-50da-4619-b4ce-888ffc39d13a</vehicle_id>
@@ -4869,8 +4871,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>8c12b09e-286c-4944-98c4-c36d38455b95</vehicle_id>
@@ -4903,8 +4905,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>dd80caf5-3420-49a9-8895-e2e7be5372b3</vehicle_id>
@@ -4937,8 +4939,8 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-  </listing>
-  <listing>
+    </item>
+    <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
     <vehicle_id>4727a6cb-3dcc-468a-b2a0-18c128c3614a</vehicle_id>
@@ -4971,5 +4973,6 @@
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-  </listing>
-</listings>
+    </item>
+  </channel>
+</rss>
