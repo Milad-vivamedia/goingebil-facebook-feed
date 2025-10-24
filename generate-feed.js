@@ -209,11 +209,13 @@ function generateXMLFeed(vehicles) {
     const description = formatDescription(vehicle);
     xml += `    <description>${escapeXml(description)}</description>\n`;
 
-    // URL
+    // URL / Link (Facebook requires 'link' field)
     const vehicleUrl = `https://goingebil.se/sok/id/${vehicle.id}`;
+    xml += `    <link>${escapeXml(vehicleUrl)}</link>\n`;
     xml += `    <url>${escapeXml(vehicleUrl)}</url>\n`;
 
-    // Make & Model
+    // Make / Brand (Facebook requires 'brand' field)
+    xml += `    <brand>${escapeXml(vehicle.manufacturer)}</brand>\n`;
     xml += `    <make>${escapeXml(vehicle.manufacturer)}</make>\n`;
 
     // Image
@@ -280,12 +282,14 @@ function generateXMLFeed(vehicles) {
     // Sale price
     xml += `    <sale_price>${price}</sale_price>\n`;
 
-    // Availability
-    const availability = (vehicle.status === 'Published') ? 'AVAILABLE' : 'NOT_AVAILABLE';
+    // Availability (Facebook standard format)
+    const availability = (vehicle.status === 'Published') ? 'in stock' : 'out of stock';
     xml += `    <availability>${availability}</availability>\n`;
 
-    // State (NEW or USED)
+    // Condition (Facebook requires lowercase: new, used, refurbished)
     const state = getVehicleCondition(vehicle.modelYear || 0);
+    const condition = state === 'NEW' ? 'new' : 'used';
+    xml += `    <condition>${condition}</condition>\n`;
     xml += `    <state_of_vehicle>${state}</state_of_vehicle>\n`;
 
     // Dealer ID
