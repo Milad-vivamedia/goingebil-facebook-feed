@@ -166,13 +166,15 @@ function escapeXml(unsafe) {
 }
 
 /**
- * Generate XML feed
+ * Generate XML feed in RSS 2.0 format for Facebook
  */
 function generateXMLFeed(vehicles) {
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-  xml += '<listings>\n';
-  xml += '  <title>Göinge Bil - Begagnade Bilar</title>\n';
-  xml += '  <link rel="self" href="https://goingebil.se"/>\n';
+  xml += '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">\n';
+  xml += '  <channel>\n';
+  xml += '    <title>Göinge Bil - Begagnade Bilar</title>\n';
+  xml += '    <link>https://goingebil.se</link>\n';
+  xml += '    <description>Göinge Bil Vehicle Inventory</description>\n';
 
   let processedCount = 0;
   let skippedCount = 0;
@@ -184,7 +186,7 @@ function generateXMLFeed(vehicles) {
       return;
     }
 
-    xml += '  <listing>\n';
+    xml += '    <item>\n';
 
     // Required Facebook fields
     xml += '    <google_product_category>916</google_product_category>\n';
@@ -291,11 +293,12 @@ function generateXMLFeed(vehicles) {
       xml += `    <dealer_id>${escapeXml(vehicle.branches[0].id)}</dealer_id>\n`;
     }
 
-    xml += '  </listing>\n';
+    xml += '    </item>\n';
     processedCount++;
   });
 
-  xml += '</listings>';
+  xml += '  </channel>\n';
+  xml += '</rss>';
 
   console.log(`✅ Generated feed with ${processedCount} vehicles`);
   if (skippedCount > 0) {
