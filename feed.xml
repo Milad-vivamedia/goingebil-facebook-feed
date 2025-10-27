@@ -2892,8 +2892,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>db081111-2061-40ba-be99-8906e96a9c02</vehicle_id>
     <vehicle_registration_plate>KRA34H</vehicle_registration_plate>
-    <title>Suzuki S-Cross 115hk Kamera/ Carplay/ Adaptiv farthållare</title>
-    <description>115hk Kamera/ Carplay/ Adaptiv farthållare. Miltal: 2 593 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Kontakta oss för mer information om detta fordon.</description>
+    <title>Suzuki S-Cross AGS 115hk Kamera/ Carplay/ Adaptiv farthållare</title>
+    <description>AGS 115hk Kamera/ Carplay/ Adaptiv farthållare. Miltal: 2 593 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/db081111-2061-40ba-be99-8906e96a9c02</link>
     <url>https://goingebil.se/sok/id/db081111-2061-40ba-be99-8906e96a9c02</url>
     <brand>Suzuki</brand>
@@ -2911,14 +2911,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
+    <price>289000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>299000 SEK</sale_price>
+    <sale_price>289000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
