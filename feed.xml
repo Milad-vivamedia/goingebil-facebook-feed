@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>ae1862f4-440b-49c5-bbee-d62db2fb71c9</vehicle_id>
+    <vehicle_registration_plate>KKM09A</vehicle_registration_plate>
+    <title>Volkswagen Tiguan 1.4 TSI DSG 245hk Nyservad/ Drag/ Kamera/ LED Matrix</title>
+    <description>1.4 TSI DSG 245hk Nyservad/ Drag/ Kamera/ LED Matrix. Utrustningsnivå: Elegance. Miltal: 3 018 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: KKM09A. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/ae1862f4-440b-49c5-bbee-d62db2fb71c9</link>
+    <url>https://goingebil.se/sok/id/ae1862f4-440b-49c5-bbee-d62db2fb71c9</url>
+    <brand>Volkswagen</brand>
+    <make>Volkswagen</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e096bfe0-361f-4443-89c0-115892c1bdbd/31d1989d-1213-4908-a12c-d35b344f960c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Tiguan</model>
+    <year>2023</year>
+    <mileage>
+      <value>30180</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>359000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>359000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>ea21b071-978a-427f-99bf-e20cd98ec6de</vehicle_id>
     <vehicle_registration_plate>WMO092</vehicle_registration_plate>
     <title>Volkswagen Tiguan 1.4 TSI DSG 245hk Drag/ Kamera/ ergoActive/ Carplay</title>
