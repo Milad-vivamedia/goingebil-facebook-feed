@@ -155,43 +155,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>401fc1aa-052b-4311-a701-f80e3f4322f0</vehicle_id>
-    <vehicle_registration_plate>AXZ269</vehicle_registration_plate>
-    <title>Volvo XC60 D4 AWD Ocean Race Business E</title>
-    <description>D4 AWD Ocean Race Business E. Utrustningsnivå: Ocean Race. Miltal: 13 300 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AXZ269. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/401fc1aa-052b-4311-a701-f80e3f4322f0</link>
-    <url>https://goingebil.se/sok/id/401fc1aa-052b-4311-a701-f80e3f4322f0</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2ea39930-74c1-420e-ab19-a9152d3183e5/b10284a4-7931-45c3-911c-437450eb0800?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2016</year>
-    <mileage>
-      <value>133000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1c599e83-9808-4977-b0ed-0d414bcd320d</vehicle_id>
     <vehicle_registration_plate>HUM38U</vehicle_registration_plate>
     <title>Kia EV6 RWD 228hk Plus Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor</title>
