@@ -118,43 +118,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>c10ef463-1b28-4a33-982a-045c3832e227</vehicle_id>
-    <vehicle_registration_plate>HOD80R</vehicle_registration_plate>
-    <title>Kia Sportage 1,6T Gdi AWD177HK GT Line</title>
-    <description>1,6T Gdi AWD177HK GT Line. Utrustningsnivå: GT-Line. Miltal: 14 545 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: HOD80R. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/c10ef463-1b28-4a33-982a-045c3832e227</link>
-    <url>https://goingebil.se/sok/id/c10ef463-1b28-4a33-982a-045c3832e227</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a4d4bd4f-1b81-49b8-a4de-13534eefc883/e171b49f-af59-4036-a4f3-00695e941410?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sportage</model>
-    <year>2019</year>
-    <mileage>
-      <value>145450</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>199000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>199000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1c599e83-9808-4977-b0ed-0d414bcd320d</vehicle_id>
     <vehicle_registration_plate>HUM38U</vehicle_registration_plate>
     <title>Kia EV6 RWD 228hk Plus Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor</title>
@@ -1109,43 +1072,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>349000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>6daa9b6f-78c3-4627-bb09-3b2eb530369f</vehicle_id>
-    <vehicle_registration_plate>MPB52U</vehicle_registration_plate>
-    <title>Volvo V60 D4 Mom Edition Drag/ 18&quot;/ VOC/ Värmare/ Rattvärme</title>
-    <description>D4 Mom Edition Drag/ 18&quot;/ VOC/ Värmare/ Rattvärme. Utrustningsnivå: Momentum. Miltal: 9 313 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MPB52U. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/6daa9b6f-78c3-4627-bb09-3b2eb530369f</link>
-    <url>https://goingebil.se/sok/id/6daa9b6f-78c3-4627-bb09-3b2eb530369f</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/97239234-1dfd-4a78-80b2-03abb6228225/b653a03a-fa29-4801-aa81-55ff08e16d22?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2019</year>
-    <mileage>
-      <value>93130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>279000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
