@@ -1265,43 +1265,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>e5fb4a43-8a66-4f5f-8a27-f92de5267ab4</vehicle_id>
-    <vehicle_registration_plate>RAA45W</vehicle_registration_plate>
-    <title>Volvo XC40 Plus Edition Kamera/ Navi/ Tonade rutor</title>
-    <description>Plus Edition Kamera/ Navi/ Tonade rutor. Utrustningsnivå: Plus. Miltal: 4 458 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAA45W. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/e5fb4a43-8a66-4f5f-8a27-f92de5267ab4</link>
-    <url>https://goingebil.se/sok/id/e5fb4a43-8a66-4f5f-8a27-f92de5267ab4</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/37e4be7d-b5c0-4c6e-bf5f-83b3367dcaf5/c459c468-e8f0-4599-988c-c10c2a4c1402?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>44580</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9eadd970-6af2-404b-9dc9-57612d2a2c53</vehicle_id>
     <vehicle_registration_plate>ZAL432</vehicle_registration_plate>
     <title>Renault Clio phII TCe 90 Evolution Kampanj!</title>
