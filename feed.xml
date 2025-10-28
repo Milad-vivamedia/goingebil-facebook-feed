@@ -1335,43 +1335,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>ca5a3151-b004-4304-8eca-d2221bf99677</vehicle_id>
-    <vehicle_registration_plate>WDJ03P</vehicle_registration_plate>
-    <title>Volvo XC90 Recharge T8 II Ultimate Bright 22&quot;/ Lågmil/ H/K/ Pano/ 360 Kamera/ Navi/ Heads up/ Tonade rutor</title>
-    <description>Recharge T8 II Ultimate Bright 22&quot;/ Lågmil/ H/K/ Pano/ 360 Kamera/ Navi/ Heads up/ Tonade rutor. Utrustningsnivå: Ultimate. Miltal: 2 015 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WDJ03P. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/ca5a3151-b004-4304-8eca-d2221bf99677</link>
-    <url>https://goingebil.se/sok/id/ca5a3151-b004-4304-8eca-d2221bf99677</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6b2e9c0a-74d2-4cd0-ab8b-8f61b18a0a6f/b6fcd760-8ca9-418c-8976-0567955f1dff?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2024</year>
-    <mileage>
-      <value>20150</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>739000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>739000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>11da6494-fc63-4d70-b884-88c059eb71ce</vehicle_id>
     <vehicle_registration_plate>RBY29F</vehicle_registration_plate>
     <title>Volvo XC40 Plus Edition Kamera/ Navi</title>
