@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>d994b0c0-dcf1-42ce-bef9-fa1b9b352b51</vehicle_id>
+    <vehicle_registration_plate>OJA78A</vehicle_registration_plate>
+    <title>XPENG G6 RWD</title>
+    <description>RWD. Miltal: 750 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: OJA78A. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/d994b0c0-dcf1-42ce-bef9-fa1b9b352b51</link>
+    <url>https://goingebil.se/sok/id/d994b0c0-dcf1-42ce-bef9-fa1b9b352b51</url>
+    <brand>XPENG</brand>
+    <make>XPENG</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f2581231-10b5-4645-810c-96ba0421c5a1/fb28c1d4-bada-4b38-b92a-70369c6b7341?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>G6</model>
+    <year>2024</year>
+    <mileage>
+      <value>7500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>499900 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>499900 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>13ae771e-d865-4dcb-b209-fe6ad523fd33</vehicle_id>
     <vehicle_registration_plate>WST84S</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS</title>
@@ -2286,14 +2323,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>184000 SEK</price>
+    <price>179000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>184000 SEK</sale_price>
+    <sale_price>179000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
