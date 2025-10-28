@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>c1b76b6b-cda7-46e9-a665-2105b553a28b</vehicle_id>
+    <vehicle_registration_plate>KKN906</vehicle_registration_plate>
+    <title>Volkswagen Tiguan 2,0 TDI 4M SCR DSG / Drag / Backkamera / Skinn</title>
+    <description>2,0 TDI 4M SCR DSG / Drag / Backkamera / Skinn. Utrustningsnivå: GT. Miltal: 24 002 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KKN906. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/c1b76b6b-cda7-46e9-a665-2105b553a28b</link>
+    <url>https://goingebil.se/sok/id/c1b76b6b-cda7-46e9-a665-2105b553a28b</url>
+    <brand>Volkswagen</brand>
+    <make>Volkswagen</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b57f0a26-d48e-4a02-95d3-71bdc34c5def/10c9913e-9173-4de4-98f6-ed2069ee4271?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Tiguan</model>
+    <year>2017</year>
+    <mileage>
+      <value>240020</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>169000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>169000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>d994b0c0-dcf1-42ce-bef9-fa1b9b352b51</vehicle_id>
     <vehicle_registration_plate>OJA78A</vehicle_registration_plate>
     <title>XPENG G6 RWD</title>
@@ -373,43 +410,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>2bd5605b-1d24-4baf-bf62-2c78f56c0413</vehicle_id>
-    <vehicle_registration_plate>FTW457</vehicle_registration_plate>
-    <title>Kia Rio 1,2 SPECIAL EDIT/ ECC/ Nav/ Kamera/ PDC bak</title>
-    <description>1,2 SPECIAL EDIT/ ECC/ Nav/ Kamera/ PDC bak. Utrustningsnivå: GLS. Miltal: 9 762 mil. Årsmodell: 2015. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: FTW457. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/2bd5605b-1d24-4baf-bf62-2c78f56c0413</link>
-    <url>https://goingebil.se/sok/id/2bd5605b-1d24-4baf-bf62-2c78f56c0413</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/eee6ff18-1b5a-4a79-a0b7-ed62005b0a6c/2dec3f41-3211-43c6-a741-ec8731ac383a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Rio</model>
-    <year>2015</year>
-    <mileage>
-      <value>97620</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>99000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>99000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -2800,14 +2800,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>429000 SEK</price>
+    <price>419000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>429000 SEK</sale_price>
+    <sale_price>419000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
@@ -4478,43 +4478,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>ab9e07b0-7188-40f5-8200-a5632a11138f</vehicle_id>
-    <vehicle_registration_plate>WSP04E</vehicle_registration_plate>
-    <title>Dacia Sandero TCe 90 Essential KAMPANJ fr 1990kr Privatleasing</title>
-    <description>TCe 90 Essential KAMPANJ fr 1990kr Privatleasing. Miltal: 6 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: WSP04E. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/ab9e07b0-7188-40f5-8200-a5632a11138f</link>
-    <url>https://goingebil.se/sok/id/ab9e07b0-7188-40f5-8200-a5632a11138f</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4ed823a3-56e9-49a3-a166-8145acd3ee8e/d1977ca2-4af3-41f1-918c-ee95cbd482f0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2025</year>
-    <mileage>
-      <value>60</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>202200 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>202200 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
