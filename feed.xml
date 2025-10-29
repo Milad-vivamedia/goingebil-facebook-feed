@@ -3491,43 +3491,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>e85ddefb-e843-4425-a191-e2ba7e2cedf3</vehicle_id>
-    <vehicle_registration_plate>ZEE72W</vehicle_registration_plate>
-    <title>Peugeot 5008 1,2 Puretech 130 EAT Takbox / V-hjul/GT-Line / Panorama / Carplay /</title>
-    <description>1,2 Puretech 130 EAT Takbox / V-hjul/GT-Line / Panorama / Carplay /. Miltal: 5 830 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: ZEE72W. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/e85ddefb-e843-4425-a191-e2ba7e2cedf3</link>
-    <url>https://goingebil.se/sok/id/e85ddefb-e843-4425-a191-e2ba7e2cedf3</url>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ed13c55e-2471-489d-ac00-790cc5b58a41/7d5cad77-5ef1-4df6-bb1f-7db8c66c6002?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5008</model>
-    <year>2020</year>
-    <mileage>
-      <value>58300</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>270000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>270000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ad55afd3-5c73-4f4b-9fa8-83cf78d9b390</vehicle_id>
     <vehicle_registration_plate>OOJ03X</vehicle_registration_plate>
     <title>Renault Austral TCe 160 Techno A II 158hk 360 kamera/ Adaptiv fart/  Panorama/ Carplay/ City-paket/ ACC</title>
