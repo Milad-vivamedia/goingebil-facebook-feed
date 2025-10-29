@@ -780,43 +780,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>7efe3202-2200-4096-ab22-a099ceeeb8e6</vehicle_id>
-    <vehicle_registration_plate>KST90J</vehicle_registration_plate>
-    <title>Volvo V90 Recharge T6 Core Edition Nyservad/ Drag/ Navi/ Kamera/ LED-ramp</title>
-    <description>Recharge T6 Core Edition Nyservad/ Drag/ Navi/ Kamera/ LED-ramp. Utrustningsnivå: Core. Miltal: 8 718 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: KST90J. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/7efe3202-2200-4096-ab22-a099ceeeb8e6</link>
-    <url>https://goingebil.se/sok/id/7efe3202-2200-4096-ab22-a099ceeeb8e6</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a1873fc1-bec7-407d-abd5-12e900280354/d972812d-52f0-435f-941b-15ef18a89f11?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>87180</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>578e7dc9-e047-4642-bf2f-01980d37b305</vehicle_id>
     <vehicle_registration_plate>BNA28S</vehicle_registration_plate>
     <title>Renault Austral TCe 160 Techno A Kamera/ Navi/ Adaptiv farthållare</title>
