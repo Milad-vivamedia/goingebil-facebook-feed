@@ -225,43 +225,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>1c599e83-9808-4977-b0ed-0d414bcd320d</vehicle_id>
-    <vehicle_registration_plate>HUM38U</vehicle_registration_plate>
-    <title>Kia EV6 RWD 228hk Plus Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor</title>
-    <description>RWD 228hk Plus Nyservad/ Drag/ 360 kamera/ Navi/ Tonade rutor. Utrustningsnivå: Base, PLUS. Miltal: 5 910 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: HUM38U. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/1c599e83-9808-4977-b0ed-0d414bcd320d</link>
-    <url>https://goingebil.se/sok/id/1c599e83-9808-4977-b0ed-0d414bcd320d</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6b451d24-5c85-41cc-8fd3-673c5d66fbba/928e1cd4-64ce-49aa-8353-243687013aae?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EV6</model>
-    <year>2022</year>
-    <mileage>
-      <value>59100</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>e3f1a8b3-feb7-48e5-9562-66607febf8ef</vehicle_id>
     <vehicle_registration_plate>HBF78Z</vehicle_registration_plate>
     <title>XPENG G9 AWD Premium Komfort/ Drag/ V2L/ XPilot/ Pano/ Luftfjädring</title>
@@ -3639,43 +3602,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>13dcb4cb-987f-4077-b3df-ae75526380e8</vehicle_id>
-    <vehicle_registration_plate>GBG49F</vehicle_registration_plate>
-    <title>Renault Austral E-Tech200 Iconic Esprit Alp A II</title>
-    <description>E-Tech200 Iconic Esprit Alp A II. Utrustningsnivå: GT Line, Iconic Esprit Alpine. Miltal: 1 333 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: GBG49F. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/13dcb4cb-987f-4077-b3df-ae75526380e8</link>
-    <url>https://goingebil.se/sok/id/13dcb4cb-987f-4077-b3df-ae75526380e8</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ff8e41f0-9ac8-4e18-bce9-c32d894ca0f8/2733523d-4591-4a87-a291-5f23a8b05d6c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Austral</model>
-    <year>2025</year>
-    <mileage>
-      <value>13330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>429000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>c4bae23c-8394-4bed-a95c-1360d23203fe</vehicle_id>
     <vehicle_registration_plate>OFK33M</vehicle_registration_plate>
     <title>Volkswagen Golf 1.5 DSG 131hk Kamera/ Navi/ Rattvärme</title>
@@ -4534,16 +4460,16 @@
     <transmission>Automatic</transmission>
     <price>229000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>229000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
