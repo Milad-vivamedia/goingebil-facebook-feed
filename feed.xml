@@ -28,14 +28,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
-    <price>144000 SEK</price>
+    <price>149000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>144000 SEK</sale_price>
+    <sale_price>149000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -4400,43 +4400,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>f2abfac6-d915-4cf2-a020-6b0332a7e708</vehicle_id>
-    <vehicle_registration_plate>PKD33L</vehicle_registration_plate>
-    <title>Volvo V60 D4 Mom Adv Edt Skinn/ Kamera/ Fullservad</title>
-    <description>D4 Mom Adv Edt Skinn/ Kamera/ Fullservad. Utrustningsnivå: Momentum. Miltal: 13 930 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PKD33L. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/f2abfac6-d915-4cf2-a020-6b0332a7e708</link>
-    <url>https://goingebil.se/sok/id/f2abfac6-d915-4cf2-a020-6b0332a7e708</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/09f81a06-18d3-4cf2-842d-1641da89bb7b/cea8fd77-e37b-4648-9e91-1e32b46da853?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2021</year>
-    <mileage>
-      <value>139300</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>269000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>269000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
