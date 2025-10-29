@@ -84,7 +84,7 @@
     <vehicle_id>13ae771e-d865-4dcb-b209-fe6ad523fd33</vehicle_id>
     <vehicle_registration_plate>WST84S</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS</title>
-    <description>Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS. Utrustningsnivå: Plus. Miltal: 6 270 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WST84S. Kontakta oss för mer information om detta fordon.</description>
+    <description>Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS. Utrustningsnivå: Plus. Miltal: 6 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WST84S. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/13ae771e-d865-4dcb-b209-fe6ad523fd33</link>
     <url>https://goingebil.se/sok/id/13ae771e-d865-4dcb-b209-fe6ad523fd33</url>
     <brand>Volvo</brand>
@@ -96,7 +96,7 @@
     <model>XC60</model>
     <year>2024</year>
     <mileage>
-      <value>62700</value>
+      <value>62720</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -1572,8 +1572,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>544e4f7b-7901-434a-8d67-2d030b86ade6</vehicle_id>
     <vehicle_registration_plate>YPJ42L</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Core Edition Drag / Backkamera / El-Stolar</title>
-    <description>Recharge T6 Core Edition Drag / Backkamera / El-Stolar. Utrustningsnivå: Momentum. Miltal: 7 991 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YPJ42L. Kontakta oss för mer information om detta fordon.</description>
+    <title>Volvo XC60 Recharge T6 Core Edition Drag / Skinn/ Kamera/ El-Stolar</title>
+    <description>Recharge T6 Core Edition Drag / Skinn/ Kamera/ El-Stolar. Utrustningsnivå: Momentum. Miltal: 7 991 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YPJ42L. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/544e4f7b-7901-434a-8d67-2d030b86ade6</link>
     <url>https://goingebil.se/sok/id/544e4f7b-7901-434a-8d67-2d030b86ade6</url>
     <brand>Volvo</brand>
@@ -2800,14 +2800,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>489000 SEK</price>
+    <price>479000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>489000 SEK</sale_price>
+    <sale_price>479000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -4207,14 +4207,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>389000 SEK</price>
+    <price>379000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>389000 SEK</sale_price>
+    <sale_price>379000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
