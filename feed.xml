@@ -141,7 +141,7 @@
     <transmission>Automatic</transmission>
     <price>175000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Markaryd</component>
+      <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
@@ -951,7 +951,7 @@
     <transmission>Automatic</transmission>
     <price>349900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">G��inge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
