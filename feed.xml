@@ -84,7 +84,7 @@
     <vehicle_id>2993a2de-8a88-43b6-9abc-974a71e94b2a</vehicle_id>
     <vehicle_registration_plate>MRA66X</vehicle_registration_plate>
     <title>Audi A6 2.0 S-Line/ DRAG/ PDC/ Adpt Farth/ LED/ Kamera</title>
-    <description>2.0 S-Line/ DRAG/ PDC/ Adpt Farth/ LED/ Kamera. Utrustningsnivå: S Line. Miltal: 3 403 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MRA66X. Kontakta oss för mer information om detta fordon.</description>
+    <description>2.0 S-Line/ DRAG/ PDC/ Adpt Farth/ LED/ Kamera. Utrustningsnivå: S Line. Miltal: 3 404 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MRA66X. Kontakta oss för mer information om detta fordon.</description>
     <link>https://goingebil.se/sok/id/2993a2de-8a88-43b6-9abc-974a71e94b2a</link>
     <url>https://goingebil.se/sok/id/2993a2de-8a88-43b6-9abc-974a71e94b2a</url>
     <brand>Audi</brand>
@@ -96,7 +96,7 @@
     <model>A6</model>
     <year>2025</year>
     <mileage>
-      <value>34030</value>
+      <value>34040</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -141,7 +141,7 @@
     <transmission>Automatic</transmission>
     <price>175000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="addr1">G��inge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
@@ -1502,7 +1502,7 @@
     <transmission>Automatic</transmission>
     <price>349000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
