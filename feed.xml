@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>88ad1ae5-c9a6-4836-9014-24f783ad2b1e</vehicle_id>
+    <vehicle_registration_plate>SOG47H</vehicle_registration_plate>
+    <title>Hyundai Ioniq</title>
+    <description>Utrustningsnivå: Trend. Miltal: 7 616 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: SOG47H. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/88ad1ae5-c9a6-4836-9014-24f783ad2b1e</link>
+    <url>https://goingebil.se/sok/id/88ad1ae5-c9a6-4836-9014-24f783ad2b1e</url>
+    <brand>Hyundai</brand>
+    <make>Hyundai</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4b787329-834d-41c7-b0d2-8eb7fd1b963e/0b28dcef-d33a-44ec-a1ca-429214ca2ba8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Ioniq</model>
+    <year>2020</year>
+    <mileage>
+      <value>76160</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>169900 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>169900 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>b549384b-d018-4545-9980-e9384fffbc07</vehicle_id>
     <vehicle_registration_plate>PEP44G</vehicle_registration_plate>
     <title>Renault Clio TCe 90 Zen X-Tronic 5-d III</title>
