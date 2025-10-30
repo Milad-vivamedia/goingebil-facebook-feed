@@ -28,14 +28,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>169900 SEK</price>
+    <price>174900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>169900 SEK</sale_price>
+    <sale_price>174900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
