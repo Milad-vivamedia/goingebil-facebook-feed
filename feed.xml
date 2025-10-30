@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>e50a8ada-526d-410e-be69-f1981f17210b</vehicle_id>
+    <vehicle_registration_plate>ODN314</vehicle_registration_plate>
+    <title>Volvo V60 Bus Adv Summum</title>
+    <description>Bus Adv Summum. Utrustningsnivå: Summum. Miltal: 18 030 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ODN314. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/e50a8ada-526d-410e-be69-f1981f17210b</link>
+    <url>https://goingebil.se/sok/id/e50a8ada-526d-410e-be69-f1981f17210b</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ff2e9fc7-c3a9-4e2b-b4ce-07cfe405c683/2154a99e-bdc5-42e7-a153-3141c7a8ca5a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2017</year>
+    <mileage>
+      <value>180300</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>199000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>199000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>bf0bdef6-8eef-434f-bfde-7354511bba4b</vehicle_id>
     <vehicle_registration_plate>PAU626</vehicle_registration_plate>
     <title>Nissan Qashqai 1,6 dci 130hk / Tekna / Drag/ Backkamera / Navigation</title>
