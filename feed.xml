@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>b549384b-d018-4545-9980-e9384fffbc07</vehicle_id>
+    <vehicle_registration_plate>PEP44G</vehicle_registration_plate>
+    <title>Renault Clio TCe 90 Zen X-Tronic 5-d III</title>
+    <description>TCe 90 Zen X-Tronic 5-d III. Utrustningsnivå: Zen. Miltal: 2 258 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PEP44G. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/b549384b-d018-4545-9980-e9384fffbc07</link>
+    <url>https://goingebil.se/sok/id/b549384b-d018-4545-9980-e9384fffbc07</url>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/37b2fb1d-a21e-4f30-8544-7ddd7361c894/76bd0bc4-b10a-4bfb-ac27-3c61766a0fdf?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Clio</model>
+    <year>2022</year>
+    <mileage>
+      <value>22580</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>179000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>179000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>e50a8ada-526d-410e-be69-f1981f17210b</vehicle_id>
     <vehicle_registration_plate>ODN314</vehicle_registration_plate>
     <title>Volvo V60 Bus Adv Summum</title>
