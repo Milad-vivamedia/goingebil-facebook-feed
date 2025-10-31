@@ -7,6 +7,154 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>37891a0f-7b84-4f30-bbe1-c3c36707fb96</vehicle_id>
+    <vehicle_registration_plate>HCN92C</vehicle_registration_plate>
+    <title>BMW 5-serie 292hk / Drag / Backkamera / HiFi</title>
+    <description>292hk / Drag / Backkamera / HiFi. Utrustningsnivå: M Sport. Miltal: 6 113 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HCN92C. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/37891a0f-7b84-4f30-bbe1-c3c36707fb96</link>
+    <url>https://goingebil.se/sok/id/37891a0f-7b84-4f30-bbe1-c3c36707fb96</url>
+    <brand>BMW</brand>
+    <make>BMW</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/02c270b6-ca34-4109-ad31-740aebb5dd7f/9db2fe3d-d2d9-4ada-b911-a161cb348b5d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>5-serie</model>
+    <year>2023</year>
+    <mileage>
+      <value>61130</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>419000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>419000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>5aa2acc7-2712-44ba-9f22-fc2ecf861732</vehicle_id>
+    <vehicle_registration_plate>HYN49Z</vehicle_registration_plate>
+    <title>BMW X3 292hk Skinn/ Drag/ Navi/ Kamera/ Geststyrning</title>
+    <description>292hk Skinn/ Drag/ Navi/ Kamera/ Geststyrning. Miltal: 6 119 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HYN49Z. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/5aa2acc7-2712-44ba-9f22-fc2ecf861732</link>
+    <url>https://goingebil.se/sok/id/5aa2acc7-2712-44ba-9f22-fc2ecf861732</url>
+    <brand>BMW</brand>
+    <make>BMW</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/739b167d-52e4-495d-b6a7-3598944630e4/ce2bb903-cbac-47bf-8201-302fa3a7053a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>X3</model>
+    <year>2022</year>
+    <mileage>
+      <value>61190</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>409000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>409000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>473eec6f-6667-4651-8263-989f870d62bf</vehicle_id>
+    <vehicle_registration_plate>XGP96J</vehicle_registration_plate>
+    <title>Ford Mustang Mach-E / Panorama / 360 kamera / El-Stolar</title>
+    <description>/ Panorama / 360 kamera / El-Stolar. Utrustningsnivå: GT. Miltal: 2 444 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: XGP96J. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/473eec6f-6667-4651-8263-989f870d62bf</link>
+    <url>https://goingebil.se/sok/id/473eec6f-6667-4651-8263-989f870d62bf</url>
+    <brand>Ford</brand>
+    <make>Ford</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/88d49b14-f9c2-4445-bf69-d5c414d7b837/efedea9b-f02f-4e78-a30e-e016be85c550?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Mustang Mach-E</model>
+    <year>2023</year>
+    <mileage>
+      <value>24440</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>579000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>579000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>77f791b2-644d-4733-b5c5-4a115aa2de41</vehicle_id>
+    <vehicle_registration_plate>AJA01P</vehicle_registration_plate>
+    <title>Volvo XC60 Recharge T6 Ultimate Dark / Drag / 360 kamera / skinn</title>
+    <description>Recharge T6 Ultimate Dark / Drag / 360 kamera / skinn. Utrustningsnivå: R-Design. Miltal: 4 539 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: AJA01P. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/77f791b2-644d-4733-b5c5-4a115aa2de41</link>
+    <url>https://goingebil.se/sok/id/77f791b2-644d-4733-b5c5-4a115aa2de41</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/6d42a38b-bb13-474f-9707-570adee7f50c/2b6a47fd-bbde-4551-ad25-d8432c70510e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>45390</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>559000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>559000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>93643d88-b4a9-4822-8e5f-a3e920645d45</vehicle_id>
     <vehicle_registration_plate>DDR46C</vehicle_registration_plate>
     <title>BMW 5-serie 190hk M Sport Navi/ Kamera/ Värmare/ Connected package</title>
