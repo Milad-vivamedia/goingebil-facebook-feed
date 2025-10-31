@@ -447,43 +447,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>13ae771e-d865-4dcb-b209-fe6ad523fd33</vehicle_id>
-    <vehicle_registration_plate>WST84S</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS</title>
-    <description>Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS. Utrustningsnivå: Plus. Miltal: 6 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WST84S. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/13ae771e-d865-4dcb-b209-fe6ad523fd33</link>
-    <url>https://goingebil.se/sok/id/13ae771e-d865-4dcb-b209-fe6ad523fd33</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/df8f1b5e-d00f-4dbf-a150-93b205552ece/602a2f0c-4437-4468-b0bf-4476b7dc5d18?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>62720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>529000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>529000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ea21b071-978a-427f-99bf-e20cd98ec6de</vehicle_id>
     <vehicle_registration_plate>WMO092</vehicle_registration_plate>
     <title>Volkswagen Tiguan 1.4 TSI DSG 245hk Drag/ Kamera/ ergoActive/ Carplay</title>
@@ -1233,7 +1196,7 @@
     <brand>Ford</brand>
     <make>Ford</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/221ed0b5-1ac9-4656-a41d-645be03bc8be/978d0ee8-f4cd-440d-a8d5-8864bc588f74?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/221ed0b5-1ac9-4656-a41d-645be03bc8be/978d0ee8-f4cd-440d-a8d5-8864bc588f74?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Fiesta</model>
@@ -1247,16 +1210,16 @@
     <transmission>Automatic</transmission>
     <price>179000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>179000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
