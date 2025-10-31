@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>5c280452-c9b3-47c9-b91a-70d7a708de16</vehicle_id>
+    <vehicle_registration_plate>OUG759</vehicle_registration_plate>
+    <title>Toyota Yaris CVT 116hk Active/ Kamera /ECC /Filhållnings assist/ Farth</title>
+    <description>CVT 116hk Active/ Kamera /ECC /Filhållnings assist/ Farth. Utrustningsnivå: Active. Miltal: 5 428 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: OUG759. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/5c280452-c9b3-47c9-b91a-70d7a708de16</link>
+    <url>https://goingebil.se/sok/id/5c280452-c9b3-47c9-b91a-70d7a708de16</url>
+    <brand>Toyota</brand>
+    <make>Toyota</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ccf223d0-4af7-4a3f-8117-a8c32811a51e/80bd3551-254e-4829-8c62-1368186c6303?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Yaris</model>
+    <year>2021</year>
+    <mileage>
+      <value>54280</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>199000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>199000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>37891a0f-7b84-4f30-bbe1-c3c36707fb96</vehicle_id>
     <vehicle_registration_plate>HCN92C</vehicle_registration_plate>
     <title>BMW 5-serie 292hk / Drag / Backkamera / HiFi</title>
