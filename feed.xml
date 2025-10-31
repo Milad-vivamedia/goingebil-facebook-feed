@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>93643d88-b4a9-4822-8e5f-a3e920645d45</vehicle_id>
+    <vehicle_registration_plate>DDR46C</vehicle_registration_plate>
+    <title>BMW 5-serie 190hk M-Sport Navi/ Kamera/ Värmare/ Connected package</title>
+    <description>190hk M-Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</link>
+    <url>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</url>
+    <brand>BMW</brand>
+    <make>BMW</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c4e1b54d-5d2e-47e9-8d28-652ab51b6093/3a98d2b1-0242-44e5-a6f6-00f68dde22b4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>5-serie</model>
+    <year>2022</year>
+    <mileage>
+      <value>108660</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>379000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>379000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>88ad1ae5-c9a6-4836-9014-24f783ad2b1e</vehicle_id>
     <vehicle_registration_plate>SOG47H</vehicle_registration_plate>
     <title>Hyundai Ioniq</title>
