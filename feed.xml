@@ -7,6 +7,80 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>166db94a-c89d-483e-adc3-8e613278822a</vehicle_id>
+    <vehicle_registration_plate>EDB41E</vehicle_registration_plate>
+    <title>Renault Clio TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak</title>
+    <description>TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 300 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</link>
+    <url>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</url>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/657a36ce-7f0d-4b96-955c-e1f2304769d5/31f3eabb-089b-405a-98c6-f8569fc1366f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Clio</model>
+    <year>2023</year>
+    <mileage>
+      <value>23000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <price>179000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>179000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>7819abca-92db-4f50-8673-e620a6614327</vehicle_id>
+    <vehicle_registration_plate>AKD071</vehicle_registration_plate>
+    <title>Volvo V60 D4 S/S Summum Business E II / Drag / Fint Skick / Skinn</title>
+    <description>D4 S/S Summum Business E II / Drag / Fint Skick / Skinn. Utrustningsnivå: Summum. Miltal: 17 248 mil. Årsmodell: 2014. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKD071. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/7819abca-92db-4f50-8673-e620a6614327</link>
+    <url>https://goingebil.se/sok/id/7819abca-92db-4f50-8673-e620a6614327</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b1943ca5-2794-465c-abcc-535118188cac/a877cc88-65bb-4140-b1fc-bb8e575b30cc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2014</year>
+    <mileage>
+      <value>172480</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>145000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>145000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>5c280452-c9b3-47c9-b91a-70d7a708de16</vehicle_id>
     <vehicle_registration_plate>OUG759</vehicle_registration_plate>
     <title>Toyota Yaris CVT 116hk Active/ Kamera /ECC /Filhållnings assist/ Farth</title>
@@ -127,7 +201,7 @@
     <brand>Ford</brand>
     <make>Ford</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/88d49b14-f9c2-4445-bf69-d5c414d7b837/efedea9b-f02f-4e78-a30e-e016be85c550?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/45f70c33-6595-4032-b6ca-44ceb1eff546/c4492e06-9ecb-4428-ac70-8636ca7768c0?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Mustang Mach-E</model>
