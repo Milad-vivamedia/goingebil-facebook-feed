@@ -5099,43 +5099,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>828907eb-bd92-4da1-a6ca-30b0e8090c64</vehicle_id>
-    <vehicle_registration_plate>PFY95F</vehicle_registration_plate>
-    <title>Volvo XC40 Recharge T4 Inscription Expression/ Navigation/ VOC med värmare/ Park distance</title>
-    <description>Recharge T4 Inscription Expression/ Navigation/ VOC med värmare/ Park distance. Utrustningsnivå: Momentum. Miltal: 8 820 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: PFY95F. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/828907eb-bd92-4da1-a6ca-30b0e8090c64</link>
-    <url>https://goingebil.se/sok/id/828907eb-bd92-4da1-a6ca-30b0e8090c64</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e640b2a5-ae59-4216-82b2-95949d064ce8/1f73c1f7-95c2-490e-8fc9-6dde41229f3a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2021</year>
-    <mileage>
-      <value>88200</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>329000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>329000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>80a2e2e2-e241-4f72-a833-80325bc1beab</vehicle_id>
     <vehicle_registration_plate>WBK19M</vehicle_registration_plate>
     <title>Renault Scenic E-Tech Scénic Electric esprit Alpine</title>
