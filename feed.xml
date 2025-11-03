@@ -7,6 +7,80 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>02d05566-f644-4989-b608-a4297726ec4b</vehicle_id>
+    <vehicle_registration_plate>GFD29T</vehicle_registration_plate>
+    <title>Opel Combo e- Business L2 50Kw</title>
+    <description>e- Business L2 50Kw. Miltal: 831 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: GFD29T. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/02d05566-f644-4989-b608-a4297726ec4b</link>
+    <url>https://goingebil.se/sok/id/02d05566-f644-4989-b608-a4297726ec4b</url>
+    <brand>Opel</brand>
+    <make>Opel</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f32f6eac-210e-443a-a054-d8dbdfaf7fbd/34381f58-2b0b-4bf6-97fc-1f7feff93adc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Combo</model>
+    <year>2023</year>
+    <mileage>
+      <value>8310</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>261250 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>261250 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>b8b78f0b-3532-4945-a108-515254c7a943</vehicle_id>
+    <vehicle_registration_plate>ORA49N</vehicle_registration_plate>
+    <title>Opel Combo e- Premium L1 50Kw</title>
+    <description>e- Premium L1 50Kw. Miltal: 42 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: ORA49N. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/b8b78f0b-3532-4945-a108-515254c7a943</link>
+    <url>https://goingebil.se/sok/id/b8b78f0b-3532-4945-a108-515254c7a943</url>
+    <brand>Opel</brand>
+    <make>Opel</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/0bb479c0-c50e-4216-a04f-70584b0c187a/73d87f7e-854f-46a1-9630-341ac1d9e245?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Combo</model>
+    <year>2023</year>
+    <mileage>
+      <value>420</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>273750 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>273750 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>350d4535-ae32-430d-9a57-eedee66f42d5</vehicle_id>
     <vehicle_registration_plate>BDA01N</vehicle_registration_plate>
     <title>Dacia Jogger extreme 7 platser</title>
@@ -1664,43 +1738,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>47503095-fa53-46ee-b17b-ff07a0bcd8a7</vehicle_id>
-    <vehicle_registration_plate>SAU77A</vehicle_registration_plate>
-    <title>Volvo XC40 Plus Edition Navi/ Kamera/ Tonade rutor</title>
-    <description>Plus Edition Navi/ Kamera/ Tonade rutor. Utrustningsnivå: Plus. Miltal: 3 977 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: SAU77A. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/47503095-fa53-46ee-b17b-ff07a0bcd8a7</link>
-    <url>https://goingebil.se/sok/id/47503095-fa53-46ee-b17b-ff07a0bcd8a7</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/dddc3418-db29-4e4f-88df-543d46b7bc3d/cdfaca98-0847-4584-9072-fd716e667327?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>39770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>349000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>349000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
