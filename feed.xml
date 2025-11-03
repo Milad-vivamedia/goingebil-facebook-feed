@@ -4848,43 +4848,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>1c4485fe-0159-4d14-8fee-c3fdb18ec349</vehicle_id>
-    <vehicle_registration_plate>KHP04A</vehicle_registration_plate>
-    <title>Renault Captur phII TCe 90 Evolution Kampanj</title>
-    <description>phII TCe 90 Evolution Kampanj. Miltal: 2 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: KHP04A. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://goingebil.se/sok/id/1c4485fe-0159-4d14-8fee-c3fdb18ec349</link>
-    <url>https://goingebil.se/sok/id/1c4485fe-0159-4d14-8fee-c3fdb18ec349</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d076bcec-21a5-4e52-a27e-5327d5b40136/b6328f6d-1961-469b-86e4-f2270d55c4d1?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2025</year>
-    <mileage>
-      <value>20</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ec1f4d4f-4c2b-44f8-8c3c-7e11bd9b0deb</vehicle_id>
     <vehicle_registration_plate>MFG03F</vehicle_registration_plate>
     <title>Dacia Duster 4x4 TCe 130 Extreme Aut fr. 3290kr Privatleasing</title>
