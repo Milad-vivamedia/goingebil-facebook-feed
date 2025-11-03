@@ -7,6 +7,80 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>8ecfe950-ccf4-452c-965c-238b1d67e560</vehicle_id>
+    <vehicle_registration_plate>BDL33N</vehicle_registration_plate>
+    <title>Volvo V60 Recharge T6 Core Edition Drag/ Navi/ Kamera/ Tonade rutor/ Dynamiska LED</title>
+    <description>Recharge T6 Core Edition Drag/ Navi/ Kamera/ Tonade rutor/ Dynamiska LED. Miltal: 7 775 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BDL33N. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/8ecfe950-ccf4-452c-965c-238b1d67e560</link>
+    <url>https://goingebil.se/sok/id/8ecfe950-ccf4-452c-965c-238b1d67e560</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ef5b03f7-358c-43fa-bc7c-bb3061780cd8/7ab1bc58-2670-4eeb-8694-a1278f20ab03?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2023</year>
+    <mileage>
+      <value>77750</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>369000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>369000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>aebf448e-6b1c-4364-9b22-155e23e730d4</vehicle_id>
+    <vehicle_registration_plate>KDZ928</vehicle_registration_plate>
+    <title>Volvo V40 T3 aut R-Design Edt</title>
+    <description>T3 aut R-Design Edt. Utrustningsnivå: R-Design. Miltal: 12 691 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: KDZ928. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/aebf448e-6b1c-4364-9b22-155e23e730d4</link>
+    <url>https://goingebil.se/sok/id/aebf448e-6b1c-4364-9b22-155e23e730d4</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d868f302-f009-4ff7-afd3-9706459411e2/5047aaf2-13aa-40cb-a901-dd59e2b0df3a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V40</model>
+    <year>2019</year>
+    <mileage>
+      <value>126910</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>199000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>199000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>166db94a-c89d-483e-adc3-8e613278822a</vehicle_id>
     <vehicle_registration_plate>EDB41E</vehicle_registration_plate>
     <title>Renault Clio TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak</title>
