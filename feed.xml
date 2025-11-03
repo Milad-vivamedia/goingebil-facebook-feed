@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>b28aaa6c-23c8-444d-b111-942d9665e90c</vehicle_id>
+    <vehicle_registration_plate>WST84S</vehicle_registration_plate>
+    <title>Volvo XC60 Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS</title>
+    <description>Recharge T6 II Plus Dark 21&quot;/ 360 kamera/ Drag/ Navi/ H/K/ Tonade rutor/ BLIS. Utrustningsnivå: Plus. Miltal: 6 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WST84S. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://goingebil.se/sok/id/b28aaa6c-23c8-444d-b111-942d9665e90c</link>
+    <url>https://goingebil.se/sok/id/b28aaa6c-23c8-444d-b111-942d9665e90c</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d3055ac1-881d-4906-89b5-1320808295b9/147e580b-cb9e-4c7c-b8be-8093f991782d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2024</year>
+    <mileage>
+      <value>62720</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>529000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>529000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>8ecfe950-ccf4-452c-965c-238b1d67e560</vehicle_id>
     <vehicle_registration_plate>BDL33N</vehicle_registration_plate>
     <title>Volvo V60 Recharge T6 Core Edition Drag/ Navi/ Kamera/ Tonade rutor/ Dynamiska LED</title>
