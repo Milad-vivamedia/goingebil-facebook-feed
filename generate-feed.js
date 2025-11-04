@@ -205,9 +205,22 @@ function generateXMLFeed(vehicles) {
     const title = titleParts.join(' ').substring(0, 200);
     xml += `    <title>${escapeXml(title)}</title>\n`;
 
-    // Description
+    // Calculate days since published
+    let daysSincePublished = 0;
+    if (vehicle.itemPublished) {
+      const publishedDate = new Date(vehicle.itemPublished);
+      const now = new Date();
+      const diffTime = Math.abs(now - publishedDate);
+      daysSincePublished = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    }
+
+    // Description (include days since published)
     const description = formatDescription(vehicle);
-    xml += `    <description>${escapeXml(description)}</description>\n`;
+    const descriptionWithDays = `${description} Publicerad för ${daysSincePublished} dagar sedan.`;
+    xml += `    <description>${escapeXml(descriptionWithDays)}</description>\n`;
+
+    // Add as custom field for filtering/sorting
+    xml += `    <g:custom_label_0>Dagar i lager: ${daysSincePublished}</g:custom_label_0>\n`;
 
     // URL / Link (Facebook requires 'link' field)
     const vehicleUrl = `https://goingebil.se/sok/id/${vehicle.id}`;
