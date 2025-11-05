@@ -721,44 +721,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>977ced43-21e2-4eca-95eb-bb942a1766bc</vehicle_id>
-    <vehicle_registration_plate>WDC28M</vehicle_registration_plate>
-    <title>Volvo V60 B4 AWD D Adv NaviP Edt Drag/ Värmare/ Navi/ Kamera</title>
-    <description>B4 AWD D Adv NaviP Edt Drag/ Värmare/ Navi/ Kamera. Utrustningsnivå: Momentum. Miltal: 12 878 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: WDC28M. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/977ced43-21e2-4eca-95eb-bb942a1766bc</link>
-    <url>https://goingebil.se/sok/id/977ced43-21e2-4eca-95eb-bb942a1766bc</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/02ed205d-2d37-443f-96b5-b4400b47dd49/7f7ab385-d061-49e8-ba2c-0d49be1d57f2?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2022</year>
-    <mileage>
-      <value>128780</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>cd368047-8d43-4598-92cf-b93b75edcfe1</vehicle_id>
     <vehicle_registration_plate>PLX34M</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Plus Bright Skinn/ Drag/ Navi/ Kamera/ Nyservad/ Tonade rutor/ Dynförlängning</title>
@@ -6169,44 +6131,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>d88be703-ad67-4862-8fe0-4cfb4bbce2cf</vehicle_id>
-    <vehicle_registration_plate>XAO216</vehicle_registration_plate>
-    <title>Volvo C40 Ultimate/ Drag/ Värmepump/ 360 kamera/ Panorama/ Klimatpaket</title>
-    <description>Ultimate/ Drag/ Värmepump/ 360 kamera/ Panorama/ Klimatpaket. Miltal: 2 823 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: XAO216. Kontakta oss för mer information om detta fordon. Publicerad för 321 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 321</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/d88be703-ad67-4862-8fe0-4cfb4bbce2cf</link>
-    <url>https://goingebil.se/sok/id/d88be703-ad67-4862-8fe0-4cfb4bbce2cf</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1779de11-5a84-4a17-8f64-7dd4fc86a5cd/a8b0e665-8162-4366-816b-64c1d663c068?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>28230</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>439000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
