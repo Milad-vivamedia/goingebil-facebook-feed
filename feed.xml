@@ -2313,44 +2313,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>1deba974-b659-47bb-8dbb-2373ac6831ab</vehicle_id>
-    <vehicle_registration_plate>FDX735</vehicle_registration_plate>
-    <title>Volvo XC40 D4 AWD Momentum Intro Edition/ Skinn / En Ägare</title>
-    <description>D4 AWD Momentum Intro Edition/ Skinn / En Ägare. Utrustningsnivå: Momentum. Miltal: 18 683 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FDX735. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 22</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/1deba974-b659-47bb-8dbb-2373ac6831ab</link>
-    <url>https://goingebil.se/sok/id/1deba974-b659-47bb-8dbb-2373ac6831ab</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2b9fcd3f-dd28-444b-907e-d21c602f6e7b/611c09fa-5043-4991-a035-477ee71166b9?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2018</year>
-    <mileage>
-      <value>186830</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>238000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>238000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>60ce6d75-5bbc-4de0-8ae7-d370c56ca3e1</vehicle_id>
     <vehicle_registration_plate>OMO164</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Core Edt Skinn/ Drag/ 360 kamera/ Navi/ Värmare/ Panorama/ Tonade rutor/ Ljuspaket</title>
@@ -4723,44 +4685,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>e24af9da-aea9-4e00-8914-d2f5eacf0bfa</vehicle_id>
-    <vehicle_registration_plate>XHX91J</vehicle_registration_plate>
-    <title>Volvo XC60 B4 AWD Diesel Mom Adv Edt II Drag/ Navi/ Kamera/ Värmare</title>
-    <description>B4 AWD Diesel Mom Adv Edt II Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Momentum. Miltal: 7 634 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: XHX91J. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 80</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/e24af9da-aea9-4e00-8914-d2f5eacf0bfa</link>
-    <url>https://goingebil.se/sok/id/e24af9da-aea9-4e00-8914-d2f5eacf0bfa</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/22b9c74b-26ca-4409-ac6d-c946f1468b9c/6e7027da-1655-4d29-8f67-edd166eef08d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2022</year>
-    <mileage>
-      <value>76340</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1368260d-c0d2-4a3b-aa18-4b8b834e0467</vehicle_id>
     <vehicle_registration_plate>UEB99P</vehicle_registration_plate>
     <title>Renault 5 E-Tech R5 techno 52kWh *Billån 0% Ränta!!*</title>
@@ -4829,44 +4753,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>1ee1f827-9f12-4773-8685-62df477b3194</vehicle_id>
-    <vehicle_registration_plate>YRF145</vehicle_registration_plate>
-    <title>Volvo XC60 T5 AWD Inscription Drag/ Värmare/ Skinn/ HeadUp/ 360-kamera/ Park assist/</title>
-    <description>T5 AWD Inscription Drag/ Värmare/ Skinn/ HeadUp/ 360-kamera/ Park assist/. Utrustningsnivå: Inscription. Miltal: 17 408 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YRF145. Kontakta oss för mer information om detta fordon. Publicerad för 90 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 90</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/1ee1f827-9f12-4773-8685-62df477b3194</link>
-    <url>https://goingebil.se/sok/id/1ee1f827-9f12-4773-8685-62df477b3194</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0b431d84-e413-43a8-aca0-b3c240b7cb11/1b8f035d-b639-4fdd-91ce-4f0a8c123d22?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2018</year>
-    <mileage>
-      <value>174080</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>279000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
