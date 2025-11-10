@@ -425,44 +425,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>d334239d-9b50-4fcf-9cac-ce7fa78da93b</vehicle_id>
-    <vehicle_registration_plate>DJE26Y</vehicle_registration_plate>
-    <title>Kia Sportage Plug-In Hybrid GT-Line Drag/ 360 kamera/ Navi/ H&amp;K/ Motorvärmare</title>
-    <description>Plug-In Hybrid GT-Line Drag/ 360 kamera/ Navi/ H&amp;K/ Motorvärmare. Utrustningsnivå: GT-Line. Miltal: 5 356 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DJE26Y. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/d334239d-9b50-4fcf-9cac-ce7fa78da93b</link>
-    <url>https://goingebil.se/sok/id/d334239d-9b50-4fcf-9cac-ce7fa78da93b</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f9ae53b0-d6b6-47b0-8a49-9b8129e5a541/09ac5369-e992-46a9-8e30-9e2a9935dfc5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sportage</model>
-    <year>2022</year>
-    <mileage>
-      <value>53560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>5b52393d-62b9-440d-975c-c276ae075ed8</vehicle_id>
     <vehicle_registration_plate>PWN657</vehicle_registration_plate>
     <title>Škoda Octavia DSG 204 hk / Drag / Backkamera / Head Up / Parkeringsvärmare</title>
