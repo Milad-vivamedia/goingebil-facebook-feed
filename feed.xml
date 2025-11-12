@@ -275,8 +275,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>b5299ca8-8132-46ad-a743-6d1155237372</vehicle_id>
     <vehicle_registration_plate>XPH60M</vehicle_registration_plate>
-    <title>Volkswagen Golf 1.5 DSG 131hk Kamera/ Motorvärmare/ Kupév��rmare</title>
-    <description>1.5 DSG 131hk Kamera/ Motorvärmare/ Kupév��rmare. Utrustningsnivå: Base. Miltal: 2 271 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: XPH60M. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
+    <title>Volkswagen Golf 1.5 DSG 131hk Kamera/ Motorvärmare/ Kupévärmare</title>
+    <description>1.5 DSG 131hk Kamera/ Motorvärmare/ Kupévärmare. Utrustningsnivå: Base. Miltal: 2 271 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: XPH60M. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
     <link>https://goingebil.se/sok/id/b5299ca8-8132-46ad-a743-6d1155237372</link>
     <url>https://goingebil.se/sok/id/b5299ca8-8132-46ad-a743-6d1155237372</url>
@@ -1640,8 +1640,8 @@
     <vehicle_id>93643d88-b4a9-4822-8e5f-a3e920645d45</vehicle_id>
     <vehicle_registration_plate>DDR46C</vehicle_registration_plate>
     <title>BMW 5-serie 190hk M Sport Navi/ Kamera/ Värmare/ Connected package</title>
-    <description>190hk M Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Kontakta oss för mer information om detta fordon. Publicerad för 11 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 11</g:custom_label_0>
+    <description>190hk M Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
     <link>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</link>
     <url>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</url>
     <brand>BMW</brand>
@@ -5869,14 +5869,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <price>229000 SEK</price>
+    <price>219000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>229000 SEK</sale_price>
+    <sale_price>219000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
