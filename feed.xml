@@ -691,44 +691,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>f1327d7f-1d8a-4515-a98e-c44aeeef87fb</vehicle_id>
-    <vehicle_registration_plate>YCP20J</vehicle_registration_plate>
-    <title>BMW 3-serie 292hk M Sport Drag/ Navi/ Connected/ Rattvärme</title>
-    <description>292hk M Sport Drag/ Navi/ Connected/ Rattvärme. Utrustningsnivå: M Sport. Miltal: 7 752 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YCP20J. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/f1327d7f-1d8a-4515-a98e-c44aeeef87fb</link>
-    <url>https://goingebil.se/sok/id/f1327d7f-1d8a-4515-a98e-c44aeeef87fb</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5e0c4e6d-cd34-4f2d-a5b0-bb0f26809174/7b201cb3-9cd9-452f-ad80-33ef47ce1aa8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3-serie</model>
-    <year>2022</year>
-    <mileage>
-      <value>77520</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>329000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>329000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ce92cc72-135c-46ef-898d-be3ce49f2d8f</vehicle_id>
     <vehicle_registration_plate>RJB73W</vehicle_registration_plate>
     <title>Volvo XC40 Core Edition</title>
@@ -1591,44 +1553,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>179000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>7819abca-92db-4f50-8673-e620a6614327</vehicle_id>
-    <vehicle_registration_plate>AKD071</vehicle_registration_plate>
-    <title>Volvo V60 D4 S/S Summum Business E II / Drag / Fint Skick / Skinn</title>
-    <description>D4 S/S Summum Business E II / Drag / Fint Skick / Skinn. Utrustningsnivå: Summum. Miltal: 17 248 mil. Årsmodell: 2014. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKD071. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <link>https://goingebil.se/sok/id/7819abca-92db-4f50-8673-e620a6614327</link>
-    <url>https://goingebil.se/sok/id/7819abca-92db-4f50-8673-e620a6614327</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/70a437e0-f445-482d-9a96-433384468c3a/ac3ae75b-4a06-4f78-99dc-b0f05d7d663b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2014</year>
-    <mileage>
-      <value>172480</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>145000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>145000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
