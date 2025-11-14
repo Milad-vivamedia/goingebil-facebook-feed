@@ -85,45 +85,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>ee8de7c9-8691-4b6e-acb3-659e6adf02f9</vehicle_id>
-    <vehicle_registration_plate>FMJ05U</vehicle_registration_plate>
-    <title>Renault Scenic E-Tech Scénic Electric esprit Alpine 220hk II</title>
-    <description>Scénic Electric esprit Alpine 220hk II. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: FMJ05U. Privatleasing från 7 151 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 7151 kr</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/ee8de7c9-8691-4b6e-acb3-659e6adf02f9</link>
-    <url>https://goingebil.se/sok/id/ee8de7c9-8691-4b6e-acb3-659e6adf02f9</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e3364586-d380-48fb-8351-c3edfcacce67/76c2cc7d-35c6-4978-88df-213f7a3ec597?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Scenic E-Tech</model>
-    <year>2026</year>
-    <mileage>
-      <value>10</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>602900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>602900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>4f86a141-3fa3-495f-8fde-b44d51eafc0e</vehicle_id>
     <vehicle_registration_plate>ACY14D</vehicle_registration_plate>
     <title>Volvo XC60 B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol</title>
@@ -1754,45 +1715,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>37891a0f-7b84-4f30-bbe1-c3c36707fb96</vehicle_id>
-    <vehicle_registration_plate>HCN92C</vehicle_registration_plate>
-    <title>BMW 5-serie 292hk M Sport Drag/ Kamera/ Navi/ HiFi</title>
-    <description>292hk M Sport Drag/ Kamera/ Navi/ HiFi. Utrustningsnivå: M Sport. Miltal: 6 114 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HCN92C. Privatleasing från 4 969 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 4969 kr</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/37891a0f-7b84-4f30-bbe1-c3c36707fb96</link>
-    <url>https://goingebil.se/sok/id/37891a0f-7b84-4f30-bbe1-c3c36707fb96</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2335ddf1-7530-42b2-9194-233251292b60/dc2c0fdf-e008-4e57-873f-be150a16abac?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5-serie</model>
-    <year>2023</year>
-    <mileage>
-      <value>61140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>419000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>419000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
