@@ -9,6 +9,7 @@ const path = require('path');
 
 // Configuration
 const WAYKE_API_URL = 'https://api.wayke.se/vehicles?hits=200';
+const WAYKE_GRAPHQL_URL = 'https://gql.wayke.se/query';
 const OUTPUT_DIR = './output';
 const OUTPUT_FILE = 'feed.xml';
 
@@ -49,6 +50,83 @@ function fetchVehicles() {
     }).on('error', (error) => {
       reject(error);
     });
+  });
+}
+
+/**
+ * Fetch monthly cost from Wayke GraphQL API
+ */
+function fetchMonthlyCost(vehicleId, price) {
+  return new Promise((resolve, reject) => {
+    // Calculate standard down payment (20% of price)
+    const downPayment = Math.round(price * 0.2);
+
+    const graphqlQuery = {
+      operationName: "LoanCalculation",
+      variables: {
+        id: vehicleId,
+        duration: 84,  // 84 months standard
+        downPayment: downPayment,
+        residual: 0
+      },
+      query: `query LoanCalculation($id: ID!, $duration: Int!, $downPayment: Int!, $residual: Float!) {
+        loan(
+          id: $id
+          duration: $duration
+          downPayment: $downPayment
+          residual: $residual
+        ) {
+          monthlyCost
+          interest
+          effectiveInterest
+          loanAmount
+          totalCreditCost
+          __typename
+        }
+      }`
+    };
+
+    const postData = JSON.stringify(graphqlQuery);
+
+    const options = {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(postData),
+        'Accept': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Origin': 'https://goingebil.se',
+        'Referer': 'https://goingebil.se/'
+      }
+    };
+
+    const req = https.request(WAYKE_GRAPHQL_URL, options, (res) => {
+      let data = '';
+
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          if (json.data && json.data.loan && json.data.loan.monthlyCost) {
+            resolve(json.data.loan.monthlyCost);
+          } else {
+            resolve(null); // No financing available
+          }
+        } catch (error) {
+          resolve(null); // Don't fail if financing info unavailable
+        }
+      });
+    });
+
+    req.on('error', () => {
+      resolve(null); // Don't fail if financing request fails
+    });
+
+    req.write(postData);
+    req.end();
   });
 }
 
@@ -105,7 +183,7 @@ function getVehicleCondition(modelYear) {
 /**
  * Clean and format description
  */
-function formatDescription(vehicle) {
+function formatDescription(vehicle, monthlyCost = null) {
   const parts = [];
 
   if (vehicle.shortDescription) {
@@ -123,6 +201,11 @@ function formatDescription(vehicle) {
 
   if (vehicle.registrationNumber) {
     parts.push(`Registreringsnummer: ${vehicle.registrationNumber}`);
+  }
+
+  // Add monthly cost if available
+  if (monthlyCost) {
+    parts.push(`Privatleasing från ${monthlyCost.toLocaleString('sv-SE')} kr/mån`);
   }
 
   parts.push('Kontakta oss för mer information om detta fordon');
@@ -168,7 +251,7 @@ function escapeXml(unsafe) {
 /**
  * Generate XML feed in RSS 2.0 format for Facebook
  */
-function generateXMLFeed(vehicles) {
+async function generateXMLFeed(vehicles) {
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
   xml += '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">\n';
   xml += '  <channel>\n';
@@ -179,12 +262,15 @@ function generateXMLFeed(vehicles) {
   let processedCount = 0;
   let skippedCount = 0;
 
-  vehicles.forEach(vehicle => {
+  for (const vehicle of vehicles) {
     // Skip if missing essential data
     if (!vehicle.id || !vehicle.manufacturer || !vehicle.price) {
       skippedCount++;
-      return;
+      continue;
     }
+
+    // Fetch monthly cost from GraphQL API
+    const monthlyCost = await fetchMonthlyCost(vehicle.id, vehicle.price);
 
     xml += '    <item>\n';
 
@@ -214,13 +300,16 @@ function generateXMLFeed(vehicles) {
       daysSincePublished = Math.floor(diffTime / (1000 * 60 * 60 * 24));
     }
 
-    // Description (include days since published)
-    const description = formatDescription(vehicle);
+    // Description (include monthly cost and days since published)
+    const description = formatDescription(vehicle, monthlyCost);
     const descriptionWithDays = `${description} Publicerad för ${daysSincePublished} dagar sedan.`;
     xml += `    <description>${escapeXml(descriptionWithDays)}</description>\n`;
 
-    // Add as custom field for filtering/sorting
+    // Add custom labels for filtering/sorting
     xml += `    <g:custom_label_0>Dagar i lager: ${daysSincePublished}</g:custom_label_0>\n`;
+    if (monthlyCost) {
+      xml += `    <g:custom_label_1>Månadskostnad: ${monthlyCost} kr</g:custom_label_1>\n`;
+    }
 
     // URL / Link (Facebook requires 'link' field)
     const vehicleUrl = `https://goingebil.se/sok/id/${vehicle.id}`;
@@ -312,7 +401,7 @@ function generateXMLFeed(vehicles) {
 
     xml += '    </item>\n';
     processedCount++;
-  });
+  }
 
   xml += '  </channel>\n';
   xml += '</rss>';
@@ -336,8 +425,9 @@ async function main() {
     // Fetch vehicles
     const vehicles = await fetchVehicles();
 
-    // Generate XML
-    const xml = generateXMLFeed(vehicles);
+    // Generate XML (with monthly costs from GraphQL)
+    console.log('💰 Fetching financing information for each vehicle...');
+    const xml = await generateXMLFeed(vehicles);
 
     // Create output directory if it doesn't exist
     if (!fs.existsSync(OUTPUT_DIR)) {
