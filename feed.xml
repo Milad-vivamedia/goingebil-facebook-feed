@@ -2676,7 +2676,7 @@
     <transmission>Automatic</transmission>
     <price>179000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">G��inge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -2810,9 +2810,8 @@
     <vehicle_id>c4034383-1ed1-4f8a-a662-e0596aba87ea</vehicle_id>
     <vehicle_registration_plate>RKH47N</vehicle_registration_plate>
     <title>Volkswagen Golf 1.5 DSG 131hk / Värmare / We Connect Plus</title>
-    <description>1.5 DSG 131hk / Värmare / We Connect Plus. Utrustningsnivå: Base. Miltal: 4 947 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RKH47N. Privatleasing från 3 072 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 38 dagar sedan.</description>
+    <description>1.5 DSG 131hk / Värmare / We Connect Plus. Utrustningsnivå: Base. Miltal: 4 947 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RKH47N. Kontakta oss för mer information om detta fordon. Publicerad för 38 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 38</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 3072 kr</g:custom_label_1>
     <link>https://goingebil.se/sok/id/c4034383-1ed1-4f8a-a662-e0596aba87ea</link>
     <url>https://goingebil.se/sok/id/c4034383-1ed1-4f8a-a662-e0596aba87ea</url>
     <brand>Volkswagen</brand>
@@ -4447,9 +4446,8 @@
     <vehicle_id>db081111-2061-40ba-be99-8906e96a9c02</vehicle_id>
     <vehicle_registration_plate>KRA34H</vehicle_registration_plate>
     <title>Suzuki S-Cross AGS 115hk Kamera/ Carplay/ Adaptiv farthållare</title>
-    <description>AGS 115hk Kamera/ Carplay/ Adaptiv farthållare. Miltal: 2 593 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Privatleasing från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
+    <description>AGS 115hk Kamera/ Carplay/ Adaptiv farthållare. Miltal: 2 593 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 80</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 3428 kr</g:custom_label_1>
     <link>https://goingebil.se/sok/id/db081111-2061-40ba-be99-8906e96a9c02</link>
     <url>https://goingebil.se/sok/id/db081111-2061-40ba-be99-8906e96a9c02</url>
     <brand>Suzuki</brand>
