@@ -4674,45 +4674,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>9b497517-996a-4111-a1f7-1f998bc49728</vehicle_id>
-    <vehicle_registration_plate>EPL24E</vehicle_registration_plate>
-    <title>Renault Kangoo Skåp 45kWh Nordic L1 II</title>
-    <description>Skåp 45kWh Nordic L1 II. Miltal: 163 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EPL24E. Privatleasing från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 84</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 3428 kr</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/9b497517-996a-4111-a1f7-1f998bc49728</link>
-    <url>https://goingebil.se/sok/id/9b497517-996a-4111-a1f7-1f998bc49728</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7ca3b204-7746-453d-891b-9da26f9bc9c4/632d3888-6017-449e-afe0-c3686ff13cf8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kangoo</model>
-    <year>2023</year>
-    <mileage>
-      <value>1630</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>32ebc866-812e-4dcb-acb6-f51c8f991e02</vehicle_id>
     <vehicle_registration_plate>JRA90Z</vehicle_registration_plate>
     <title>XPENG P7 AWD inkl Vinterhjul</title>
@@ -4779,41 +4740,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>437375 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>0c428435-409f-42a9-a77e-8a4e6c74fa7e</vehicle_id>
-    <vehicle_registration_plate>BOP92P</vehicle_registration_plate>
-    <title>Renault Trafic Skåp PhII Nord L2H1 150 A G2</title>
-    <description>Skåp PhII Nord L2H1 150 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BOP92P. Privatleasing från 5 128 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 88 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 88</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 5128 kr</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/0c428435-409f-42a9-a77e-8a4e6c74fa7e</link>
-    <url>https://goingebil.se/sok/id/0c428435-409f-42a9-a77e-8a4e6c74fa7e</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1569e1cd-873b-49a9-ae55-7ffc4c8166a3/e6b06f79-ec08-40dc-be24-643142114f7a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Trafic</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>432375 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>432375 SEK</sale_price>
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
@@ -5924,8 +5850,9 @@
     <vehicle_id>3fafde09-6ec4-4baf-bae9-41fbe3da0144</vehicle_id>
     <vehicle_registration_plate>GCP47D</vehicle_registration_plate>
     <title>Renault Espace 200 Techno A II City Premium/ 36 Kamera / Google Maps</title>
-    <description>200 Techno A II City Premium/ 36 Kamera / Google Maps. Miltal: 1 514 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: GCP47D. Kontakta oss för mer information om detta fordon. Publicerad för 224 dagar sedan.</description>
+    <description>200 Techno A II City Premium/ 36 Kamera / Google Maps. Miltal: 1 514 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: GCP47D. Privatleasing från 4 614 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 224 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 224</g:custom_label_0>
+    <g:custom_label_1>Månadskostnad: 4614 kr</g:custom_label_1>
     <link>https://goingebil.se/sok/id/3fafde09-6ec4-4baf-bae9-41fbe3da0144</link>
     <url>https://goingebil.se/sok/id/3fafde09-6ec4-4baf-bae9-41fbe3da0144</url>
     <brand>Renault</brand>
