@@ -1098,9 +1098,8 @@
     <vehicle_id>735fdc14-e173-414b-8b73-1aee845a75b3</vehicle_id>
     <vehicle_registration_plate>YKN61K</vehicle_registration_plate>
     <title>Volvo XC40 B4 AWD Bensin Mom Adv SE Drag/ Navi/ Kamera/ BLIS/ Tonade rutor</title>
-    <description>B4 AWD Bensin Mom Adv SE Drag/ Navi/ Kamera/ BLIS/ Tonade rutor. Utrustningsnivå: Momentum. Miltal: 7 748 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YKN61K. Privatleasing från 4 021 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
+    <description>B4 AWD Bensin Mom Adv SE Drag/ Navi/ Kamera/ BLIS/ Tonade rutor. Utrustningsnivå: Momentum. Miltal: 7 748 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YKN61K. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 4021 kr</g:custom_label_1>
     <link>https://goingebil.se/sok/id/735fdc14-e173-414b-8b73-1aee845a75b3</link>
     <url>https://goingebil.se/sok/id/735fdc14-e173-414b-8b73-1aee845a75b3</url>
     <brand>Volvo</brand>
@@ -3153,9 +3152,9 @@
     <vehicle_id>eea46e07-c035-47d7-9401-bf1d6b949a69</vehicle_id>
     <vehicle_registration_plate>HUP94K</vehicle_registration_plate>
     <title>Renault Trafic Skåp PhII Nord L2H1 170 A II</title>
-    <description>Skåp PhII Nord L2H1 170 A II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HUP94K. Privatleasing från 6 443 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
+    <description>Skåp PhII Nord L2H1 170 A II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HUP94K. Privatleasing från 5 619 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 6443 kr</g:custom_label_1>
+    <g:custom_label_1>Månadskostnad: 5619 kr</g:custom_label_1>
     <link>https://goingebil.se/sok/id/eea46e07-c035-47d7-9401-bf1d6b949a69</link>
     <url>https://goingebil.se/sok/id/eea46e07-c035-47d7-9401-bf1d6b949a69</url>
     <brand>Renault</brand>
@@ -3169,14 +3168,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>543250 SEK</price>
+    <price>473750 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>543250 SEK</sale_price>
+    <sale_price>473750 SEK</sale_price>
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
