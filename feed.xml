@@ -2222,41 +2222,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>e8ff1e7f-a357-401b-9277-0a547fef22f7</vehicle_id>
-    <vehicle_registration_plate>ZEO237</vehicle_registration_plate>
-    <title>Renault Scenic E-Tech Scénic Electric evolution+ 60kWh/170 II</title>
-    <description>Scénic Electric evolution+ 60kWh/170 II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZEO237. Privatleasing från 5 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 5774 kr</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/e8ff1e7f-a357-401b-9277-0a547fef22f7</link>
-    <url>https://goingebil.se/sok/id/e8ff1e7f-a357-401b-9277-0a547fef22f7</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/202353cb-2966-423f-8088-bdcdf584b032/00831d49-73b5-4fe1-9e86-e30f5875a657?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Scenic E-Tech</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>486800 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>486800 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>d994b0c0-dcf1-42ce-bef9-fa1b9b352b51</vehicle_id>
     <vehicle_registration_plate>OJA78A</vehicle_registration_plate>
     <title>XPENG G6 RWD</title>
