@@ -4666,41 +4666,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>8e3e877c-4dd9-4ac9-9625-ced3bce3f814</vehicle_id>
-    <vehicle_registration_plate>GGG49C</vehicle_registration_plate>
-    <title>Renault Master Skåp Nordic 150 L2H2 FWD A II</title>
-    <description>Skåp Nordic 150 L2H2 FWD A II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: GGG49C. Privatleasing från 6 151 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 72 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 72</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 6151 kr</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/8e3e877c-4dd9-4ac9-9625-ced3bce3f814</link>
-    <url>https://goingebil.se/sok/id/8e3e877c-4dd9-4ac9-9625-ced3bce3f814</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5a91c5b4-c140-4e69-b3f8-6267a814761c/fe4ba6ab-3b15-4d42-9272-be131cfe249d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Master</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>518625 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>518625 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>09d1fda4-d107-4923-ba1c-6fa889d7f830</vehicle_id>
     <vehicle_registration_plate>DHX85S</vehicle_registration_plate>
     <title>Kia Niro Plug-in Hybrid Plus 2 Motor &amp; Kupévärmare/ Kamera/ Navi</title>
