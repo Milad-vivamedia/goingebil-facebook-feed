@@ -1339,8 +1339,8 @@
     <price>369000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>369000 SEK</sale_price>
@@ -4591,9 +4591,8 @@
     <vehicle_id>c32b73a9-f2a6-48ea-bb98-58d537417e67</vehicle_id>
     <vehicle_registration_plate>MBN10K</vehicle_registration_plate>
     <title>Ford Fiesta 1.0 125hk AUT MHEV Titanium Spec E Adaptiv Farth / Rattvärm/ El-ruta /P-sens bak/ Carplay</title>
-    <description>1.0 125hk AUT MHEV Titanium Spec E Adaptiv Farth / Rattvärm/ El-ruta /P-sens bak/ Carplay. Miltal: 5 375 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: MBN10K. Privatleasing från 2 182 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 72 dagar sedan.</description>
+    <description>1.0 125hk AUT MHEV Titanium Spec E Adaptiv Farth / Rattvärm/ El-ruta /P-sens bak/ Carplay. Miltal: 5 375 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: MBN10K. Kontakta oss för mer information om detta fordon. Publicerad för 72 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 72</g:custom_label_0>
-    <g:custom_label_1>Månadskostnad: 2182 kr</g:custom_label_1>
     <link>https://goingebil.se/sok/id/c32b73a9-f2a6-48ea-bb98-58d537417e67</link>
     <url>https://goingebil.se/sok/id/c32b73a9-f2a6-48ea-bb98-58d537417e67</url>
     <brand>Ford</brand>
