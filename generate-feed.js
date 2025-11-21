@@ -308,7 +308,7 @@ async function generateXMLFeed(vehicles) {
     // Add custom labels for filtering/sorting
     xml += `    <g:custom_label_0>Dagar i lager: ${daysSincePublished}</g:custom_label_0>\n`;
     if (monthlyCost) {
-      xml += `    <g:custom_label_1>Månadskostnad: ${monthlyCost} kr</g:custom_label_1>\n`;
+      xml += `    <g:custom_label_1>${monthlyCost}</g:custom_label_1>\n`;
     }
 
     // URL / Link (Facebook requires 'link' field)
