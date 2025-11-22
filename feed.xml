@@ -2700,8 +2700,8 @@
     <price>729900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">H��ssleholm</component>
-      <component name="region">H��ssleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>729900 SEK</sale_price>
