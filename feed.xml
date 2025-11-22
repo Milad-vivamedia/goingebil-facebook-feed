@@ -3011,7 +3011,7 @@
     <transmission>Automatic</transmission>
     <price>349900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil ��lmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -4634,9 +4634,8 @@
     <vehicle_id>8c691d54-8a7b-4ca4-9608-9e5ae5c5bc82</vehicle_id>
     <vehicle_registration_plate>JSG80J</vehicle_registration_plate>
     <title>Renault Scenic E-Tech Scénic Electric evolution+ DEMO</title>
-    <description>Scénic Electric evolution+ DEMO. Miltal: 6 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JSG80J. Privatleasing från 4 969 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
+    <description>Scénic Electric evolution+ DEMO. Miltal: 6 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JSG80J. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 84</g:custom_label_0>
-    <g:custom_label_1>4969</g:custom_label_1>
     <link>https://goingebil.se/sok/id/8c691d54-8a7b-4ca4-9608-9e5ae5c5bc82</link>
     <url>https://goingebil.se/sok/id/8c691d54-8a7b-4ca4-9608-9e5ae5c5bc82</url>
     <brand>Renault</brand>
@@ -4673,9 +4672,8 @@
     <vehicle_id>aeb74c8f-17cd-4fd3-a615-a67c84a68162</vehicle_id>
     <vehicle_registration_plate>REA29C</vehicle_registration_plate>
     <title>Renault Scenic E-Tech 87kWh/220hk Esprit Alpine/ Förarassis+Pluspaket/ Carplay/ OpenR/ Android Auto</title>
-    <description>87kWh/220hk Esprit Alpine/ Förarassis+Pluspaket/ Carplay/ OpenR/ Android Auto. Utrustningsnivå: Esprit Alpine, GT Line. Miltal: 1 538 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: REA29C. Privatleasing från 5 918 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 86 dagar sedan.</description>
+    <description>87kWh/220hk Esprit Alpine/ Förarassis+Pluspaket/ Carplay/ OpenR/ Android Auto. Utrustningsnivå: Esprit Alpine, GT Line. Miltal: 1 538 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: REA29C. Kontakta oss för mer information om detta fordon. Publicerad för 86 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 86</g:custom_label_0>
-    <g:custom_label_1>5918</g:custom_label_1>
     <link>https://goingebil.se/sok/id/aeb74c8f-17cd-4fd3-a615-a67c84a68162</link>
     <url>https://goingebil.se/sok/id/aeb74c8f-17cd-4fd3-a615-a67c84a68162</url>
     <brand>Renault</brand>
