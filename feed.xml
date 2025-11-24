@@ -601,7 +601,7 @@
     <transmission>Automatic</transmission>
     <price>329000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
+      <component name="addr1">G��inge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
@@ -5398,9 +5398,8 @@
     <vehicle_id>20621fd3-2c96-4616-a62f-39167336a26c</vehicle_id>
     <vehicle_registration_plate>YFR42S</vehicle_registration_plate>
     <title>Renault Rafale PHEV 300  atelier Alpine/ Head Up / 360 Kamera / Panorama Tak /</title>
-    <description>PHEV 300  atelier Alpine/ Head Up / 360 Kamera / Panorama Tak /. Utrustningsnivå: Atelier Alpine. Miltal: 1 108 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YFR42S. Privatleasing från 6 393 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 126 dagar sedan.</description>
+    <description>PHEV 300  atelier Alpine/ Head Up / 360 Kamera / Panorama Tak /. Utrustningsnivå: Atelier Alpine. Miltal: 1 108 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YFR42S. Kontakta oss för mer information om detta fordon. Publicerad för 126 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 126</g:custom_label_0>
-    <g:custom_label_1>6393</g:custom_label_1>
     <link>https://goingebil.se/sok/id/20621fd3-2c96-4616-a62f-39167336a26c</link>
     <url>https://goingebil.se/sok/id/20621fd3-2c96-4616-a62f-39167336a26c</url>
     <brand>Renault</brand>
