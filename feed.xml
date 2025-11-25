@@ -255,8 +255,8 @@
     <price>299000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>299000 SEK</sale_price>
@@ -5628,8 +5628,9 @@
     <vehicle_id>99020c68-3bae-490f-ba4d-844a1ec97fdb</vehicle_id>
     <vehicle_registration_plate>LLP06F</vehicle_registration_plate>
     <title>Renault Clio phII TCe 90 Evolution Kampanj!</title>
-    <description>phII TCe 90 Evolution Kampanj!. Utrustningsnivå: Evolution. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: LLP06F. Kontakta oss för mer information om detta fordon. Publicerad för 172 dagar sedan.</description>
+    <description>phII TCe 90 Evolution Kampanj!. Utrustningsnivå: Evolution. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: LLP06F. Privatleasing från 2 479 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 172 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 172</g:custom_label_0>
+    <g:custom_label_1>2479</g:custom_label_1>
     <link>https://goingebil.se/sok/id/99020c68-3bae-490f-ba4d-844a1ec97fdb</link>
     <url>https://goingebil.se/sok/id/99020c68-3bae-490f-ba4d-844a1ec97fdb</url>
     <brand>Renault</brand>
