@@ -618,8 +618,8 @@
     <vehicle_id>ccae9e78-b6c3-443b-b564-472265bb3a2a</vehicle_id>
     <vehicle_registration_plate>CDZ87B</vehicle_registration_plate>
     <title>CUPRA Leon 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay</title>
-    <description>1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 902 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
+    <description>1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 902 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_1>3902</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</link>
     <url>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</url>
@@ -1199,7 +1199,7 @@
     <vehicle_id>58a4ef5c-cb1b-4c42-be10-615bbf884638</vehicle_id>
     <vehicle_registration_plate>NMJ00F</vehicle_registration_plate>
     <title>Volvo XC40 Plus Edition/ Värmep/ Rattv/ Keyless/ Carplay</title>
-    <description>Plus Edition/ Värmep/ Rattv/ Keyless/ Carplay. Utrustningsnivå: Plus. Miltal: 3 818 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NMJ00F. Privatleasing från 4 139 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
+    <description>Plus Edition/ Värmep/ Rattv/ Keyless/ Carplay. Utrustningsnivå: Plus. Miltal: 38 118 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NMJ00F. Privatleasing från 4 139 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
     <g:custom_label_1>4139</g:custom_label_1>
     <link>https://goingebil.se/sok/id/58a4ef5c-cb1b-4c42-be10-615bbf884638</link>
@@ -1213,7 +1213,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>38180</value>
+      <value>381180</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
