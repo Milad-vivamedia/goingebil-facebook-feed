@@ -241,45 +241,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b3e88fad-13a1-49da-9f87-4b1a246901ae</vehicle_id>
-    <vehicle_registration_plate>JPE848</vehicle_registration_plate>
-    <title>Volvo V60 D3 Business / Dragkrok / Låg Skatt / Parkeringssensorer / Klimat-Paket</title>
-    <description>D3 Business / Dragkrok / Låg Skatt / Parkeringssensorer / Klimat-Paket. Utrustningsnivå: Kinetic. Miltal: 13 400 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: JPE848. Privatleasing från 2 182 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_1>2182</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/b3e88fad-13a1-49da-9f87-4b1a246901ae</link>
-    <url>https://goingebil.se/sok/id/b3e88fad-13a1-49da-9f87-4b1a246901ae</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b3b7e731-ec65-4fad-be0a-8beda2903398/9f7409ca-b5e5-42fd-bb17-2bf409f880fb?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2017</year>
-    <mileage>
-      <value>134000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>184000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>184000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>5ed05778-457c-444b-86f9-a581b9f545bc</vehicle_id>
     <vehicle_registration_plate>SCN42A</vehicle_registration_plate>
     <title>XPENG G6 AWD Premium Drag Panorama</title>
