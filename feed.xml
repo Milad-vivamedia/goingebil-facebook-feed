@@ -3259,45 +3259,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>42493517-9388-42da-9dba-b2f7e246c750</vehicle_id>
-    <vehicle_registration_plate>SNZ57U</vehicle_registration_plate>
-    <title>Volvo XC40 PLUS/ V-pump/ Elstol/ PDC/ Rattv/ Carplay</title>
-    <description>PLUS/ V-pump/ Elstol/ PDC/ Rattv/ Carplay. Utrustningsnivå: Plus. Miltal: 4 512 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: SNZ57U. Privatleasing från 4 258 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
-    <g:custom_label_1>4258</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/42493517-9388-42da-9dba-b2f7e246c750</link>
-    <url>https://goingebil.se/sok/id/42493517-9388-42da-9dba-b2f7e246c750</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/05bdc60a-cec9-40ba-bf3a-d2a69de64b43/994c6b74-5833-420c-b1b6-c91af9a3263e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>45120</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>e0f19f1b-1fb8-44c6-8723-a4de4319e513</vehicle_id>
     <vehicle_registration_plate>HHT81B</vehicle_registration_plate>
     <title>Volvo V60 Recharge T6 Ins Expr Drag/ Kamera/ Navi/ H/K/ BLIS</title>
