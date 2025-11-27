@@ -2079,7 +2079,7 @@
     <transmission>Automatic</transmission>
     <price>449000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
+      <component name="addr1">G��inge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
