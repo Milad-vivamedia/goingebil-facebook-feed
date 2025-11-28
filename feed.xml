@@ -627,45 +627,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>6bc2613f-28fb-4db2-84fb-94c62d956ef4</vehicle_id>
-    <vehicle_registration_plate>TBP434</vehicle_registration_plate>
-    <title>Dacia Duster 4x2 1,6 SCe 115 Comfort / Svart Metallic/ Design-Paket/ Klimator/ Mörka rutor</title>
-    <description>4x2 1,6 SCe 115 Comfort / Svart Metallic/ Design-Paket/ Klimator/ Mörka rutor. Miltal: 7 200 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: TBP434. Privatleasing från 1 411 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
-    <g:custom_label_1>1411</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/6bc2613f-28fb-4db2-84fb-94c62d956ef4</link>
-    <url>https://goingebil.se/sok/id/6bc2613f-28fb-4db2-84fb-94c62d956ef4</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7fc88560-2b6f-4dfc-85a9-c86a50567e72/96d6d91c-7062-4026-be94-06a45331eaf3?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Duster</model>
-    <year>2019</year>
-    <mileage>
-      <value>72000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>119000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>119000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>57d355f7-58a6-415b-8221-4b68da7eadcb</vehicle_id>
     <vehicle_registration_plate>YFD406</vehicle_registration_plate>
     <title>Volvo XC40 T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor</title>
@@ -5239,41 +5200,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>529250 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>10101f99-5151-4dd9-b218-2289a589f9c4</vehicle_id>
-    <vehicle_registration_plate>MRA74Z</vehicle_registration_plate>
-    <title>Renault Trafic Skåp PhII Nord L2H1 150 A G2</title>
-    <description>Skåp PhII Nord L2H1 150 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MRA74Z. Privatleasing från 6 241 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 99 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 99</g:custom_label_0>
-    <g:custom_label_1>6241</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/10101f99-5151-4dd9-b218-2289a589f9c4</link>
-    <url>https://goingebil.se/sok/id/10101f99-5151-4dd9-b218-2289a589f9c4</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9037ae97-55b7-4144-a88a-c4d15c51d300/33bf4032-11a2-4ecd-906a-c302cecc0796?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Trafic</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>526250 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>526250 SEK</sale_price>
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
