@@ -2092,9 +2092,8 @@
     <vehicle_id>367e21cc-d14f-4dd5-a734-7b347b299a17</vehicle_id>
     <vehicle_registration_plate>PDB36C</vehicle_registration_plate>
     <title>Volkswagen Tiguan 1.5 TSI DSG 150hk Dragkrok/ Backkamera</title>
-    <description>1.5 TSI DSG 150hk Dragkrok/ Backkamera. Utrustningsnivå: Base. Miltal: 7 375 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PDB36C. Privatleasing från 3 309 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
+    <description>1.5 TSI DSG 150hk Dragkrok/ Backkamera. Utrustningsnivå: Base. Miltal: 7 375 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PDB36C. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
-    <g:custom_label_1>3309</g:custom_label_1>
     <link>https://goingebil.se/sok/id/367e21cc-d14f-4dd5-a734-7b347b299a17</link>
     <url>https://goingebil.se/sok/id/367e21cc-d14f-4dd5-a734-7b347b299a17</url>
     <brand>Volkswagen</brand>
@@ -3779,7 +3778,7 @@
     <transmission>Automatic</transmission>
     <price>543250 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
