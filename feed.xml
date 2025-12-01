@@ -1221,7 +1221,7 @@
     <transmission>Automatic</transmission>
     <price>359000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Markaryd</component>
+      <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
@@ -4691,16 +4691,16 @@
     <transmission>Automatic</transmission>
     <price>729900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
       <component name="country">SE</component>
     </address>
     <sale_price>729900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
