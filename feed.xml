@@ -6150,45 +6150,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3af3c229-44b1-40f7-8c03-fa8b2956bc5d</vehicle_id>
-    <vehicle_registration_plate>AHW02J</vehicle_registration_plate>
-    <title>Dacia Jogger Extreme 7-sits II/ Kamera/ Sensorer/ Pekskärm/ LED</title>
-    <description>Extreme 7-sits II/ Kamera/ Sensorer/ Pekskärm/ LED. Miltal: 638 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: AHW02J. Privatleasing från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 197 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 197</g:custom_label_0>
-    <g:custom_label_1>3428</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/3af3c229-44b1-40f7-8c03-fa8b2956bc5d</link>
-    <url>https://goingebil.se/sok/id/3af3c229-44b1-40f7-8c03-fa8b2956bc5d</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1a38d36e-c832-428a-a86e-c8cb429d1c8b/55a6240d-e0b4-4882-a333-25ec468ffc06?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Jogger</model>
-    <year>2025</year>
-    <mileage>
-      <value>6380</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>746a652a-9291-4f07-b5b6-5801d9d90bcf</vehicle_id>
     <vehicle_registration_plate>BMU82D</vehicle_registration_plate>
     <title>Renault Clio TCe 90 Equilibre CVT II 5-d Trådlös Carplay/ Sensorer bak</title>
