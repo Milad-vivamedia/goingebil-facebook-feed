@@ -7,6 +7,45 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>3dc4ac1e-29eb-417a-87e2-08e991a53d84</vehicle_id>
+    <vehicle_registration_plate>FGD991</vehicle_registration_plate>
+    <title>Renault Koleos Energy dCi 175 Intens A</title>
+    <description>Energy dCi 175 Intens A. Miltal: 15 779 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FGD991. Privatleasing från 1 886 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_1>1886</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/3dc4ac1e-29eb-417a-87e2-08e991a53d84</link>
+    <url>https://goingebil.se/sok/id/3dc4ac1e-29eb-417a-87e2-08e991a53d84</url>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/adf86e6f-5ef4-4ac2-8fe5-d12cefdb1406/c560c6b2-f9a4-4b3a-8e5f-e35e023ebb3b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Koleos</model>
+    <year>2017</year>
+    <mileage>
+      <value>157790</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>159000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>159000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>1b0cf74d-a393-4bc1-b3ac-f48e2b6f8061</vehicle_id>
     <vehicle_registration_plate>EPH08J</vehicle_registration_plate>
     <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
@@ -1763,8 +1802,8 @@
     <vehicle_id>4f86a141-3fa3-495f-8fde-b44d51eafc0e</vehicle_id>
     <vehicle_registration_plate>ACY14D</vehicle_registration_plate>
     <title>Volvo XC60 B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol</title>
-    <description>B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 732 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 18 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 18</g:custom_label_0>
+    <description>B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 732 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
     <g:custom_label_1>4732</g:custom_label_1>
     <link>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</link>
     <url>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</url>
@@ -1802,8 +1841,9 @@
     <vehicle_id>86c086ea-c772-42b3-9199-aada8cd928d7</vehicle_id>
     <vehicle_registration_plate>TJA05Y</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor</title>
-    <description>Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 7 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TJA05Y. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
+    <description>Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 7 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TJA05Y. Privatleasing från 6 274 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
+    <g:custom_label_1>6274</g:custom_label_1>
     <link>https://goingebil.se/sok/id/86c086ea-c772-42b3-9199-aada8cd928d7</link>
     <url>https://goingebil.se/sok/id/86c086ea-c772-42b3-9199-aada8cd928d7</url>
     <brand>Volvo</brand>
@@ -2464,8 +2504,9 @@
     <vehicle_id>fb0c05ce-36df-43be-beb3-6baf9a0ce985</vehicle_id>
     <vehicle_registration_plate>CHS23Z</vehicle_registration_plate>
     <title>Dacia Sandero TCe 90 extreme A</title>
-    <description>TCe 90 extreme A. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CHS23Z. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
+    <description>TCe 90 extreme A. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CHS23Z. Privatleasing från 2 982 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
+    <g:custom_label_1>2982</g:custom_label_1>
     <link>https://goingebil.se/sok/id/fb0c05ce-36df-43be-beb3-6baf9a0ce985</link>
     <url>https://goingebil.se/sok/id/fb0c05ce-36df-43be-beb3-6baf9a0ce985</url>
     <brand>Dacia</brand>
@@ -2732,8 +2773,8 @@
     <vehicle_id>166db94a-c89d-483e-adc3-8e613278822a</vehicle_id>
     <vehicle_registration_plate>EDB41E</vehicle_registration_plate>
     <title>Renault Clio TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak</title>
-    <description>TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 300 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Privatleasing från 2 004 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 31 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 31</g:custom_label_0>
+    <description>TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 300 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Privatleasing från 2 004 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 32</g:custom_label_0>
     <g:custom_label_1>2004</g:custom_label_1>
     <link>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</link>
     <url>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</url>
@@ -5539,9 +5580,8 @@
     <vehicle_id>1368260d-c0d2-4a3b-aa18-4b8b834e0467</vehicle_id>
     <vehicle_registration_plate>UEB99P</vehicle_registration_plate>
     <title>Renault 5 E-Tech R5 techno 52kWh *Billån 0% Ränta!!*</title>
-    <description>R5 techno 52kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UEB99P. Privatleasing från 4 872 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 110 dagar sedan.</description>
+    <description>R5 techno 52kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UEB99P. Kontakta oss för mer information om detta fordon. Publicerad för 110 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 110</g:custom_label_0>
-    <g:custom_label_1>4872</g:custom_label_1>
     <link>https://goingebil.se/sok/id/1368260d-c0d2-4a3b-aa18-4b8b834e0467</link>
     <url>https://goingebil.se/sok/id/1368260d-c0d2-4a3b-aa18-4b8b834e0467</url>
     <brand>Renault</brand>
@@ -6459,8 +6499,8 @@
     <vehicle_id>ad6d50a9-c5ad-43cc-9aae-261df2028f1b</vehicle_id>
     <vehicle_registration_plate>AKG65S</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nordic dCi 95 L2 A G2</title>
-    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Privatleasing från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 266 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 266</g:custom_label_0>
+    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Privatleasing från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 267 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 267</g:custom_label_0>
     <g:custom_label_1>3408</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</link>
     <url>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</url>
@@ -6607,8 +6647,8 @@
     <vehicle_id>f18a3640-1739-4fa2-adbf-c3360f142a00</vehicle_id>
     <vehicle_registration_plate>PUG71Y</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nord dC 95 L2 G2 A II</title>
-    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PUG71Y. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 353 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 353</g:custom_label_0>
+    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PUG71Y. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 354 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 354</g:custom_label_0>
     <g:custom_label_1>3334</g:custom_label_1>
     <link>https://goingebil.se/sok/id/f18a3640-1739-4fa2-adbf-c3360f142a00</link>
     <url>https://goingebil.se/sok/id/f18a3640-1739-4fa2-adbf-c3360f142a00</url>
@@ -6642,8 +6682,8 @@
     <vehicle_id>a94ae943-a8a5-4148-8079-7f2516845235</vehicle_id>
     <vehicle_registration_plate>DWA59D</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nord dC 95 L2 G2 A II</title>
-    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DWA59D. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 353 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 353</g:custom_label_0>
+    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DWA59D. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 354 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 354</g:custom_label_0>
     <g:custom_label_1>3334</g:custom_label_1>
     <link>https://goingebil.se/sok/id/a94ae943-a8a5-4148-8079-7f2516845235</link>
     <url>https://goingebil.se/sok/id/a94ae943-a8a5-4148-8079-7f2516845235</url>
