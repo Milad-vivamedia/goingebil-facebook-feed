@@ -54,34 +54,22 @@ function fetchVehicles() {
 }
 
 /**
- * Fetch monthly cost from Wayke GraphQL API
+ * Fetch monthly cost from Wayke GraphQL API using vehicle financialOptions
  */
-function fetchMonthlyCost(vehicleId, price) {
+function fetchMonthlyCost(vehicleId) {
   return new Promise((resolve, reject) => {
-    // Calculate standard down payment (20% of price)
-    const downPayment = Math.round(price * 0.2);
-
     const graphqlQuery = {
-      operationName: "LoanCalculation",
+      operationName: "GetVehicle",
       variables: {
-        id: vehicleId,
-        duration: 84,  // 84 months standard
-        downPayment: downPayment,
-        residual: 0
+        id: vehicleId
       },
-      query: `query LoanCalculation($id: ID!, $duration: Int!, $downPayment: Int!, $residual: Float!) {
-        loan(
-          id: $id
-          duration: $duration
-          downPayment: $downPayment
-          residual: $residual
-        ) {
-          monthlyCost
-          interest
-          effectiveInterest
-          loanAmount
-          totalCreditCost
-          __typename
+      query: `query GetVehicle($id: ID!) {
+        vehicle(id: $id) {
+          id
+          financialOptions {
+            monthlyCost
+            type
+          }
         }
       }`
     };
@@ -110,8 +98,8 @@ function fetchMonthlyCost(vehicleId, price) {
       res.on('end', () => {
         try {
           const json = JSON.parse(data);
-          if (json.data && json.data.loan && json.data.loan.monthlyCost) {
-            resolve(json.data.loan.monthlyCost);
+          if (json.data && json.data.vehicle && json.data.vehicle.financialOptions && json.data.vehicle.financialOptions.length > 0) {
+            resolve(json.data.vehicle.financialOptions[0].monthlyCost);
           } else {
             resolve(null); // No financing available
           }
@@ -270,7 +258,7 @@ async function generateXMLFeed(vehicles) {
     }
 
     // Fetch monthly cost from GraphQL API
-    const monthlyCost = await fetchMonthlyCost(vehicle.id, vehicle.price);
+    const monthlyCost = await fetchMonthlyCost(vehicle.id);
 
     xml += '    <item>\n';
 
