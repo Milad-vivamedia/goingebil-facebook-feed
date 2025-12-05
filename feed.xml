@@ -5971,45 +5971,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3a8d23ad-7653-4f3c-a133-a2bb21935b5a</vehicle_id>
-    <vehicle_registration_plate>DPF34J</vehicle_registration_plate>
-    <title>Renault Master Skåp Nordic 150 L2H2 FWD A II</title>
-    <description>Skåp Nordic 150 L2H2 FWD A II. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DPF34J. Privatleasing från 6 360 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 100 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 100</g:custom_label_0>
-    <g:custom_label_1>6360</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/3a8d23ad-7653-4f3c-a133-a2bb21935b5a</link>
-    <url>https://goingebil.se/sok/id/3a8d23ad-7653-4f3c-a133-a2bb21935b5a</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/87b28ec9-7963-4c34-a989-37d897c6cc46/74474468-723d-482a-a7e1-f6cf768c79a4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Master</model>
-    <year>2025</year>
-    <mileage>
-      <value>10</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>536250 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>536250 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>bed1b9c2-dd61-4111-a2e7-0a425a5b172d</vehicle_id>
     <vehicle_registration_plate>PBD04H</vehicle_registration_plate>
     <title>Volvo V60 3.95% KAMPANJRÄNTA B4 Diesel Mom Adv Navi Pro Edition Kamera/ Värmare/ Tonade rutor/ Dynamiska LED/ Ljuspaket</title>
