@@ -1416,8 +1416,8 @@
     <price>159000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>159000 SEK</sale_price>
@@ -2196,8 +2196,8 @@
     <vehicle_id>ccae9e78-b6c3-443b-b564-472265bb3a2a</vehicle_id>
     <vehicle_registration_plate>CDZ87B</vehicle_registration_plate>
     <title>CUPRA Leon 3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 453 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 453 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
     <g:custom_label_1>3453</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</link>
     <url>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</url>
@@ -2504,9 +2504,8 @@
     <vehicle_id>4f86a141-3fa3-495f-8fde-b44d51eafc0e</vehicle_id>
     <vehicle_registration_plate>ACY14D</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol</title>
-    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
-    <g:custom_label_1>4188</g:custom_label_1>
     <link>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</link>
     <url>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</url>
     <brand>Volvo</brand>
@@ -2543,9 +2542,9 @@
     <vehicle_id>86c086ea-c772-42b3-9199-aada8cd928d7</vehicle_id>
     <vehicle_registration_plate>TJA05Y</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 7 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TJA05Y. Privatleasing från 5 238 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 7 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TJA05Y. Privatleasing från 5 553 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
-    <g:custom_label_1>5238</g:custom_label_1>
+    <g:custom_label_1>5553</g:custom_label_1>
     <link>https://goingebil.se/sok/id/86c086ea-c772-42b3-9199-aada8cd928d7</link>
     <url>https://goingebil.se/sok/id/86c086ea-c772-42b3-9199-aada8cd928d7</url>
     <brand>Volvo</brand>
@@ -2563,14 +2562,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>499000 SEK</price>
+    <price>529000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>499000 SEK</sale_price>
+    <sale_price>529000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
