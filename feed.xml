@@ -418,16 +418,16 @@
     <transmission>Automatic</transmission>
     <price>469000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
       <component name="country">SE</component>
     </address>
     <sale_price>469000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -1156,45 +1156,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>e1f08162-1f6f-4886-b4ab-959e40fb0822</vehicle_id>
-    <vehicle_registration_plate>JSM88D</vehicle_registration_plate>
-    <title>Volvo V90 3.95% KAMPANJRÄNTA B4 AWD Diesel Adv Edt Drag/ Kamera/ Rattvärme/ bränslevärmare/</title>
-    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Adv Edt Drag/ Kamera/ Rattvärme/ bränslevärmare/. Utrustningsnivå: Momentum. Miltal: 5 701 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: JSM88D. Privatleasing från 4 608 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <g:custom_label_1>4608</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/e1f08162-1f6f-4886-b4ab-959e40fb0822</link>
-    <url>https://goingebil.se/sok/id/e1f08162-1f6f-4886-b4ab-959e40fb0822</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/558493ab-593c-4583-8010-75e5b80ded0d/4128b3b4-e1b2-44da-9430-bbfb8b388827?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2022</year>
-    <mileage>
-      <value>57010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>439000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -5053,8 +5014,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>1c5e48c9-473f-455f-9575-3c4e7f394669</vehicle_id>
     <vehicle_registration_plate>XSC11J</vehicle_registration_plate>
-    <title>Renault 5 E-Tech R5 evolution 40kWh *Billån 0% Ränta!!*</title>
-    <description>R5 evolution 40kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: XSC11J. Privatleasing från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 75 dagar sedan.</description>
+    <title>Renault 5 E-Tech R5 evolution 40kWh *Billån 0% R��nta!!*</title>
+    <description>R5 evolution 40kWh *Billån 0% R��nta!!*. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: XSC11J. Privatleasing från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 75 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 75</g:custom_label_0>
     <g:custom_label_1>3428</g:custom_label_1>
     <link>https://goingebil.se/sok/id/1c5e48c9-473f-455f-9575-3c4e7f394669</link>
