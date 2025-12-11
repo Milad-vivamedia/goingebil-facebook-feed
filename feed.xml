@@ -7,6 +7,80 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>16de80e4-34c7-4843-b8dd-c8081258895d</vehicle_id>
+    <vehicle_registration_plate>RYT44M</vehicle_registration_plate>
+    <title>Kia EV6 77.4 kWh AWD GT-Line</title>
+    <description>77.4 kWh AWD GT-Line. Utrustningsnivå: GT-Line. Miltal: 3 488 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: RYT44M. Privatleasing från 4 503 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_1>4503</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/16de80e4-34c7-4843-b8dd-c8081258895d</link>
+    <url>https://goingebil.se/sok/id/16de80e4-34c7-4843-b8dd-c8081258895d</url>
+    <brand>Kia</brand>
+    <make>Kia</make>
+    <model>EV6</model>
+    <year>2022</year>
+    <mileage>
+      <value>34880</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>429000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>429000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>5868419f-d19c-4ff8-9b6e-c543afe6a291</vehicle_id>
+    <vehicle_registration_plate>LBH90U</vehicle_registration_plate>
+    <title>Volvo XC40 3.95% KAMPANJRÄNTA Recharge T5 Inscription / Adaptiv-farthållare/ Teknik-paket/ Läder</title>
+    <description>3.95% KAMPANJRÄNTA Recharge T5 Inscription / Adaptiv-farthållare/ Teknik-paket/ Läder. Utrustningsnivå: Inscription. Miltal: 7 279 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LBH90U. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_1>3663</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/5868419f-d19c-4ff8-9b6e-c543afe6a291</link>
+    <url>https://goingebil.se/sok/id/5868419f-d19c-4ff8-9b6e-c543afe6a291</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8c91a075-453f-430a-b506-c360194d914d/0842ec84-8ef8-437e-9533-e370f6c6c45a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2021</year>
+    <mileage>
+      <value>72790</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>349000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>349000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>4fe29f2f-e6d0-4ef8-98d4-54e298e9cc78</vehicle_id>
     <vehicle_registration_plate>UGW008</vehicle_registration_plate>
     <title>Volvo V60 3.95% KAMPANJRÄNTA Recharge T6 Core Nyservad/ Drag/ Kamera/ Navi/ Tonade rutor</title>
@@ -357,8 +431,8 @@
     <vehicle_id>a2a438c2-b420-4d3f-bb8b-116e6bd218dc</vehicle_id>
     <vehicle_registration_plate>CAB94D</vehicle_registration_plate>
     <title>Volvo XC40 3.95% KAMPANJRÄNTA B4 FWD Bensin Core SE Nyservad/ Drag/ Kamera/ Navi/ BLIS/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA B4 FWD Bensin Core SE Nyservad/ Drag/ Kamera/ Navi/ BLIS/ Tonade rutor. Utrustningsnivå: Core. Miltal: 3 133 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CAB94D. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA B4 FWD Bensin Core SE Nyservad/ Drag/ Kamera/ Navi/ BLIS/ Tonade rutor. Utrustningsnivå: Core. Miltal: 3 133 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CAB94D. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_1>3663</g:custom_label_1>
     <link>https://goingebil.se/sok/id/a2a438c2-b420-4d3f-bb8b-116e6bd218dc</link>
     <url>https://goingebil.se/sok/id/a2a438c2-b420-4d3f-bb8b-116e6bd218dc</url>
@@ -396,8 +470,8 @@
     <vehicle_id>ac88f324-7772-4d64-ac99-8ca705f89cb5</vehicle_id>
     <vehicle_registration_plate>MGT570</vehicle_registration_plate>
     <title>BMW 3-serie 3.95% KAMPANJRÄNTA Steptronic M-sport  Navi/ Skinn/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA Steptronic M-sport  Navi/ Skinn/ Tonade rutor. Utrustningsnivå: M Sport. Miltal: 10 562 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: MGT570. Privatleasing från 2 614 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA Steptronic M-sport  Navi/ Skinn/ Tonade rutor. Utrustningsnivå: M Sport. Miltal: 10 562 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: MGT570. Privatleasing från 2 614 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_1>2614</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ac88f324-7772-4d64-ac99-8ca705f89cb5</link>
     <url>https://goingebil.se/sok/id/ac88f324-7772-4d64-ac99-8ca705f89cb5</url>
@@ -552,8 +626,8 @@
     <vehicle_id>741b5a6b-6e42-4d12-b93c-0b99278e100a</vehicle_id>
     <vehicle_registration_plate>ZAN72M</vehicle_registration_plate>
     <title>Toyota RAV4 3.95% KAMPANJRÄNTA E-CVT 222hk Värmare/ Kamera/ Navi</title>
-    <description>3.95% KAMPANJRÄNTA E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_1>3558</g:custom_label_1>
     <link>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</link>
     <url>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</url>
@@ -591,8 +665,8 @@
     <vehicle_id>ddd17575-6c3f-49a3-88e6-82e0025aa100</vehicle_id>
     <vehicle_registration_plate>OHT43T</vehicle_registration_plate>
     <title>Lexus RX 3.95% KAMPANJRÄNTA RX450h+ Executive</title>
-    <description>3.95% KAMPANJRÄNTA RX450h+ Executive. Utrustningsnivå: Executive. Miltal: 5 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OHT43T. Privatleasing från 6 917 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA RX450h+ Executive. Utrustningsnivå: Executive. Miltal: 5 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OHT43T. Privatleasing från 6 917 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_1>6917</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ddd17575-6c3f-49a3-88e6-82e0025aa100</link>
     <url>https://goingebil.se/sok/id/ddd17575-6c3f-49a3-88e6-82e0025aa100</url>
@@ -1195,8 +1269,8 @@
     <vehicle_id>3dc4ac1e-29eb-417a-87e2-08e991a53d84</vehicle_id>
     <vehicle_registration_plate>FGD991</vehicle_registration_plate>
     <title>Renault Koleos 3.95% KAMPANJRÄNTA Energy dCi 175 Intens A/City-pkt /Vinter-pkt/ BOSE</title>
-    <description>3.95% KAMPANJRÄNTA Energy dCi 175 Intens A/City-pkt /Vinter-pkt/ BOSE. Miltal: 15 779 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FGD991. Privatleasing från 1 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 8 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 8</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA Energy dCi 175 Intens A/City-pkt /Vinter-pkt/ BOSE. Miltal: 15 779 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FGD991. Privatleasing från 1 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
     <g:custom_label_1>1669</g:custom_label_1>
     <link>https://goingebil.se/sok/id/3dc4ac1e-29eb-417a-87e2-08e991a53d84</link>
     <url>https://goingebil.se/sok/id/3dc4ac1e-29eb-417a-87e2-08e991a53d84</url>
@@ -2929,8 +3003,8 @@
     <vehicle_id>4f86a141-3fa3-495f-8fde-b44d51eafc0e</vehicle_id>
     <vehicle_registration_plate>ACY14D</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol</title>
-    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 28</g:custom_label_0>
     <g:custom_label_1>4188</g:custom_label_1>
     <link>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</link>
     <url>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</url>
@@ -3857,8 +3931,8 @@
     <vehicle_id>166db94a-c89d-483e-adc3-8e613278822a</vehicle_id>
     <vehicle_registration_plate>EDB41E</vehicle_registration_plate>
     <title>Renault Clio 3.95% KAMPANJRÄNTA TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 501 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Privatleasing från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 40 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 40</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 501 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Privatleasing från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 41</g:custom_label_0>
     <g:custom_label_1>1774</g:custom_label_1>
     <link>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</link>
     <url>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</url>
@@ -4442,8 +4516,9 @@
     <vehicle_id>194b8221-5c27-4cc8-a73b-37d2e96cad28</vehicle_id>
     <vehicle_registration_plate>NJA15Z</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Plus. Miltal: 5 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NJA15Z. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Plus. Miltal: 5 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NJA15Z. Privatleasing från 5 448 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
+    <g:custom_label_1>5448</g:custom_label_1>
     <link>https://goingebil.se/sok/id/194b8221-5c27-4cc8-a73b-37d2e96cad28</link>
     <url>https://goingebil.se/sok/id/194b8221-5c27-4cc8-a73b-37d2e96cad28</url>
     <brand>Volvo</brand>
@@ -7275,8 +7350,8 @@
     <vehicle_id>ad6d50a9-c5ad-43cc-9aae-261df2028f1b</vehicle_id>
     <vehicle_registration_plate>AKG65S</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nordic dCi 95 L2 A G2</title>
-    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Privatleasing från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 275 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 275</g:custom_label_0>
+    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Privatleasing från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 276 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 276</g:custom_label_0>
     <g:custom_label_1>3408</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</link>
     <url>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</url>
@@ -7423,8 +7498,8 @@
     <vehicle_id>f18a3640-1739-4fa2-adbf-c3360f142a00</vehicle_id>
     <vehicle_registration_plate>PUG71Y</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nord dC 95 L2 G2 A II</title>
-    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PUG71Y. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 362 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 362</g:custom_label_0>
+    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PUG71Y. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 363 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 363</g:custom_label_0>
     <g:custom_label_1>3334</g:custom_label_1>
     <link>https://goingebil.se/sok/id/f18a3640-1739-4fa2-adbf-c3360f142a00</link>
     <url>https://goingebil.se/sok/id/f18a3640-1739-4fa2-adbf-c3360f142a00</url>
@@ -7458,8 +7533,8 @@
     <vehicle_id>a94ae943-a8a5-4148-8079-7f2516845235</vehicle_id>
     <vehicle_registration_plate>DWA59D</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nord dC 95 L2 G2 A II</title>
-    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DWA59D. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 362 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 362</g:custom_label_0>
+    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DWA59D. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 363 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 363</g:custom_label_0>
     <g:custom_label_1>3334</g:custom_label_1>
     <link>https://goingebil.se/sok/id/a94ae943-a8a5-4148-8079-7f2516845235</link>
     <url>https://goingebil.se/sok/id/a94ae943-a8a5-4148-8079-7f2516845235</url>
@@ -7560,84 +7635,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>8c12b09e-286c-4944-98c4-c36d38455b95</vehicle_id>
-    <vehicle_registration_plate>ZRA45J</vehicle_registration_plate>
-    <title>Dacia Jogger Extreme 7 platser Kamera/ Lagerbil</title>
-    <description>Extreme 7 platser Kamera/ Lagerbil. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZRA45J. Privatleasing från 3 665 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 420 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 420</g:custom_label_0>
-    <g:custom_label_1>3665</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</link>
-    <url>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/888be843-c7e3-49da-97a4-07b1180d1e13/0c87845b-bea9-40ea-aa26-88ca8e012b9e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Jogger</model>
-    <year>2024</year>
-    <mileage>
-      <value>30</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>309000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>dd80caf5-3420-49a9-8895-e2e7be5372b3</vehicle_id>
-    <vehicle_registration_plate>PNB07E</vehicle_registration_plate>
-    <title>Renault Espace 3.95% KAMPANJRÄNTA 200 Techno A Google Navi/ Adaptiv farth/ 360 Kamera</title>
-    <description>3.95% KAMPANJRÄNTA 200 Techno A Google Navi/ Adaptiv farth/ 360 Kamera. Miltal: 1 205 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: PNB07E. Privatleasing från 4 083 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 437 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 437</g:custom_label_0>
-    <g:custom_label_1>4083</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/dd80caf5-3420-49a9-8895-e2e7be5372b3</link>
-    <url>https://goingebil.se/sok/id/dd80caf5-3420-49a9-8895-e2e7be5372b3</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a28d7d51-2215-4b14-be66-6f1366cf0184/a1dff743-8c9f-441c-b018-d1f3e8f632a8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Espace</model>
-    <year>2024</year>
-    <mileage>
-      <value>12050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
