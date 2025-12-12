@@ -2926,45 +2926,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3dee4da8-51e6-4903-9d0e-9ac04adf7a13</vehicle_id>
-    <vehicle_registration_plate>XAB95X</vehicle_registration_plate>
-    <title>Renault Mégane 3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST</title>
-    <description>3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST. Miltal: 4 194 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: XAB95X. Privatleasing från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
-    <g:custom_label_1>1879</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/3dee4da8-51e6-4903-9d0e-9ac04adf7a13</link>
-    <url>https://goingebil.se/sok/id/3dee4da8-51e6-4903-9d0e-9ac04adf7a13</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/aaf2b062-cbbc-420d-abf9-76f1125a378d/efbb9ae4-988c-46cc-9530-d67c30ce8833?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane</model>
-    <year>2023</year>
-    <mileage>
-      <value>41940</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>179000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>179000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</vehicle_id>
     <vehicle_registration_plate>HWS94A</vehicle_registration_plate>
     <title>Dacia Sandero 3.95% KAMPANJRÄNTA TCe 90 Essential IV</title>
@@ -6395,9 +6356,8 @@
     <vehicle_id>1368260d-c0d2-4a3b-aa18-4b8b834e0467</vehicle_id>
     <vehicle_registration_plate>UEB99P</vehicle_registration_plate>
     <title>Renault 5 E-Tech R5 techno 52kWh *Billån 0% Ränta!!*</title>
-    <description>R5 techno 52kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UEB99P. Privatleasing från 3 874 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 120 dagar sedan.</description>
+    <description>R5 techno 52kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UEB99P. Kontakta oss för mer information om detta fordon. Publicerad för 120 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 120</g:custom_label_0>
-    <g:custom_label_1>3874</g:custom_label_1>
     <link>https://goingebil.se/sok/id/1368260d-c0d2-4a3b-aa18-4b8b834e0467</link>
     <url>https://goingebil.se/sok/id/1368260d-c0d2-4a3b-aa18-4b8b834e0467</url>
     <brand>Renault</brand>
