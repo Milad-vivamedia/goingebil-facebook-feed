@@ -2127,45 +2127,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>0008d461-91c3-486e-b41c-af620b8e4fd9</vehicle_id>
-    <vehicle_registration_plate>PCK54N</vehicle_registration_plate>
-    <title>Renault Clio 3.95% KAMPANJRÄNTA TCe 90 Zen AUT/ Pure Vision LED/ Pekskärm/ PDC bak/ Lane Keep Assist</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 Zen AUT/ Pure Vision LED/ Pekskärm/ PDC bak/ Lane Keep Assist. Utrustningsnivå: Zen. Miltal: 5 972 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PCK54N. Privatleasing från 1 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 18 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 18</g:custom_label_0>
-    <g:custom_label_1>1669</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/0008d461-91c3-486e-b41c-af620b8e4fd9</link>
-    <url>https://goingebil.se/sok/id/0008d461-91c3-486e-b41c-af620b8e4fd9</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9b0c40a2-7a05-469f-9eb1-307a13b63923/462d79aa-754f-442c-b544-ff80aa98b27a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>59720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>159000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>159000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9fd71381-ecdb-494f-8b8a-aa39b1352132</vehicle_id>
     <vehicle_registration_plate>EMU24G</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Panorama/ Drag/ Läderklädsel</title>
@@ -3230,45 +3191,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>399000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>86c086ea-c772-42b3-9199-aada8cd928d7</vehicle_id>
-    <vehicle_registration_plate>TJA05Y</vehicle_registration_plate>
-    <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark 21&quot;/ Drag/ 360/ Navi/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 7 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TJA05Y. Privatleasing från 5 553 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 32</g:custom_label_0>
-    <g:custom_label_1>5553</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/86c086ea-c772-42b3-9199-aada8cd928d7</link>
-    <url>https://goingebil.se/sok/id/86c086ea-c772-42b3-9199-aada8cd928d7</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f52fe0df-b80c-44e3-b144-d4ec242554fb/b85742c5-0b8d-4886-a2c9-b8608772b2af?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>70000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>529000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>529000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6625,9 +6547,8 @@
     <vehicle_id>5981f899-b2ee-4dbb-88c2-2aace621e019</vehicle_id>
     <vehicle_registration_plate>HBP06G</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Core Edition Läder/ Drag /Kamera/ Navi/ El-stolar</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Core Edition Läder/ Drag /Kamera/ Navi/ El-stolar. Utrustningsnivå: Momentum. Miltal: 9 129 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HBP06G. Privatleasing från 4 398 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 130 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Recharge T6 Core Edition Läder/ Drag /Kamera/ Navi/ El-stolar. Utrustningsnivå: Momentum. Miltal: 9 129 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HBP06G. Kontakta oss för mer information om detta fordon. Publicerad för 130 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 130</g:custom_label_0>
-    <g:custom_label_1>4398</g:custom_label_1>
     <link>https://goingebil.se/sok/id/5981f899-b2ee-4dbb-88c2-2aace621e019</link>
     <url>https://goingebil.se/sok/id/5981f899-b2ee-4dbb-88c2-2aace621e019</url>
     <brand>Volvo</brand>
@@ -6820,9 +6741,8 @@
     <vehicle_id>13c753c7-bd9c-4f81-aa91-cc925b698b6d</vehicle_id>
     <vehicle_registration_plate>GAJ63X</vehicle_registration_plate>
     <title>Renault Clio 3.95% KAMPANJRÄNTA phII TCe 90 Evolution Demobil/ Parksensor Bak / Smartphone replikation</title>
-    <description>3.95% KAMPANJRÄNTA phII TCe 90 Evolution Demobil/ Parksensor Bak / Smartphone replikation. Utrustningsnivå: Evolution. Miltal: 76 mil. Årsmodell: 2024. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: GAJ63X. Privatleasing från 2 089 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 147 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA phII TCe 90 Evolution Demobil/ Parksensor Bak / Smartphone replikation. Utrustningsnivå: Evolution. Miltal: 76 mil. Årsmodell: 2024. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: GAJ63X. Kontakta oss för mer information om detta fordon. Publicerad för 147 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 147</g:custom_label_0>
-    <g:custom_label_1>2089</g:custom_label_1>
     <link>https://goingebil.se/sok/id/13c753c7-bd9c-4f81-aa91-cc925b698b6d</link>
     <url>https://goingebil.se/sok/id/13c753c7-bd9c-4f81-aa91-cc925b698b6d</url>
     <brand>Renault</brand>
@@ -7643,6 +7563,84 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>110eed60-e8c4-43af-8077-f15046b38dc2</vehicle_id>
+    <vehicle_registration_plate>WUA08J</vehicle_registration_plate>
+    <title>Volvo XC60 3.95% KAMPANJRÄNTA B4 Bensin Mom Adv Drag/ Kamera/ BLIS/ VOC</title>
+    <description>3.95% KAMPANJRÄNTA B4 Bensin Mom Adv Drag/ Kamera/ BLIS/ VOC. Utrustningsnivå: Momentum. Miltal: 14 590 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WUA08J. Privatleasing från 3 138 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 385 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 385</g:custom_label_0>
+    <g:custom_label_1>3138</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/110eed60-e8c4-43af-8077-f15046b38dc2</link>
+    <url>https://goingebil.se/sok/id/110eed60-e8c4-43af-8077-f15046b38dc2</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4cf4d7b4-8acc-4fa2-b8a0-f6bdebc76ce9/5000d83e-d9f1-4855-bc78-45d48efab2a5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2021</year>
+    <mileage>
+      <value>145900</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>299000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>299000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>8c12b09e-286c-4944-98c4-c36d38455b95</vehicle_id>
+    <vehicle_registration_plate>ZRA45J</vehicle_registration_plate>
+    <title>Dacia Jogger Extreme 7 platser Kamera/ Lagerbil</title>
+    <description>Extreme 7 platser Kamera/ Lagerbil. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZRA45J. Privatleasing från 3 665 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 424 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 424</g:custom_label_0>
+    <g:custom_label_1>3665</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</link>
+    <url>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</url>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/888be843-c7e3-49da-97a4-07b1180d1e13/0c87845b-bea9-40ea-aa26-88ca8e012b9e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Jogger</model>
+    <year>2024</year>
+    <mileage>
+      <value>30</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>309000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>309000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
   </channel>
 </rss>
