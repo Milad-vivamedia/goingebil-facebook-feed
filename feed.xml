@@ -2789,8 +2789,8 @@
     <vehicle_id>57d355f7-58a6-415b-8221-4b68da7eadcb</vehicle_id>
     <vehicle_registration_plate>YFD406</vehicle_registration_plate>
     <title>Volvo XC40 3.95% KAMPANJRÄNTA T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 10 179 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YFD406. Privatleasing från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 28</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 10 179 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YFD406. Privatleasing från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 29 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 29</g:custom_label_0>
     <g:custom_label_1>3243</g:custom_label_1>
     <link>https://goingebil.se/sok/id/57d355f7-58a6-415b-8221-4b68da7eadcb</link>
     <url>https://goingebil.se/sok/id/57d355f7-58a6-415b-8221-4b68da7eadcb</url>
@@ -4715,8 +4715,9 @@
     <vehicle_id>194b8221-5c27-4cc8-a73b-37d2e96cad28</vehicle_id>
     <vehicle_registration_plate>NJA15Z</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Plus. Miltal: 5 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NJA15Z. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Plus. Miltal: 5 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NJA15Z. Privatleasing från 5 238 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
+    <g:custom_label_1>5238</g:custom_label_1>
     <link>https://goingebil.se/sok/id/194b8221-5c27-4cc8-a73b-37d2e96cad28</link>
     <url>https://goingebil.se/sok/id/194b8221-5c27-4cc8-a73b-37d2e96cad28</url>
     <brand>Volvo</brand>
@@ -5423,8 +5424,8 @@
     <price>329000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>329000 SEK</sale_price>
