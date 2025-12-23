@@ -2711,8 +2711,9 @@
     <vehicle_id>1ea7f39e-48e4-498a-8fa0-b0824c3941b3</vehicle_id>
     <vehicle_registration_plate>KEM106</vehicle_registration_plate>
     <title>Volvo XC60 3,95% KAMPANJRÄNTA Recharge T6 Ultimate Dark Nyservad/ Drag/ 360/ H/K/ Navi/ Värmare/ Head up/ Akustikrutor</title>
-    <description>3,95% KAMPANJRÄNTA Recharge T6 Ultimate Dark Nyservad/ Drag/ 360/ H/K/ Navi/ Värmare/ Head up/ Akustikrutor. Utrustningsnivå: R-Design. Miltal: 8 942 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: KEM106. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
+    <description>3,95% KAMPANJRÄNTA Recharge T6 Ultimate Dark Nyservad/ Drag/ 360/ H/K/ Navi/ Värmare/ Head up/ Akustikrutor. Utrustningsnivå: R-Design. Miltal: 8 942 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: KEM106. Privatleasing från 5 448 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
+    <g:custom_label_1>5448</g:custom_label_1>
     <link>https://goingebil.se/sok/id/1ea7f39e-48e4-498a-8fa0-b0824c3941b3</link>
     <url>https://goingebil.se/sok/id/1ea7f39e-48e4-498a-8fa0-b0824c3941b3</url>
     <brand>Volvo</brand>
@@ -6915,7 +6916,7 @@
     <transmission>Automatic</transmission>
     <price>359000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">G��inge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
