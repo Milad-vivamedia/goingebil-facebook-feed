@@ -263,8 +263,8 @@
     <price>381400 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">H��ssleholm</component>
-      <component name="region">H��ssleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>381400 SEK</sale_price>
@@ -1519,8 +1519,9 @@
     <vehicle_id>f17c6a17-e705-4606-8c6b-e43a1a1f45b6</vehicle_id>
     <vehicle_registration_plate>SJB64C</vehicle_registration_plate>
     <title>Renault 4 E-Tech R4 iconic 52kWh / Privtaleasing från 4,389:-</title>
-    <description>R4 iconic 52kWh / Privtaleasing från 4,389:-. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SJB64C. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
+    <description>R4 iconic 52kWh / Privtaleasing från 4,389:-. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SJB64C. Privatleasing från 5 632 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
+    <g:custom_label_1>5632</g:custom_label_1>
     <link>https://goingebil.se/sok/id/f17c6a17-e705-4606-8c6b-e43a1a1f45b6</link>
     <url>https://goingebil.se/sok/id/f17c6a17-e705-4606-8c6b-e43a1a1f45b6</url>
     <brand>Renault</brand>
@@ -6289,8 +6290,9 @@
     <vehicle_id>db081111-2061-40ba-be99-8906e96a9c02</vehicle_id>
     <vehicle_registration_plate>KRA34H</vehicle_registration_plate>
     <title>Suzuki S-Cross 3.95% KAMPANJRÄNTA AGS 115hk Kamera/ Carplay/ Adaptiv farthållare</title>
-    <description>3.95% KAMPANJRÄNTA AGS 115hk Kamera/ Carplay/ Adaptiv farthållare. Miltal: 2 597 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Kontakta oss för mer information om detta fordon. Publicerad för 121 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA AGS 115hk Kamera/ Carplay/ Adaptiv farthållare. Miltal: 2 597 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Privatleasing från 2 928 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 121 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 121</g:custom_label_0>
+    <g:custom_label_1>2928</g:custom_label_1>
     <link>https://goingebil.se/sok/id/db081111-2061-40ba-be99-8906e96a9c02</link>
     <url>https://goingebil.se/sok/id/db081111-2061-40ba-be99-8906e96a9c02</url>
     <brand>Suzuki</brand>
