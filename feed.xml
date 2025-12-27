@@ -1503,8 +1503,8 @@
     <price>324900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">��lmhult</component>
-      <component name="region">��lmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>324900 SEK</sale_price>
@@ -4325,8 +4325,8 @@
     <vehicle_id>93643d88-b4a9-4822-8e5f-a3e920645d45</vehicle_id>
     <vehicle_registration_plate>DDR46C</vehicle_registration_plate>
     <title>BMW 5-serie 3.95% KAMPANJRÄNTA 190hk M Sport Navi/ Kamera/ Värmare/ Connected package</title>
-    <description>3.95% KAMPANJRÄNTA 190hk M Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Privatleasing från 3 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 56 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 56</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 190hk M Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Privatleasing från 3 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 57 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 57</g:custom_label_0>
     <g:custom_label_1>3978</g:custom_label_1>
     <link>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</link>
     <url>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</url>
