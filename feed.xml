@@ -701,45 +701,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>79c287fd-8625-4e71-aedf-a11dd72c93c5</vehicle_id>
-    <vehicle_registration_plate>DNY13D</vehicle_registration_plate>
-    <title>Volvo C40 3.95% KAMPANJRÄNTA Plus Edition Drag/ Navi/ Kamera/ Glastak/ Värmepump/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA Plus Edition Drag/ Navi/ Kamera/ Glastak/ Värmepump/ Tonade rutor. Utrustningsnivå: Plus. Miltal: 3 759 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: DNY13D. Privatleasing från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_1>3873</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/79c287fd-8625-4e71-aedf-a11dd72c93c5</link>
-    <url>https://goingebil.se/sok/id/79c287fd-8625-4e71-aedf-a11dd72c93c5</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e88b6d96-c388-4a73-af60-56a4cb565460/5ecbfaab-15d6-4dab-bd74-8c43d1895a0b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>37590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>333f141c-4562-499d-aa37-b7afc7edf6f0</vehicle_id>
     <vehicle_registration_plate>BJG42D</vehicle_registration_plate>
     <title>Škoda Octavia 2.0 TDI SCR 4X4 / Dragkrok / Backkamera / Värmare</title>
