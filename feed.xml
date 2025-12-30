@@ -649,8 +649,8 @@
     <price>224900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
+      <component name="city">��lmhult</component>
+      <component name="region">��lmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>224900 SEK</sale_price>
@@ -2594,8 +2594,8 @@
     <vehicle_id>57d355f7-58a6-415b-8221-4b68da7eadcb</vehicle_id>
     <vehicle_registration_plate>YFD406</vehicle_registration_plate>
     <title>Volvo XC40 3.95% KAMPANJRÄNTA T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 10 179 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YFD406. Privatleasing från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 36 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 36</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA T5 AWD R-Design Intro Edition Drag/ Läder/ Tonade rutor. Utrustningsnivå: R-Design. Miltal: 10 179 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YFD406. Privatleasing från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 37</g:custom_label_0>
     <g:custom_label_1>3243</g:custom_label_1>
     <link>https://goingebil.se/sok/id/57d355f7-58a6-415b-8221-4b68da7eadcb</link>
     <url>https://goingebil.se/sok/id/57d355f7-58a6-415b-8221-4b68da7eadcb</url>
@@ -3361,8 +3361,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>92deaa93-62a1-4901-8172-6aedd54eecba</vehicle_id>
     <vehicle_registration_plate>JAB65U</vehicle_registration_plate>
-    <title>Volvo C40 3.95% KAMPANJRÄNTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay. Miltal: 5 754 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JAB65U. Privatleasing från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
+    <title>Volvo C40 3.95% KAMPANJR��NTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay</title>
+    <description>3.95% KAMPANJR��NTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay. Miltal: 5 754 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JAB65U. Privatleasing från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 50</g:custom_label_0>
     <g:custom_label_1>3873</g:custom_label_1>
     <link>https://goingebil.se/sok/id/92deaa93-62a1-4901-8172-6aedd54eecba</link>
@@ -4949,9 +4949,8 @@
     <vehicle_id>c9358f55-8bd0-4287-9d5f-e902a52bf6dd</vehicle_id>
     <vehicle_registration_plate>DSG51K</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Base dC 95 L1 G2 II</title>
-    <description>Skåp Base dC 95 L1 G2 II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DSG51K. Privatleasing från 2 964 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 90 dagar sedan.</description>
+    <description>Skåp Base dC 95 L1 G2 II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DSG51K. Kontakta oss för mer information om detta fordon. Publicerad för 90 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 90</g:custom_label_0>
-    <g:custom_label_1>2964</g:custom_label_1>
     <link>https://goingebil.se/sok/id/c9358f55-8bd0-4287-9d5f-e902a52bf6dd</link>
     <url>https://goingebil.se/sok/id/c9358f55-8bd0-4287-9d5f-e902a52bf6dd</url>
     <brand>Renault</brand>
