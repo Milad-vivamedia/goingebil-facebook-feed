@@ -124,45 +124,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>17133b0e-ef7b-407a-a242-6341b872c79c</vehicle_id>
-    <vehicle_registration_plate>KMX545</vehicle_registration_plate>
-    <title>Renault Captur 3.95% KAMPANJRÄNTA PhII Energy TCe 90 Zen</title>
-    <description>3.95% KAMPANJRÄNTA PhII Energy TCe 90 Zen. Miltal: 7 869 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: KMX545. Privatleasing från 1 101 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 8 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 8</g:custom_label_0>
-    <g:custom_label_1>1101</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/17133b0e-ef7b-407a-a242-6341b872c79c</link>
-    <url>https://goingebil.se/sok/id/17133b0e-ef7b-407a-a242-6341b872c79c</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0782c974-3733-475f-8e33-9cb833b60c1e/9471fdc8-c5b4-433f-95e1-7dccd878ef40?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2017</year>
-    <mileage>
-      <value>78690</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>104900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>104900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a2209ce8-6921-41b8-a82d-d09df108a1ec</vehicle_id>
     <vehicle_registration_plate>PGN95K</vehicle_registration_plate>
     <title>Dacia Duster 3.95% KAMPANJRÄNTA PhII 4x2 1,0 TCe 90 Essential Drag/</title>
@@ -649,8 +610,8 @@
     <price>224900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">��lmhult</component>
-      <component name="region">��lmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>224900 SEK</sale_price>
@@ -2033,9 +1994,8 @@
     <vehicle_id>00e2f4f7-ad4e-450c-a554-f9a2d22257a2</vehicle_id>
     <vehicle_registration_plate>HEJ96E</vehicle_registration_plate>
     <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
-    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HEJ96E. Privatleasing från 7 340 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
+    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HEJ96E. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 28</g:custom_label_0>
-    <g:custom_label_1>7340</g:custom_label_1>
     <link>https://goingebil.se/sok/id/00e2f4f7-ad4e-450c-a554-f9a2d22257a2</link>
     <url>https://goingebil.se/sok/id/00e2f4f7-ad4e-450c-a554-f9a2d22257a2</url>
     <brand>Renault</brand>
@@ -2103,9 +2063,8 @@
     <vehicle_id>0ffa8700-a0bb-4108-b880-865c57c6b630</vehicle_id>
     <vehicle_registration_plate>YLM43S</vehicle_registration_plate>
     <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
-    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YLM43S. Privatleasing från 7 340 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
+    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YLM43S. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 28</g:custom_label_0>
-    <g:custom_label_1>7340</g:custom_label_1>
     <link>https://goingebil.se/sok/id/0ffa8700-a0bb-4108-b880-865c57c6b630</link>
     <url>https://goingebil.se/sok/id/0ffa8700-a0bb-4108-b880-865c57c6b630</url>
     <brand>Renault</brand>
@@ -2820,9 +2779,9 @@
     <vehicle_id>54f53b43-d170-4487-9a28-29c305bf6a5e</vehicle_id>
     <vehicle_registration_plate>YWB352</vehicle_registration_plate>
     <title>Volkswagen Transporter 3.95% KAMPANJRÄNTA Highline 4Motion DSG Drag/ Värmare/</title>
-    <description>3.95% KAMPANJRÄNTA Highline 4Motion DSG Drag/ Värmare/. Utrustningsnivå: Highline. Miltal: 18 912 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YWB352. Privatleasing från 3 673 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Highline 4Motion DSG Drag/ Värmare/. Utrustningsnivå: Highline. Miltal: 18 912 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YWB352. Privatleasing från 3 463 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 41</g:custom_label_0>
-    <g:custom_label_1>3673</g:custom_label_1>
+    <g:custom_label_1>3463</g:custom_label_1>
     <link>https://goingebil.se/sok/id/54f53b43-d170-4487-9a28-29c305bf6a5e</link>
     <url>https://goingebil.se/sok/id/54f53b43-d170-4487-9a28-29c305bf6a5e</url>
     <brand>Volkswagen</brand>
@@ -2840,14 +2799,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>349900 SEK</price>
+    <price>329900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>349900 SEK</sale_price>
+    <sale_price>329900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -3361,8 +3320,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>92deaa93-62a1-4901-8172-6aedd54eecba</vehicle_id>
     <vehicle_registration_plate>JAB65U</vehicle_registration_plate>
-    <title>Volvo C40 3.95% KAMPANJR��NTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay</title>
-    <description>3.95% KAMPANJR��NTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay. Miltal: 5 754 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JAB65U. Privatleasing från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
+    <title>Volvo C40 3.95% KAMPANJRÄNTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay</title>
+    <description>3.95% KAMPANJRÄNTA Ultimate/ Värmep/ Klimat-pkt/ Rattv/ LED/ Carplay. Miltal: 5 754 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JAB65U. Privatleasing från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 50</g:custom_label_0>
     <g:custom_label_1>3873</g:custom_label_1>
     <link>https://goingebil.se/sok/id/92deaa93-62a1-4901-8172-6aedd54eecba</link>
@@ -4949,8 +4908,9 @@
     <vehicle_id>c9358f55-8bd0-4287-9d5f-e902a52bf6dd</vehicle_id>
     <vehicle_registration_plate>DSG51K</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Base dC 95 L1 G2 II</title>
-    <description>Skåp Base dC 95 L1 G2 II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DSG51K. Kontakta oss för mer information om detta fordon. Publicerad för 90 dagar sedan.</description>
+    <description>Skåp Base dC 95 L1 G2 II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DSG51K. Privatleasing från 2 964 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 90 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 90</g:custom_label_0>
+    <g:custom_label_1>2964</g:custom_label_1>
     <link>https://goingebil.se/sok/id/c9358f55-8bd0-4287-9d5f-e902a52bf6dd</link>
     <url>https://goingebil.se/sok/id/c9358f55-8bd0-4287-9d5f-e902a52bf6dd</url>
     <brand>Renault</brand>
@@ -5467,45 +5427,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>c35220f4-108a-4d59-9a50-ffd41fc00ced</vehicle_id>
-    <vehicle_registration_plate>ZLZ10M</vehicle_registration_plate>
-    <title>Volvo XC40 3.95% KAMPANJRÄNTA D3 FWD Mom Edt Nyservad/ Navi/ Kamera/ Värmare/ Dynamiska LED</title>
-    <description>3.95% KAMPANJRÄNTA D3 FWD Mom Edt Nyservad/ Navi/ Kamera/ Värmare/ Dynamiska LED. Utrustningsnivå: Momentum Pro. Miltal: 9 111 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ZLZ10M. Privatleasing från 2 928 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 107 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 107</g:custom_label_0>
-    <g:custom_label_1>2928</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/c35220f4-108a-4d59-9a50-ffd41fc00ced</link>
-    <url>https://goingebil.se/sok/id/c35220f4-108a-4d59-9a50-ffd41fc00ced</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9a2b4bb6-5c41-4f53-81fc-0b9748a073a5/19a2b76c-1951-4641-a924-22175d6d0f9f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2019</year>
-    <mileage>
-      <value>91110</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>279000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
