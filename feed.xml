@@ -527,7 +527,7 @@
     <transmission>Manual</transmission>
     <price>109000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1147,7 +1147,7 @@
     <transmission>Manual</transmission>
     <price>139900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil ��lmhult</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -3779,9 +3779,8 @@
     <vehicle_id>5aa2acc7-2712-44ba-9f22-fc2ecf861732</vehicle_id>
     <vehicle_registration_plate>HYN49Z</vehicle_registration_plate>
     <title>BMW X3 3.95% KAMPANJRÄNTA 292hk Skinn/ Drag/ Navi/ Kamera/ Geststyrning</title>
-    <description>3.95% KAMPANJRÄNTA 292hk Skinn/ Drag/ Navi/ Kamera/ Geststyrning. Miltal: 6 120 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HYN49Z. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA 292hk Skinn/ Drag/ Navi/ Kamera/ Geststyrning. Miltal: 6 120 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HYN49Z. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
-    <g:custom_label_1>4188</g:custom_label_1>
     <link>https://goingebil.se/sok/id/5aa2acc7-2712-44ba-9f22-fc2ecf861732</link>
     <url>https://goingebil.se/sok/id/5aa2acc7-2712-44ba-9f22-fc2ecf861732</url>
     <brand>BMW</brand>
@@ -3896,9 +3895,8 @@
     <vehicle_id>93643d88-b4a9-4822-8e5f-a3e920645d45</vehicle_id>
     <vehicle_registration_plate>DDR46C</vehicle_registration_plate>
     <title>BMW 5-serie 3.95% KAMPANJRÄNTA 190hk M Sport Navi/ Kamera/ Värmare/ Connected package</title>
-    <description>3.95% KAMPANJRÄNTA 190hk M Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Privatleasing från 3 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA 190hk M Sport Navi/ Kamera/ Värmare/ Connected package. Utrustningsnivå: M Sport. Miltal: 10 866 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DDR46C. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
-    <g:custom_label_1>3978</g:custom_label_1>
     <link>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</link>
     <url>https://goingebil.se/sok/id/93643d88-b4a9-4822-8e5f-a3e920645d45</url>
     <brand>BMW</brand>
@@ -3935,9 +3933,8 @@
     <vehicle_id>b549384b-d018-4545-9980-e9384fffbc07</vehicle_id>
     <vehicle_registration_plate>PEP44G</vehicle_registration_plate>
     <title>Renault Clio 3.95% KAMPANJRÄNTA TCe 90 Zen X-Tronic 5-d III/ PDC bak/ Farth/ LED</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 Zen X-Tronic 5-d III/ PDC bak/ Farth/ LED. Utrustningsnivå: Zen. Miltal: 2 258 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PEP44G. Privatleasing från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA TCe 90 Zen X-Tronic 5-d III/ PDC bak/ Farth/ LED. Utrustningsnivå: Zen. Miltal: 2 258 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PEP44G. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 64</g:custom_label_0>
-    <g:custom_label_1>1879</g:custom_label_1>
     <link>https://goingebil.se/sok/id/b549384b-d018-4545-9980-e9384fffbc07</link>
     <url>https://goingebil.se/sok/id/b549384b-d018-4545-9980-e9384fffbc07</url>
     <brand>Renault</brand>
@@ -6804,9 +6801,8 @@
     <vehicle_id>e50971a3-f47e-4e90-b4bc-0981566cdab5</vehicle_id>
     <vehicle_registration_plate>JBL39Z</vehicle_registration_plate>
     <title>Renault Captur 3.95% KAMPANJRÄNTA PHEV Zen 160hk CVT/ Navi/ Pekskärm/  LED/ Nyckelkort Handsfree</title>
-    <description>3.95% KAMPANJRÄNTA PHEV Zen 160hk CVT/ Navi/ Pekskärm/  LED/ Nyckelkort Handsfree. Miltal: 4 374 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: JBL39Z. Privatleasing från 2 089 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 350 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA PHEV Zen 160hk CVT/ Navi/ Pekskärm/  LED/ Nyckelkort Handsfree. Miltal: 4 374 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: JBL39Z. Kontakta oss för mer information om detta fordon. Publicerad för 350 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 350</g:custom_label_0>
-    <g:custom_label_1>2089</g:custom_label_1>
     <link>https://goingebil.se/sok/id/e50971a3-f47e-4e90-b4bc-0981566cdab5</link>
     <url>https://goingebil.se/sok/id/e50971a3-f47e-4e90-b4bc-0981566cdab5</url>
     <brand>Renault</brand>
