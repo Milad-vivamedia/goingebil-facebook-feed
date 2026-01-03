@@ -527,7 +527,7 @@
     <transmission>Manual</transmission>
     <price>109000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1147,7 +1147,7 @@
     <transmission>Manual</transmission>
     <price>139900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil ��lmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -6257,7 +6257,7 @@
     <transmission>Automatic</transmission>
     <price>369000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
