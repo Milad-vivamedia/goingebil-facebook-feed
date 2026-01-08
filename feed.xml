@@ -6376,41 +6376,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>599f3e4f-839b-4c85-b9ab-988a68379aa4</vehicle_id>
-    <vehicle_registration_plate>JBE53B</vehicle_registration_plate>
-    <title>Renault Captur phII TCe 90 Evolution KAMPANJ!</title>
-    <description>phII TCe 90 Evolution KAMPANJ!. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: JBE53B. Privatleasing från 2 597 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 232 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 232</g:custom_label_0>
-    <g:custom_label_1>2597</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/599f3e4f-839b-4c85-b9ab-988a68379aa4</link>
-    <url>https://goingebil.se/sok/id/599f3e4f-839b-4c85-b9ab-988a68379aa4</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5a2c7dc1-f8ea-4704-a64a-e160fc9a5758/93746931-70f3-494f-9d85-58ba10c0a14b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>219000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>219000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>746a652a-9291-4f07-b5b6-5801d9d90bcf</vehicle_id>
     <vehicle_registration_plate>BMU82D</vehicle_registration_plate>
     <title>Renault Clio 3.95% KAMPANJRÄNTA TCe 90 Equilibre CVT II 5-d Trådlös Carplay/ Sensorer bak</title>
@@ -6775,7 +6740,7 @@
     <transmission>Automatic</transmission>
     <price>499000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
