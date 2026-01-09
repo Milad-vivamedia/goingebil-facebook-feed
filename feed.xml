@@ -4663,8 +4663,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>516960f5-3ae0-4468-8d13-1ec2c6ee0ea1</vehicle_id>
     <vehicle_registration_plate>RXL46C</vehicle_registration_plate>
-    <title>Volkswagen Arteon 3.95% KAMPANJRÄNTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay. Utrustningsnivå: R-Line. Miltal: 8 956 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RXL46C. Privatleasing från 3 453 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 95 dagar sedan.</description>
+    <title>Volkswagen Arteon 3.95% KAMPANJR��NTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay</title>
+    <description>3.95% KAMPANJR��NTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay. Utrustningsnivå: R-Line. Miltal: 8 956 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RXL46C. Privatleasing från 3 453 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 95 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 95</g:custom_label_0>
     <g:custom_label_1>3453</g:custom_label_1>
     <link>https://goingebil.se/sok/id/516960f5-3ae0-4468-8d13-1ec2c6ee0ea1</link>
@@ -6707,45 +6707,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>499000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>e50971a3-f47e-4e90-b4bc-0981566cdab5</vehicle_id>
-    <vehicle_registration_plate>JBL39Z</vehicle_registration_plate>
-    <title>Renault Captur 3.95% KAMPANJRÄNTA PHEV Zen 160hk CVT/ Navi/ Pekskärm/  LED/ Nyckelkort Handsfree</title>
-    <description>3.95% KAMPANJRÄNTA PHEV Zen 160hk CVT/ Navi/ Pekskärm/  LED/ Nyckelkort Handsfree. Miltal: 4 374 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: JBL39Z. Privatleasing från 2 089 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 357 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 357</g:custom_label_0>
-    <g:custom_label_1>2089</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/e50971a3-f47e-4e90-b4bc-0981566cdab5</link>
-    <url>https://goingebil.se/sok/id/e50971a3-f47e-4e90-b4bc-0981566cdab5</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/04e587be-4bd1-4fa7-be78-f14030933513/e01cbb85-57bc-4680-a8e6-3be5c7049c38?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2022</year>
-    <mileage>
-      <value>43740</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>199000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>199000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
