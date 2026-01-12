@@ -5417,45 +5417,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>09d1fda4-d107-4923-ba1c-6fa889d7f830</vehicle_id>
-    <vehicle_registration_plate>DHX85S</vehicle_registration_plate>
-    <title>Kia Niro 3.95% KAMPANJRÄNTA Plug-in Hybrid Plus 2 Motor &amp; Kupévärmare/ Kamera/ Navi</title>
-    <description>3.95% KAMPANJRÄNTA Plug-in Hybrid Plus 2 Motor &amp; Kupévärmare/ Kamera/ Navi. Utrustningsnivå: Advance Plus. Miltal: 5 513 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DHX85S. Privatleasing från 2 404 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 126 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 126</g:custom_label_0>
-    <g:custom_label_1>2404</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/09d1fda4-d107-4923-ba1c-6fa889d7f830</link>
-    <url>https://goingebil.se/sok/id/09d1fda4-d107-4923-ba1c-6fa889d7f830</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3cf71284-7f6e-40bb-88e7-a854d2099aa5/9a3559a1-9fbd-4965-a4d8-59d21ee0a0b8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Niro</model>
-    <year>2020</year>
-    <mileage>
-      <value>55130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9cc592e3-ea15-4031-9de0-dd9a5657ddf0</vehicle_id>
     <vehicle_registration_plate>ANZ27M</vehicle_registration_plate>
     <title>Audi Q3 3.95% KAMPANJRÄNTA Proline Advanced Elbaklucka/ Carplay</title>
