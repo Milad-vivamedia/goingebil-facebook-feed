@@ -163,84 +163,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>29ea4517-c226-4edd-ae02-41b8ca7c7a3a</vehicle_id>
-    <vehicle_registration_plate>LWJ27N</vehicle_registration_plate>
-    <title>Volvo XC40 B4 FWD Bensin Core SE</title>
-    <description>B4 FWD Bensin Core SE. Utrustningsnivå: Core. Miltal: 5 085 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LWJ27N. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_1>3558</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/29ea4517-c226-4edd-ae02-41b8ca7c7a3a</link>
-    <url>https://goingebil.se/sok/id/29ea4517-c226-4edd-ae02-41b8ca7c7a3a</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5dd30774-f937-46b1-8378-b0870e95f5ff/76ce14d9-6639-47d8-adac-b92f733afcc9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>50850</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>339000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>339000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>82101a09-502f-450a-8497-3684805bda90</vehicle_id>
-    <vehicle_registration_plate>HBD18T</vehicle_registration_plate>
-    <title>Volvo V90 3.95% KAMPANJRÄNTA D4 AWD Advanced SE II</title>
-    <description>3.95% KAMPANJRÄNTA D4 AWD Advanced SE II. Utrustningsnivå: Momentum. Miltal: 21 892 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HBD18T. Privatleasing från 2 509 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_1>2509</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/82101a09-502f-450a-8497-3684805bda90</link>
-    <url>https://goingebil.se/sok/id/82101a09-502f-450a-8497-3684805bda90</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e2708d6c-f3bd-49cf-8352-d05301946120/e3d208a1-d4ea-4b55-9efb-4ab133eb3943?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2020</year>
-    <mileage>
-      <value>218920</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>239000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>239000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>8e571154-68ae-494c-bde4-d1f0bc71d622</vehicle_id>
     <vehicle_registration_plate>CLH23G</vehicle_registration_plate>
     <title>Renault Scenic E-Tech Scénic Electric techno 87kWh/220hk</title>
@@ -653,8 +575,8 @@
     <price>149000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>149000 SEK</sale_price>
