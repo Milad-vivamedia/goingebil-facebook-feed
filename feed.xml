@@ -1500,45 +1500,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2e4f4d18-0390-4227-a104-75e6b64a8e24</vehicle_id>
-    <vehicle_registration_plate>PAS71F</vehicle_registration_plate>
-    <title>Renault Captur 3.95% KAMPANJRÄNTA TCe 140 Equilibre EDC</title>
-    <description>3.95% KAMPANJRÄNTA TCe 140 Equilibre EDC. Miltal: 4 333 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PAS71F. Privatleasing från 2 089 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
-    <g:custom_label_1>2089</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/2e4f4d18-0390-4227-a104-75e6b64a8e24</link>
-    <url>https://goingebil.se/sok/id/2e4f4d18-0390-4227-a104-75e6b64a8e24</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f9f6c5b6-a8ee-4c32-918d-957fb6c0852f/3f73b0d4-f34d-4c97-b137-5cfb08900f50?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2023</year>
-    <mileage>
-      <value>43330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>199000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>199000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>2d77b9a0-6ef6-457c-bd61-7286a4c81e52</vehicle_id>
     <vehicle_registration_plate>TFH95F</vehicle_registration_plate>
     <title>Dacia Bigster extreme</title>
@@ -2642,45 +2603,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>68934a87-44d7-4157-84b9-a5b2a8d226f1</vehicle_id>
-    <vehicle_registration_plate>PFA17K</vehicle_registration_plate>
-    <title>Volkswagen Tiguan 3.95% KAMPANJRÄNTA 1.4 TSI DSG 245hk Drag/ Elstol/ Matrix</title>
-    <description>3.95% KAMPANJRÄNTA 1.4 TSI DSG 245hk Drag/ Elstol/ Matrix. Utrustningsnivå: Elegance. Miltal: 4 072 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: PFA17K. Privatleasing från 3 768 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
-    <g:custom_label_1>3768</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/68934a87-44d7-4157-84b9-a5b2a8d226f1</link>
-    <url>https://goingebil.se/sok/id/68934a87-44d7-4157-84b9-a5b2a8d226f1</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4fda62e9-b22f-4d29-9d23-c0c94d38a885/c617d766-288b-4baf-9c24-501c395dbb15?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Tiguan</model>
-    <year>2023</year>
-    <mileage>
-      <value>40720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -4774,45 +4696,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>088a4acc-e065-41a2-8a49-2fdcc7901090</vehicle_id>
-    <vehicle_registration_plate>MTN00L</vehicle_registration_plate>
-    <title>Volvo V60 3.95% KAMPANJRÄNTA Recharge T6 Ins Expr Drag/ Navi/ Kamera/ H/K/ BLIS/ Tonade</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Ins Expr Drag/ Navi/ Kamera/ H/K/ BLIS/ Tonade. Utrustningsnivå: Inscription Expression. Miltal: 7 972 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: MTN00L. Privatleasing från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 85 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 85</g:custom_label_0>
-    <g:custom_label_1>3348</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/088a4acc-e065-41a2-8a49-2fdcc7901090</link>
-    <url>https://goingebil.se/sok/id/088a4acc-e065-41a2-8a49-2fdcc7901090</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3de4e189-2f8c-4476-aafa-25221b254cf4/7b8bf13f-b66d-48f6-a311-ab44e8de1696?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2021</year>
-    <mileage>
-      <value>79720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>11913284-abed-4a03-ae77-d4c1799624b6</vehicle_id>
     <vehicle_registration_plate>DTS23T</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Tonade rutor</title>
@@ -6793,45 +6676,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>da0631c5-f618-416a-992c-45cb658eb9ea</vehicle_id>
-    <vehicle_registration_plate>BLC28F</vehicle_registration_plate>
-    <title>Renault Espace 3.95% KAMPANJRÄNTA 200 Iconic A Drag /Glastak /Kamera /LED Matrix</title>
-    <description>3.95% KAMPANJRÄNTA 200 Iconic A Drag /Glastak /Kamera /LED Matrix. Miltal: 2 075 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: BLC28F. Privatleasing från 4 083 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 290 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 290</g:custom_label_0>
-    <g:custom_label_1>4083</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/da0631c5-f618-416a-992c-45cb658eb9ea</link>
-    <url>https://goingebil.se/sok/id/da0631c5-f618-416a-992c-45cb658eb9ea</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/25b93d0c-a163-4740-9d63-fae8ababa5e9/81fc9d9d-b31b-4b6e-bde5-c2f3c7732ce7?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Espace</model>
-    <year>2024</year>
-    <mileage>
-      <value>20750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
