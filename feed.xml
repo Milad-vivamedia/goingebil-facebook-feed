@@ -4622,45 +4622,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>194b8221-5c27-4cc8-a73b-37d2e96cad28</vehicle_id>
-    <vehicle_registration_plate>NJA15Z</vehicle_registration_plate>
-    <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Plus. Miltal: 5 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NJA15Z. Privatleasing från 5 238 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 90 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 90</g:custom_label_0>
-    <g:custom_label_1>5238</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/194b8221-5c27-4cc8-a73b-37d2e96cad28</link>
-    <url>https://goingebil.se/sok/id/194b8221-5c27-4cc8-a73b-37d2e96cad28</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f6e4cef3-95e4-4470-8d71-8fe7350d0d9a/3b5536f7-2cb7-4b56-bc29-7b0895d29513?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>54270</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>499000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>499000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1bec2743-534b-4605-9c36-18efae1b33d4</vehicle_id>
     <vehicle_registration_plate>FLR76N</vehicle_registration_plate>
     <title>BMW 1-serie 3.95% KAMPANJRÄNTA Steptronic 150hk M Sport Dragkrok/ Navi/ M Misano blå metallic</title>
