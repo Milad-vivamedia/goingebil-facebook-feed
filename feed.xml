@@ -151,50 +151,11 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>92b6463f-e9b0-415f-8505-aac777a007f4</vehicle_id>
-    <vehicle_registration_plate>MXP21L</vehicle_registration_plate>
-    <title>Dacia Duster PhII 4x4 1,5 dCi 115 Prestige</title>
-    <description>PhII 4x4 1,5 dCi 115 Prestige. Miltal: 2 625 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: MXP21L. Privatleasing från 2 614 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
-    <g:custom_label_1>2614</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/92b6463f-e9b0-415f-8505-aac777a007f4</link>
-    <url>https://goingebil.se/sok/id/92b6463f-e9b0-415f-8505-aac777a007f4</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/48193f1e-4ddc-4292-b999-dbf664df6779/e7c9fcb8-4971-4b2a-a6aa-65d2b54cd520?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Duster</model>
-    <year>2023</year>
-    <mileage>
-      <value>26250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>249000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>249000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ac81bfd8-cca4-45ec-820a-5a6e54136f7e</vehicle_id>
     <vehicle_registration_plate>TBN816</vehicle_registration_plate>
     <title>Volvo S90 3.95% KAMPANJRÄNTA D4 Mom Adv Edt Dragkrok/ Dynamisk led/ Värmare</title>
-    <description>3.95% KAMPANJRÄNTA D4 Mom Adv Edt Dragkrok/ Dynamisk led/ Värmare. Utrustningsnivå: Momentum. Miltal: 13 797 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: TBN816. Privatleasing från 2 518 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA D4 Mom Adv Edt Dragkrok/ Dynamisk led/ Värmare. Utrustningsnivå: Momentum. Miltal: 13 797 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: TBN816. Privatleasing från 2 518 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
     <g:custom_label_1>2518</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ac81bfd8-cca4-45ec-820a-5a6e54136f7e</link>
     <url>https://goingebil.se/sok/id/ac81bfd8-cca4-45ec-820a-5a6e54136f7e</url>
@@ -1351,8 +1312,8 @@
     <vehicle_id>6667483f-44de-4664-a5ef-eda1d2437835</vehicle_id>
     <vehicle_registration_plate>DXJ06G</vehicle_registration_plate>
     <title>Renault 4 E-Tech R4 techno 52kWh</title>
-    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: DXJ06G. Privatleasing från 5 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 16 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 16</g:custom_label_0>
+    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: DXJ06G. Privatleasing från 5 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 17 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 17</g:custom_label_0>
     <g:custom_label_1>5194</g:custom_label_1>
     <link>https://goingebil.se/sok/id/6667483f-44de-4664-a5ef-eda1d2437835</link>
     <url>https://goingebil.se/sok/id/6667483f-44de-4664-a5ef-eda1d2437835</url>
@@ -1386,8 +1347,8 @@
     <vehicle_id>7fe872c2-a70e-49b3-8d34-6260ed0969d1</vehicle_id>
     <vehicle_registration_plate>BGB38T</vehicle_registration_plate>
     <title>Renault Mégane 3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST / Park sernsorer fram o bak / multimediasystem</title>
-    <description>3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST / Park sernsorer fram o bak / multimediasystem. Miltal: 3 000 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: BGB38T. Privatleasing från 1 993 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST / Park sernsorer fram o bak / multimediasystem. Miltal: 3 000 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: BGB38T. Privatleasing från 1 993 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
     <g:custom_label_1>1993</g:custom_label_1>
     <link>https://goingebil.se/sok/id/7fe872c2-a70e-49b3-8d34-6260ed0969d1</link>
     <url>https://goingebil.se/sok/id/7fe872c2-a70e-49b3-8d34-6260ed0969d1</url>
@@ -1473,41 +1434,6 @@
     <make>Dacia</make>
     <image>
       <url>https://cdn.wayke.se/cfit/b767c100-781d-436c-b713-5295aaa21d7d/8288e26d-7992-41e7-8f3b-ce6e9bd8cdcb?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Bigster</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>381400 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>381400 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>cff673c5-8e31-42df-b838-90880072bb50</vehicle_id>
-    <vehicle_registration_plate>HGE32E</vehicle_registration_plate>
-    <title>Dacia Bigster extreme</title>
-    <description>extreme. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: HGE32E. Privatleasing från 4 523 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 31 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 31</g:custom_label_0>
-    <g:custom_label_1>4523</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/cff673c5-8e31-42df-b838-90880072bb50</link>
-    <url>https://goingebil.se/sok/id/cff673c5-8e31-42df-b838-90880072bb50</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/92317147-0614-4360-9828-260a666e5499/92b99997-ea92-4ae3-af35-d8aa8c5ecbe9?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Bigster</model>
@@ -1729,8 +1655,8 @@
     <vehicle_id>19761aee-ac79-4cdf-a6e1-8d499eb9cd18</vehicle_id>
     <vehicle_registration_plate>PAM15X</vehicle_registration_plate>
     <title>Peugeot 5008 3.95% KAMPANJRÄNTA GT-Line Drag/ 7-sits/ Led</title>
-    <description>3.95% KAMPANJRÄNTA GT-Line Drag/ 7-sits/ Led. Miltal: 10 460 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PAM15X. Privatleasing från 2 361 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 33 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 33</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA GT-Line Drag/ 7-sits/ Led. Miltal: 10 460 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PAM15X. Privatleasing från 2 361 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 34 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 34</g:custom_label_0>
     <g:custom_label_1>2361</g:custom_label_1>
     <link>https://goingebil.se/sok/id/19761aee-ac79-4cdf-a6e1-8d499eb9cd18</link>
     <url>https://goingebil.se/sok/id/19761aee-ac79-4cdf-a6e1-8d499eb9cd18</url>
@@ -2115,8 +2041,8 @@
     <vehicle_id>0b4fb165-a800-4872-ba12-d2b813a0cc01</vehicle_id>
     <vehicle_registration_plate>WAC36X</vehicle_registration_plate>
     <title>Volvo V60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Pano/ 360/ H/K/ Tonade rutor</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Pano/ 360/ H/K/ Tonade rutor. Utrustningsnivå: Plus. Miltal: 4 325 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAC36X. Privatleasing från 4 503 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 41</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Pano/ 360/ H/K/ Tonade rutor. Utrustningsnivå: Plus. Miltal: 4 325 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAC36X. Privatleasing från 4 503 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 42 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 42</g:custom_label_0>
     <g:custom_label_1>4503</g:custom_label_1>
     <link>https://goingebil.se/sok/id/0b4fb165-a800-4872-ba12-d2b813a0cc01</link>
     <url>https://goingebil.se/sok/id/0b4fb165-a800-4872-ba12-d2b813a0cc01</url>
@@ -2571,8 +2497,8 @@
     <vehicle_id>dc77201e-4a96-41fc-bca3-ae076cb61b0e</vehicle_id>
     <vehicle_registration_plate>BDG93S</vehicle_registration_plate>
     <title>Renault Austral 3.95% KAMPANJRÄNTA 200 Techno A</title>
-    <description>3.95% KAMPANJRÄNTA 200 Techno A. Miltal: 1 334 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: BDG93S. Privatleasing från 3 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 46</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 200 Techno A. Miltal: 1 334 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: BDG93S. Privatleasing från 3 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
     <g:custom_label_1>3978</g:custom_label_1>
     <link>https://goingebil.se/sok/id/dc77201e-4a96-41fc-bca3-ae076cb61b0e</link>
     <url>https://goingebil.se/sok/id/dc77201e-4a96-41fc-bca3-ae076cb61b0e</url>
@@ -3081,8 +3007,8 @@
     <vehicle_id>afc38905-e7b6-4246-8b35-545f32327d5a</vehicle_id>
     <vehicle_registration_plate>YAH130</vehicle_registration_plate>
     <title>Renault Captur 3.95% KAMPANJRÄNTA TCe 120 EDC Dynamique A 5-d II/ Citypaket/ Nkl kort/ PDC bak</title>
-    <description>3.95% KAMPANJRÄNTA TCe 120 EDC Dynamique A 5-d II/ Citypaket/ Nkl kort/ PDC bak. Miltal: 12 708 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YAH130. Privatleasing från 1 249 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 52 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 52</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA TCe 120 EDC Dynamique A 5-d II/ Citypaket/ Nkl kort/ PDC bak. Miltal: 12 708 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YAH130. Privatleasing från 1 249 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 53 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 53</g:custom_label_0>
     <g:custom_label_1>1249</g:custom_label_1>
     <link>https://goingebil.se/sok/id/afc38905-e7b6-4246-8b35-545f32327d5a</link>
     <url>https://goingebil.se/sok/id/afc38905-e7b6-4246-8b35-545f32327d5a</url>
@@ -3580,8 +3506,8 @@
     <vehicle_id>b3701a62-5fcd-4b19-b94e-3d321a677c24</vehicle_id>
     <vehicle_registration_plate>OFK33W</vehicle_registration_plate>
     <title>Volkswagen Tiguan 3.95% KAMPANJRÄNTA 1.4 TSI DSG 245hk Drag/ Navi/ Kamera/ ergoActive/ LED Matrix/ IQ.Light</title>
-    <description>3.95% KAMPANJRÄNTA 1.4 TSI DSG 245hk Drag/ Navi/ Kamera/ ergoActive/ LED Matrix/ IQ.Light. Utrustningsnivå: Elegance. Miltal: 5 808 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OFK33W. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 1.4 TSI DSG 245hk Drag/ Navi/ Kamera/ ergoActive/ LED Matrix/ IQ.Light. Utrustningsnivå: Elegance. Miltal: 5 808 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OFK33W. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
     <g:custom_label_1>3663</g:custom_label_1>
     <link>https://goingebil.se/sok/id/b3701a62-5fcd-4b19-b94e-3d321a677c24</link>
     <url>https://goingebil.se/sok/id/b3701a62-5fcd-4b19-b94e-3d321a677c24</url>
@@ -3619,8 +3545,8 @@
     <vehicle_id>c5470729-2ebc-4c3a-8772-31d92b687ee9</vehicle_id>
     <vehicle_registration_plate>WAB87J</vehicle_registration_plate>
     <title>Polestar 2 3.95% KAMPANJRÄNTA 69kWh Pilot Lite/ 360 kamera/ Navi/ Parkeringsklimat</title>
-    <description>3.95% KAMPANJRÄNTA 69kWh Pilot Lite/ 360 kamera/ Navi/ Parkeringsklimat. Miltal: 2 342 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAB87J. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 69kWh Pilot Lite/ 360 kamera/ Navi/ Parkeringsklimat. Miltal: 2 342 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAB87J. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
     <g:custom_label_1>3558</g:custom_label_1>
     <link>https://goingebil.se/sok/id/c5470729-2ebc-4c3a-8772-31d92b687ee9</link>
     <url>https://goingebil.se/sok/id/c5470729-2ebc-4c3a-8772-31d92b687ee9</url>
@@ -3658,8 +3584,8 @@
     <vehicle_id>1ff3ac0c-757f-400a-a8ee-b39fdf077e13</vehicle_id>
     <vehicle_registration_plate>NFD97G</vehicle_registration_plate>
     <title>XPENG G6 Drag Panorama</title>
-    <description>Drag Panorama. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: NFD97G. Privatleasing från 6 544 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
+    <description>Drag Panorama. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: NFD97G. Privatleasing från 6 544 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
     <g:custom_label_1>6544</g:custom_label_1>
     <link>https://goingebil.se/sok/id/1ff3ac0c-757f-400a-a8ee-b39fdf077e13</link>
     <url>https://goingebil.se/sok/id/1ff3ac0c-757f-400a-a8ee-b39fdf077e13</url>
@@ -3693,8 +3619,8 @@
     <vehicle_id>3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</vehicle_id>
     <vehicle_registration_plate>HWS94A</vehicle_registration_plate>
     <title>Dacia Sandero 3.95% KAMPANJRÄNTA TCe 90 Essential IV</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 Essential IV. Miltal: 4 101 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: HWS94A. Privatleasing från 1 249 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 65 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 65</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA TCe 90 Essential IV. Miltal: 4 101 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: HWS94A. Privatleasing från 1 249 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
     <g:custom_label_1>1249</g:custom_label_1>
     <link>https://goingebil.se/sok/id/3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</link>
     <url>https://goingebil.se/sok/id/3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</url>
@@ -4005,8 +3931,8 @@
     <vehicle_id>a3f158b2-74f3-4ac1-a15a-b55466e9daf1</vehicle_id>
     <vehicle_registration_plate>UGF53B</vehicle_registration_plate>
     <title>Dacia Sandero TCe 90 extreme A / Privatleasing från 2,590:-</title>
-    <description>TCe 90 extreme A / Privatleasing från 2,590:-. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UGF53B. Privatleasing från 3 056 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 74 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 74</g:custom_label_0>
+    <description>TCe 90 extreme A / Privatleasing från 2,590:-. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UGF53B. Privatleasing från 3 056 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 75 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 75</g:custom_label_0>
     <g:custom_label_1>3056</g:custom_label_1>
     <link>https://goingebil.se/sok/id/a3f158b2-74f3-4ac1-a15a-b55466e9daf1</link>
     <url>https://goingebil.se/sok/id/a3f158b2-74f3-4ac1-a15a-b55466e9daf1</url>
@@ -4309,8 +4235,8 @@
     <vehicle_id>02d05566-f644-4989-b608-a4297726ec4b</vehicle_id>
     <vehicle_registration_plate>GFD29T</vehicle_registration_plate>
     <title>Opel Combo e- Business L2 50Kw</title>
-    <description>e- Business L2 50Kw. Miltal: 831 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: GFD29T. Privatleasing från 2 742 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 76 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 76</g:custom_label_0>
+    <description>e- Business L2 50Kw. Miltal: 831 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: GFD29T. Privatleasing från 2 742 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 77 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 77</g:custom_label_0>
     <g:custom_label_1>2742</g:custom_label_1>
     <link>https://goingebil.se/sok/id/02d05566-f644-4989-b608-a4297726ec4b</link>
     <url>https://goingebil.se/sok/id/02d05566-f644-4989-b608-a4297726ec4b</url>
@@ -4387,9 +4313,9 @@
     <vehicle_id>473eec6f-6667-4651-8263-989f870d62bf</vehicle_id>
     <vehicle_registration_plate>XGP96J</vehicle_registration_plate>
     <title>Ford Mustang Mach-E 3.95% KAMPANJRÄNTA / Panorama / 360 kamera / Nybilsgaranti/ El-Stolar</title>
-    <description>3.95% KAMPANJRÄNTA / Panorama / 360 kamera / Nybilsgaranti/ El-Stolar. Utrustningsnivå: GT. Miltal: 2 444 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: XGP96J. Privatleasing från 5 972 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA / Panorama / 360 kamera / Nybilsgaranti/ El-Stolar. Utrustningsnivå: GT. Miltal: 2 444 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: XGP96J. Privatleasing från 5 658 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 80</g:custom_label_0>
-    <g:custom_label_1>5972</g:custom_label_1>
+    <g:custom_label_1>5658</g:custom_label_1>
     <link>https://goingebil.se/sok/id/473eec6f-6667-4651-8263-989f870d62bf</link>
     <url>https://goingebil.se/sok/id/473eec6f-6667-4651-8263-989f870d62bf</url>
     <brand>Ford</brand>
@@ -4407,14 +4333,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>569000 SEK</price>
+    <price>539000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>569000 SEK</sale_price>
+    <sale_price>539000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -4816,8 +4742,8 @@
     <vehicle_id>578e7dc9-e047-4642-bf2f-01980d37b305</vehicle_id>
     <vehicle_registration_plate>BNA28S</vehicle_registration_plate>
     <title>Renault Austral 3.95% KAMPANJRÄNTA TCe 160 Techno A Drag/ Kamera/ Navi/ Adaptiv farthållare</title>
-    <description>3.95% KAMPANJRÄNTA TCe 160 Techno A Drag/ Kamera/ Navi/ Adaptiv farthållare. Utrustningsnivå: Techno. Miltal: 415 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BNA28S. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 100 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 100</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA TCe 160 Techno A Drag/ Kamera/ Navi/ Adaptiv farthållare. Utrustningsnivå: Techno. Miltal: 415 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BNA28S. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 101 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 101</g:custom_label_0>
     <g:custom_label_1>3558</g:custom_label_1>
     <link>https://goingebil.se/sok/id/578e7dc9-e047-4642-bf2f-01980d37b305</link>
     <url>https://goingebil.se/sok/id/578e7dc9-e047-4642-bf2f-01980d37b305</url>
@@ -4972,8 +4898,8 @@
     <vehicle_id>516960f5-3ae0-4468-8d13-1ec2c6ee0ea1</vehicle_id>
     <vehicle_registration_plate>RXL46C</vehicle_registration_plate>
     <title>Volkswagen Arteon 3.95% KAMPANJRÄNTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay. Utrustningsnivå: R-Line. Miltal: 8 956 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RXL46C. Privatleasing från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 104 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 104</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 2.0 TDI 4M DSG Drag/ Kamera/ Carplay. Utrustningsnivå: R-Line. Miltal: 8 956 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RXL46C. Privatleasing från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 105 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 105</g:custom_label_0>
     <g:custom_label_1>3243</g:custom_label_1>
     <link>https://goingebil.se/sok/id/516960f5-3ae0-4468-8d13-1ec2c6ee0ea1</link>
     <url>https://goingebil.se/sok/id/516960f5-3ae0-4468-8d13-1ec2c6ee0ea1</url>
@@ -5420,8 +5346,8 @@
     <vehicle_id>4451aa41-94a2-449d-b374-51683720175c</vehicle_id>
     <vehicle_registration_plate>APC72E</vehicle_registration_plate>
     <title>Renault 5 E-Tech R5 techno 52kWh *Billån 0% Ränta!!*</title>
-    <description>R5 techno 52kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: APC72E. Privatleasing från 3 828 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 121 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 121</g:custom_label_0>
+    <description>R5 techno 52kWh *Billån 0% Ränta!!*. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: APC72E. Privatleasing från 3 828 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 122 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 122</g:custom_label_0>
     <g:custom_label_1>3828</g:custom_label_1>
     <link>https://goingebil.se/sok/id/4451aa41-94a2-449d-b374-51683720175c</link>
     <url>https://goingebil.se/sok/id/4451aa41-94a2-449d-b374-51683720175c</url>
@@ -5572,8 +5498,8 @@
     <vehicle_id>9cc592e3-ea15-4031-9de0-dd9a5657ddf0</vehicle_id>
     <vehicle_registration_plate>ANZ27M</vehicle_registration_plate>
     <title>Audi Q3 3.95% KAMPANJRÄNTA Proline Advanced Elbaklucka/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA Proline Advanced Elbaklucka/ Carplay. Utrustningsnivå: Proline Advanced. Miltal: 6 800 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: ANZ27M. Privatleasing från 3 138 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 135 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 135</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA Proline Advanced Elbaklucka/ Carplay. Utrustningsnivå: Proline Advanced. Miltal: 6 800 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: ANZ27M. Privatleasing från 3 138 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 136 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 136</g:custom_label_0>
     <g:custom_label_1>3138</g:custom_label_1>
     <link>https://goingebil.se/sok/id/9cc592e3-ea15-4031-9de0-dd9a5657ddf0</link>
     <url>https://goingebil.se/sok/id/9cc592e3-ea15-4031-9de0-dd9a5657ddf0</url>
@@ -5689,8 +5615,8 @@
     <vehicle_id>a926d77e-4135-4551-bad6-362cdcd34654</vehicle_id>
     <vehicle_registration_plate>WAY85K</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé 3.95% KAMPANJRÄNTA M-sport/ Kamera/ Navi/ Laddhybrid</title>
-    <description>3.95% KAMPANJRÄNTA M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAY85K. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 139 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 139</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAY85K. Privatleasing från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 140 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 140</g:custom_label_0>
     <g:custom_label_1>3663</g:custom_label_1>
     <link>https://goingebil.se/sok/id/a926d77e-4135-4551-bad6-362cdcd34654</link>
     <url>https://goingebil.se/sok/id/a926d77e-4135-4551-bad6-362cdcd34654</url>
@@ -6184,8 +6110,8 @@
     <vehicle_id>c4bae23c-8394-4bed-a95c-1360d23203fe</vehicle_id>
     <vehicle_registration_plate>OFK33M</vehicle_registration_plate>
     <title>Volkswagen Golf 3.95% KAMPANJRÄNTA 1.5 DSG 131hk Kamera/ Navi/ Rattvärme</title>
-    <description>3.95% KAMPANJRÄNTA 1.5 DSG 131hk Kamera/ Navi/ Rattvärme. Utrustningsnivå: Base. Miltal: 2 616 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: OFK33M. Privatleasing från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 186 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 186</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 1.5 DSG 131hk Kamera/ Navi/ Rattvärme. Utrustningsnivå: Base. Miltal: 2 616 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: OFK33M. Privatleasing från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 187 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 187</g:custom_label_0>
     <g:custom_label_1>2719</g:custom_label_1>
     <link>https://goingebil.se/sok/id/c4bae23c-8394-4bed-a95c-1360d23203fe</link>
     <url>https://goingebil.se/sok/id/c4bae23c-8394-4bed-a95c-1360d23203fe</url>
