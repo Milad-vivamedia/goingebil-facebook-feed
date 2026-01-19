@@ -7,6 +7,84 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>02a1f92c-6e32-4259-a19e-a9cae318c878</vehicle_id>
+    <vehicle_registration_plate>EXL25C</vehicle_registration_plate>
+    <title>Volvo V60 Recharge T6 II Core Edition/Kamera/BLIS/Dragkrok/Navi</title>
+    <description>Recharge T6 II Core Edition/Kamera/BLIS/Dragkrok/Navi. Utrustningsnivå: Core. Miltal: 4 069 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: EXL25C. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_1>4188</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/02a1f92c-6e32-4259-a19e-a9cae318c878</link>
+    <url>https://goingebil.se/sok/id/02a1f92c-6e32-4259-a19e-a9cae318c878</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f119c77c-6df7-4f00-8458-915c6946c5fc/24aec5d1-bcc4-4aa1-97fd-94fdc4a9cf3e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2024</year>
+    <mileage>
+      <value>40690</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>399000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>399000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>38453dfe-206b-4d46-a1b0-3937e45c37b0</vehicle_id>
+    <vehicle_registration_plate>DOS257</vehicle_registration_plate>
+    <title>Volvo XC90 D5 AWD Inscription 7-säten, Drag, B&amp;W, Luft, Pano</title>
+    <description>D5 AWD Inscription 7-säten, Drag, B&amp;W, Luft, Pano. Utrustningsnivå: Inscription. Miltal: 12 700 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DOS257. Privatleasing från 3 768 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_1>3768</g:custom_label_1>
+    <link>https://goingebil.se/sok/id/38453dfe-206b-4d46-a1b0-3937e45c37b0</link>
+    <url>https://goingebil.se/sok/id/38453dfe-206b-4d46-a1b0-3937e45c37b0</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4780f5d7-8b7f-4bbe-92a3-2334e8cbe15a/096b2a8b-ec0f-454b-b802-50dd6d593c25?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2016</year>
+    <mileage>
+      <value>127000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>359000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>359000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>0bbfadb9-e457-483d-927d-194796935182</vehicle_id>
     <vehicle_registration_plate>RCC83Y</vehicle_registration_plate>
     <title>Renault Scenic E-Tech Scénic Electric evolution+ 60kWh/170 II Privatleasing från 3990kr/mån</title>
@@ -1616,8 +1694,8 @@
     <vehicle_id>5d5734ff-8095-4714-9cc6-addffdacfa72</vehicle_id>
     <vehicle_registration_plate>ZYJ41C</vehicle_registration_plate>
     <title>Volvo V60 3.95% KAMPANJRÄNTA D4 Mom Adv Edt Drag/ Navi/ BLIS/ Värmare</title>
-    <description>3.95% KAMPANJRÄNTA D4 Mom Adv Edt Drag/ Navi/ BLIS/ Värmare. Utrustningsnivå: Momentum. Miltal: 11 955 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ZYJ41C. Privatleasing från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 33 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 33</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA D4 Mom Adv Edt Drag/ Navi/ BLIS/ Värmare. Utrustningsnivå: Momentum. Miltal: 11 955 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ZYJ41C. Privatleasing från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 34 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 34</g:custom_label_0>
     <g:custom_label_1>2719</g:custom_label_1>
     <link>https://goingebil.se/sok/id/5d5734ff-8095-4714-9cc6-addffdacfa72</link>
     <url>https://goingebil.se/sok/id/5d5734ff-8095-4714-9cc6-addffdacfa72</url>
@@ -1733,8 +1811,8 @@
     <vehicle_id>333f141c-4562-499d-aa37-b7afc7edf6f0</vehicle_id>
     <vehicle_registration_plate>BJG42D</vehicle_registration_plate>
     <title>Škoda Octavia 3.95% KAMPANJRÄNTA 2.0 TDI 4X4 / Dragkrok / Backkamera / Värmare</title>
-    <description>3.95% KAMPANJRÄNTA 2.0 TDI 4X4 / Dragkrok / Backkamera / Värmare. Utrustningsnivå: Style. Miltal: 5 748 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BJG42D. Privatleasing från 3 453 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 34 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 34</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 2.0 TDI 4X4 / Dragkrok / Backkamera / Värmare. Utrustningsnivå: Style. Miltal: 5 748 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BJG42D. Privatleasing från 3 453 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 35 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 35</g:custom_label_0>
     <g:custom_label_1>3453</g:custom_label_1>
     <link>https://goingebil.se/sok/id/333f141c-4562-499d-aa37-b7afc7edf6f0</link>
     <url>https://goingebil.se/sok/id/333f141c-4562-499d-aa37-b7afc7edf6f0</url>
@@ -2080,8 +2158,8 @@
     <vehicle_id>741b5a6b-6e42-4d12-b93c-0b99278e100a</vehicle_id>
     <vehicle_registration_plate>ZAN72M</vehicle_registration_plate>
     <title>Toyota RAV4 3.95% KAMPANJRÄNTA E-CVT 222hk Värmare/ Kamera/ Navi</title>
-    <description>3.95% KAMPANJRÄNTA E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Privatleasing från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 45</g:custom_label_0>
     <g:custom_label_1>3558</g:custom_label_1>
     <link>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</link>
     <url>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</url>
@@ -2119,8 +2197,8 @@
     <vehicle_id>ddd17575-6c3f-49a3-88e6-82e0025aa100</vehicle_id>
     <vehicle_registration_plate>OHT43T</vehicle_registration_plate>
     <title>Lexus RX 3.95% KAMPANJRÄNTA RX450h+ Executive</title>
-    <description>3.95% KAMPANJRÄNTA RX450h+ Executive. Utrustningsnivå: Executive. Miltal: 5 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OHT43T. Privatleasing från 6 917 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA RX450h+ Executive. Utrustningsnivå: Executive. Miltal: 5 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OHT43T. Privatleasing från 6 917 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 45</g:custom_label_0>
     <g:custom_label_1>6917</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ddd17575-6c3f-49a3-88e6-82e0025aa100</link>
     <url>https://goingebil.se/sok/id/ddd17575-6c3f-49a3-88e6-82e0025aa100</url>
@@ -3658,8 +3736,8 @@
     <vehicle_id>4f86a141-3fa3-495f-8fde-b44d51eafc0e</vehicle_id>
     <vehicle_registration_plate>ACY14D</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol</title>
-    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol. Utrustningsnivå: Momentum. Miltal: 9 308 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ACY14D. Privatleasing från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 67 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 67</g:custom_label_0>
     <g:custom_label_1>4188</g:custom_label_1>
     <link>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</link>
     <url>https://goingebil.se/sok/id/4f86a141-3fa3-495f-8fde-b44d51eafc0e</url>
@@ -4274,8 +4352,8 @@
     <vehicle_id>166db94a-c89d-483e-adc3-8e613278822a</vehicle_id>
     <vehicle_registration_plate>EDB41E</vehicle_registration_plate>
     <title>Renault Clio 3.95% KAMPANJRÄNTA TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 501 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Privatleasing från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 79 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 79</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA TCe 90 Intens 5-d / Klimator / Alu-fälgar / Parksensor bak. Utrustningsnivå: Intens, Zen. Miltal: 2 501 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: EDB41E. Privatleasing från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 80</g:custom_label_0>
     <g:custom_label_1>1774</g:custom_label_1>
     <link>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</link>
     <url>https://goingebil.se/sok/id/166db94a-c89d-483e-adc3-8e613278822a</url>
@@ -6453,8 +6531,8 @@
     <vehicle_id>ad6d50a9-c5ad-43cc-9aae-261df2028f1b</vehicle_id>
     <vehicle_registration_plate>AKG65S</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nordic dCi 95 L2 A G2</title>
-    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Privatleasing från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 314 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 314</g:custom_label_0>
+    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Privatleasing från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 315 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 315</g:custom_label_0>
     <g:custom_label_1>3408</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</link>
     <url>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</url>
@@ -6562,8 +6640,8 @@
     <vehicle_id>a94ae943-a8a5-4148-8079-7f2516845235</vehicle_id>
     <vehicle_registration_plate>DWA59D</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nord dC 95 L2 G2 A II</title>
-    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DWA59D. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 401 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 401</g:custom_label_0>
+    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DWA59D. Privatleasing från 3 334 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 402 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 402</g:custom_label_0>
     <g:custom_label_1>3334</g:custom_label_1>
     <link>https://goingebil.se/sok/id/a94ae943-a8a5-4148-8079-7f2516845235</link>
     <url>https://goingebil.se/sok/id/a94ae943-a8a5-4148-8079-7f2516845235</url>
