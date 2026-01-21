@@ -141,7 +141,7 @@
     <transmission>Automatic</transmission>
     <price>437900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -346,45 +346,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>38453dfe-206b-4d46-a1b0-3937e45c37b0</vehicle_id>
-    <vehicle_registration_plate>DOS257</vehicle_registration_plate>
-    <title>Volvo XC90 D5 AWD Inscription 7-säten, Drag, B&amp;W, Luft, Pano</title>
-    <description>D5 AWD Inscription 7-säten, Drag, B&amp;W, Luft, Pano. Utrustningsnivå: Inscription. Miltal: 12 700 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: DOS257. Privatleasing från 3 768 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
-    <g:custom_label_1>3768</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/38453dfe-206b-4d46-a1b0-3937e45c37b0</link>
-    <url>https://goingebil.se/sok/id/38453dfe-206b-4d46-a1b0-3937e45c37b0</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4780f5d7-8b7f-4bbe-92a3-2334e8cbe15a/096b2a8b-ec0f-454b-b802-50dd6d593c25?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2016</year>
-    <mileage>
-      <value>127000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -3046,41 +3007,6 @@
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>b7b8ba3b-fdb9-4f5e-b091-543efc12a827</vehicle_id>
-    <vehicle_registration_plate>FPH57D</vehicle_registration_plate>
-    <title>Renault Kangoo Skåp Nord dC 95 L2 G2 A II</title>
-    <description>Skåp Nord dC 95 L2 G2 A II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FPH57D. Privatleasing från 3 601 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 50</g:custom_label_0>
-    <g:custom_label_1>3601</g:custom_label_1>
-    <link>https://goingebil.se/sok/id/b7b8ba3b-fdb9-4f5e-b091-543efc12a827</link>
-    <url>https://goingebil.se/sok/id/b7b8ba3b-fdb9-4f5e-b091-543efc12a827</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bc582d5e-d40c-4186-8684-aa61e6234d50/a0caa7e6-8d7f-4085-aae4-57756099b847?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kangoo</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>303625 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>303625 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
