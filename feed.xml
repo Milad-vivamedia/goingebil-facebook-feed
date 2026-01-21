@@ -410,7 +410,7 @@
     <transmission>Automatic</transmission>
     <price>239900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">G��inge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -3553,8 +3553,8 @@
     <vehicle_id>ccae9e78-b6c3-443b-b564-472265bb3a2a</vehicle_id>
     <vehicle_registration_plate>CDZ87B</vehicle_registration_plate>
     <title>CUPRA Leon 3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
     <g:custom_label_1>3348</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</link>
     <url>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</url>
