@@ -1954,7 +1954,7 @@
     <transmission>Automatic</transmission>
     <price>113000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="addr1">G��inge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
