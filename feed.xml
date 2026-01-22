@@ -536,7 +536,7 @@
     <vehicle_id>f0a2af96-d558-412b-a4c7-caa276da7cad</vehicle_id>
     <vehicle_registration_plate>UNK48F</vehicle_registration_plate>
     <title>Toyota ProAce City 1,2 Automat</title>
-    <description>1,2 Automat. Miltal: 6 500 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UNK48F. Privatleasing från 1 931 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <description>1,2 Automat. Miltal: 6 530 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UNK48F. Privatleasing från 1 931 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_1>1931</g:custom_label_1>
     <link>https://goingebil.se/sok/id/f0a2af96-d558-412b-a4c7-caa276da7cad</link>
@@ -550,7 +550,7 @@
     <model>ProAce City</model>
     <year>2020</year>
     <mileage>
-      <value>65000</value>
+      <value>65300</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -1651,7 +1651,7 @@
     <vehicle_id>7fe872c2-a70e-49b3-8d34-6260ed0969d1</vehicle_id>
     <vehicle_registration_plate>BGB38T</vehicle_registration_plate>
     <title>Renault Mégane 3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST / Park sernsorer fram o bak / multimediasystem</title>
-    <description>3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST / Park sernsorer fram o bak / multimediasystem. Miltal: 3 000 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: BGB38T. Privatleasing från 1 993 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 23 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA PhII TCe 140 Equilibre ST / Park sernsorer fram o bak / multimediasystem. Miltal: 3 002 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: BGB38T. Privatleasing från 1 993 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 23 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 23</g:custom_label_0>
     <g:custom_label_1>1993</g:custom_label_1>
     <link>https://goingebil.se/sok/id/7fe872c2-a70e-49b3-8d34-6260ed0969d1</link>
@@ -1665,7 +1665,7 @@
     <model>Mégane</model>
     <year>2023</year>
     <mileage>
-      <value>30000</value>
+      <value>30020</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -3588,8 +3588,8 @@
     <vehicle_id>ccae9e78-b6c3-443b-b564-472265bb3a2a</vehicle_id>
     <vehicle_registration_plate>CDZ87B</vehicle_registration_plate>
     <title>CUPRA Leon 3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Privatleasing från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 64</g:custom_label_0>
     <g:custom_label_1>3348</g:custom_label_1>
     <link>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</link>
     <url>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</url>
@@ -4690,7 +4690,7 @@
     <transmission>Automatic</transmission>
     <price>439000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">G��inge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
