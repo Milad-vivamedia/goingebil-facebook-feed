@@ -54,9 +54,10 @@ function fetchVehicles() {
 }
 
 /**
- * Fetch monthly cost from Wayke GraphQL API using vehicle financialOptions
+ * Fetch monthly costs from Wayke GraphQL API using vehicle financialOptions
+ * Returns both leasing and loan prices
  */
-function fetchMonthlyCost(vehicleId) {
+function fetchFinancialOptions(vehicleId) {
   return new Promise((resolve, reject) => {
     const graphqlQuery = {
       operationName: "GetVehicle",
@@ -98,19 +99,26 @@ function fetchMonthlyCost(vehicleId) {
       res.on('end', () => {
         try {
           const json = JSON.parse(data);
-          if (json.data && json.data.vehicle && json.data.vehicle.financialOptions && json.data.vehicle.financialOptions.length > 0) {
-            resolve(json.data.vehicle.financialOptions[0].monthlyCost);
-          } else {
-            resolve(null); // No financing available
+          const result = { leasing: null, loan: null };
+
+          if (json.data && json.data.vehicle && json.data.vehicle.financialOptions) {
+            for (const option of json.data.vehicle.financialOptions) {
+              if (option.type === 'leasing') {
+                result.leasing = option.monthlyCost;
+              } else if (option.type === 'loan') {
+                result.loan = option.monthlyCost;
+              }
+            }
           }
+          resolve(result);
         } catch (error) {
-          resolve(null); // Don't fail if financing info unavailable
+          resolve({ leasing: null, loan: null });
         }
       });
     });
 
     req.on('error', () => {
-      resolve(null); // Don't fail if financing request fails
+      resolve({ leasing: null, loan: null });
     });
 
     req.write(postData);
@@ -171,7 +179,7 @@ function getVehicleCondition(modelYear) {
 /**
  * Clean and format description
  */
-function formatDescription(vehicle, monthlyCost = null) {
+function formatDescription(vehicle, financialOptions = {}) {
   const parts = [];
 
   if (vehicle.shortDescription) {
@@ -191,9 +199,14 @@ function formatDescription(vehicle, monthlyCost = null) {
     parts.push(`Registreringsnummer: ${vehicle.registrationNumber}`);
   }
 
-  // Add monthly cost if available
-  if (monthlyCost) {
-    parts.push(`Privatleasing från ${monthlyCost.toLocaleString('sv-SE')} kr/mån`);
+  // Add leasing price if available
+  if (financialOptions.leasing) {
+    parts.push(`Privatleasing från ${financialOptions.leasing.toLocaleString('sv-SE')} kr/mån`);
+  }
+
+  // Add loan price if available
+  if (financialOptions.loan) {
+    parts.push(`Billån från ${financialOptions.loan.toLocaleString('sv-SE')} kr/mån`);
   }
 
   parts.push('Kontakta oss för mer information om detta fordon');
@@ -257,8 +270,8 @@ async function generateXMLFeed(vehicles) {
       continue;
     }
 
-    // Fetch monthly cost from GraphQL API
-    const monthlyCost = await fetchMonthlyCost(vehicle.id);
+    // Fetch financial options (leasing + loan) from GraphQL API
+    const financialOptions = await fetchFinancialOptions(vehicle.id);
 
     xml += '    <item>\n';
 
@@ -288,15 +301,18 @@ async function generateXMLFeed(vehicles) {
       daysSincePublished = Math.floor(diffTime / (1000 * 60 * 60 * 24));
     }
 
-    // Description (include monthly cost and days since published)
-    const description = formatDescription(vehicle, monthlyCost);
+    // Description (include financial options and days since published)
+    const description = formatDescription(vehicle, financialOptions);
     const descriptionWithDays = `${description} Publicerad för ${daysSincePublished} dagar sedan.`;
     xml += `    <description>${escapeXml(descriptionWithDays)}</description>\n`;
 
     // Add custom labels for filtering/sorting
     xml += `    <g:custom_label_0>Dagar i lager: ${daysSincePublished}</g:custom_label_0>\n`;
-    if (monthlyCost) {
-      xml += `    <g:custom_label_1>${monthlyCost}</g:custom_label_1>\n`;
+    if (financialOptions.leasing) {
+      xml += `    <g:custom_label_1>${financialOptions.leasing}</g:custom_label_1>\n`;
+    }
+    if (financialOptions.loan) {
+      xml += `    <g:custom_label_2>${financialOptions.loan}</g:custom_label_2>\n`;
     }
 
     // URL / Link (Facebook requires 'link' field)
