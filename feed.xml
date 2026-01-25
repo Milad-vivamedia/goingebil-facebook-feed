@@ -449,7 +449,7 @@
     <transmission>Automatic</transmission>
     <price>402900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="addr1">G��inge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
@@ -4091,8 +4091,9 @@
     <vehicle_id>182d7b5a-3514-43f0-9a3e-a940213d86d5</vehicle_id>
     <vehicle_registration_plate>GLR97L</vehicle_registration_plate>
     <title>Kia Sportage 3.95% KAMPANJRÄNTA Plug-In Hybrid GT-Line  Drag/ 360/ Navi/ H/K/ LED Matrix</title>
-    <description>3.95% KAMPANJRÄNTA Plug-In Hybrid GT-Line  Drag/ 360/ Navi/ H/K/ LED Matrix. Utrustningsnivå: GT-Line. Miltal: 7 198 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: GLR97L. Kontakta oss för mer information om detta fordon. Publicerad för 81 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Plug-In Hybrid GT-Line  Drag/ 360/ Navi/ H/K/ LED Matrix. Utrustningsnivå: GT-Line. Miltal: 7 198 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: GLR97L. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 81 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 81</g:custom_label_0>
+    <g:custom_label_2>3663</g:custom_label_2>
     <link>https://goingebil.se/sok/id/182d7b5a-3514-43f0-9a3e-a940213d86d5</link>
     <url>https://goingebil.se/sok/id/182d7b5a-3514-43f0-9a3e-a940213d86d5</url>
     <brand>Kia</brand>
