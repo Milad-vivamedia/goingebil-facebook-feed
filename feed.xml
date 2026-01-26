@@ -3362,8 +3362,9 @@
     <vehicle_id>c3feec85-f211-456f-a8cd-c99d587f4b86</vehicle_id>
     <vehicle_registration_plate>ULU491</vehicle_registration_plate>
     <title>Mitsubishi Outlander 3.95% KAMPANJRÄNTA CVT 203 HK/ Drag/ Skinn/ PDC Fram+Bak/ ECC</title>
-    <description>3.95% KAMPANJRÄNTA CVT 203 HK/ Drag/ Skinn/ PDC Fram+Bak/ ECC. Utrustningsnivå: Business. Miltal: 14 865 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ULU491. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA CVT 203 HK/ Drag/ Skinn/ PDC Fram+Bak/ ECC. Utrustningsnivå: Business. Miltal: 14 865 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ULU491. Billån från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
+    <g:custom_label_2>1879</g:custom_label_2>
     <link>https://goingebil.se/sok/id/c3feec85-f211-456f-a8cd-c99d587f4b86</link>
     <url>https://goingebil.se/sok/id/c3feec85-f211-456f-a8cd-c99d587f4b86</url>
     <brand>Mitsubishi</brand>
@@ -3400,8 +3401,8 @@
     <vehicle_id>ccae9e78-b6c3-443b-b564-472265bb3a2a</vehicle_id>
     <vehicle_registration_plate>CDZ87B</vehicle_registration_plate>
     <title>CUPRA Leon 3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 67 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 67</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA 1.5 eTSI DSG PDC F+B/ Rattv/ LED/ Carplay. Miltal: 195 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDZ87B. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 68 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 68</g:custom_label_0>
     <g:custom_label_2>3348</g:custom_label_2>
     <link>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</link>
     <url>https://goingebil.se/sok/id/ccae9e78-b6c3-443b-b564-472265bb3a2a</url>
@@ -3769,7 +3770,7 @@
     <transmission>Automatic</transmission>
     <price>289000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
+      <component name="addr1">G��inge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
