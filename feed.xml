@@ -543,45 +543,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>082fa983-c563-4bd5-ab06-c0732efccd61</vehicle_id>
-    <vehicle_registration_plate>NHN52D</vehicle_registration_plate>
-    <title>Volkswagen T-Roc 3.95% KAMPANJRÄNTA Drag/ Backkamera/ Carplay/ Adaptiv farthållare/</title>
-    <description>3.95% KAMPANJRÄNTA Drag/ Backkamera/ Carplay/ Adaptiv farthållare/. Utrustningsnivå: Base. Miltal: 4 626 mil. Årsmodell: 2021. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: NHN52D. Billån från 1 984 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <g:custom_label_2>1984</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/082fa983-c563-4bd5-ab06-c0732efccd61</link>
-    <url>https://goingebil.se/sok/id/082fa983-c563-4bd5-ab06-c0732efccd61</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/737ca304-289b-4841-bbda-d662f5f9952e/43eebecc-eb6a-4280-8351-a1bccd874bb3?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>T-Roc</model>
-    <year>2021</year>
-    <mileage>
-      <value>46260</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>189000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>189000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>0b139e4b-0a49-4a5d-a892-9017936a530e</vehicle_id>
     <vehicle_registration_plate>LHP51R</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé 3.95% KAMPANJRÄNTA</title>
@@ -955,45 +916,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>334000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>06d7754a-fcd5-440a-9340-7359bbc21485</vehicle_id>
-    <vehicle_registration_plate>YNH873</vehicle_registration_plate>
-    <title>Peugeot 308 1,2 PureTech 130hk Automat, Pano, Drag, Backkamera</title>
-    <description>1,2 PureTech 130hk Automat, Pano, Drag, Backkamera. Utrustningsnivå: Active. Miltal: 8 619 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YNH873. Billån från 1 354 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
-    <g:custom_label_2>1354</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/06d7754a-fcd5-440a-9340-7359bbc21485</link>
-    <url>https://goingebil.se/sok/id/06d7754a-fcd5-440a-9340-7359bbc21485</url>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/13c31666-d844-4289-a6c5-fe33d1acb571/69892ff5-1850-4b30-8d8a-56f23d59ce7e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>308</model>
-    <year>2017</year>
-    <mileage>
-      <value>86190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>129000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>129000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5162,16 +5084,16 @@
     <transmission>Automatic</transmission>
     <price>349000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>349000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
