@@ -4501,45 +4501,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>cd368047-8d43-4598-92cf-b93b75edcfe1</vehicle_id>
-    <vehicle_registration_plate>PLX34M</vehicle_registration_plate>
-    <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Bright Skinn/ Drag/ Navi/ Kamera/ Nyservad/ Tonade rutor/ Dynförlängning</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Bright Skinn/ Drag/ Navi/ Kamera/ Nyservad/ Tonade rutor/ Dynförlängning. Utrustningsnivå: Plus. Miltal: 5 258 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: PLX34M. Billån från 5 238 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 85 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 85</g:custom_label_0>
-    <g:custom_label_2>5238</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/cd368047-8d43-4598-92cf-b93b75edcfe1</link>
-    <url>https://goingebil.se/sok/id/cd368047-8d43-4598-92cf-b93b75edcfe1</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/25333879-c28d-4515-8da4-caa8a83ae80f/8e2881c3-975a-4c7f-93fc-8cbb526e0a9c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>52580</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>499000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>499000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>02d05566-f644-4989-b608-a4297726ec4b</vehicle_id>
     <vehicle_registration_plate>GFD29T</vehicle_registration_plate>
     <title>Opel Combo e- Business L2 50Kw</title>
@@ -6559,45 +6520,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>1e957c8b-bfaa-4bef-9b69-040866786018</vehicle_id>
-    <vehicle_registration_plate>WWA40R</vehicle_registration_plate>
-    <title>Dacia Sandero 3.95% KAMPANJRÄNTA TCe 90 essential</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 essential. Miltal: 1 172 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: WWA40R. Billån från 1 354 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 378 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 378</g:custom_label_0>
-    <g:custom_label_2>1354</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/1e957c8b-bfaa-4bef-9b69-040866786018</link>
-    <url>https://goingebil.se/sok/id/1e957c8b-bfaa-4bef-9b69-040866786018</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/14bddf08-187c-40fb-ad72-29c8ff5f08ea/270a2571-182d-450a-b1fa-539fd98d6d6c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2023</year>
-    <mileage>
-      <value>11720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>129000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>129000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
