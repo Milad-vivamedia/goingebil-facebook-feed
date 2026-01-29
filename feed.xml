@@ -7,10 +7,49 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>859d1880-363c-4e53-af21-7d649345a9a9</vehicle_id>
+    <vehicle_registration_plate>SAA459</vehicle_registration_plate>
+    <title>Renault Arkana HEV R.S.Line DCT , Avtagbart drag, Backkamera, Adapt fart</title>
+    <description>HEV R.S.Line DCT , Avtagbart drag, Backkamera, Adapt fart. Miltal: 6 398 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: SAA459. Billån från 2 204 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>2204</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/859d1880-363c-4e53-af21-7d649345a9a9</link>
+    <url>https://goingebil.se/sok/id/859d1880-363c-4e53-af21-7d649345a9a9</url>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/32b81af3-23a5-4dd5-9f34-92501fc53f7e/0f1f9ba4-4a8b-47ae-bf16-0ee75563baa5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Arkana</model>
+    <year>2022</year>
+    <mileage>
+      <value>63980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>210000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>210000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>7c5d1024-6865-4802-91ee-d5bf75705cfd</vehicle_id>
     <vehicle_registration_plate>LMD09N</vehicle_registration_plate>
-    <title>Volvo V90 B4 Diesel Core</title>
-    <description>B4 Diesel Core. Utrustningsnivå: Momentum. Miltal: 10 704 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: LMD09N. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <title>Volvo V90 B4 Diesel Core Drag/ Värmare</title>
+    <description>B4 Diesel Core Drag/ Värmare. Utrustningsnivå: Momentum. Miltal: 10 704 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: LMD09N. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>3348</g:custom_label_2>
     <link>https://goingebil.se/sok/id/7c5d1024-6865-4802-91ee-d5bf75705cfd</link>
