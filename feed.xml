@@ -537,45 +537,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>8ed942f4-2af8-44b1-bf59-c92395d46114</vehicle_id>
-    <vehicle_registration_plate>MCP75D</vehicle_registration_plate>
-    <title>Mazda CX-30 2.0 e-SKYACTIV-G M Hybrid 150hk/Navi/Adaptiv farthållare/Backkamera</title>
-    <description>2.0 e-SKYACTIV-G M Hybrid 150hk/Navi/Adaptiv farthållare/Backkamera. Miltal: 2 012 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: MCP75D. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>2824</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/8ed942f4-2af8-44b1-bf59-c92395d46114</link>
-    <url>https://goingebil.se/sok/id/8ed942f4-2af8-44b1-bf59-c92395d46114</url>
-    <brand>Mazda</brand>
-    <make>Mazda</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/749785eb-f8bd-4bf2-adba-6d1874cc0eb8/7536205e-ba84-4e0b-baac-2b075a7189cd?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>CX-30</model>
-    <year>2023</year>
-    <mileage>
-      <value>20120</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>269000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>269000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>06414677-d360-4e80-9a78-013f2d63487a</vehicle_id>
     <vehicle_registration_plate>NFY96C</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 extreme 7 platser</title>
@@ -4275,45 +4236,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</vehicle_id>
-    <vehicle_registration_plate>HWS94A</vehicle_registration_plate>
-    <title>Dacia Sandero 3.95% KAMPANJRÄNTA TCe 90 Essential IV</title>
-    <description>3.95% KAMPANJRÄNTA TCe 90 Essential IV. Miltal: 4 101 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: HWS94A. Billån från 1 249 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 76 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 76</g:custom_label_0>
-    <g:custom_label_2>1249</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</link>
-    <url>https://goingebil.se/sok/id/3e7a4b49-c1b5-4b89-bb9c-f30e07233b49</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/aaf291eb-550f-4a26-8cbc-850357abb854/e2a96831-4a80-48fc-8600-9f988cc9c3a2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2023</year>
-    <mileage>
-      <value>41010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>119000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>119000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>4f86a141-3fa3-495f-8fde-b44d51eafc0e</vehicle_id>
     <vehicle_registration_plate>ACY14D</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA B4 AWD Diesel Mom Adv Edt II Nyservad/ Skinn/ Drag/ Navi/ Kamera/ Värmare/ Elstol</title>
@@ -4349,45 +4271,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>237cd902-90e5-4f12-97d3-23c1e32fe94a</vehicle_id>
-    <vehicle_registration_plate>CWA05W</vehicle_registration_plate>
-    <title>Audi Q3 3.95% KAMPANJRÄNTA S Tronic 150hk Nyservad/ Carplay/ Elbaklucka</title>
-    <description>3.95% KAMPANJRÄNTA S Tronic 150hk Nyservad/ Carplay/ Elbaklucka. Utrustningsnivå: Proline Advanced. Miltal: 3 259 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CWA05W. Billån från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 78 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 78</g:custom_label_0>
-    <g:custom_label_2>3243</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/237cd902-90e5-4f12-97d3-23c1e32fe94a</link>
-    <url>https://goingebil.se/sok/id/237cd902-90e5-4f12-97d3-23c1e32fe94a</url>
-    <brand>Audi</brand>
-    <make>Audi</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b30eb5b6-5fe0-4c3c-adc5-9ef3852f1a85/6e54b10f-58ed-4d50-9336-d8d7619148fa?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Q3</model>
-    <year>2023</year>
-    <mileage>
-      <value>32590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>309000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
