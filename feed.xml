@@ -5090,45 +5090,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b5e046fe-6a93-46c8-8a15-c732b51f5f14</vehicle_id>
-    <vehicle_registration_plate>UAC48A</vehicle_registration_plate>
-    <title>Hyundai Kona 3.95% KAMPANJRÄNTA 1.6 T-GDI DCT 177hk Head-up/ Navi/ Kamera/ Rattvärme</title>
-    <description>3.95% KAMPANJRÄNTA 1.6 T-GDI DCT 177hk Head-up/ Navi/ Kamera/ Rattvärme. Utrustningsnivå: Premium. Miltal: 10 300 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UAC48A. Billån från 1 836 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 112 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 112</g:custom_label_0>
-    <g:custom_label_2>1836</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/b5e046fe-6a93-46c8-8a15-c732b51f5f14</link>
-    <url>https://goingebil.se/sok/id/b5e046fe-6a93-46c8-8a15-c732b51f5f14</url>
-    <brand>Hyundai</brand>
-    <make>Hyundai</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e9db6475-edd0-42a1-a383-f22e86c9162f/385a027a-a14c-4691-b674-8edc3e5abee0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kona</model>
-    <year>2020</year>
-    <mileage>
-      <value>103000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>174900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>174900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>c4034383-1ed1-4f8a-a662-e0596aba87ea</vehicle_id>
     <vehicle_registration_plate>RKH47N</vehicle_registration_plate>
     <title>Volkswagen Golf 3.95% KAMPANJRÄNTA 1.5 DSG 131hk / Värmare / We Connect Plus</title>
@@ -6460,8 +6421,9 @@
     <vehicle_id>38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</vehicle_id>
     <vehicle_registration_plate>BEU01K</vehicle_registration_plate>
     <title>Renault Mégane E-TECH 3.95% KAMPANJRÄNTA Techno 60kWh 220hk Kamera / Navigation</title>
-    <description>3.95% KAMPANJRÄNTA Techno 60kWh 220hk Kamera / Navigation. Miltal: 4 897 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Kontakta oss för mer information om detta fordon. Publicerad för 323 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Techno 60kWh 220hk Kamera / Navigation. Miltal: 4 897 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 323 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 323</g:custom_label_0>
+    <g:custom_label_2>3348</g:custom_label_2>
     <link>https://goingebil.se/sok/id/38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</link>
     <url>https://goingebil.se/sok/id/38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</url>
     <brand>Renault</brand>
