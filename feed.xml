@@ -400,8 +400,8 @@
     <vehicle_id>71b0c9b5-c0cf-4b26-b253-7c13b08603d6</vehicle_id>
     <vehicle_registration_plate>WBT958</vehicle_registration_plate>
     <title>Renault Master Skåp phII 2,3dCi 135 L2H2 fr</title>
-    <description>Skåp phII 2,3dCi 135 L2H2 fr. Miltal: 6 403 mil. Årsmodell: 2015. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: WBT958. Billån från 1 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>Skåp phII 2,3dCi 135 L2H2 fr. Miltal: 6 403 mil. Årsmodell: 2015. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: WBT958. Billån från 1 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>1669</g:custom_label_2>
     <link>https://goingebil.se/sok/id/71b0c9b5-c0cf-4b26-b253-7c13b08603d6</link>
     <url>https://goingebil.se/sok/id/71b0c9b5-c0cf-4b26-b253-7c13b08603d6</url>
@@ -1040,10 +1040,8 @@
     <vehicle_id>b69e9122-f56b-4469-8bae-4a0c7e0ffcb5</vehicle_id>
     <vehicle_registration_plate>PWB07A</vehicle_registration_plate>
     <title>Renault 4 E-Tech R4 techno 52kWh</title>
-    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: PWB07A. Privatleasing från 3 990 kr/mån. Billån från 5 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
+    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: PWB07A. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
-    <g:custom_label_1>3990</g:custom_label_1>
-    <g:custom_label_2>5194</g:custom_label_2>
     <link>https://goingebil.se/sok/id/b69e9122-f56b-4469-8bae-4a0c7e0ffcb5</link>
     <url>https://goingebil.se/sok/id/b69e9122-f56b-4469-8bae-4a0c7e0ffcb5</url>
     <brand>Renault</brand>
@@ -3234,8 +3232,9 @@
     <vehicle_id>0de9eab1-770d-46d0-8522-dc700523fc78</vehicle_id>
     <vehicle_registration_plate>DNB54F</vehicle_registration_plate>
     <title>Volvo V90 3.95% KAMPANJRÄNTA Recharge T8 II R-Design/ 360/ Lounge-pkt/ Pano/ HUD/ Carplay</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T8 II R-Design/ 360/ Lounge-pkt/ Pano/ HUD/ Carplay. Utrustningsnivå: R-Design. Miltal: 5 732 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DNB54F. Kontakta oss för mer information om detta fordon. Publicerad för 57 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Recharge T8 II R-Design/ 360/ Lounge-pkt/ Pano/ HUD/ Carplay. Utrustningsnivå: R-Design. Miltal: 5 732 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DNB54F. Billån från 5 238 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 57 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 57</g:custom_label_0>
+    <g:custom_label_2>5238</g:custom_label_2>
     <link>https://goingebil.se/sok/id/0de9eab1-770d-46d0-8522-dc700523fc78</link>
     <url>https://goingebil.se/sok/id/0de9eab1-770d-46d0-8522-dc700523fc78</url>
     <brand>Volvo</brand>
@@ -3808,7 +3807,7 @@
     <transmission>Automatic</transmission>
     <price>349000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -5014,8 +5013,8 @@
     <vehicle_id>f3019032-674b-4289-9533-700635c40376</vehicle_id>
     <vehicle_registration_plate>RPW01M</vehicle_registration_plate>
     <title>Volvo XC60 3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp. Utrustningsnivå: Plus. Miltal: 8 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RPW01M. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 106 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 106</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp. Utrustningsnivå: Plus. Miltal: 8 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RPW01M. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 107 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 107</g:custom_label_0>
     <g:custom_label_2>4818</g:custom_label_2>
     <link>https://goingebil.se/sok/id/f3019032-674b-4289-9533-700635c40376</link>
     <url>https://goingebil.se/sok/id/f3019032-674b-4289-9533-700635c40376</url>
@@ -5209,8 +5208,8 @@
     <vehicle_id>11da6494-fc63-4d70-b884-88c059eb71ce</vehicle_id>
     <vehicle_registration_plate>RBY29F</vehicle_registration_plate>
     <title>Volvo XC40 Plus Edition Kamera/ Navi</title>
-    <description>Plus Edition Kamera/ Navi. Utrustningsnivå: Plus. Miltal: 5 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBY29F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 120 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 120</g:custom_label_0>
+    <description>Plus Edition Kamera/ Navi. Utrustningsnivå: Plus. Miltal: 5 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBY29F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 121 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 121</g:custom_label_0>
     <g:custom_label_2>3663</g:custom_label_2>
     <link>https://goingebil.se/sok/id/11da6494-fc63-4d70-b884-88c059eb71ce</link>
     <url>https://goingebil.se/sok/id/11da6494-fc63-4d70-b884-88c059eb71ce</url>
@@ -6162,8 +6161,8 @@
     <vehicle_id>6a0fba8e-c2fa-47a0-a209-811bebf86491</vehicle_id>
     <vehicle_registration_plate>WBK20U</vehicle_registration_plate>
     <title>Renault Scenic E-Tech 3.95% KAMPANJRÄNTA esprit Alpine 87kWh/220hk Värmepump/ 360 kamera/ Adaptiv Cruise/ Förar assistans pkt/ Harman</title>
-    <description>3.95% KAMPANJRÄNTA esprit Alpine 87kWh/220hk Värmepump/ 360 kamera/ Adaptiv Cruise/ Förar assistans pkt/ Harman. Utrustningsnivå: Esprit Alpine, GT Line. Miltal: 1 280 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBK20U. Billån från 4 713 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 190 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 190</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA esprit Alpine 87kWh/220hk Värmepump/ 360 kamera/ Adaptiv Cruise/ Förar assistans pkt/ Harman. Utrustningsnivå: Esprit Alpine, GT Line. Miltal: 1 280 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBK20U. Billån från 4 713 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 191 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 191</g:custom_label_0>
     <g:custom_label_2>4713</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6a0fba8e-c2fa-47a0-a209-811bebf86491</link>
     <url>https://goingebil.se/sok/id/6a0fba8e-c2fa-47a0-a209-811bebf86491</url>
@@ -6279,8 +6278,8 @@
     <vehicle_id>480877b0-ef4e-433f-b209-1e368931da0f</vehicle_id>
     <vehicle_registration_plate>BCT92S</vehicle_registration_plate>
     <title>Renault Mégane E-TECH Evolution 60kWh/130hk</title>
-    <description>Evolution 60kWh/130hk. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: BCT92S. Privatleasing från 4 990 kr/mån. Billån från 4 376 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 232 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 232</g:custom_label_0>
+    <description>Evolution 60kWh/130hk. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: BCT92S. Privatleasing från 4 990 kr/mån. Billån från 4 376 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 233 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 233</g:custom_label_0>
     <g:custom_label_1>4990</g:custom_label_1>
     <g:custom_label_2>4376</g:custom_label_2>
     <link>https://goingebil.se/sok/id/480877b0-ef4e-433f-b209-1e368931da0f</link>
@@ -6616,8 +6615,8 @@
     <vehicle_id>8c12b09e-286c-4944-98c4-c36d38455b95</vehicle_id>
     <vehicle_registration_plate>ZRA45J</vehicle_registration_plate>
     <title>Dacia Jogger Extreme 7 platser Kamera/ Lagerbil</title>
-    <description>Extreme 7 platser Kamera/ Lagerbil. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZRA45J. Billån från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 470 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 470</g:custom_label_0>
+    <description>Extreme 7 platser Kamera/ Lagerbil. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZRA45J. Billån från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 471 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 471</g:custom_label_0>
     <g:custom_label_2>3428</g:custom_label_2>
     <link>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</link>
     <url>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</url>
@@ -6694,8 +6693,8 @@
     <vehicle_id>4727a6cb-3dcc-468a-b2a0-18c128c3614a</vehicle_id>
     <vehicle_registration_plate>ZKC117</vehicle_registration_plate>
     <title>Volvo S90 3.95% KAMPANJRÄNTA Recharge T8 R-Design MOMS/ Drag/ Taklucka/ H/K/ Luftfjädring/ 360 Kamera/ HUD</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T8 R-Design MOMS/ Drag/ Taklucka/ H/K/ Luftfjädring/ 360 Kamera/ HUD. Utrustningsnivå: R-Design. Miltal: 6 932 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ZKC117. Billån från 4 398 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 566 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 566</g:custom_label_0>
+    <description>3.95% KAMPANJRÄNTA Recharge T8 R-Design MOMS/ Drag/ Taklucka/ H/K/ Luftfjädring/ 360 Kamera/ HUD. Utrustningsnivå: R-Design. Miltal: 6 932 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ZKC117. Billån från 4 398 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 567 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 567</g:custom_label_0>
     <g:custom_label_2>4398</g:custom_label_2>
     <link>https://goingebil.se/sok/id/4727a6cb-3dcc-468a-b2a0-18c128c3614a</link>
     <url>https://goingebil.se/sok/id/4727a6cb-3dcc-468a-b2a0-18c128c3614a</url>
