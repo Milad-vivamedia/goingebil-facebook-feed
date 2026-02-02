@@ -1338,42 +1338,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>0bbfadb9-e457-483d-927d-194796935182</vehicle_id>
-    <vehicle_registration_plate>RCC83Y</vehicle_registration_plate>
-    <title>Renault Scenic E-Tech Scénic Electric evolution+ 60kWh/170 II Privatleasing från 3990kr/mån</title>
-    <description>Scénic Electric evolution+ 60kWh/170 II Privatleasing från 3990kr/mån. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: RCC83Y. Privatleasing från 3 896 kr/mån. Billån från 5 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
-    <g:custom_label_1>3896</g:custom_label_1>
-    <g:custom_label_2>5774</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/0bbfadb9-e457-483d-927d-194796935182</link>
-    <url>https://goingebil.se/sok/id/0bbfadb9-e457-483d-927d-194796935182</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/890a4802-0a82-4d33-bf2d-324bac2b3417/d16e0b01-895d-4f43-a39b-20d05bc55366?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Scenic E-Tech</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>486800 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>486800 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>3978c301-0b7b-4de4-b403-11996ec4bc5a</vehicle_id>
     <vehicle_registration_plate>DSS87K</vehicle_registration_plate>
     <title>Volvo XC40 3.95% KAMPANJRÄNTA Core Edition</title>
@@ -6532,45 +6496,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>4727a6cb-3dcc-468a-b2a0-18c128c3614a</vehicle_id>
-    <vehicle_registration_plate>ZKC117</vehicle_registration_plate>
-    <title>Volvo S90 3.95% KAMPANJRÄNTA Recharge T8 R-Design MOMS/ Drag/ Taklucka/ H/K/ Luftfjädring/ 360 Kamera/ HUD</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T8 R-Design MOMS/ Drag/ Taklucka/ H/K/ Luftfjädring/ 360 Kamera/ HUD. Utrustningsnivå: R-Design. Miltal: 6 932 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ZKC117. Billån från 4 398 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 569 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 569</g:custom_label_0>
-    <g:custom_label_2>4398</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/4727a6cb-3dcc-468a-b2a0-18c128c3614a</link>
-    <url>https://goingebil.se/sok/id/4727a6cb-3dcc-468a-b2a0-18c128c3614a</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2e99bae2-14f1-4f4c-904f-fef643a284bf/68f215a1-065a-43c0-b53a-cd0e22a3d4f5?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>S90</model>
-    <year>2022</year>
-    <mileage>
-      <value>69320</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>419000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>419000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
   </channel>
 </rss>
