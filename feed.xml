@@ -4318,45 +4318,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>ce92cc72-135c-46ef-898d-be3ce49f2d8f</vehicle_id>
-    <vehicle_registration_plate>RJB73W</vehicle_registration_plate>
-    <title>Volvo XC40 3.95% KAMPANJRÄNTA Core Edition Dragkrok</title>
-    <description>3.95% KAMPANJRÄNTA Core Edition Dragkrok. Utrustningsnivå: Core. Miltal: 8 235 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RJB73W. Billån från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 87 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 87</g:custom_label_0>
-    <g:custom_label_2>3243</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/ce92cc72-135c-46ef-898d-be3ce49f2d8f</link>
-    <url>https://goingebil.se/sok/id/ce92cc72-135c-46ef-898d-be3ce49f2d8f</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/10ad0eeb-f6ea-4b94-a736-13b0c0149d50/d7544113-7554-45b0-a63d-52ac6e21383f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>82350</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>309000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a3f158b2-74f3-4ac1-a15a-b55466e9daf1</vehicle_id>
     <vehicle_registration_plate>UGF53B</vehicle_registration_plate>
     <title>Dacia Sandero TCe 90 extreme A / Privatleasing från 2,590:-</title>
