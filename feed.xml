@@ -1806,8 +1806,9 @@
     <vehicle_id>f0a2af96-d558-412b-a4c7-caa276da7cad</vehicle_id>
     <vehicle_registration_plate>UNK48F</vehicle_registration_plate>
     <title>Toyota ProAce City 1,2 Automat / mycket fint skick</title>
-    <description>1,2 Automat / mycket fint skick. Miltal: 6 530 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UNK48F. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
+    <description>1,2 Automat / mycket fint skick. Miltal: 6 530 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: UNK48F. Billån från 1 931 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
+    <g:custom_label_2>1931</g:custom_label_2>
     <link>https://goingebil.se/sok/id/f0a2af96-d558-412b-a4c7-caa276da7cad</link>
     <url>https://goingebil.se/sok/id/f0a2af96-d558-412b-a4c7-caa276da7cad</url>
     <brand>Toyota</brand>
@@ -1915,45 +1916,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>18ded0be-366e-48b2-b744-c1e7b5f49b53</vehicle_id>
-    <vehicle_registration_plate>JAT08K</vehicle_registration_plate>
-    <title>Volvo XC40 3.95% KAMPANJRÄNTA Recharge T4 Inscription</title>
-    <description>3.95% KAMPANJRÄNTA Recharge T4 Inscription. Utrustningsnivå: Inscription. Miltal: 11 889 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: JAT08K. Billån från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
-    <g:custom_label_2>3558</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/18ded0be-366e-48b2-b744-c1e7b5f49b53</link>
-    <url>https://goingebil.se/sok/id/18ded0be-366e-48b2-b744-c1e7b5f49b53</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/85e8edf0-dae2-4358-a0f2-1b52ab8a9196/8dc670a9-77ae-47f7-8000-00fd6897a12b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2021</year>
-    <mileage>
-      <value>118890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>339000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>339000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -2844,8 +2806,9 @@
     <vehicle_id>6630b855-80dc-489d-a0cb-55659013c8a4</vehicle_id>
     <vehicle_registration_plate>OJW820</vehicle_registration_plate>
     <title>Peugeot 2008 3.95% KAMPANJRÄNTA 1.2 PureTech 110hk Automat /DRAG/</title>
-    <description>3.95% KAMPANJRÄNTA 1.2 PureTech 110hk Automat /DRAG/. Miltal: 9 801 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: OJW820. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA 1.2 PureTech 110hk Automat /DRAG/. Miltal: 9 801 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: OJW820. Billån från 1 302 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 46</g:custom_label_0>
+    <g:custom_label_2>1302</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6630b855-80dc-489d-a0cb-55659013c8a4</link>
     <url>https://goingebil.se/sok/id/6630b855-80dc-489d-a0cb-55659013c8a4</url>
     <brand>Peugeot</brand>
@@ -5460,45 +5423,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>253625 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>190c8380-8015-46ed-bb9c-9bcb50cdd169</vehicle_id>
-    <vehicle_registration_plate>WBL58S</vehicle_registration_plate>
-    <title>Renault Kangoo Skåp Base dC 95 L1 G2 II</title>
-    <description>Skåp Base dC 95 L1 G2 II. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: WBL58S. Billån från 2 964 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 125 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 125</g:custom_label_0>
-    <g:custom_label_2>2964</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/190c8380-8015-46ed-bb9c-9bcb50cdd169</link>
-    <url>https://goingebil.se/sok/id/190c8380-8015-46ed-bb9c-9bcb50cdd169</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d5c1981c-8bb2-4d0f-8858-c3b25e944e5b/f22d3b12-5e11-4080-a7e6-25ea8e8feaf9?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kangoo</model>
-    <year>2025</year>
-    <mileage>
-      <value>10</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>249875 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>249875 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
