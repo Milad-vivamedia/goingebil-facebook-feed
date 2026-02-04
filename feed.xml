@@ -1492,45 +1492,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>d639c7e6-e8e9-4915-a306-52382aaa9a04</vehicle_id>
-    <vehicle_registration_plate>ALT244</vehicle_registration_plate>
-    <title>Volvo V40 3.95% KAMPANJRÄNTA T3 Adv Edition Värmare/ Adaptiv farthållare/ Keyless</title>
-    <description>3.95% KAMPANJRÄNTA T3 Adv Edition Värmare/ Adaptiv farthållare/ Keyless. Utrustningsnivå: Momentum. Miltal: 7 759 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: ALT244. Billån från 2 308 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
-    <g:custom_label_2>2308</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/d639c7e6-e8e9-4915-a306-52382aaa9a04</link>
-    <url>https://goingebil.se/sok/id/d639c7e6-e8e9-4915-a306-52382aaa9a04</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2ca5c002-8c49-44b3-a63e-61a085df4214/1732da22-34a6-4903-a0b0-a612fb93ee2d?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V40</model>
-    <year>2019</year>
-    <mileage>
-      <value>77590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>219900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>219900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>69184a34-df89-4b79-bcf6-616cca8c86ba</vehicle_id>
     <vehicle_registration_plate>YDO012</vehicle_registration_plate>
     <title>Peugeot 308 3.95% KAMPANJRÄNTA 130hk , Backkamera, Backsensorer</title>
@@ -4382,45 +4343,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>627900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>c3feec85-f211-456f-a8cd-c99d587f4b86</vehicle_id>
-    <vehicle_registration_plate>ULU491</vehicle_registration_plate>
-    <title>Mitsubishi Outlander 3.95% KAMPANJRÄNTA CVT 203 HK/ Drag/ Skinn/ PDC Fram+Bak/ ECC</title>
-    <description>3.95% KAMPANJRÄNTA CVT 203 HK/ Drag/ Skinn/ PDC Fram+Bak/ ECC. Utrustningsnivå: Business. Miltal: 14 865 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ULU491. Billån från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 76 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 76</g:custom_label_0>
-    <g:custom_label_2>1879</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/c3feec85-f211-456f-a8cd-c99d587f4b86</link>
-    <url>https://goingebil.se/sok/id/c3feec85-f211-456f-a8cd-c99d587f4b86</url>
-    <brand>Mitsubishi</brand>
-    <make>Mitsubishi</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2d668ac3-1268-4667-8c1e-604c66214e00/854263a5-7957-40b8-8974-7c3ca7baa414?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Outlander</model>
-    <year>2018</year>
-    <mileage>
-      <value>148650</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>179000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>179000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
