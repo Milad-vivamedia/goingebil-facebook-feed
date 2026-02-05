@@ -626,7 +626,7 @@
     <vehicle_id>2ff64296-4aab-4ea7-9b40-d9f9974cd6b0</vehicle_id>
     <vehicle_registration_plate>EAJ98X</vehicle_registration_plate>
     <title>Volvo XC40 3.95% KAMPANJRÄNTA Core Edition Dragkrok/ Backkamera/ Elbaklucka</title>
-    <description>3.95% KAMPANJRÄNTA Core Edition Dragkrok/ Backkamera/ Elbaklucka. Utrustningsnivå: Core. Miltal: 7 579 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EAJ98X. Billån från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Core Edition Dragkrok/ Backkamera/ Elbaklucka. Utrustningsnivå: Core. Miltal: 7 580 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EAJ98X. Billån från 3 243 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>3243</g:custom_label_2>
     <link>https://goingebil.se/sok/id/2ff64296-4aab-4ea7-9b40-d9f9974cd6b0</link>
@@ -640,7 +640,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>75790</value>
+      <value>75800</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -934,7 +934,7 @@
     <vehicle_id>287e1d03-d1c6-4533-9c30-dc7278c6fa7e</vehicle_id>
     <vehicle_registration_plate>ZCR024</vehicle_registration_plate>
     <title>Audi Q2 3.95% KAMPANJRÄNTA Proline P-sensor</title>
-    <description>3.95% KAMPANJRÄNTA Proline P-sensor. Utrustningsnivå: Proline. Miltal: 8 718 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: ZCR024. Billån från 1 783 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <description>3.95% KAMPANJRÄNTA Proline P-sensor. Utrustningsnivå: Proline. Miltal: 8 719 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: ZCR024. Billån från 1 783 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_2>1783</g:custom_label_2>
     <link>https://goingebil.se/sok/id/287e1d03-d1c6-4533-9c30-dc7278c6fa7e</link>
@@ -948,7 +948,7 @@
     <model>Q2</model>
     <year>2018</year>
     <mileage>
-      <value>87180</value>
+      <value>87190</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -1361,7 +1361,7 @@
     <transmission>Automatic</transmission>
     <price>399000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">G��inge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1660,7 +1660,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/2218e89f-de35-4cdf-b04d-69c26c7b2501/b4d67f3d-cc01-4f81-9c74-8a25986a2e5a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/0a697ae0-97e0-4305-bc87-9a8faeb6f45f/64c99663-6de9-4575-ac3e-90cc1a57fe7b?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>5 E-Tech</model>
@@ -2040,7 +2040,7 @@
     <brand>Dacia</brand>
     <make>Dacia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/815516bb-c80d-4269-9a60-21312f41ed23/351c4962-9fd8-426c-9499-7fff11adb44c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/ff24c04b-5b41-4298-956c-342fa2c9544b/bfac385e-02e4-43b4-b942-303d30a99f57?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Sandero</model>
