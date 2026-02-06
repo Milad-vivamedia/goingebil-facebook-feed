@@ -151,6 +151,84 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>b67ce152-b44b-4f0c-a7cb-d939ab83b747</vehicle_id>
+    <vehicle_registration_plate>LBU120</vehicle_registration_plate>
+    <title>Volvo XC60 D5 AWD R-Design Business E PRO</title>
+    <description>D5 AWD R-Design Business E PRO. Utrustningsnivå: R-Design. Miltal: 17 157 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: LBU120. Billån från 2 404 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>2404</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/b67ce152-b44b-4f0c-a7cb-d939ab83b747</link>
+    <url>https://goingebil.se/sok/id/b67ce152-b44b-4f0c-a7cb-d939ab83b747</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/25b3ce58-f8bd-427f-a3e6-f8bb38041b87/b820598d-9ffc-4aeb-bdd4-a75f9c693812?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2016</year>
+    <mileage>
+      <value>171570</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>229000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>229000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>b8698c97-3d03-459f-8e48-2688792dd062</vehicle_id>
+    <vehicle_registration_plate>CDL93F</vehicle_registration_plate>
+    <title>Volvo XC40 B4 FWD Bensin Core SE Drag/ Navi/ Kamera/ Värmare</title>
+    <description>B4 FWD Bensin Core SE Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Core. Miltal: 4 915 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CDL93F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>3663</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/b8698c97-3d03-459f-8e48-2688792dd062</link>
+    <url>https://goingebil.se/sok/id/b8698c97-3d03-459f-8e48-2688792dd062</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/6d1fadf3-5db3-4e29-b564-e51311d22750/5023406c-9c5d-4ba0-929e-c3b10e7efdd0?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2024</year>
+    <mileage>
+      <value>49150</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>349000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>349000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>50839bd0-11a6-42e4-b9eb-509f029ddb2d</vehicle_id>
     <vehicle_registration_plate>YTS451</vehicle_registration_plate>
     <title>Dacia Sandero PhII 0,9 TCe 90 Essential</title>
@@ -2484,8 +2562,8 @@
     <vehicle_id>8429324b-53bb-497a-8d11-8d4e2ae23f78</vehicle_id>
     <vehicle_registration_plate>RAM02F</vehicle_registration_plate>
     <title>Renault Kangoo 3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink</title>
-    <description>3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink. Miltal: 6 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAM02F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 23 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 23</g:custom_label_0>
+    <description>3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink. Miltal: 6 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAM02F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 24</g:custom_label_0>
     <g:custom_label_2>3663</g:custom_label_2>
     <link>https://goingebil.se/sok/id/8429324b-53bb-497a-8d11-8d4e2ae23f78</link>
     <url>https://goingebil.se/sok/id/8429324b-53bb-497a-8d11-8d4e2ae23f78</url>
@@ -4654,8 +4732,8 @@
     <vehicle_id>680c63dc-012e-485b-ba03-cc8ec09fd36c</vehicle_id>
     <vehicle_registration_plate>RAZ807</vehicle_registration_plate>
     <title>Audi Q2 S Tronic 150hk Proline Advanced Lågmil</title>
-    <description>S Tronic 150hk Proline Advanced Lågmil. Utrustningsnivå: Proline Advanced. Miltal: 701 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RAZ807. Billån från 3 033 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 86 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 86</g:custom_label_0>
+    <description>S Tronic 150hk Proline Advanced Lågmil. Utrustningsnivå: Proline Advanced. Miltal: 701 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RAZ807. Billån från 3 033 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 87 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 87</g:custom_label_0>
     <g:custom_label_2>3033</g:custom_label_2>
     <link>https://goingebil.se/sok/id/680c63dc-012e-485b-ba03-cc8ec09fd36c</link>
     <url>https://goingebil.se/sok/id/680c63dc-012e-485b-ba03-cc8ec09fd36c</url>
@@ -5274,8 +5352,8 @@
     <vehicle_id>f3019032-674b-4289-9533-700635c40376</vehicle_id>
     <vehicle_registration_plate>RPW01M</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp</title>
-    <description>Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp. Utrustningsnivå: Plus. Miltal: 8 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RPW01M. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 112 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 112</g:custom_label_0>
+    <description>Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp. Utrustningsnivå: Plus. Miltal: 8 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RPW01M. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 113 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 113</g:custom_label_0>
     <g:custom_label_2>4818</g:custom_label_2>
     <link>https://goingebil.se/sok/id/f3019032-674b-4289-9533-700635c40376</link>
     <url>https://goingebil.se/sok/id/f3019032-674b-4289-9533-700635c40376</url>
@@ -5430,8 +5508,8 @@
     <vehicle_id>11da6494-fc63-4d70-b884-88c059eb71ce</vehicle_id>
     <vehicle_registration_plate>RBY29F</vehicle_registration_plate>
     <title>Volvo XC40 Plus Edition/ Värmepump/ PDC/ Kamera/ Navi</title>
-    <description>Plus Edition/ Värmepump/ PDC/ Kamera/ Navi. Utrustningsnivå: Plus. Miltal: 5 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBY29F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 126 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 126</g:custom_label_0>
+    <description>Plus Edition/ Värmepump/ PDC/ Kamera/ Navi. Utrustningsnivå: Plus. Miltal: 5 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBY29F. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 127 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 127</g:custom_label_0>
     <g:custom_label_2>3663</g:custom_label_2>
     <link>https://goingebil.se/sok/id/11da6494-fc63-4d70-b884-88c059eb71ce</link>
     <url>https://goingebil.se/sok/id/11da6494-fc63-4d70-b884-88c059eb71ce</url>
@@ -6345,8 +6423,8 @@
     <vehicle_id>6a0fba8e-c2fa-47a0-a209-811bebf86491</vehicle_id>
     <vehicle_registration_plate>WBK20U</vehicle_registration_plate>
     <title>Renault Scenic E-Tech esprit Alpine 87kWh/220hk Värmepump/ 360/ Adaptiv Cruise/ Förarassistans/ H/K</title>
-    <description>esprit Alpine 87kWh/220hk Värmepump/ 360/ Adaptiv Cruise/ Förarassistans/ H/K. Utrustningsnivå: Esprit Alpine, GT Line. Miltal: 1 280 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBK20U. Billån från 4 713 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 196 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 196</g:custom_label_0>
+    <description>esprit Alpine 87kWh/220hk Värmepump/ 360/ Adaptiv Cruise/ Förarassistans/ H/K. Utrustningsnivå: Esprit Alpine, GT Line. Miltal: 1 280 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBK20U. Billån från 4 713 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 197 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 197</g:custom_label_0>
     <g:custom_label_2>4713</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6a0fba8e-c2fa-47a0-a209-811bebf86491</link>
     <url>https://goingebil.se/sok/id/6a0fba8e-c2fa-47a0-a209-811bebf86491</url>
@@ -6462,8 +6540,8 @@
     <vehicle_id>480877b0-ef4e-433f-b209-1e368931da0f</vehicle_id>
     <vehicle_registration_plate>BCT92S</vehicle_registration_plate>
     <title>Renault Mégane E-TECH Evolution 60kWh/130hk</title>
-    <description>Evolution 60kWh/130hk. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: BCT92S. Privatleasing från 4 990 kr/mån. Billån från 4 376 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 238 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 238</g:custom_label_0>
+    <description>Evolution 60kWh/130hk. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: BCT92S. Privatleasing från 4 990 kr/mån. Billån från 4 376 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 239 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 239</g:custom_label_0>
     <g:custom_label_1>4990</g:custom_label_1>
     <g:custom_label_2>4376</g:custom_label_2>
     <link>https://goingebil.se/sok/id/480877b0-ef4e-433f-b209-1e368931da0f</link>
@@ -6767,8 +6845,8 @@
     <vehicle_id>8c12b09e-286c-4944-98c4-c36d38455b95</vehicle_id>
     <vehicle_registration_plate>ZRA45J</vehicle_registration_plate>
     <title>Dacia Jogger Extreme 7 platser Kamera/ Lagerbil</title>
-    <description>Extreme 7 platser Kamera/ Lagerbil. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZRA45J. Billån från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 476 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 476</g:custom_label_0>
+    <description>Extreme 7 platser Kamera/ Lagerbil. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZRA45J. Billån från 3 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 477 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 477</g:custom_label_0>
     <g:custom_label_2>3428</g:custom_label_2>
     <link>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</link>
     <url>https://goingebil.se/sok/id/8c12b09e-286c-4944-98c4-c36d38455b95</url>
