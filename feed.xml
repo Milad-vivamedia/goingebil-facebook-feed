@@ -2006,7 +2006,7 @@
     <transmission>Automatic</transmission>
     <price>269000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -3643,8 +3643,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>f17c6a17-e705-4606-8c6b-e43a1a1f45b6</vehicle_id>
     <vehicle_registration_plate>SJB64C</vehicle_registration_plate>
-    <title>Renault 4 E-Tech R4 iconic 52kWh / Privtaleasing fr��n 4,389:-</title>
-    <description>R4 iconic 52kWh / Privtaleasing fr��n 4,389:-. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SJB64C. Privatleasing från 4 490 kr/mån. Billån från 5 632 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
+    <title>Renault 4 E-Tech R4 iconic 52kWh / Privtaleasing från 4,389:-</title>
+    <description>R4 iconic 52kWh / Privtaleasing från 4,389:-. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SJB64C. Privatleasing från 4 490 kr/mån. Billån från 5 632 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
     <g:custom_label_1>4490</g:custom_label_1>
     <g:custom_label_2>5632</g:custom_label_2>
