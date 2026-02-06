@@ -229,45 +229,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b67ce152-b44b-4f0c-a7cb-d939ab83b747</vehicle_id>
-    <vehicle_registration_plate>LBU120</vehicle_registration_plate>
-    <title>Volvo XC60 D5 AWD R-Design Business E PRO</title>
-    <description>D5 AWD R-Design Business E PRO. Utrustningsnivå: R-Design. Miltal: 17 157 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: LBU120. Billån från 2 404 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>2404</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/b67ce152-b44b-4f0c-a7cb-d939ab83b747</link>
-    <url>https://goingebil.se/sok/id/b67ce152-b44b-4f0c-a7cb-d939ab83b747</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/25b3ce58-f8bd-427f-a3e6-f8bb38041b87/b820598d-9ffc-4aeb-bdd4-a75f9c693812?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2016</year>
-    <mileage>
-      <value>171570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>b8698c97-3d03-459f-8e48-2688792dd062</vehicle_id>
     <vehicle_registration_plate>CDL93F</vehicle_registration_plate>
     <title>Volvo XC40 B4 FWD Bensin Core SE Drag/ Navi/ Kamera/ Värmare</title>
@@ -1338,7 +1299,7 @@
     <transmission>Automatic</transmission>
     <price>165000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1682,9 +1643,8 @@
     <vehicle_id>618ea44b-35bc-493d-bcb6-7d0f88d4a53a</vehicle_id>
     <vehicle_registration_plate>MWN85S</vehicle_registration_plate>
     <title>Tesla Model 3 283hk</title>
-    <description>283hk. Miltal: 11 079 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: MWN85S. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 10 dagar sedan.</description>
+    <description>283hk. Miltal: 11 079 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: MWN85S. Kontakta oss för mer information om detta fordon. Publicerad för 10 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 10</g:custom_label_0>
-    <g:custom_label_2>2824</g:custom_label_2>
     <link>https://goingebil.se/sok/id/618ea44b-35bc-493d-bcb6-7d0f88d4a53a</link>
     <url>https://goingebil.se/sok/id/618ea44b-35bc-493d-bcb6-7d0f88d4a53a</url>
     <brand>Tesla</brand>
