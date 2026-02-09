@@ -4351,45 +4351,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>1d8789d9-c028-4c09-aa3f-c08c063ec90c</vehicle_id>
-    <vehicle_registration_plate>XAB48X</vehicle_registration_plate>
-    <title>Audi A1 Proline/ LED/ PDC/ Tonad/ Carplay</title>
-    <description>Proline/ LED/ PDC/ Tonad/ Carplay. Utrustningsnivå: Proline. Miltal: 2 053 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: XAB48X. Billån från 2 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 76 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 76</g:custom_label_0>
-    <g:custom_label_2>2194</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/1d8789d9-c028-4c09-aa3f-c08c063ec90c</link>
-    <url>https://goingebil.se/sok/id/1d8789d9-c028-4c09-aa3f-c08c063ec90c</url>
-    <brand>Audi</brand>
-    <make>Audi</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/33d1e8ed-6d26-4e0c-b8d3-820df4dd593d/561456dc-73a9-4bde-b317-d98431e2bd4a?format=jpeg&amp;r=649c0b9&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A1</model>
-    <year>2023</year>
-    <mileage>
-      <value>20530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>209000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>209000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>aa5a88d3-6a6a-4921-aa7d-4afcfbdbe1bd</vehicle_id>
     <vehicle_registration_plate>CEJ09F</vehicle_registration_plate>
     <title>XPENG G6 AWD Premium Drag Panorama</title>
@@ -5068,45 +5029,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>369000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>b549384b-d018-4545-9980-e9384fffbc07</vehicle_id>
-    <vehicle_registration_plate>PEP44G</vehicle_registration_plate>
-    <title>Renault Clio TCe 90 Zen X-Tronic 5-d III/ PDC bak/ Farth/ LED</title>
-    <description>TCe 90 Zen X-Tronic 5-d III/ PDC bak/ Farth/ LED. Utrustningsnivå: Zen. Miltal: 2 258 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PEP44G. Billån från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 102 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 102</g:custom_label_0>
-    <g:custom_label_2>1774</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/b549384b-d018-4545-9980-e9384fffbc07</link>
-    <url>https://goingebil.se/sok/id/b549384b-d018-4545-9980-e9384fffbc07</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/37b2fb1d-a21e-4f30-8544-7ddd7361c894/76bd0bc4-b10a-4bfb-ac27-3c61766a0fdf?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2022</year>
-    <mileage>
-      <value>22580</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>169000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>169000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5920,45 +5842,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>8b5ec04a-8edb-44d1-99d2-a20e6d2974df</vehicle_id>
-    <vehicle_registration_plate>RBJ90Y</vehicle_registration_plate>
-    <title>XPENG G9 AWD Premium Komfort/ Drag/ V2L/ XPilot/ Pano/ Luftfjädring</title>
-    <description>AWD Premium Komfort/ Drag/ V2L/ XPilot/ Pano/ Luftfjädring. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBJ90Y. Billån från 7 661 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 159 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 159</g:custom_label_0>
-    <g:custom_label_2>7661</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/8b5ec04a-8edb-44d1-99d2-a20e6d2974df</link>
-    <url>https://goingebil.se/sok/id/8b5ec04a-8edb-44d1-99d2-a20e6d2974df</url>
-    <brand>XPENG</brand>
-    <make>XPENG</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/eba130d9-a82e-4dd8-ada9-6d0f9b62a86b/e216ddac-b652-4497-96c8-9896c0be13ce?format=jpeg&amp;r=906e8d2&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>G9</model>
-    <year>2024</year>
-    <mileage>
-      <value>20440</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>729900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>729900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a926d77e-4135-4551-bad6-362cdcd34654</vehicle_id>
     <vehicle_registration_plate>WAY85K</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé M-sport/ Kamera/ Navi/ Laddhybrid</title>
@@ -6682,45 +6565,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>bc7014d5-0eef-4ca6-9ef3-27e884d42e67</vehicle_id>
-    <vehicle_registration_plate>CTK93Y</vehicle_registration_plate>
-    <title>Renault Mégane E-TECH Iconic 60 kWh 220hk II Lågmil</title>
-    <description>Iconic 60 kWh 220hk II Lågmil. Miltal: 605 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: CTK93Y. Billån från 3 768 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 436 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 436</g:custom_label_0>
-    <g:custom_label_2>3768</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/bc7014d5-0eef-4ca6-9ef3-27e884d42e67</link>
-    <url>https://goingebil.se/sok/id/bc7014d5-0eef-4ca6-9ef3-27e884d42e67</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9cb90266-5c33-4e2d-80ba-881f2689a336/58ffe81b-d458-4a91-9ce4-e168203cdeac?format=jpeg&amp;r=020fa3e&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane E-TECH</model>
-    <year>2024</year>
-    <mileage>
-      <value>6050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
