@@ -7,18 +7,18 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b79ae79b-f312-46fe-b6ae-9d59998cd619</vehicle_id>
+    <vehicle_id>cafb9058-90c8-416a-a65c-d25f024c85f0</vehicle_id>
     <vehicle_registration_plate>FZB56H</vehicle_registration_plate>
     <title>Kia EV6 77.4 kWh AWD Special Edition Drag/ Navi/ Kamera</title>
     <description>77.4 kWh AWD Special Edition Drag/ Navi/ Kamera. Miltal: 4 741 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: FZB56H. Billån från 4 713 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>4713</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/b79ae79b-f312-46fe-b6ae-9d59998cd619</link>
-    <url>https://goingebil.se/sok/id/b79ae79b-f312-46fe-b6ae-9d59998cd619</url>
+    <link>https://goingebil.se/sok/id/cafb9058-90c8-416a-a65c-d25f024c85f0</link>
+    <url>https://goingebil.se/sok/id/cafb9058-90c8-416a-a65c-d25f024c85f0</url>
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/231ba86a-bcf6-463f-b8ad-268df32fd0f6/1dc95248-9f3c-4d16-bb03-081adf3392b9?format=jpeg&amp;r=906e8d2&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/ee64ae2f-10b6-47e3-b8bb-2b69781045af/82635c78-8c1d-46aa-b5b0-1a270bb2845c?format=jpeg&amp;r=906e8d2&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EV6</model>
@@ -848,7 +848,7 @@
     <vehicle_id>91e0dac8-f5cf-4e34-9118-4f3affe5334f</vehicle_id>
     <vehicle_registration_plate>ZUO170</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 extreme 7 platser Techno-plus/ Kamera</title>
-    <description>TCe 110 extreme 7 platser Techno-plus/ Kamera. Miltal: 5 033 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: ZUO170. Billån från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <description>TCe 110 extreme 7 platser Techno-plus/ Kamera. Miltal: 5 034 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: ZUO170. Billån från 1 774 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_2>1774</g:custom_label_2>
     <link>https://goingebil.se/sok/id/91e0dac8-f5cf-4e34-9118-4f3affe5334f</link>
@@ -862,7 +862,7 @@
     <model>Jogger</model>
     <year>2023</year>
     <mileage>
-      <value>50330</value>
+      <value>50340</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -2410,7 +2410,7 @@
     <vehicle_id>67168627-c73c-4f9b-b95d-1a5eddeec19a</vehicle_id>
     <vehicle_registration_plate>RLF85J</vehicle_registration_plate>
     <title>Volkswagen Tiguan GTS 240hk 7-sits 4M Drag/ Kamera/ Navi/ Dynaudio</title>
-    <description>GTS 240hk 7-sits 4M Drag/ Kamera/ Navi/ Dynaudio. Utrustningsnivå: GTS. Miltal: 9 500 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RLF85J. Billån från 3 506 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
+    <description>GTS 240hk 7-sits 4M Drag/ Kamera/ Navi/ Dynaudio. Utrustningsnivå: GTS. Miltal: 9 550 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RLF85J. Billån från 3 506 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
     <g:custom_label_2>3506</g:custom_label_2>
     <link>https://goingebil.se/sok/id/67168627-c73c-4f9b-b95d-1a5eddeec19a</link>
@@ -2424,7 +2424,7 @@
     <model>Tiguan</model>
     <year>2020</year>
     <mileage>
-      <value>95000</value>
+      <value>95500</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -2952,8 +2952,9 @@
     <vehicle_id>c5425e38-1d42-4dba-a099-be9165b7b2ab</vehicle_id>
     <vehicle_registration_plate>SLW87N</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 extreme 7 platser</title>
-    <description>TCe 110 extreme 7 platser. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: SLW87N. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
+    <description>TCe 110 extreme 7 platser. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: SLW87N. Billån från 3 296 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 32</g:custom_label_0>
+    <g:custom_label_2>3296</g:custom_label_2>
     <link>https://goingebil.se/sok/id/c5425e38-1d42-4dba-a099-be9165b7b2ab</link>
     <url>https://goingebil.se/sok/id/c5425e38-1d42-4dba-a099-be9165b7b2ab</url>
     <brand>Dacia</brand>
@@ -5351,8 +5352,8 @@
     <vehicle_id>f3019032-674b-4289-9533-700635c40376</vehicle_id>
     <vehicle_registration_plate>RPW01M</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp</title>
-    <description>Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp. Utrustningsnivå: Plus. Miltal: 8 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RPW01M. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 116 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 116</g:custom_label_0>
+    <description>Recharge T6 Plus Dark Drag/ Navi/ Kamera/ BLIS/ LED-ramp. Utrustningsnivå: Plus. Miltal: 8 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RPW01M. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 117 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 117</g:custom_label_0>
     <g:custom_label_2>4818</g:custom_label_2>
     <link>https://goingebil.se/sok/id/f3019032-674b-4289-9533-700635c40376</link>
     <url>https://goingebil.se/sok/id/f3019032-674b-4289-9533-700635c40376</url>
@@ -6497,8 +6498,9 @@
     <vehicle_id>3ae66212-4199-418b-8622-7514b4767f64</vehicle_id>
     <vehicle_registration_plate>CWL49D</vehicle_registration_plate>
     <title>Renault Mégane E-TECH Evolution 40kWh/130hk/ Värmepump/ Adp farth/ Pekskärm/ Handsfreekort</title>
-    <description>Evolution 40kWh/130hk/ Värmepump/ Adp farth/ Pekskärm/ Handsfreekort. Miltal: 293 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: CWL49D. Kontakta oss för mer information om detta fordon. Publicerad för 243 dagar sedan.</description>
+    <description>Evolution 40kWh/130hk/ Värmepump/ Adp farth/ Pekskärm/ Handsfreekort. Miltal: 293 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: CWL49D. Billån från 3 768 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 243 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 243</g:custom_label_0>
+    <g:custom_label_2>3768</g:custom_label_2>
     <link>https://goingebil.se/sok/id/3ae66212-4199-418b-8622-7514b4767f64</link>
     <url>https://goingebil.se/sok/id/3ae66212-4199-418b-8622-7514b4767f64</url>
     <brand>Renault</brand>
