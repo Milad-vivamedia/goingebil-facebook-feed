@@ -88,9 +88,9 @@
     <vehicle_id>2e5d8260-16fb-4b84-8996-5f964d4d700f</vehicle_id>
     <vehicle_registration_plate>SCH40G</vehicle_registration_plate>
     <title>Tesla Model Y 534 hk AWD /Autopilot /Drag /Vinterhjul</title>
-    <description>534 hk AWD /Autopilot /Drag /Vinterhjul. Miltal: 6 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: SCH40G. Billån från 4 356 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>534 hk AWD /Autopilot /Drag /Vinterhjul. Miltal: 6 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: SCH40G. Billån från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
-    <g:custom_label_2>4356</g:custom_label_2>
+    <g:custom_label_2>4188</g:custom_label_2>
     <link>https://goingebil.se/sok/id/2e5d8260-16fb-4b84-8996-5f964d4d700f</link>
     <url>https://goingebil.se/sok/id/2e5d8260-16fb-4b84-8996-5f964d4d700f</url>
     <brand>Tesla</brand>
@@ -108,14 +108,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>415000 SEK</price>
+    <price>399000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>415000 SEK</sale_price>
+    <sale_price>399000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -149,7 +149,7 @@
     <transmission>Manual</transmission>
     <price>185000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -2559,45 +2559,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>67168627-c73c-4f9b-b95d-1a5eddeec19a</vehicle_id>
-    <vehicle_registration_plate>RLF85J</vehicle_registration_plate>
-    <title>Volkswagen Tiguan GTS 240hk 7-sits 4M Drag/ Kamera/ Navi/ Dynaudio</title>
-    <description>GTS 240hk 7-sits 4M Drag/ Kamera/ Navi/ Dynaudio. Utrustningsnivå: GTS. Miltal: 9 550 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RLF85J. Billån från 3 506 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
-    <g:custom_label_2>3506</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/67168627-c73c-4f9b-b95d-1a5eddeec19a</link>
-    <url>https://goingebil.se/sok/id/67168627-c73c-4f9b-b95d-1a5eddeec19a</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/05eb1449-6752-4b42-8f98-c817b61f2355/45ef5a85-7bb6-4db9-95a2-f74281e1959a?format=jpeg&amp;r=906e8d2&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Tiguan</model>
-    <year>2020</year>
-    <mileage>
-      <value>95500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>334000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>334000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a14862a9-7ac8-4128-ad4b-eeffca7c989b</vehicle_id>
     <vehicle_registration_plate>PJG71E</vehicle_registration_plate>
     <title>Renault Scenic E-Tech techno 87kWh/220hk/ Harman/Förarassist-pkt plus/Adpt Farth/ Carplay</title>
@@ -2937,45 +2898,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>349000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>f0c5c223-2c74-4f77-9e26-a10a77a460ed</vehicle_id>
-    <vehicle_registration_plate>HOX77D</vehicle_registration_plate>
-    <title>Renault Mégane E-TECH Equilibre 40kWh 130hk/ PDC/ Nkl kort/ openR Link/ Carplay</title>
-    <description>Equilibre 40kWh 130hk/ PDC/ Nkl kort/ openR Link/ Carplay. Miltal: 2 597 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: HOX77D. Billån från 2 509 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 32</g:custom_label_0>
-    <g:custom_label_2>2509</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/f0c5c223-2c74-4f77-9e26-a10a77a460ed</link>
-    <url>https://goingebil.se/sok/id/f0c5c223-2c74-4f77-9e26-a10a77a460ed</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/105e105f-4d72-4d70-8832-71537b0699a8/d95c0b55-daf0-4fad-9be3-d4ed2baf78e7?format=jpeg&amp;r=649c0b9&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane E-TECH</model>
-    <year>2023</year>
-    <mileage>
-      <value>25970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>239000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>239000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
