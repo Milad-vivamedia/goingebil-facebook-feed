@@ -241,45 +241,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>c2733685-7b95-4e8c-aadb-9ffd81d9ee9c</vehicle_id>
-    <vehicle_registration_plate>DRS700</vehicle_registration_plate>
-    <title>Volvo V90 D4 Business Advanced</title>
-    <description>D4 Business Advanced. Utrustningsnivå: Momentum. Miltal: 18 257 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DRS700. Billån från 1 942 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>1942</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/c2733685-7b95-4e8c-aadb-9ffd81d9ee9c</link>
-    <url>https://goingebil.se/sok/id/c2733685-7b95-4e8c-aadb-9ffd81d9ee9c</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/923477e9-9124-48e6-b336-d62aadd07529/1d2756a0-4e4b-40e7-bfb1-9f61dc44ffab?format=jpeg&amp;r=649c0b9&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2018</year>
-    <mileage>
-      <value>182570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>185000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>185000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>b520b4ac-6948-463d-ab57-60ea1c9675be</vehicle_id>
     <vehicle_registration_plate>LSN38G</vehicle_registration_plate>
     <title>Renault Rafale PHEV 300 esprit Alpine Edition / Ny lagerbil /Dragkrok</title>
@@ -997,45 +958,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>7bb904b9-da03-45ce-97d2-07d86c5826e3</vehicle_id>
-    <vehicle_registration_plate>MWF00N</vehicle_registration_plate>
-    <title>Volvo XC60 B5 AWD Bensin R-Design Drag/ Backkamera/ 22&quot; med skärmbreddare</title>
-    <description>B5 AWD Bensin R-Design Drag/ Backkamera/ 22&quot; med skärmbreddare. Utrustningsnivå: R-Design. Miltal: 8 802 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: MWF00N. Billån från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 8 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 8</g:custom_label_0>
-    <g:custom_label_2>4188</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/7bb904b9-da03-45ce-97d2-07d86c5826e3</link>
-    <url>https://goingebil.se/sok/id/7bb904b9-da03-45ce-97d2-07d86c5826e3</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e2cd39d8-a0a5-4bc7-a9d6-4bb81257694f/f85a6c8c-2b51-4ae7-b8dc-3c0980f35b67?format=jpeg&amp;r=906e8d2&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2021</year>
-    <mileage>
-      <value>88020</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -6111,45 +6033,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>144e1cc2-3211-4ddd-8a54-5bdcfd776015</vehicle_id>
-    <vehicle_registration_plate>SJA41W</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Core Edition Pano/ Kamera/ Navi/ Tonade</title>
-    <description>Recharge T6 Core Edition Pano/ Kamera/ Navi/ Tonade. Utrustningsnivå: Core. Miltal: 5 661 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: SJA41W. Billån från 4 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 169 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 169</g:custom_label_0>
-    <g:custom_label_2>4818</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/144e1cc2-3211-4ddd-8a54-5bdcfd776015</link>
-    <url>https://goingebil.se/sok/id/144e1cc2-3211-4ddd-8a54-5bdcfd776015</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/466eb611-ec2f-47f6-b7c6-96a6707fe16b/d344793c-4da5-4619-8042-8e6a3c4437e6?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>56610</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>459000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>459000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
