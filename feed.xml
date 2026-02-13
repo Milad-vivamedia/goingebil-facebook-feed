@@ -510,45 +510,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>64f2ebc6-3d50-49c4-b2cb-90e86c13069d</vehicle_id>
-    <vehicle_registration_plate>PEP44G</vehicle_registration_plate>
-    <title>Renault Clio TCe 90 Zen X-Tronic 5-d III Aut/ Carplay/ Sensorer bak</title>
-    <description>TCe 90 Zen X-Tronic 5-d III Aut/ Carplay/ Sensorer bak. Utrustningsnivå: Zen. Miltal: 2 258 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Förbränningsmotor. Registreringsnummer: PEP44G. Billån från 1 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
-    <g:custom_label_2>1669</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/64f2ebc6-3d50-49c4-b2cb-90e86c13069d</link>
-    <url>https://goingebil.se/sok/id/64f2ebc6-3d50-49c4-b2cb-90e86c13069d</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/af803f9b-a4f1-4c60-8f3c-061a339419a3/5a6f32a6-dd16-4f14-b030-05c8e51b29d9?format=jpeg&amp;r=020fa3e&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2022</year>
-    <mileage>
-      <value>22580</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>159000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>159000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>757889cb-e3e2-44bf-b6ea-62840c4fadfb</vehicle_id>
     <vehicle_registration_plate>XAB48X</vehicle_registration_plate>
     <title>Audi A1 Proline/ Tonade rutor/ Otroligt fint skick</title>
@@ -4651,45 +4612,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>9aee3fa0-ff2c-4b1b-b4c6-49c7aee39844</vehicle_id>
-    <vehicle_registration_plate>ZSN51B</vehicle_registration_plate>
-    <title>Volkswagen Arteon SB 4M R-line Drag/ Kamera/ Navi/ Värmare</title>
-    <description>SB 4M R-line Drag/ Kamera/ Navi/ Värmare. Utrustningsnivå: R-Line. Miltal: 8 668 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ZSN51B. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 87 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 87</g:custom_label_0>
-    <g:custom_label_2>3348</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/9aee3fa0-ff2c-4b1b-b4c6-49c7aee39844</link>
-    <url>https://goingebil.se/sok/id/9aee3fa0-ff2c-4b1b-b4c6-49c7aee39844</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2e6aeb7b-3b9e-4436-835d-f424b7345a0a/58d8a124-a245-4b03-96ae-2a043d9abce3?format=jpeg&amp;r=906e8d2&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Arteon</model>
-    <year>2021</year>
-    <mileage>
-      <value>86680</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
