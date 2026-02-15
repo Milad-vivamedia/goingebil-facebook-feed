@@ -205,7 +205,7 @@
     <vehicle_id>03dbbfd5-3310-417e-b4f7-fe83413c69f6</vehicle_id>
     <vehicle_registration_plate>YRF22M</vehicle_registration_plate>
     <title>Renault Mégane PhII TCe 140 Equilibre ST</title>
-    <description>PhII TCe 140 Equilibre ST. Miltal: 3 478 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbr��nningsmotor. Registreringsnummer: YRF22M. Billån från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>PhII TCe 140 Equilibre ST. Miltal: 3 478 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: YRF22M. Billån från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>1879</g:custom_label_2>
     <link>https://goingebil.se/sok/id/03dbbfd5-3310-417e-b4f7-fe83413c69f6</link>
@@ -223,7 +223,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
-    <fuel_type>Förbr��nningsmotor</fuel_type>
+    <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>179000 SEK</price>
     <address format="simple">
