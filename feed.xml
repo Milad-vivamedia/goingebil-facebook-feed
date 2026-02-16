@@ -1881,8 +1881,8 @@
     <price>169900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
+      <component name="city">��lmhult</component>
+      <component name="region">��lmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>169900 SEK</sale_price>
@@ -5118,9 +5118,8 @@
     <vehicle_id>4282793f-db89-428f-9fac-00b5bad2adf3</vehicle_id>
     <vehicle_registration_plate>RHA73Y</vehicle_registration_plate>
     <title>Volvo XC40 Ultimate 360/ Pano/ H/K/ Navi/ Värmepump</title>
-    <description>Ultimate 360/ Pano/ H/K/ Navi/ Värmepump. Miltal: 5 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RHA73Y. Billån från 3 883 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 103 dagar sedan.</description>
+    <description>Ultimate 360/ Pano/ H/K/ Navi/ Värmepump. Miltal: 5 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RHA73Y. Kontakta oss för mer information om detta fordon. Publicerad för 103 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 103</g:custom_label_0>
-    <g:custom_label_2>3883</g:custom_label_2>
     <link>https://goingebil.se/sok/id/4282793f-db89-428f-9fac-00b5bad2adf3</link>
     <url>https://goingebil.se/sok/id/4282793f-db89-428f-9fac-00b5bad2adf3</url>
     <brand>Volvo</brand>
