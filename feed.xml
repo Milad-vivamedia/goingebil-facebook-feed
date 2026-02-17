@@ -1742,45 +1742,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2e0e6524-11de-4afb-a482-1a6b1b1751ec</vehicle_id>
-    <vehicle_registration_plate>FPO465</vehicle_registration_plate>
-    <title>Renault Clio TCe 100 Zen 5d Carplay/ Backsensor/ AC/ Grå metallic</title>
-    <description>TCe 100 Zen 5d Carplay/ Backsensor/ AC/ Grå metallic. Utrustningsnivå: Zen. Miltal: 4 673 mil. Årsmodell: 2020. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: FPO465. Billån från 1 291 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
-    <g:custom_label_2>1291</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/2e0e6524-11de-4afb-a482-1a6b1b1751ec</link>
-    <url>https://goingebil.se/sok/id/2e0e6524-11de-4afb-a482-1a6b1b1751ec</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/495ce34c-e970-43c9-9308-41575d9f4d81/cbb608ca-8d04-45d7-8923-aab444fcba05?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2020</year>
-    <mileage>
-      <value>46730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>123000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>123000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a0d233a5-07e5-45cb-aadd-4e9bc05dc3bf</vehicle_id>
     <vehicle_registration_plate>YXR849</vehicle_registration_plate>
     <title>Audi A1 1.4 TFSI 125hk Svart Optik</title>
@@ -2401,6 +2362,45 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>e770431c-7303-4621-9c29-d2cffc2b3caf</vehicle_id>
+    <vehicle_registration_plate>TNY06W</vehicle_registration_plate>
+    <title>Renault Kangoo Skåp phII Base Line Expr 95</title>
+    <description>Skåp phII Base Line Expr 95. Miltal: 6 529 mil. Årsmodell: 2021. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: TNY06W. Billån från 1 354 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
+    <g:custom_label_2>1354</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/e770431c-7303-4621-9c29-d2cffc2b3caf</link>
+    <url>https://goingebil.se/sok/id/e770431c-7303-4621-9c29-d2cffc2b3caf</url>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a699dc7b-04bd-480a-ba7a-1281bf821c7c/b972be2a-f7b6-4c31-9cea-542e3a016da3?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Kangoo</model>
+    <year>2021</year>
+    <mileage>
+      <value>65290</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <price>129000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>129000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>15fa62ce-2797-4606-82f2-c90b8cf7f489</vehicle_id>
     <vehicle_registration_plate>FUS57G</vehicle_registration_plate>
     <title>Renault Captur PhII Mildhyb 140 techno EDC II</title>
@@ -2603,45 +2603,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>269900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>4c9d0d3f-cc76-4a2f-a970-bc325eee6813</vehicle_id>
-    <vehicle_registration_plate>RBR21U</vehicle_registration_plate>
-    <title>Škoda Kodiaq Business Edition mHEV DSG/ 7-sits/ Drag/ PDC/ Adpt farth/ Värmare/ Carplay</title>
-    <description>Business Edition mHEV DSG/ 7-sits/ Drag/ PDC/ Adpt farth/ Värmare/ Carplay. Utrustningsnivå: Selection. Miltal: 2 809 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RBR21U. Billån från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
-    <g:custom_label_2>4188</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/4c9d0d3f-cc76-4a2f-a970-bc325eee6813</link>
-    <url>https://goingebil.se/sok/id/4c9d0d3f-cc76-4a2f-a970-bc325eee6813</url>
-    <brand>Škoda</brand>
-    <make>Škoda</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0f7c2916-1808-40ef-8aac-edaae8549a4f/28d1ceba-e288-49d3-99c6-c77e6af3becb?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kodiaq</model>
-    <year>2025</year>
-    <mileage>
-      <value>28090</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6884,8 +6845,9 @@
     <vehicle_id>dd80caf5-3420-49a9-8895-e2e7be5372b3</vehicle_id>
     <vehicle_registration_plate>PNB07E</vehicle_registration_plate>
     <title>Renault Espace 200 Techno A Google Navi/ Adaptiv farth/ 360 Kamera</title>
-    <description>200 Techno A Google Navi/ Adaptiv farth/ 360 Kamera. Miltal: 1 205 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: PNB07E. Kontakta oss för mer information om detta fordon. Publicerad för 505 dagar sedan.</description>
+    <description>200 Techno A Google Navi/ Adaptiv farth/ 360 Kamera. Miltal: 1 205 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: PNB07E. Billån från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 505 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 505</g:custom_label_0>
+    <g:custom_label_2>3873</g:custom_label_2>
     <link>https://goingebil.se/sok/id/dd80caf5-3420-49a9-8895-e2e7be5372b3</link>
     <url>https://goingebil.se/sok/id/dd80caf5-3420-49a9-8895-e2e7be5372b3</url>
     <brand>Renault</brand>
