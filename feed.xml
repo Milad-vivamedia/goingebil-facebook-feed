@@ -88,7 +88,7 @@
     <vehicle_id>48dac5dd-961a-469d-ad73-ca1a004a47c7</vehicle_id>
     <vehicle_registration_plate>ZJP522</vehicle_registration_plate>
     <title>Subaru Forester 4 WD Ridge</title>
-    <description>4 WD Ridge. Utrustningsnivå: Ridge. Miltal: 7 856 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZJP522. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <description>4 WD Ridge. Utrustningsnivå: Ridge. Miltal: 7 857 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZJP522. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>2824</g:custom_label_2>
     <link>https://goingebil.se/sok/id/48dac5dd-961a-469d-ad73-ca1a004a47c7</link>
@@ -102,7 +102,7 @@
     <model>Forester</model>
     <year>2020</year>
     <mileage>
-      <value>78560</value>
+      <value>78570</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -283,7 +283,7 @@
     <vehicle_id>03dbbfd5-3310-417e-b4f7-fe83413c69f6</vehicle_id>
     <vehicle_registration_plate>YRF22M</vehicle_registration_plate>
     <title>Renault Mégane PhII TCe 140 Equilibre ST</title>
-    <description>PhII TCe 140 Equilibre ST. Miltal: 3 478 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: YRF22M. Billån från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <description>PhII TCe 140 Equilibre ST. Miltal: 3 918 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: YRF22M. Billån från 1 879 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>1879</g:custom_label_2>
     <link>https://goingebil.se/sok/id/03dbbfd5-3310-417e-b4f7-fe83413c69f6</link>
@@ -297,7 +297,7 @@
     <model>Mégane</model>
     <year>2023</year>
     <mileage>
-      <value>34780</value>
+      <value>39180</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -384,8 +384,8 @@
     <price>239900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
+      <component name="city">��lmhult</component>
+      <component name="region">��lmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>239900 SEK</sale_price>
