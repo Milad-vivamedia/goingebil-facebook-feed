@@ -204,8 +204,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>9a84d3a7-c82b-496f-afcd-f91987b0a153</vehicle_id>
     <vehicle_registration_plate>TDN51G</vehicle_registration_plate>
-    <title>Volvo XC40 Recharge T4 Plus Dark Drag/ 360/ H/K/ Navi/ Förarstöd/ Klimatpaket/ Dynförl��ngning</title>
-    <description>Recharge T4 Plus Dark Drag/ 360/ H/K/ Navi/ Förarstöd/ Klimatpaket/ Dynförl��ngning. Utrustningsnivå: Plus. Miltal: 5 762 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TDN51G. Billån från 4 083 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <title>Volvo XC40 Recharge T4 Plus Dark Drag/ 360/ H/K/ Navi/ Förarstöd/ Klimatpaket/ Dynförlängning</title>
+    <description>Recharge T4 Plus Dark Drag/ 360/ H/K/ Navi/ Förarstöd/ Klimatpaket/ Dynförlängning. Utrustningsnivå: Plus. Miltal: 5 762 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TDN51G. Billån från 4 083 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>4083</g:custom_label_2>
     <link>https://goingebil.se/sok/id/9a84d3a7-c82b-496f-afcd-f91987b0a153</link>
@@ -5531,8 +5531,8 @@
     <price>229000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
+      <component name="city">��lmhult</component>
+      <component name="region">��lmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>229000 SEK</sale_price>
