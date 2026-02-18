@@ -500,7 +500,7 @@
     <transmission>Automatic</transmission>
     <price>179000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">G��inge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1664,45 +1664,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>e6071ad2-df89-489a-8117-43bc274d2eed</vehicle_id>
-    <vehicle_registration_plate>GEP741</vehicle_registration_plate>
-    <title>Volkswagen Golf 5-dörrar R-Line Tsi 150 Hk Farthållare/ Carplay/ App-connect</title>
-    <description>5-dörrar R-Line Tsi 150 Hk Farthållare/ Carplay/ App-connect. Utrustningsnivå: GT. Miltal: 7 727 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: GEP741. Billån från 1 731 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
-    <g:custom_label_2>1731</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/e6071ad2-df89-489a-8117-43bc274d2eed</link>
-    <url>https://goingebil.se/sok/id/e6071ad2-df89-489a-8117-43bc274d2eed</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b5e5e716-e73c-43d1-b023-10837ffa548e/c3d85073-5ae4-4d42-9fc4-d2d8785d6656?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Golf</model>
-    <year>2017</year>
-    <mileage>
-      <value>77270</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>164900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>164900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -3378,45 +3339,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>d3170e9f-d941-4c2c-9a37-9e69ffb21013</vehicle_id>
-    <vehicle_registration_plate>RAD72S</vehicle_registration_plate>
-    <title>Volvo XC40 Core Edition Navi/ Kamera/ Värmepump</title>
-    <description>Core Edition Navi/ Kamera/ Värmepump. Utrustningsnivå: Core. Miltal: 4 659 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAD72S. Billån från 3 358 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 36 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 36</g:custom_label_0>
-    <g:custom_label_2>3358</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/d3170e9f-d941-4c2c-9a37-9e69ffb21013</link>
-    <url>https://goingebil.se/sok/id/d3170e9f-d941-4c2c-9a37-9e69ffb21013</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ef828e9f-369a-4a5b-8b46-78cd3eacdc39/11125aa5-4338-43e8-8cce-e94b46f70bb1?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>46590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
