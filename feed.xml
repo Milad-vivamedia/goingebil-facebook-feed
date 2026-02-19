@@ -1368,45 +1368,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>6881659e-9dc8-4c35-a15c-14b27d4d0809</vehicle_id>
-    <vehicle_registration_plate>NFT59Z</vehicle_registration_plate>
-    <title>Renault Clio TCe 90 Equilibre II 5-d</title>
-    <description>TCe 90 Equilibre II 5-d. Utrustningsnivå: Equilibre. Miltal: 3 355 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: NFT59Z. Billån från 1 459 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_2>1459</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/6881659e-9dc8-4c35-a15c-14b27d4d0809</link>
-    <url>https://goingebil.se/sok/id/6881659e-9dc8-4c35-a15c-14b27d4d0809</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/697694fb-f096-44e6-8c51-fab876826085/c610427a-416a-4b11-adb5-4a277957f3d8?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>33550</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>139000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>139000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>8a24224d-864e-4485-992a-966372177275</vehicle_id>
     <vehicle_registration_plate>YFS19U</vehicle_registration_plate>
     <title>Volkswagen Passat Executive IQ-light/ Drag/ Värmare</title>
