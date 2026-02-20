@@ -400,7 +400,7 @@
     <vehicle_id>6f4bbf4d-0f92-423c-8e2a-392f2fb8ea5d</vehicle_id>
     <vehicle_registration_plate>DFT50E</vehicle_registration_plate>
     <title>Renault Clio TCe 90 Equilibre 5-d</title>
-    <description>TCe 90 Equilibre 5-d. Utrustningsnivå: Zen. Miltal: 2 748 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbr��nningsmotor. Registreringsnummer: DFT50E. Billån från 1 564 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
+    <description>TCe 90 Equilibre 5-d. Utrustningsnivå: Zen. Miltal: 2 748 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: DFT50E. Billån från 1 564 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
     <g:custom_label_2>1564</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6f4bbf4d-0f92-423c-8e2a-392f2fb8ea5d</link>
@@ -418,7 +418,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
-    <fuel_type>Förbr��nningsmotor</fuel_type>
+    <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>149000 SEK</price>
     <address format="simple">
