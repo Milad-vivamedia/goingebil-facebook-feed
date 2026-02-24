@@ -1823,7 +1823,7 @@
     <vehicle_id>07bd558a-defb-4bab-9746-5ceb01a2bdc9</vehicle_id>
     <vehicle_registration_plate>OAN24P</vehicle_registration_plate>
     <title>Volkswagen Golf E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp</title>
-    <description>E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp. Utrustningsnivå: e-Golf. Miltal: 10 300 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: El. Registreringsnummer: OAN24P. Billån från 1 564 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
+    <description>E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp. Utrustningsnivå: e-Golf. Miltal: 10 494 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: El. Registreringsnummer: OAN24P. Billån från 1 564 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
     <g:custom_label_2>1564</g:custom_label_2>
     <link>https://goingebil.se/sok/id/07bd558a-defb-4bab-9746-5ceb01a2bdc9</link>
@@ -1837,7 +1837,7 @@
     <model>Golf</model>
     <year>2020</year>
     <mileage>
-      <value>103000</value>
+      <value>104940</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -2209,7 +2209,7 @@
     <vehicle_id>ba782b0f-7539-4db2-8cb5-7aec0503f1c3</vehicle_id>
     <vehicle_registration_plate>PWA48T</vehicle_registration_plate>
     <title>Ford Transit Custom 2,0 170hk Trend 320L AUT AWD/ Värmare/ PDC/ Keyless/ Carplay/ Vämreruta</title>
-    <description>2,0 170hk Trend 320L AUT AWD/ Värmare/ PDC/ Keyless/ Carplay/ Vämreruta. Utrustningsnivå: Business. Miltal: 2 900 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PWA48T. Billån från 5 763 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
+    <description>2,0 170hk Trend 320L AUT AWD/ Värmare/ PDC/ Keyless/ Carplay/ Vämreruta. Utrustningsnivå: Business. Miltal: 2 920 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PWA48T. Billån från 5 763 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 24</g:custom_label_0>
     <g:custom_label_2>5763</g:custom_label_2>
     <link>https://goingebil.se/sok/id/ba782b0f-7539-4db2-8cb5-7aec0503f1c3</link>
@@ -2223,7 +2223,7 @@
     <model>Transit Custom</model>
     <year>2024</year>
     <mileage>
-      <value>29000</value>
+      <value>29200</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -5608,7 +5608,7 @@
     <transmission>Automatic</transmission>
     <price>269000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
+      <component name="addr1">G��inge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
