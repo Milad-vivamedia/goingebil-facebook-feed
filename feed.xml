@@ -2237,45 +2237,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>7c5d1024-6865-4802-91ee-d5bf75705cfd</vehicle_id>
-    <vehicle_registration_plate>LMD09N</vehicle_registration_plate>
-    <title>Volvo V90 B4 Diesel Core Drag/ Värmare/ Kamera/ Navi</title>
-    <description>B4 Diesel Core Drag/ Värmare/ Kamera/ Navi. Utrustningsnivå: Momentum. Miltal: 10 704 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: LMD09N. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
-    <g:custom_label_2>3348</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/7c5d1024-6865-4802-91ee-d5bf75705cfd</link>
-    <url>https://goingebil.se/sok/id/7c5d1024-6865-4802-91ee-d5bf75705cfd</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/23b42364-5f39-49a0-99d0-bf3cc8b36459/19e99be7-a951-4b8c-b974-ac8c6840ea9f?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>107040</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>c0d9ac1c-9472-4f80-bbd0-b7d74d6c8c29</vehicle_id>
     <vehicle_registration_plate>BYY301</vehicle_registration_plate>
     <title>BMW X5 M-Sport Innovation Edt Panorama/ HuD/ Drag/ H/K/ Drag</title>
