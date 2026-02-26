@@ -545,45 +545,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b71376c6-ae23-4e98-ab46-d9beed2c927b</vehicle_id>
-    <vehicle_registration_plate>TTC68P</vehicle_registration_plate>
-    <title>Renault Austral 200 Techno AUT/ Rattvärme/ OpenR Link/ Adaptiv LED/ Carplay</title>
-    <description>200 Techno AUT/ Rattvärme/ OpenR Link/ Adaptiv LED/ Carplay. Miltal: 4 597 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: TTC68P. Billån från 3 663 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 8 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 8</g:custom_label_0>
-    <g:custom_label_2>3663</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/b71376c6-ae23-4e98-ab46-d9beed2c927b</link>
-    <url>https://goingebil.se/sok/id/b71376c6-ae23-4e98-ab46-d9beed2c927b</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d4fcffe3-11bc-4ba6-81b0-04ec078d1ec0/500a3ca6-a69d-4a37-8562-e0d05ae1792e?format=jpeg&amp;r=649c0b9&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Austral</model>
-    <year>2024</year>
-    <mileage>
-      <value>45970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>349000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>349000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>e5bb451c-1662-4de6-a742-00657cd2a9a1</vehicle_id>
     <vehicle_registration_plate>TSL15G</vehicle_registration_plate>
     <title>Dacia Duster 4x4 mildhybrid 130 extreme Dragkrok</title>
