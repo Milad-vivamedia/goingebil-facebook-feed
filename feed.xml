@@ -127,8 +127,8 @@
     <vehicle_id>c80fa2f2-3c0f-4a14-875b-2c35644be675</vehicle_id>
     <vehicle_registration_plate>SKZ005</vehicle_registration_plate>
     <title>Volvo V40 T2 Business /Dragkrok /Parkerings Sensor Bak</title>
-    <description>T2 Business /Dragkrok /Parkerings Sensor Bak. Utrustningsnivå: Kinetic. Miltal: 8 100 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: SKZ005. Billån från 1 564 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>T2 Business /Dragkrok /Parkerings Sensor Bak. Utrustningsnivå: Kinetic. Miltal: 8 100 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: SKZ005. Billån från 1 564 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>1564</g:custom_label_2>
     <link>https://goingebil.se/sok/id/c80fa2f2-3c0f-4a14-875b-2c35644be675</link>
     <url>https://goingebil.se/sok/id/c80fa2f2-3c0f-4a14-875b-2c35644be675</url>
@@ -174,7 +174,7 @@
     <brand>Mercedes-Benz</brand>
     <make>Mercedes-Benz</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/bb179850-4004-473a-87b2-e9d78c485e21/785e4607-e3e7-4e8f-9e73-8e4eb5078376?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/bb179850-4004-473a-87b2-e9d78c485e21/785e4607-e3e7-4e8f-9e73-8e4eb5078376?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>GLC</model>
@@ -213,7 +213,7 @@
     <brand>Dacia</brand>
     <make>Dacia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/30639283-7cb5-4124-bd28-0f4e6c645436/0847aec0-7500-456a-9f9e-98952589523d?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/30639283-7cb5-4124-bd28-0f4e6c645436/0847aec0-7500-456a-9f9e-98952589523d?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Jogger</model>
@@ -252,7 +252,7 @@
     <brand>Toyota</brand>
     <make>Toyota</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/db4f3eca-23d8-4f95-8c8a-49f05f352d2d/842cc554-1044-47a5-a949-659a89ce23bc?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/db4f3eca-23d8-4f95-8c8a-49f05f352d2d/842cc554-1044-47a5-a949-659a89ce23bc?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>RAV4</model>
@@ -291,7 +291,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/8f9fa067-ca5c-4a47-ac41-82da06815f51/8d7709dd-f2bf-4978-baa8-a73f9bc49018?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/8f9fa067-ca5c-4a47-ac41-82da06815f51/8d7709dd-f2bf-4978-baa8-a73f9bc49018?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -439,7 +439,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/6decb864-5a59-493d-a8d7-605b6b3850ce/a8a970e0-992c-4ff7-931f-b9a84c7794bf?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/6decb864-5a59-493d-a8d7-605b6b3850ce/a8a970e0-992c-4ff7-931f-b9a84c7794bf?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -478,7 +478,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/1159cbba-0b0c-4446-872d-77aaa9b6b4b2/60f7d6a3-eb91-4d96-be37-762f717863bd?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/1159cbba-0b0c-4446-872d-77aaa9b6b4b2/60f7d6a3-eb91-4d96-be37-762f717863bd?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -517,7 +517,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/77b420d8-d71a-43b2-b97a-b3c79b1aba1d/ee5ddc51-71b4-4d24-a003-813813ea0a54?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/77b420d8-d71a-43b2-b97a-b3c79b1aba1d/ee5ddc51-71b4-4d24-a003-813813ea0a54?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -595,7 +595,7 @@
     <brand>Peugeot</brand>
     <make>Peugeot</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/d03d0435-1918-4b18-9224-5f55d1853d98/68d87862-b9d7-4111-992c-15fb7dabdef6?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/d03d0435-1918-4b18-9224-5f55d1853d98/68d87862-b9d7-4111-992c-15fb7dabdef6?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>5008</model>
@@ -634,7 +634,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/73a87719-9462-4966-aa74-6a5a5f0bbf1c/166ad191-260f-4d6b-8a8c-f463e5eeaca5?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/73a87719-9462-4966-aa74-6a5a5f0bbf1c/166ad191-260f-4d6b-8a8c-f463e5eeaca5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Clio</model>
@@ -673,7 +673,7 @@
     <brand>Dacia</brand>
     <make>Dacia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/97271431-75ba-4963-a922-91383220f2b3/64a5edcc-2fb3-4c93-b3ba-fef9580c3136?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/97271431-75ba-4963-a922-91383220f2b3/64a5edcc-2fb3-4c93-b3ba-fef9580c3136?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Duster</model>
@@ -751,7 +751,7 @@
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/7621446d-cdce-4206-9d28-1b40346748ce/e0b123ad-27e6-4939-9136-7ab3744bc6d8?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/7621446d-cdce-4206-9d28-1b40346748ce/e0b123ad-27e6-4939-9136-7ab3744bc6d8?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Ceed</model>
@@ -829,7 +829,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/bfeed78b-cda0-4d7e-8caa-a2a097df434c/2e57fbd7-2810-4056-8b0f-c5dc0c3d7183?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/bfeed78b-cda0-4d7e-8caa-a2a097df434c/2e57fbd7-2810-4056-8b0f-c5dc0c3d7183?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -860,15 +860,15 @@
     <vehicle_id>193bbc12-50b6-487e-a118-56570660ee49</vehicle_id>
     <vehicle_registration_plate>FHE56W</vehicle_registration_plate>
     <title>Renault Austral 200 Techno AUT/ Rattvärme/ PDC/ Adaptiv LED/ OpenR Link/ Carplay</title>
-    <description>200 Techno AUT/ Rattvärme/ PDC/ Adaptiv LED/ OpenR Link/ Carplay. Miltal: 1 756 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: FHE56W. Billån från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 11 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 11</g:custom_label_0>
+    <description>200 Techno AUT/ Rattvärme/ PDC/ Adaptiv LED/ OpenR Link/ Carplay. Miltal: 1 756 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: FHE56W. Billån från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
     <g:custom_label_2>3873</g:custom_label_2>
     <link>https://goingebil.se/sok/id/193bbc12-50b6-487e-a118-56570660ee49</link>
     <url>https://goingebil.se/sok/id/193bbc12-50b6-487e-a118-56570660ee49</url>
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/87b2f1e6-4f11-4632-9878-152453d0ce52/7fe36fe7-3a4c-4e5b-afa0-c65748b2233b?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/87b2f1e6-4f11-4632-9878-152453d0ce52/7fe36fe7-3a4c-4e5b-afa0-c65748b2233b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Austral</model>
@@ -899,15 +899,15 @@
     <vehicle_id>5a4dfd7d-4253-429c-a319-89f74e48aa54</vehicle_id>
     <vehicle_registration_plate>PJG590</vehicle_registration_plate>
     <title>Renault Captur Energy TCe 90 Dynamique 5-d/ Citypaket/ Pekskärm/ PDC bak</title>
-    <description>Energy TCe 90 Dynamique 5-d/ Citypaket/ Pekskärm/ PDC bak. Miltal: 8 870 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PJG590. Billån från 1 144 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 11 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 11</g:custom_label_0>
+    <description>Energy TCe 90 Dynamique 5-d/ Citypaket/ Pekskärm/ PDC bak. Miltal: 8 870 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PJG590. Billån från 1 144 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
     <g:custom_label_2>1144</g:custom_label_2>
     <link>https://goingebil.se/sok/id/5a4dfd7d-4253-429c-a319-89f74e48aa54</link>
     <url>https://goingebil.se/sok/id/5a4dfd7d-4253-429c-a319-89f74e48aa54</url>
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/dff34a90-15f6-4cf1-80dd-b3c9f2098b88/f0a84db6-a7e9-4cfa-9c42-f808105647c1?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/dff34a90-15f6-4cf1-80dd-b3c9f2098b88/f0a84db6-a7e9-4cfa-9c42-f808105647c1?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Captur</model>
@@ -946,7 +946,7 @@
     <brand>Ford</brand>
     <make>Ford</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/ab12e588-a53c-4a9d-8339-11f475b315bd/5b53e993-0e58-45ff-8232-8d2b23999318?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/ab12e588-a53c-4a9d-8339-11f475b315bd/5b53e993-0e58-45ff-8232-8d2b23999318?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Fiesta</model>
@@ -1055,15 +1055,15 @@
     <vehicle_id>9c71d5c9-82a3-4c72-82bc-47cb1cf2d732</vehicle_id>
     <vehicle_registration_plate>WAC72L</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Plus Dark 20&quot;/ Drag/ Navi/ Kamera/ Förarstöd/ Driver Assistance</title>
-    <description>Recharge T4 Plus Dark 20&quot;/ Drag/ Navi/ Kamera/ Förarstöd/ Driver Assistance. Utrustningsnivå: Plus. Miltal: 4 038 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAC72L. Billån från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
+    <description>Recharge T4 Plus Dark 20&quot;/ Drag/ Navi/ Kamera/ Förarstöd/ Driver Assistance. Utrustningsnivå: Plus. Miltal: 4 038 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAC72L. Billån från 4 188 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
     <g:custom_label_2>4188</g:custom_label_2>
     <link>https://goingebil.se/sok/id/9c71d5c9-82a3-4c72-82bc-47cb1cf2d732</link>
     <url>https://goingebil.se/sok/id/9c71d5c9-82a3-4c72-82bc-47cb1cf2d732</url>
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/fa322f6c-57c0-421a-a730-52b3228cdfee/63890de7-96cc-48ee-a827-08d79b73d747?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/fa322f6c-57c0-421a-a730-52b3228cdfee/63890de7-96cc-48ee-a827-08d79b73d747?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -1102,7 +1102,7 @@
     <brand>Toyota</brand>
     <make>Toyota</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/92282055-8ad8-4b74-92dc-3686bd9e3339/f0385a76-7d7e-41d1-8f76-59941b6e607b?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/92282055-8ad8-4b74-92dc-3686bd9e3339/f0385a76-7d7e-41d1-8f76-59941b6e607b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>RAV4</model>
@@ -1141,7 +1141,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/31f93fe7-5b60-4402-b628-47d0b98e3be7/97a10410-271b-482e-9ad1-b4f3065ebbcc?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/31f93fe7-5b60-4402-b628-47d0b98e3be7/97a10410-271b-482e-9ad1-b4f3065ebbcc?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -1180,7 +1180,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/242c897a-0293-46dd-b4d1-2924926b79f8/0feef582-de05-4b49-ac37-91fd6747b8a9?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/242c897a-0293-46dd-b4d1-2924926b79f8/0feef582-de05-4b49-ac37-91fd6747b8a9?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -1219,7 +1219,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/ef3254eb-76db-49c5-9663-63119a0d4314/d4f96f3e-e46c-438e-926a-33911775d4c6?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ef3254eb-76db-49c5-9663-63119a0d4314/d4f96f3e-e46c-438e-926a-33911775d4c6?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Captur</model>
@@ -1258,7 +1258,7 @@
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/89db036b-5cc8-4f6b-bb2a-dc589d49ce5e/119bb462-591b-4e41-a4fe-66a609bb2e76?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/89db036b-5cc8-4f6b-bb2a-dc589d49ce5e/119bb462-591b-4e41-a4fe-66a609bb2e76?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Rio</model>
@@ -1297,7 +1297,7 @@
     <brand>Nissan</brand>
     <make>Nissan</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/c70ea66e-5f28-444d-bb54-8e81bdd33605/adc9a962-96a8-4777-a194-9c9d457cfc76?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/c70ea66e-5f28-444d-bb54-8e81bdd33605/adc9a962-96a8-4777-a194-9c9d457cfc76?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Leaf</model>
@@ -1336,7 +1336,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/1174d1a5-810f-4e07-86ac-407e7cd8af79/79b530ab-a18a-42db-bf76-0f62ba0021ac?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/1174d1a5-810f-4e07-86ac-407e7cd8af79/79b530ab-a18a-42db-bf76-0f62ba0021ac?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Austral</model>
@@ -1375,7 +1375,7 @@
     <brand>Ford</brand>
     <make>Ford</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/d2a6441f-bb94-4ed6-8217-dd0797ae8748/20464a96-ec92-41c8-b5f8-39ca97a2e4e6?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/d2a6441f-bb94-4ed6-8217-dd0797ae8748/20464a96-ec92-41c8-b5f8-39ca97a2e4e6?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Focus</model>
@@ -1414,7 +1414,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/1bbe5aad-6bc1-4a37-a37b-039fbe03387b/f94c067e-76ea-4646-9d88-366c2ac1349e?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/1bbe5aad-6bc1-4a37-a37b-039fbe03387b/f94c067e-76ea-4646-9d88-366c2ac1349e?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -1453,7 +1453,7 @@
     <brand>Tesla</brand>
     <make>Tesla</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/ba85564f-71af-4167-8d66-c71d8f495df1/c58aa25a-4e58-4a39-89cd-2422981d9da3?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ba85564f-71af-4167-8d66-c71d8f495df1/c58aa25a-4e58-4a39-89cd-2422981d9da3?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Model 3</model>
@@ -1484,8 +1484,8 @@
     <vehicle_id>b520b4ac-6948-463d-ab57-60ea1c9675be</vehicle_id>
     <vehicle_registration_plate>LSN38G</vehicle_registration_plate>
     <title>Renault Rafale PHEV 300 esprit Alpine Edition / Ny lagerbil /Dragkrok</title>
-    <description>PHEV 300 esprit Alpine Edition / Ny lagerbil /Dragkrok. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LSN38G. Billån från 6 971 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 17 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 17</g:custom_label_0>
+    <description>PHEV 300 esprit Alpine Edition / Ny lagerbil /Dragkrok. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LSN38G. Billån från 6 971 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 18 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 18</g:custom_label_0>
     <g:custom_label_2>6971</g:custom_label_2>
     <link>https://goingebil.se/sok/id/b520b4ac-6948-463d-ab57-60ea1c9675be</link>
     <url>https://goingebil.se/sok/id/b520b4ac-6948-463d-ab57-60ea1c9675be</url>
@@ -1566,7 +1566,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/262a2a58-4a8d-4307-9416-0b9942b694d3/4f302d6e-f061-475b-a8ee-6b75868a90ff?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/262a2a58-4a8d-4307-9416-0b9942b694d3/4f302d6e-f061-475b-a8ee-6b75868a90ff?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -1644,7 +1644,7 @@
     <brand>Audi</brand>
     <make>Audi</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/969bfd1c-cc06-4c39-a882-e4ac128f76a6/bd2b1b8b-e12f-4ccf-b3c4-ca8a654a5cc9?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/969bfd1c-cc06-4c39-a882-e4ac128f76a6/bd2b1b8b-e12f-4ccf-b3c4-ca8a654a5cc9?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>A1</model>
@@ -1683,7 +1683,7 @@
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/45558c96-df45-4de8-b23e-79d4d7562e55/0ac7c8a0-5db6-4001-9479-58c3f3844c0c?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/45558c96-df45-4de8-b23e-79d4d7562e55/0ac7c8a0-5db6-4001-9479-58c3f3844c0c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EV6</model>
@@ -1722,7 +1722,7 @@
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/5b07501c-9ac6-407b-9b4e-fed5925752a4/30f2580a-3703-44c0-954b-7b76eba875e5?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/5b07501c-9ac6-407b-9b4e-fed5925752a4/30f2580a-3703-44c0-954b-7b76eba875e5?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EV6</model>
@@ -1761,7 +1761,7 @@
     <brand>Volkswagen</brand>
     <make>Volkswagen</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/a45a77ce-472e-4f52-81a9-3ef3eda48bd7/06e8cb4c-2085-4d40-bc6d-4319181ffba3?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a45a77ce-472e-4f52-81a9-3ef3eda48bd7/06e8cb4c-2085-4d40-bc6d-4319181ffba3?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Passat</model>
@@ -1800,7 +1800,7 @@
     <brand>Mercedes-Benz</brand>
     <make>Mercedes-Benz</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/78a410cf-7666-4227-a3ca-08986c6ad990/b343bed6-55dc-4fee-9c90-f79ffd066cf2?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/78a410cf-7666-4227-a3ca-08986c6ad990/b343bed6-55dc-4fee-9c90-f79ffd066cf2?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>E-Klass</model>
@@ -1979,7 +1979,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/4e0a4109-5138-409c-8848-fdd2177a1939/71ff2fec-9e30-4136-962f-fa3adbf3fff7?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/4e0a4109-5138-409c-8848-fdd2177a1939/71ff2fec-9e30-4136-962f-fa3adbf3fff7?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -2057,7 +2057,7 @@
     <brand>Audi</brand>
     <make>Audi</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/d31cc0a4-c910-4555-9a48-c22ecfdad39d/2a5adb89-10af-4e2c-90c5-a692d5aabe7f?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/d31cc0a4-c910-4555-9a48-c22ecfdad39d/2a5adb89-10af-4e2c-90c5-a692d5aabe7f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>A1</model>
@@ -2135,7 +2135,7 @@
     <brand>Mercedes-Benz</brand>
     <make>Mercedes-Benz</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/19eef757-2939-4f5e-afd1-1706666c4e86/4b52e1de-059f-4eef-af7f-89ec2277619a?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/19eef757-2939-4f5e-afd1-1706666c4e86/4b52e1de-059f-4eef-af7f-89ec2277619a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>A-Klass</model>
@@ -2213,7 +2213,7 @@
     <brand>Volkswagen</brand>
     <make>Volkswagen</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/37a9905e-593a-4838-be6e-1ccd8a4ca693/68d93672-d0ff-4233-83b5-1efa30efd975?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/37a9905e-593a-4838-be6e-1ccd8a4ca693/68d93672-d0ff-4233-83b5-1efa30efd975?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Caddy</model>
@@ -2252,7 +2252,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/96d0b62f-d27d-4e44-b778-b1a6cc740221/90696ce5-ed0a-42cd-82f0-d0589a6ec628?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/96d0b62f-d27d-4e44-b778-b1a6cc740221/90696ce5-ed0a-42cd-82f0-d0589a6ec628?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2326,7 +2326,7 @@
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/37a5a2a3-2bed-4baa-a3df-1dc7da5dbff3/d66c3c07-8156-428c-bef3-82e91735ac2a?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/37a5a2a3-2bed-4baa-a3df-1dc7da5dbff3/d66c3c07-8156-428c-bef3-82e91735ac2a?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>X5</model>
@@ -2365,7 +2365,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/c1dcf760-397c-4f70-ae6a-52af76611f5d/c804bb6b-ecf1-4219-8104-c428aa5892aa?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/c1dcf760-397c-4f70-ae6a-52af76611f5d/c804bb6b-ecf1-4219-8104-c428aa5892aa?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2653,7 +2653,7 @@
     <brand>Tesla</brand>
     <make>Tesla</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/a19eb706-ee4f-40da-b817-9d52c6c6a507/37d48bdf-3785-421c-86fd-df188b828493?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/a19eb706-ee4f-40da-b817-9d52c6c6a507/37d48bdf-3785-421c-86fd-df188b828493?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Model 3</model>
@@ -2731,7 +2731,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/45aae43b-0099-4997-b20a-cce4e3d7e42b/0e594240-717b-4957-9082-97a6d9a46ef0?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/45aae43b-0099-4997-b20a-cce4e3d7e42b/0e594240-717b-4957-9082-97a6d9a46ef0?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2770,7 +2770,7 @@
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/ca323e48-5ab8-459a-8eba-9c32bd8b4f88/c01be0fe-0a8d-4301-9e91-c41f53d7c0c9?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ca323e48-5ab8-459a-8eba-9c32bd8b4f88/c01be0fe-0a8d-4301-9e91-c41f53d7c0c9?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>3-serie</model>
@@ -2837,8 +2837,8 @@
     <vehicle_id>b69e9122-f56b-4469-8bae-4a0c7e0ffcb5</vehicle_id>
     <vehicle_registration_plate>PWB07A</vehicle_registration_plate>
     <title>Renault 4 E-Tech R4 techno 52kWh</title>
-    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: PWB07A. Privatleasing från 3 990 kr/mån. Billån från 5 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 38 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 38</g:custom_label_0>
+    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: PWB07A. Privatleasing från 3 990 kr/mån. Billån från 5 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 39 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 39</g:custom_label_0>
     <g:custom_label_1>3990</g:custom_label_1>
     <g:custom_label_2>5194</g:custom_label_2>
     <link>https://goingebil.se/sok/id/b69e9122-f56b-4469-8bae-4a0c7e0ffcb5</link>
@@ -2881,7 +2881,7 @@
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/0a60ced1-a724-4234-b588-82e08da46acb/556fc052-17fd-4a1f-92ae-d4accb195c9b?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0a60ced1-a724-4234-b588-82e08da46acb/556fc052-17fd-4a1f-92ae-d4accb195c9b?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2 Series Active/Gran Tourer/Gran Coupé</model>
@@ -2920,7 +2920,7 @@
     <brand>Volkswagen</brand>
     <make>Volkswagen</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/ac8cb608-caf3-4e08-9c80-3e9c9ed5df0e/a7abc566-68cc-497f-abea-fb639f5d10e5?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ac8cb608-caf3-4e08-9c80-3e9c9ed5df0e/a7abc566-68cc-497f-abea-fb639f5d10e5?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Passat</model>
@@ -2951,15 +2951,15 @@
     <vehicle_id>3978c301-0b7b-4de4-b403-11996ec4bc5a</vehicle_id>
     <vehicle_registration_plate>DSS87K</vehicle_registration_plate>
     <title>Volvo XC40 Core Edition Navi/ Kamera/ Värmepump</title>
-    <description>Core Edition Navi/ Kamera/ Värmepump. Utrustningsnivå: Core. Miltal: 2 308 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: DSS87K. Billån från 3 568 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 43 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 43</g:custom_label_0>
+    <description>Core Edition Navi/ Kamera/ Värmepump. Utrustningsnivå: Core. Miltal: 2 308 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: DSS87K. Billån från 3 568 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
     <g:custom_label_2>3568</g:custom_label_2>
     <link>https://goingebil.se/sok/id/3978c301-0b7b-4de4-b403-11996ec4bc5a</link>
     <url>https://goingebil.se/sok/id/3978c301-0b7b-4de4-b403-11996ec4bc5a</url>
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/bc84fba3-3000-4021-aeb4-4d27deafb9fa/f5b163a4-afdc-460c-81e7-2b7c3543a111?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/bc84fba3-3000-4021-aeb4-4d27deafb9fa/f5b163a4-afdc-460c-81e7-2b7c3543a111?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -3034,7 +3034,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/3fd23bb4-acf2-4fe6-829a-65cc46bab0ba/3ea6be41-cf4f-4e09-b980-51ff0aad67c2?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/3fd23bb4-acf2-4fe6-829a-65cc46bab0ba/3ea6be41-cf4f-4e09-b980-51ff0aad67c2?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>S90</model>
@@ -3073,7 +3073,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/3ab4fa1a-f2c4-4e6a-be5b-b2547bb6db25/d2c9d877-6b07-4e81-9a2b-4d955f2541c7?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/3ab4fa1a-f2c4-4e6a-be5b-b2547bb6db25/d2c9d877-6b07-4e81-9a2b-4d955f2541c7?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Scenic E-Tech</model>
@@ -3104,8 +3104,9 @@
     <vehicle_id>1f340854-952e-4593-84d9-514a560a8161</vehicle_id>
     <vehicle_registration_plate>MOJ00X</vehicle_registration_plate>
     <title>Ford Transit Custom L2 185hk Titanium AUT/ Drag/ Siktpkt Prem/ Kamera/ Värmare</title>
-    <description>L2 185hk Titanium AUT/ Drag/ Siktpkt Prem/ Kamera/ Värmare. Miltal: 13 978 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MOJ00X. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
+    <description>L2 185hk Titanium AUT/ Drag/ Siktpkt Prem/ Kamera/ Värmare. Miltal: 13 978 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MOJ00X. Billån från 4 083 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 46</g:custom_label_0>
+    <g:custom_label_2>4083</g:custom_label_2>
     <link>https://goingebil.se/sok/id/1f340854-952e-4593-84d9-514a560a8161</link>
     <url>https://goingebil.se/sok/id/1f340854-952e-4593-84d9-514a560a8161</url>
     <brand>Ford</brand>
@@ -3150,7 +3151,7 @@
     <brand>Dacia</brand>
     <make>Dacia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/4b73f63e-e919-4c91-89b5-41d589f54303/704a8e69-a61a-4bb8-a03e-bcfd7e5304ab?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/4b73f63e-e919-4c91-89b5-41d589f54303/704a8e69-a61a-4bb8-a03e-bcfd7e5304ab?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Sandero</model>
@@ -3189,7 +3190,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/a0e8c720-5784-4043-a888-a40602d1f490/b7494223-96ac-42b6-a40a-9dc6b377c679?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/a0e8c720-5784-4043-a888-a40602d1f490/b7494223-96ac-42b6-a40a-9dc6b377c679?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Scenic E-Tech</model>
@@ -3220,8 +3221,8 @@
     <vehicle_id>042c124d-727a-4a9e-ad95-eba8e98aab6a</vehicle_id>
     <vehicle_registration_plate>HJB24X</vehicle_registration_plate>
     <title>Dacia Duster 4x2 expression A , Ny lagerbil, Mediadisplay</title>
-    <description>4x2 expression A , Ny lagerbil, Mediadisplay. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: HJB24X. Billån från 3 753 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 46</g:custom_label_0>
+    <description>4x2 expression A , Ny lagerbil, Mediadisplay. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: HJB24X. Billån från 3 753 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
     <g:custom_label_2>3753</g:custom_label_2>
     <link>https://goingebil.se/sok/id/042c124d-727a-4a9e-ad95-eba8e98aab6a</link>
     <url>https://goingebil.se/sok/id/042c124d-727a-4a9e-ad95-eba8e98aab6a</url>
@@ -3263,7 +3264,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/36692c95-2533-47b7-97aa-ed2136460c4d/7bb6cbfb-df86-4986-bd3a-aee4d99fc46e?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/36692c95-2533-47b7-97aa-ed2136460c4d/7bb6cbfb-df86-4986-bd3a-aee4d99fc46e?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Kangoo</model>
@@ -3294,15 +3295,15 @@
     <vehicle_id>eea0bf13-b951-4373-9346-4c5a8330dcac</vehicle_id>
     <vehicle_registration_plate>EXU990</vehicle_registration_plate>
     <title>Volkswagen Touran 2.0 TDI GT DSG/ Dragkrok/ Navi/ Värmare/ Parkassist/ ECC</title>
-    <description>2.0 TDI GT DSG/ Dragkrok/ Navi/ Värmare/ Parkassist/ ECC. Utrustningsnivå: GT. Miltal: 10 964 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: EXU990. Billån från 1 942 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
+    <description>2.0 TDI GT DSG/ Dragkrok/ Navi/ Värmare/ Parkassist/ ECC. Utrustningsnivå: GT. Miltal: 10 964 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: EXU990. Billån från 1 942 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
     <g:custom_label_2>1942</g:custom_label_2>
     <link>https://goingebil.se/sok/id/eea0bf13-b951-4373-9346-4c5a8330dcac</link>
     <url>https://goingebil.se/sok/id/eea0bf13-b951-4373-9346-4c5a8330dcac</url>
     <brand>Volkswagen</brand>
     <make>Volkswagen</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/be376725-fd71-49b5-b9ae-a77a1586aa8c/bea37f43-f3e9-40d5-85ab-c5e1439dead0?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/be376725-fd71-49b5-b9ae-a77a1586aa8c/bea37f43-f3e9-40d5-85ab-c5e1439dead0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Touran</model>
@@ -3341,7 +3342,7 @@
     <brand>Dacia</brand>
     <make>Dacia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/862d1367-cec3-4bce-b81b-bf0ce3797fab/9d22f011-964a-46fe-bc98-d4e8d6dedb6f?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/862d1367-cec3-4bce-b81b-bf0ce3797fab/9d22f011-964a-46fe-bc98-d4e8d6dedb6f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Jogger</model>
@@ -3372,15 +3373,15 @@
     <vehicle_id>2ad86cb0-bcf4-4be2-82fe-3dbbc3560309</vehicle_id>
     <vehicle_registration_plate>SLC045</vehicle_registration_plate>
     <title>Nissan Qashqai 7-Sits Dragkrok/ Panorama</title>
-    <description>7-Sits Dragkrok/ Panorama. Miltal: 12 387 mil. Årsmodell: 2014. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: SLC045. Billån från 1 154 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 50</g:custom_label_0>
+    <description>7-Sits Dragkrok/ Panorama. Miltal: 12 387 mil. Årsmodell: 2014. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: SLC045. Billån från 1 154 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
     <g:custom_label_2>1154</g:custom_label_2>
     <link>https://goingebil.se/sok/id/2ad86cb0-bcf4-4be2-82fe-3dbbc3560309</link>
     <url>https://goingebil.se/sok/id/2ad86cb0-bcf4-4be2-82fe-3dbbc3560309</url>
     <brand>Nissan</brand>
     <make>Nissan</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/0ddb0eb5-8edb-48bc-9fec-44459dffd944/0621aec1-177d-441e-aff6-0dbd4a16d562?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0ddb0eb5-8edb-48bc-9fec-44459dffd944/0621aec1-177d-441e-aff6-0dbd4a16d562?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Qashqai</model>
@@ -3411,8 +3412,8 @@
     <vehicle_id>c5425e38-1d42-4dba-a099-be9165b7b2ab</vehicle_id>
     <vehicle_registration_plate>SLW87N</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 extreme 7 platser</title>
-    <description>TCe 110 extreme 7 platser. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: SLW87N. Billån från 3 296 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
+    <description>TCe 110 extreme 7 platser. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: SLW87N. Billån från 3 296 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 52 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 52</g:custom_label_0>
     <g:custom_label_2>3296</g:custom_label_2>
     <link>https://goingebil.se/sok/id/c5425e38-1d42-4dba-a099-be9165b7b2ab</link>
     <url>https://goingebil.se/sok/id/c5425e38-1d42-4dba-a099-be9165b7b2ab</url>
@@ -3529,7 +3530,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/77956a98-9316-4205-aa5d-f829de23c71f/7c5d331d-65bf-469d-8f3d-d044a7ea0213?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/77956a98-9316-4205-aa5d-f829de23c71f/7c5d331d-65bf-469d-8f3d-d044a7ea0213?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>S90</model>
@@ -3568,7 +3569,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/3741d1c2-6e1d-4dce-95ff-8e544cd35f81/1d954ff7-9bfa-4551-b32b-39ef9c5b614b?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/3741d1c2-6e1d-4dce-95ff-8e544cd35f81/1d954ff7-9bfa-4551-b32b-39ef9c5b614b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -3643,7 +3644,7 @@
     <brand>Peugeot</brand>
     <make>Peugeot</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/2a212839-92df-40f3-81cb-306d58effc6f/42e33fee-b13d-404d-9cc2-7f7f9ebb8585?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/2a212839-92df-40f3-81cb-306d58effc6f/42e33fee-b13d-404d-9cc2-7f7f9ebb8585?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>2008</model>
@@ -3682,7 +3683,7 @@
     <brand>Toyota</brand>
     <make>Toyota</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/fb97a2a5-2461-4df8-a2e5-a00ec8cc7707/9301d86d-b531-40f4-88b8-e8948ee8081a?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/fb97a2a5-2461-4df8-a2e5-a00ec8cc7707/9301d86d-b531-40f4-88b8-e8948ee8081a?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Aygo</model>
@@ -3721,7 +3722,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/a913af66-8370-4f34-929e-750222da4386/68c2a7b3-16b6-4ba9-a7a5-898da5345ec4?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/a913af66-8370-4f34-929e-750222da4386/68c2a7b3-16b6-4ba9-a7a5-898da5345ec4?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -3877,7 +3878,7 @@
     <brand>Audi</brand>
     <make>Audi</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/0047cdcb-1aa2-4e24-a729-37965674abf4/298086de-5b52-4e08-92cf-49d36ae83844?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/0047cdcb-1aa2-4e24-a729-37965674abf4/298086de-5b52-4e08-92cf-49d36ae83844?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>A4</model>
@@ -3916,7 +3917,7 @@
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/2c482206-d6c4-480d-ac25-f9bb7445e64a/f69daa27-5405-471f-9aff-c126ad3047e3?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/2c482206-d6c4-480d-ac25-f9bb7445e64a/f69daa27-5405-471f-9aff-c126ad3047e3?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>2 Series Active/Gran Tourer/Gran Coupé</model>
@@ -3955,7 +3956,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/c639b077-6d1f-4afe-904f-cd7ddece7ce2/c086f95f-c70f-4291-9ac2-143398b76301?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/c639b077-6d1f-4afe-904f-cd7ddece7ce2/c086f95f-c70f-4291-9ac2-143398b76301?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -3994,7 +3995,7 @@
     <brand>Toyota</brand>
     <make>Toyota</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/bb33fb04-8d75-4b1e-ab02-eeef1bbd096f/2451bdb0-741a-46cb-81f9-08f2d29cc5c3?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/bb33fb04-8d75-4b1e-ab02-eeef1bbd096f/2451bdb0-741a-46cb-81f9-08f2d29cc5c3?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>RAV4</model>
@@ -4033,7 +4034,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/54150d14-e104-480a-acf0-2abc9e36e50c/a04f77d4-ba93-481c-ba5e-328c428784b8?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/54150d14-e104-480a-acf0-2abc9e36e50c/a04f77d4-ba93-481c-ba5e-328c428784b8?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -4112,7 +4113,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/9a349852-10e1-44cd-a81c-f4d41b255f5d/8d3d303e-3056-4745-98da-5b07761b6d48?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/9a349852-10e1-44cd-a81c-f4d41b255f5d/8d3d303e-3056-4745-98da-5b07761b6d48?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -4151,7 +4152,7 @@
     <brand>Dacia</brand>
     <make>Dacia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/63939fd3-a171-46ca-bd9a-1f4128bb89b0/c744bf43-b473-4ebd-9c19-ae758da2d6be?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/63939fd3-a171-46ca-bd9a-1f4128bb89b0/c744bf43-b473-4ebd-9c19-ae758da2d6be?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Sandero</model>
@@ -4225,7 +4226,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/c230b4cc-5a58-4bad-b3f0-68c9d15fe7ed/80284bb0-2b92-4960-be81-15db3e7fe459?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/c230b4cc-5a58-4bad-b3f0-68c9d15fe7ed/80284bb0-2b92-4960-be81-15db3e7fe459?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Austral</model>
@@ -4474,7 +4475,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/4565fb21-b9c7-41d0-b7c3-5d15aa1d3c9f/df6f1c0e-f574-45e9-a772-d2c7c15c0c2d?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/4565fb21-b9c7-41d0-b7c3-5d15aa1d3c9f/df6f1c0e-f574-45e9-a772-d2c7c15c0c2d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>ZOE</model>
@@ -4513,7 +4514,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/f7d74acf-cfef-4b1f-8d2d-140050e1795f/702ae466-88b7-4f8c-89da-c7f55fa59d4e?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/f7d74acf-cfef-4b1f-8d2d-140050e1795f/702ae466-88b7-4f8c-89da-c7f55fa59d4e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Mégane E-TECH</model>
@@ -4579,15 +4580,15 @@
     <vehicle_id>3fcbf916-84a0-4900-a1e8-b2c3de51687a</vehicle_id>
     <vehicle_registration_plate>WHN29J</vehicle_registration_plate>
     <title>Audi Q3 Proline 245hk/ PDC bak/ Keyless/ ECC/ Elbaklucka</title>
-    <description>Proline 245hk/ PDC bak/ Keyless/ ECC/ Elbaklucka. Utrustningsnivå: Proline. Miltal: 4 158 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WHN29J. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 94 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 94</g:custom_label_0>
+    <description>Proline 245hk/ PDC bak/ Keyless/ ECC/ Elbaklucka. Utrustningsnivå: Proline. Miltal: 4 158 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WHN29J. Billån från 3 348 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 95 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 95</g:custom_label_0>
     <g:custom_label_2>3348</g:custom_label_2>
     <link>https://goingebil.se/sok/id/3fcbf916-84a0-4900-a1e8-b2c3de51687a</link>
     <url>https://goingebil.se/sok/id/3fcbf916-84a0-4900-a1e8-b2c3de51687a</url>
     <brand>Audi</brand>
     <make>Audi</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/959ed0d8-d85b-43e9-9c6b-1093b84664a3/84215380-196c-4f54-9c41-d4966cc5be2d?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/959ed0d8-d85b-43e9-9c6b-1093b84664a3/84215380-196c-4f54-9c41-d4966cc5be2d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Q3</model>
@@ -4618,8 +4619,8 @@
     <vehicle_id>aa5a88d3-6a6a-4921-aa7d-4afcfbdbe1bd</vehicle_id>
     <vehicle_registration_plate>CEJ09F</vehicle_registration_plate>
     <title>XPENG G6 AWD Premium Drag Panorama</title>
-    <description>AWD Premium Drag Panorama. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: CEJ09F. Billån från 7 352 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 100 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 100</g:custom_label_0>
+    <description>AWD Premium Drag Panorama. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: CEJ09F. Billån från 7 352 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 101 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 101</g:custom_label_0>
     <g:custom_label_2>7352</g:custom_label_2>
     <link>https://goingebil.se/sok/id/aa5a88d3-6a6a-4921-aa7d-4afcfbdbe1bd</link>
     <url>https://goingebil.se/sok/id/aa5a88d3-6a6a-4921-aa7d-4afcfbdbe1bd</url>
@@ -4653,15 +4654,15 @@
     <vehicle_id>503e1064-6139-477f-8c1e-b86836418fa4</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 100 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 100</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 101 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 101</g:custom_label_0>
     <g:custom_label_2>2824</g:custom_label_2>
     <link>https://goingebil.se/sok/id/503e1064-6139-477f-8c1e-b86836418fa4</link>
     <url>https://goingebil.se/sok/id/503e1064-6139-477f-8c1e-b86836418fa4</url>
     <brand>JAC</brand>
     <make>JAC</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/17e1f9aa-602e-443f-b3fb-f6384cf62c21/4b6cfbfc-1527-4bb1-962e-e29032a56663?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/17e1f9aa-602e-443f-b3fb-f6384cf62c21/4b6cfbfc-1527-4bb1-962e-e29032a56663?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>e-JS4</model>
@@ -4774,7 +4775,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/53534f9d-1941-4d64-a2f8-73815c865a8b/3de09291-6736-4f8b-b6f5-3fca464c3f2a?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/53534f9d-1941-4d64-a2f8-73815c865a8b/3de09291-6736-4f8b-b6f5-3fca464c3f2a?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -4852,7 +4853,7 @@
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/c4e1b54d-5d2e-47e9-8d28-652ab51b6093/3a98d2b1-0242-44e5-a6f6-00f68dde22b4?format=jpeg&amp;r=649c0b9&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/c4e1b54d-5d2e-47e9-8d28-652ab51b6093/3a98d2b1-0242-44e5-a6f6-00f68dde22b4?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>5-serie</model>
@@ -4891,7 +4892,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/0bc6cfa4-6b45-49e4-b353-dc6e90af61b9/1effecd4-7adb-476e-aa0b-b4598ad1f8de?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0bc6cfa4-6b45-49e4-b353-dc6e90af61b9/1effecd4-7adb-476e-aa0b-b4598ad1f8de?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Mégane</model>
@@ -4930,7 +4931,7 @@
     <brand>XPENG</brand>
     <make>XPENG</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/0d52037a-abf4-49c1-865f-c431134432ce/86641f08-bb85-4562-a370-f5baaf996cf2?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/0d52037a-abf4-49c1-865f-c431134432ce/86641f08-bb85-4562-a370-f5baaf996cf2?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>G9</model>
@@ -4969,7 +4970,7 @@
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/32d2bd7f-e492-4e65-a54e-3f006b749e2d/2d96163f-f434-4e4f-9392-a2dc36697525?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/32d2bd7f-e492-4e65-a54e-3f006b749e2d/2d96163f-f434-4e4f-9392-a2dc36697525?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>1-serie</model>
@@ -5047,7 +5048,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/e040348f-be23-44c8-9823-688470c27bb8/80f8c923-07dc-48f7-8d58-2d49d931224d?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/e040348f-be23-44c8-9823-688470c27bb8/80f8c923-07dc-48f7-8d58-2d49d931224d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Austral</model>
@@ -5125,7 +5126,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/ab89af4c-ddf1-4fb0-9909-e2f9b993069e/2b0480a5-0acc-4c3f-a1a5-35e663c828a0?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/ab89af4c-ddf1-4fb0-9909-e2f9b993069e/2b0480a5-0acc-4c3f-a1a5-35e663c828a0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -5164,7 +5165,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/226a4ac4-6cce-4f4b-a29c-9f0d89f66ed9/6f4d0ab9-da43-4df8-86e9-c4eee969c5a0?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/226a4ac4-6cce-4f4b-a29c-9f0d89f66ed9/6f4d0ab9-da43-4df8-86e9-c4eee969c5a0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -5312,7 +5313,7 @@
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/9e2d9712-61dc-470c-9567-672fd7d6f47e/a522345f-0779-44b9-820a-f34eb2dc21a0?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/9e2d9712-61dc-470c-9567-672fd7d6f47e/a522345f-0779-44b9-820a-f34eb2dc21a0?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Ceed</model>
@@ -5390,7 +5391,7 @@
     <brand>Ford</brand>
     <make>Ford</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/11fc46e7-0ec5-449e-9743-34c303a3f3bd/ec125129-4352-42d9-b587-60069c4e8ca9?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/11fc46e7-0ec5-449e-9743-34c303a3f3bd/ec125129-4352-42d9-b587-60069c4e8ca9?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Fiesta</model>
@@ -5429,7 +5430,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/5f7314eb-e78a-40f1-9d41-9f3ac4276d28/0f484906-ca26-4f82-8532-135b3b573c09?format=jpeg&amp;r=4e5e6c5&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/5f7314eb-e78a-40f1-9d41-9f3ac4276d28/0f484906-ca26-4f82-8532-135b3b573c09?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>5 E-Tech</model>
@@ -5468,7 +5469,7 @@
     <brand>Audi</brand>
     <make>Audi</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/a20fdc3d-ef9a-477d-af4c-5019b56c64e6/27c9dd8d-4d43-4bfa-b521-b2e04c207c69?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/a20fdc3d-ef9a-477d-af4c-5019b56c64e6/27c9dd8d-4d43-4bfa-b521-b2e04c207c69?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Q3</model>
@@ -5499,15 +5500,14 @@
     <vehicle_id>a926d77e-4135-4551-bad6-362cdcd34654</vehicle_id>
     <vehicle_registration_plate>WAY85K</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé M-sport/ Kamera/ Navi/ Laddhybrid</title>
-    <description>M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAY85K. Billån från 3 558 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 180 dagar sedan.</description>
+    <description>M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAY85K. Kontakta oss för mer information om detta fordon. Publicerad för 180 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 180</g:custom_label_0>
-    <g:custom_label_2>3558</g:custom_label_2>
     <link>https://goingebil.se/sok/id/a926d77e-4135-4551-bad6-362cdcd34654</link>
     <url>https://goingebil.se/sok/id/a926d77e-4135-4551-bad6-362cdcd34654</url>
     <brand>BMW</brand>
     <make>BMW</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/7de70e34-228a-48df-910a-2d2ecd2a9004/ee42db9e-fd10-465c-be12-f8a6b6c88b96?format=jpeg&amp;r=020fa3e&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/7de70e34-228a-48df-910a-2d2ecd2a9004/ee42db9e-fd10-465c-be12-f8a6b6c88b96?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>2 Series Active/Gran Tourer/Gran Coupé</model>
@@ -5546,7 +5546,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/01b4b0e6-4652-4ee7-9216-ff9efda7576d/cf307ec1-e644-4b59-b39f-a36e0255eec5?format=jpeg&amp;r=020fa3e&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/01b4b0e6-4652-4ee7-9216-ff9efda7576d/cf307ec1-e644-4b59-b39f-a36e0255eec5?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Scenic E-Tech</model>
@@ -5848,7 +5848,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/7f1cced0-2c42-4e08-88e3-b7a777355f1c/fd86d0f2-9eca-41e8-b533-fc35334c1b62?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/7f1cced0-2c42-4e08-88e3-b7a777355f1c/fd86d0f2-9eca-41e8-b533-fc35334c1b62?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Mégane E-TECH</model>
@@ -5918,15 +5918,14 @@
     <vehicle_id>38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</vehicle_id>
     <vehicle_registration_plate>BEU01K</vehicle_registration_plate>
     <title>Renault Mégane E-TECH Techno 60kWh 220hk Kamera / Navigation</title>
-    <description>Techno 60kWh 220hk Kamera / Navigation. Miltal: 4 897 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Billån från 2 824 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 352 dagar sedan.</description>
+    <description>Techno 60kWh 220hk Kamera / Navigation. Miltal: 4 897 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Kontakta oss för mer information om detta fordon. Publicerad för 352 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 352</g:custom_label_0>
-    <g:custom_label_2>2824</g:custom_label_2>
     <link>https://goingebil.se/sok/id/38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</link>
     <url>https://goingebil.se/sok/id/38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</url>
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/0157338e-7746-4e7b-b5dc-c5efa16097b9/fce291e3-2568-45f2-ba50-89d3737ccde0?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/0157338e-7746-4e7b-b5dc-c5efa16097b9/fce291e3-2568-45f2-ba50-89d3737ccde0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Mégane E-TECH</model>
@@ -5957,9 +5956,8 @@
     <vehicle_id>ad6d50a9-c5ad-43cc-9aae-261df2028f1b</vehicle_id>
     <vehicle_registration_plate>AKG65S</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Nordic dCi 95 L2 A G2</title>
-    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Billån från 3 408 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 355 dagar sedan.</description>
+    <description>Skåp Nordic dCi 95 L2 A G2. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKG65S. Kontakta oss för mer information om detta fordon. Publicerad för 355 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 355</g:custom_label_0>
-    <g:custom_label_2>3408</g:custom_label_2>
     <link>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</link>
     <url>https://goingebil.se/sok/id/ad6d50a9-c5ad-43cc-9aae-261df2028f1b</url>
     <brand>Renault</brand>
@@ -6000,7 +5998,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/a28d7d51-2215-4b14-be66-6f1366cf0184/a1dff743-8c9f-441c-b018-d1f3e8f632a8?format=jpeg&amp;r=4e5e6c5&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/a28d7d51-2215-4b14-be66-6f1366cf0184/a1dff743-8c9f-441c-b018-d1f3e8f632a8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Espace</model>
