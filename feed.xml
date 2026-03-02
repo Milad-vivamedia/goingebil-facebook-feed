@@ -280,84 +280,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>72143957-2e23-4747-b884-19a7fb1a6cf6</vehicle_id>
-    <vehicle_registration_plate>PDB36C</vehicle_registration_plate>
-    <title>Volkswagen Tiguan 1.5 TSI DSG 150hk Dragkrok/ Backkamera</title>
-    <description>1.5 TSI DSG 150hk Dragkrok/ Backkamera. Utrustningsnivå: Base. Miltal: 7 375 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PDB36C. Billån från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
-    <g:custom_label_2>2719</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/72143957-2e23-4747-b884-19a7fb1a6cf6</link>
-    <url>https://goingebil.se/sok/id/72143957-2e23-4747-b884-19a7fb1a6cf6</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/dadf18bc-6c63-421a-b004-88f25c07281b/62456ee1-081f-4dee-96fe-44d87e42ed9e?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Tiguan</model>
-    <year>2022</year>
-    <mileage>
-      <value>73750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>259000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>259000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>518260a3-f8e5-4e0a-b4e2-6c16975dbe49</vehicle_id>
-    <vehicle_registration_plate>KRA34H</vehicle_registration_plate>
-    <title>Suzuki S-Cross AGS 115hk Kamera/ Carplay/Adapt farth</title>
-    <description>AGS 115hk Kamera/ Carplay/Adapt farth. Miltal: 2 597 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: KRA34H. Billån från 2 509 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
-    <g:custom_label_2>2509</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/518260a3-f8e5-4e0a-b4e2-6c16975dbe49</link>
-    <url>https://goingebil.se/sok/id/518260a3-f8e5-4e0a-b4e2-6c16975dbe49</url>
-    <brand>Suzuki</brand>
-    <make>Suzuki</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9551bc23-d870-4488-b923-981fb696f566/07e02dc5-0f72-407f-a5f8-40a97f10d2e8?format=jpeg&amp;r=649c0b9&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>S-Cross</model>
-    <year>2024</year>
-    <mileage>
-      <value>25970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>239000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>239000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>d30c53bf-9307-4f0c-92db-3850fbaac498</vehicle_id>
     <vehicle_registration_plate>TEC848</vehicle_registration_plate>
     <title>Mercedes-Benz GLC Dragkrok/ Ellucka/ Backkamera/</title>
@@ -970,45 +892,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>193bbc12-50b6-487e-a118-56570660ee49</vehicle_id>
-    <vehicle_registration_plate>FHE56W</vehicle_registration_plate>
-    <title>Renault Austral 200 Techno AUT/ Rattvärme/ PDC/ Adaptiv LED/ OpenR Link/ Carplay</title>
-    <description>200 Techno AUT/ Rattvärme/ PDC/ Adaptiv LED/ OpenR Link/ Carplay. Miltal: 1 756 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: FHE56W. Billån från 3 873 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_2>3873</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/193bbc12-50b6-487e-a118-56570660ee49</link>
-    <url>https://goingebil.se/sok/id/193bbc12-50b6-487e-a118-56570660ee49</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/87b2f1e6-4f11-4632-9878-152453d0ce52/7fe36fe7-3a4c-4e5b-afa0-c65748b2233b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Austral</model>
-    <year>2025</year>
-    <mileage>
-      <value>17560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -3980,45 +3863,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>0b4fb165-a800-4872-ba12-d2b813a0cc01</vehicle_id>
-    <vehicle_registration_plate>WAC36X</vehicle_registration_plate>
-    <title>Volvo V60 Recharge T6 Plus Dark Pano/ 360/ H/K/ Tonade rutor</title>
-    <description>Recharge T6 Plus Dark Pano/ 360/ H/K/ Tonade rutor. Utrustningsnivå: Plus. Miltal: 4 325 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAC36X. Billån från 4 503 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 84</g:custom_label_0>
-    <g:custom_label_2>4503</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/0b4fb165-a800-4872-ba12-d2b813a0cc01</link>
-    <url>https://goingebil.se/sok/id/0b4fb165-a800-4872-ba12-d2b813a0cc01</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c639b077-6d1f-4afe-904f-cd7ddece7ce2/c086f95f-c70f-4291-9ac2-143398b76301?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>43250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>429000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
