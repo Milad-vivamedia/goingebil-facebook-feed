@@ -539,7 +539,7 @@
     <transmission>Manual</transmission>
     <price>249900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil ��lmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -1311,7 +1311,7 @@
     <transmission>Automatic</transmission>
     <price>329000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -5153,8 +5153,9 @@
     <vehicle_id>c9358f55-8bd0-4287-9d5f-e902a52bf6dd</vehicle_id>
     <vehicle_registration_plate>DSG51K</vehicle_registration_plate>
     <title>Renault Kangoo Skåp Base dC 95 L1 G2 II</title>
-    <description>Skåp Base dC 95 L1 G2 II. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DSG51K. Kontakta oss för mer information om detta fordon. Publicerad för 153 dagar sedan.</description>
+    <description>Skåp Base dC 95 L1 G2 II. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DSG51K. Billån från 3 907 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 153 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 153</g:custom_label_0>
+    <g:custom_label_2>3907</g:custom_label_2>
     <link>https://goingebil.se/sok/id/c9358f55-8bd0-4287-9d5f-e902a52bf6dd</link>
     <url>https://goingebil.se/sok/id/c9358f55-8bd0-4287-9d5f-e902a52bf6dd</url>
     <brand>Renault</brand>
