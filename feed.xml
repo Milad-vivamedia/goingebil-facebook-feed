@@ -5423,41 +5423,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>26b1e78a-c5a4-4761-8d04-ba4b77c3e15c</vehicle_id>
-    <vehicle_registration_plate>DMG98C</vehicle_registration_plate>
-    <title>Renault Kangoo Skåp Base dC 95 L1 G2 II</title>
-    <description>Skåp Base dC 95 L1 G2 II. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DMG98C. Billån från 3 012 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 154 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 154</g:custom_label_0>
-    <g:custom_label_2>3012</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/26b1e78a-c5a4-4761-8d04-ba4b77c3e15c</link>
-    <url>https://goingebil.se/sok/id/26b1e78a-c5a4-4761-8d04-ba4b77c3e15c</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/80cb749f-4f7a-47c5-a34e-edbd3006bb48/bbb8b3eb-1f8c-4fe4-bb6b-706cfd2b2e39?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kangoo</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>253625 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>253625 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>3cd8e7ba-96e6-402a-804d-f9e471429d16</vehicle_id>
     <vehicle_registration_plate>XAJ02U</vehicle_registration_plate>
     <title>Kia Ceed SW Advance Plus Panorama/ Kamera/ Navi</title>
