@@ -1212,41 +1212,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2af31d12-52d1-4ec7-8e4a-2e1d9677c6b7</vehicle_id>
-    <vehicle_registration_plate>SJP06Y</vehicle_registration_plate>
-    <title>Dacia Bigster extreme /Ny Lagerbil</title>
-    <description>extreme /Ny Lagerbil. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: SJP06Y. Billån från 4 292 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 10 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 10</g:custom_label_0>
-    <g:custom_label_2>4292</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/2af31d12-52d1-4ec7-8e4a-2e1d9677c6b7</link>
-    <url>https://goingebil.se/sok/id/2af31d12-52d1-4ec7-8e4a-2e1d9677c6b7</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0c0607c2-d3c5-49ca-ae95-b6cd82461a39/0187a1c0-8ef7-4e55-8013-6354db8ce652?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Bigster</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>361400 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>361400 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>df73fc05-0355-46e9-82a1-f37b7eb1752c</vehicle_id>
     <vehicle_registration_plate>RBP93A</vehicle_registration_plate>
     <title>Volkswagen T-Roc 2.0 TDI 4M DSG 150hk R-Line Navi/ Kamera</title>
@@ -1442,45 +1407,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>f62030d4-354a-412e-91e8-aac6a2e1db41</vehicle_id>
-    <vehicle_registration_plate>DRZ95R</vehicle_registration_plate>
-    <title>Renault Kangoo Skåp 1,5 dCi 95 Base Line II</title>
-    <description>Skåp 1,5 dCi 95 Base Line II. Miltal: 6 273 mil. Årsmodell: 2022. Växellåda: Manuell. Bränsle: Diesel. Registreringsnummer: DRZ95R. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 17 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 17</g:custom_label_0>
-    <g:custom_label_2>1769</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/f62030d4-354a-412e-91e8-aac6a2e1db41</link>
-    <url>https://goingebil.se/sok/id/f62030d4-354a-412e-91e8-aac6a2e1db41</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b579c8dd-932d-4c7b-8935-871932a2be8f/7ff323d8-02b3-4575-8f16-55c87c8728c1?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kangoo</model>
-    <year>2022</year>
-    <mileage>
-      <value>62730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <price>149000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>149000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ae73eb68-f907-4114-b548-2bec9da77501</vehicle_id>
     <vehicle_registration_plate>DHG570</vehicle_registration_plate>
     <title>Kia Ceed Advance Plus 2/ Skinn/ PDC/ Keyless/ Kamera/ Carplay</title>
@@ -1594,45 +1520,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>5a4dfd7d-4253-429c-a319-89f74e48aa54</vehicle_id>
-    <vehicle_registration_plate>PJG590</vehicle_registration_plate>
-    <title>Renault Captur Energy TCe 90 Dynamique 5-d/ Citypaket/ Pekskärm/ PDC bak</title>
-    <description>Energy TCe 90 Dynamique 5-d/ Citypaket/ Pekskärm/ PDC bak. Miltal: 8 870 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PJG590. Billån från 1 294 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 17 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 17</g:custom_label_0>
-    <g:custom_label_2>1294</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/5a4dfd7d-4253-429c-a319-89f74e48aa54</link>
-    <url>https://goingebil.se/sok/id/5a4dfd7d-4253-429c-a319-89f74e48aa54</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/dff34a90-15f6-4cf1-80dd-b3c9f2098b88/f0a84db6-a7e9-4cfa-9c42-f808105647c1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2017</year>
-    <mileage>
-      <value>88700</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>109000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>109000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -2783,45 +2670,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>0edfc405-ce07-428d-85e0-225a467220b1</vehicle_id>
-    <vehicle_registration_plate>LKT111</vehicle_registration_plate>
-    <title>Volkswagen Caddy DSG 2.0 TDI BMT/Dragkrok/Farthållare/APP Connect</title>
-    <description>DSG 2.0 TDI BMT/Dragkrok/Farthållare/APP Connect. Miltal: 4 614 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: LKT111. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 31 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 31</g:custom_label_0>
-    <g:custom_label_2>3432</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/0edfc405-ce07-428d-85e0-225a467220b1</link>
-    <url>https://goingebil.se/sok/id/0edfc405-ce07-428d-85e0-225a467220b1</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/37a9905e-593a-4838-be6e-1ccd8a4ca693/68d93672-d0ff-4233-83b5-1efa30efd975?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Caddy</model>
-    <year>2023</year>
-    <mileage>
-      <value>46140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
