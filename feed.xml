@@ -500,7 +500,7 @@
     <transmission>Automatic</transmission>
     <price>469000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1917,9 +1917,8 @@
     <vehicle_id>5d1b6712-2a7a-448b-bfdb-fd9278304c70</vehicle_id>
     <vehicle_registration_plate>NXC03N</vehicle_registration_plate>
     <title>Ford Focus</title>
-    <description>Utrustningsnivå: Active Launch Edition. Miltal: 14 566 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: NXC03N. Billån från 1 651 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
+    <description>Utrustningsnivå: Active Launch Edition. Miltal: 14 566 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: NXC03N. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 24</g:custom_label_0>
-    <g:custom_label_2>1651</g:custom_label_2>
     <link>https://goingebil.se/sok/id/5d1b6712-2a7a-448b-bfdb-fd9278304c70</link>
     <url>https://goingebil.se/sok/id/5d1b6712-2a7a-448b-bfdb-fd9278304c70</url>
     <brand>Ford</brand>
