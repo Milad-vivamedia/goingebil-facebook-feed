@@ -475,45 +475,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>194c82e6-ea6d-4427-b85c-a49bb1c923ea</vehicle_id>
-    <vehicle_registration_plate>MEC52F</vehicle_registration_plate>
-    <title>Mercedes-Benz C-Klass 9G-Tronic 306hk AMG-Line/ 360/ Burmester/ Pano/ PremiumPluspaket</title>
-    <description>9G-Tronic 306hk AMG-Line/ 360/ Burmester/ Pano/ PremiumPluspaket. Miltal: 7 805 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MEC52F. Billån från 3 551 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>3551</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/194c82e6-ea6d-4427-b85c-a49bb1c923ea</link>
-    <url>https://goingebil.se/sok/id/194c82e6-ea6d-4427-b85c-a49bb1c923ea</url>
-    <brand>Mercedes-Benz</brand>
-    <make>Mercedes-Benz</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f57b617f-1f7b-47d8-8a95-a56316a9c491/fa90d900-4e08-4c31-a561-e15ea1cfd883?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C-Klass</model>
-    <year>2020</year>
-    <mileage>
-      <value>78050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a08c4bc3-c67e-4b26-b56e-2152bebbb993</vehicle_id>
     <vehicle_registration_plate>DMW01A</vehicle_registration_plate>
     <title>Dacia Duster PhII 4x2 1,0 TCe 90 Essential</title>
