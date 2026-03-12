@@ -7,6 +7,84 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>86f9ed86-e830-4e26-87d0-6911bd2aa7d8</vehicle_id>
+    <vehicle_registration_plate>SER00Y</vehicle_registration_plate>
+    <title>Volkswagen Passat 1.4 TSI/ Drag-paket/ Massage stol/ Navigation</title>
+    <description>1.4 TSI/ Drag-paket/ Massage stol/ Navigation. Utrustningsnivå: GTE. Miltal: 5 438 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SER00Y. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>3788</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/86f9ed86-e830-4e26-87d0-6911bd2aa7d8</link>
+    <url>https://goingebil.se/sok/id/86f9ed86-e830-4e26-87d0-6911bd2aa7d8</url>
+    <brand>Volkswagen</brand>
+    <make>Volkswagen</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/90b11e58-fdd5-4162-b504-9af49e9ab9fe/890248d1-ff84-4d78-a9f2-69423e5d7c50?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Passat</model>
+    <year>2023</year>
+    <mileage>
+      <value>54380</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>319000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Markaryd</component>
+      <component name="city">Markaryd</component>
+      <component name="region">Markaryd</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>319000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>2d5ec30c-425c-4e48-a27b-5f35ad922798</vehicle_id>
+    <vehicle_registration_plate>JLL60K</vehicle_registration_plate>
+    <title>Volvo XC40 T3 FWD aut Momentum Edition/Dragkrok</title>
+    <description>T3 FWD aut Momentum Edition/Dragkrok. Utrustningsnivå: Momentum. Miltal: 11 183 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: JLL60K. Billån från 3 076 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>3076</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/2d5ec30c-425c-4e48-a27b-5f35ad922798</link>
+    <url>https://goingebil.se/sok/id/2d5ec30c-425c-4e48-a27b-5f35ad922798</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2742822e-5e8b-42f0-bd25-a16212ba3ed0/7fd80b9a-ed06-46fb-824f-c476d9915c07?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2020</year>
+    <mileage>
+      <value>111830</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>259000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>259000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>267dc592-4e32-4ce2-bba4-b352813aff40</vehicle_id>
     <vehicle_registration_plate>NMF49T</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T5 Plus Bright Drag/ 360 Kamera/ Läder/ HK ljud</title>
@@ -322,8 +400,8 @@
     <vehicle_id>ae906cea-36c1-4f4b-8e84-2e684c453f9d</vehicle_id>
     <vehicle_registration_plate>OWN60R</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Core Edition Drag/ Kamera/ Navi/ Värmare/ Pano</title>
-    <description>Recharge T6 Core Edition Drag/ Kamera/ Navi/ Värmare/ Pano. Utrustningsnivå: Core. Miltal: 9 118 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OWN60R. Billån från 4 738 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>Recharge T6 Core Edition Drag/ Kamera/ Navi/ Värmare/ Pano. Utrustningsnivå: Core. Miltal: 9 118 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: OWN60R. Billån från 4 738 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>4738</g:custom_label_2>
     <link>https://goingebil.se/sok/id/ae906cea-36c1-4f4b-8e84-2e684c453f9d</link>
     <url>https://goingebil.se/sok/id/ae906cea-36c1-4f4b-8e84-2e684c453f9d</url>
@@ -2775,8 +2853,8 @@
     <vehicle_id>b85a067e-58eb-460e-948d-b4a44d3047b4</vehicle_id>
     <vehicle_registration_plate>YHO703</vehicle_registration_plate>
     <title>Mercedes-Benz E-Klass E 220 T 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi</title>
-    <description>E 220 T 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 3 205 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 34 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 34</g:custom_label_0>
+    <description>E 220 T 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 3 205 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 35 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 35</g:custom_label_0>
     <g:custom_label_2>3205</g:custom_label_2>
     <link>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</link>
     <url>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</url>
@@ -2993,8 +3071,8 @@
     <vehicle_id>07bd558a-defb-4bab-9746-5ceb01a2bdc9</vehicle_id>
     <vehicle_registration_plate>OAN24P</vehicle_registration_plate>
     <title>Volkswagen Golf E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp</title>
-    <description>E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp. Utrustningsnivå: e-Golf. Miltal: 10 494 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: El. Registreringsnummer: OAN24P. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 36 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 36</g:custom_label_0>
+    <description>E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp. Utrustningsnivå: e-Golf. Miltal: 10 494 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: El. Registreringsnummer: OAN24P. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 37</g:custom_label_0>
     <g:custom_label_2>1769</g:custom_label_2>
     <link>https://goingebil.se/sok/id/07bd558a-defb-4bab-9746-5ceb01a2bdc9</link>
     <url>https://goingebil.se/sok/id/07bd558a-defb-4bab-9746-5ceb01a2bdc9</url>
@@ -4584,8 +4662,8 @@
     <vehicle_id>741b5a6b-6e42-4d12-b93c-0b99278e100a</vehicle_id>
     <vehicle_registration_plate>ZAN72M</vehicle_registration_plate>
     <title>Toyota RAV4 E-CVT 222hk Värmare/ Kamera/ Navi</title>
-    <description>E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 96 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 96</g:custom_label_0>
+    <description>E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 97 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 97</g:custom_label_0>
     <g:custom_label_2>3788</g:custom_label_2>
     <link>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</link>
     <url>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</url>
