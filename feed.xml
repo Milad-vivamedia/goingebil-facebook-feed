@@ -205,7 +205,7 @@
     <vehicle_id>6773532d-e9eb-4429-87b8-e70c643d2578</vehicle_id>
     <vehicle_registration_plate>KRA49J</vehicle_registration_plate>
     <title>Audi A3 S-Tronic S-line/ Black app./ Plug-in/ Adap. farth/ Carplay</title>
-    <description>S-Tronic S-line/ Black app./ Plug-in/ Adap. farth/ Carplay. Utrustningsnivå: S Line. Miltal: 5 444 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: KRA49J. Billån från 4 263 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>S-Tronic S-line/ Black app./ Plug-in/ Adap. farth/ Carplay. Utrustningsnivå: S Line. Miltal: 5 445 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: KRA49J. Billån från 4 263 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>4263</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6773532d-e9eb-4429-87b8-e70c643d2578</link>
@@ -219,7 +219,7 @@
     <model>A3</model>
     <year>2024</year>
     <mileage>
-      <value>54440</value>
+      <value>54450</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -322,7 +322,7 @@
     <vehicle_id>e5464f34-456d-441b-8d1b-da07fbc9e553</vehicle_id>
     <vehicle_registration_plate>TSP51B</vehicle_registration_plate>
     <title>Ford Kuga ST-line X Business/ B&amp;O/ Kamera/ Drag/ Carplay</title>
-    <description>ST-line X Business/ B&amp;O/ Kamera/ Drag/ Carplay. Utrustningsnivå: ST-Line. Miltal: 3 393 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TSP51B. Billån från 3 907 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
+    <description>ST-line X Business/ B&amp;O/ Kamera/ Drag/ Carplay. Utrustningsnivå: ST-Line. Miltal: 3 394 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TSP51B. Billån från 3 907 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
     <g:custom_label_2>3907</g:custom_label_2>
     <link>https://goingebil.se/sok/id/e5464f34-456d-441b-8d1b-da07fbc9e553</link>
@@ -336,7 +336,7 @@
     <model>Kuga</model>
     <year>2023</year>
     <mileage>
-      <value>33930</value>
+      <value>33940</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -2389,7 +2389,7 @@
     <vehicle_id>ea6c2783-35ca-4f30-b83c-bf1f1a1dd54a</vehicle_id>
     <vehicle_registration_plate>CPE86P</vehicle_registration_plate>
     <title>Renault Austral TCe 160 Techno AUT/ Pano/ PDC/ 360°/ Navi/ Google</title>
-    <description>TCe 160 Techno AUT/ Pano/ PDC/ 360°/ Navi/ Google. Utrustningsnivå: Techno. Miltal: 3 912 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CPE86P. Billån från 3 551 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
+    <description>TCe 160 Techno AUT/ Pano/ PDC/ 360°/ Navi/ Google. Utrustningsnivå: Techno. Miltal: 3 913 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: CPE86P. Billån från 3 551 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
     <g:custom_label_2>3551</g:custom_label_2>
     <link>https://goingebil.se/sok/id/ea6c2783-35ca-4f30-b83c-bf1f1a1dd54a</link>
@@ -2403,7 +2403,7 @@
     <model>Austral</model>
     <year>2023</year>
     <mileage>
-      <value>39120</value>
+      <value>39130</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -3389,7 +3389,7 @@
     <transmission>Automatic</transmission>
     <price>587900 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
