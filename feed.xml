@@ -3372,45 +3372,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>07bd558a-defb-4bab-9746-5ceb01a2bdc9</vehicle_id>
-    <vehicle_registration_plate>OAN24P</vehicle_registration_plate>
-    <title>Volkswagen Golf E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp</title>
-    <description>E- 136hk Pluspaket/Back Kamera/ Adaptiv farthållare/ digital förar disp. Utrustningsnivå: e-Golf. Miltal: 10 494 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: El. Registreringsnummer: OAN24P. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 42 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 42</g:custom_label_0>
-    <g:custom_label_2>1769</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/07bd558a-defb-4bab-9746-5ceb01a2bdc9</link>
-    <url>https://goingebil.se/sok/id/07bd558a-defb-4bab-9746-5ceb01a2bdc9</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c8fbc6f1-96df-4998-ae30-fdf8285caf90/dcaf623a-0984-4880-977c-c6b02756b5e4?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Golf</model>
-    <year>2020</year>
-    <mileage>
-      <value>104940</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>149000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>149000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a0d233a5-07e5-45cb-aadd-4e9bc05dc3bf</vehicle_id>
     <vehicle_registration_plate>YXR849</vehicle_registration_plate>
     <title>Audi A1 1.4 TFSI 125hk Svart Optik</title>
