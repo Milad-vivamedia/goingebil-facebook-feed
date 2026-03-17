@@ -3231,7 +3231,7 @@
     <vehicle_id>0339012c-0e28-4200-a57f-bf04b59a2e67</vehicle_id>
     <vehicle_registration_plate>RFW03Y</vehicle_registration_plate>
     <title>Dacia Sandero TCe 110 Extreme</title>
-    <description>TCe 110 Extreme. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Förbr��nningsmotor. Registreringsnummer: RFW03Y. Billån från 3 104 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 40 dagar sedan.</description>
+    <description>TCe 110 Extreme. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: RFW03Y. Billån från 3 104 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 40 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 40</g:custom_label_0>
     <g:custom_label_2>3104</g:custom_label_2>
     <link>https://goingebil.se/sok/id/0339012c-0e28-4200-a57f-bf04b59a2e67</link>
@@ -3245,7 +3245,7 @@
     <model>Sandero</model>
     <year>2026</year>
     <body_style>Sedan</body_style>
-    <fuel_type>Förbr��nningsmotor</fuel_type>
+    <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>261400 SEK</price>
     <address format="simple">
