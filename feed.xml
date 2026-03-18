@@ -584,45 +584,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2d4a5ee7-55c1-4934-b640-d1ea919cd331</vehicle_id>
-    <vehicle_registration_plate>CFB02H</vehicle_registration_plate>
-    <title>CUPRA Born 62kwh Pilot M/ Värmare/ Adpt farth/ Navi/ Kamera</title>
-    <description>62kwh Pilot M/ Värmare/ Adpt farth/ Navi/ Kamera. Miltal: 1 550 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: CFB02H. Billån från 3 076 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_2>3076</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/2d4a5ee7-55c1-4934-b640-d1ea919cd331</link>
-    <url>https://goingebil.se/sok/id/2d4a5ee7-55c1-4934-b640-d1ea919cd331</url>
-    <brand>CUPRA</brand>
-    <make>CUPRA</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b682d807-6c7d-4040-bc69-957d3d47cbd0/da19f561-3967-4ee8-8aab-cdf2d7d230f9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Born</model>
-    <year>2023</year>
-    <mileage>
-      <value>15500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>259000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>259000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>86f9ed86-e830-4e26-87d0-6911bd2aa7d8</vehicle_id>
     <vehicle_registration_plate>SER00Y</vehicle_registration_plate>
     <title>Volkswagen Passat 1.4 TSI/ Drag-paket/ Massage stol/ Navigation</title>
@@ -3259,41 +3220,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>331400 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>0339012c-0e28-4200-a57f-bf04b59a2e67</vehicle_id>
-    <vehicle_registration_plate>RFW03Y</vehicle_registration_plate>
-    <title>Dacia Sandero TCe 110 Extreme</title>
-    <description>TCe 110 Extreme. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: RFW03Y. Billån från 3 104 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 41</g:custom_label_0>
-    <g:custom_label_2>3104</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/0339012c-0e28-4200-a57f-bf04b59a2e67</link>
-    <url>https://goingebil.se/sok/id/0339012c-0e28-4200-a57f-bf04b59a2e67</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/17634d1c-6499-4a82-be93-4d6d418bcf02/43296eca-fda9-4b72-9863-f021228fa3d9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>261400 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>261400 SEK</sale_price>
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
