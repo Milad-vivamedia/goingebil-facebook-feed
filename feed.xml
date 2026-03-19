@@ -356,8 +356,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>4f67b0eb-e1ee-4a95-8f02-53a9e27fe0a1</vehicle_id>
     <vehicle_registration_plate>PUH07W</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Core Edt Drag/ Navi/ Kamera/ Värmare/ Panorama</title>
-    <description>Recharge T6 Core Edt Drag/ Navi/ Kamera/ Värmare/ Panorama. Utrustningsnivå: Core. Miltal: 8 271 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PUH07W. Billån från 4 738 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
+    <title>Volvo XC60 Recharge T6 Core Edt Drag/ Navi/ Kamera/ V��rmare/ Panorama</title>
+    <description>Recharge T6 Core Edt Drag/ Navi/ Kamera/ V��rmare/ Panorama. Utrustningsnivå: Core. Miltal: 8 271 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PUH07W. Billån från 4 738 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
     <g:custom_label_2>4738</g:custom_label_2>
     <link>https://goingebil.se/sok/id/4f67b0eb-e1ee-4a95-8f02-53a9e27fe0a1</link>
@@ -1835,9 +1835,9 @@
     <vehicle_id>42aa2fb3-ef02-4d66-b3e1-f3b013168890</vehicle_id>
     <vehicle_registration_plate>CUF22N</vehicle_registration_plate>
     <title>Volkswagen ID.3 204hk Värmepump/ Komfortpaket/ Rattvärme/</title>
-    <description>204hk Värmepump/ Komfortpaket/ Rattvärme/. Utrustningsnivå: Pro. Miltal: 5 129 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: CUF22N. Billån från 2 838 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 15 dagar sedan.</description>
+    <description>204hk Värmepump/ Komfortpaket/ Rattvärme/. Utrustningsnivå: Pro. Miltal: 5 129 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: CUF22N. Billån från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 15 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 15</g:custom_label_0>
-    <g:custom_label_2>2838</g:custom_label_2>
+    <g:custom_label_2>2719</g:custom_label_2>
     <link>https://goingebil.se/sok/id/42aa2fb3-ef02-4d66-b3e1-f3b013168890</link>
     <url>https://goingebil.se/sok/id/42aa2fb3-ef02-4d66-b3e1-f3b013168890</url>
     <brand>Volkswagen</brand>
@@ -1855,14 +1855,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>239000 SEK</price>
+    <price>229000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>239000 SEK</sale_price>
+    <sale_price>229000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5408,45 +5408,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>02d05566-f644-4989-b608-a4297726ec4b</vehicle_id>
-    <vehicle_registration_plate>GFD29T</vehicle_registration_plate>
-    <title>Opel Combo e- Business L2 50Kw</title>
-    <description>e- Business L2 50Kw. Miltal: 831 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: GFD29T. Billån från 3 102 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 136 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 136</g:custom_label_0>
-    <g:custom_label_2>3102</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/02d05566-f644-4989-b608-a4297726ec4b</link>
-    <url>https://goingebil.se/sok/id/02d05566-f644-4989-b608-a4297726ec4b</url>
-    <brand>Opel</brand>
-    <make>Opel</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f32f6eac-210e-443a-a054-d8dbdfaf7fbd/34381f58-2b0b-4bf6-97fc-1f7feff93adc?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Combo</model>
-    <year>2023</year>
-    <mileage>
-      <value>8310</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>261250 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>261250 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
