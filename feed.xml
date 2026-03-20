@@ -2615,9 +2615,8 @@
     <vehicle_id>c46c98ae-c3df-4f14-8bae-588f7aa99c21</vehicle_id>
     <vehicle_registration_plate>FME66H</vehicle_registration_plate>
     <title>Toyota RAV4 Style Rattvärme/ bakkamera/ Halvskinn/ Nyservad/</title>
-    <description>Style Rattvärme/ bakkamera/ Halvskinn/ Nyservad/. Utrustningsnivå: Style. Miltal: 13 226 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Hybrid. Registreringsnummer: FME66H. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
+    <description>Style Rattvärme/ bakkamera/ Halvskinn/ Nyservad/. Utrustningsnivå: Style. Miltal: 13 226 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Hybrid. Registreringsnummer: FME66H. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 22</g:custom_label_0>
-    <g:custom_label_2>3432</g:custom_label_2>
     <link>https://goingebil.se/sok/id/c46c98ae-c3df-4f14-8bae-588f7aa99c21</link>
     <url>https://goingebil.se/sok/id/c46c98ae-c3df-4f14-8bae-588f7aa99c21</url>
     <brand>Toyota</brand>
@@ -5353,9 +5352,8 @@
     <vehicle_id>00e2f4f7-ad4e-450c-a554-f9a2d22257a2</vehicle_id>
     <vehicle_registration_plate>HEJ96E</vehicle_registration_plate>
     <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
-    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HEJ96E. Billån från 7 349 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 108 dagar sedan.</description>
+    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HEJ96E. Kontakta oss för mer information om detta fordon. Publicerad för 108 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 108</g:custom_label_0>
-    <g:custom_label_2>7349</g:custom_label_2>
     <link>https://goingebil.se/sok/id/00e2f4f7-ad4e-450c-a554-f9a2d22257a2</link>
     <url>https://goingebil.se/sok/id/00e2f4f7-ad4e-450c-a554-f9a2d22257a2</url>
     <brand>Renault</brand>
@@ -6142,45 +6140,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>e468982e-aaaf-4759-a97d-44d6f53b8f03</vehicle_id>
-    <vehicle_registration_plate>DCB64C</vehicle_registration_plate>
-    <title>Renault ZOE PhII 52 kWh Intens batteriköp Snabbladdning CCS / Kamera/ Värmare</title>
-    <description>PhII 52 kWh Intens batteriköp Snabbladdning CCS / Kamera/ Värmare. Miltal: 6 812 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCB64C. Billån från 1 888 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 220 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 220</g:custom_label_0>
-    <g:custom_label_2>1888</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/e468982e-aaaf-4759-a97d-44d6f53b8f03</link>
-    <url>https://goingebil.se/sok/id/e468982e-aaaf-4759-a97d-44d6f53b8f03</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4bce02c4-9a2f-4dc4-b657-cd1c5adb9dc2/326b3d2b-4b8e-4d1b-9e6e-840e479a70d0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>ZOE</model>
-    <year>2020</year>
-    <mileage>
-      <value>68120</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>159000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>159000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
