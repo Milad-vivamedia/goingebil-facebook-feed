@@ -4295,9 +4295,8 @@
     <vehicle_id>06414677-d360-4e80-9a78-013f2d63487a</vehicle_id>
     <vehicle_registration_plate>NFY96C</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 extreme 7 platser</title>
-    <description>TCe 110 extreme 7 platser. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: NFY96C. Billån från 3 205 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 55 dagar sedan.</description>
+    <description>TCe 110 extreme 7 platser. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: NFY96C. Kontakta oss för mer information om detta fordon. Publicerad för 55 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 55</g:custom_label_0>
-    <g:custom_label_2>3205</g:custom_label_2>
     <link>https://goingebil.se/sok/id/06414677-d360-4e80-9a78-013f2d63487a</link>
     <url>https://goingebil.se/sok/id/06414677-d360-4e80-9a78-013f2d63487a</url>
     <brand>Dacia</brand>
@@ -4551,42 +4550,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>5b4f342c-1108-4bfa-9dc6-51bd7858dd02</vehicle_id>
-    <vehicle_registration_plate>RWB58C</vehicle_registration_plate>
-    <title>Renault 5 E-Tech R5 techno 52kWh, Ny lagerbil</title>
-    <description>R5 techno 52kWh, Ny lagerbil. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: RWB58C. Privatleasing från 3 390 kr/mån. Billån från 4 785 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
-    <g:custom_label_1>3390</g:custom_label_1>
-    <g:custom_label_2>4785</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/5b4f342c-1108-4bfa-9dc6-51bd7858dd02</link>
-    <url>https://goingebil.se/sok/id/5b4f342c-1108-4bfa-9dc6-51bd7858dd02</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/62dda8b2-539c-4007-b262-e75508000b94/70f894ae-3446-4667-a55d-fd2a2f31c948?format=jpeg&amp;r=91a7f6b&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5 E-Tech</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>402900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>402900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -5883,8 +5846,9 @@
     <vehicle_id>9c0e8ba7-2688-4e72-9c81-8dec222cd0b4</vehicle_id>
     <vehicle_registration_plate>OCD53C</vehicle_registration_plate>
     <title>Volvo XC40 T3 FWD Momentum Keyless start/ Sensorer bak</title>
-    <description>T3 FWD Momentum Keyless start/ Sensorer bak. Utrustningsnivå: Momentum. Miltal: 7 717 mil. Årsmodell: 2022. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: OCD53C. Kontakta oss för mer information om detta fordon. Publicerad för 166 dagar sedan.</description>
+    <description>T3 FWD Momentum Keyless start/ Sensorer bak. Utrustningsnivå: Momentum. Miltal: 7 717 mil. Årsmodell: 2022. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: OCD53C. Billån från 3 076 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 166 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 166</g:custom_label_0>
+    <g:custom_label_2>3076</g:custom_label_2>
     <link>https://goingebil.se/sok/id/9c0e8ba7-2688-4e72-9c81-8dec222cd0b4</link>
     <url>https://goingebil.se/sok/id/9c0e8ba7-2688-4e72-9c81-8dec222cd0b4</url>
     <brand>Volvo</brand>
