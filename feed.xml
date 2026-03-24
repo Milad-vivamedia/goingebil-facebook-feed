@@ -244,7 +244,7 @@
     <vehicle_id>ad8f8e63-8838-45fa-8603-ff11e92d8703</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Steptronic Drag/ Navi/ Kamera/ Elbaklucka</title>
-    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 249 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: SXE176. Billån från 3 313 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
+    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 254 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: SXE176. Billån från 3 313 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
     <g:custom_label_2>3313</g:custom_label_2>
     <link>https://goingebil.se/sok/id/ad8f8e63-8838-45fa-8603-ff11e92d8703</link>
@@ -258,7 +258,7 @@
     <model>2 Series Active/Gran Tourer/Gran Coupé</model>
     <year>2023</year>
     <mileage>
-      <value>92490</value>
+      <value>92540</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -2498,7 +2498,7 @@
     <vehicle_id>77ff7f67-420b-4127-b882-c3cc595d69dd</vehicle_id>
     <vehicle_registration_plate>PLX44W</vehicle_registration_plate>
     <title>Renault Clio TCe 90 Equilibre 5-d</title>
-    <description>TCe 90 Equilibre 5-d. Utrustningsnivå: Equilibre. Miltal: 3 754 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PLX44W. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
+    <description>TCe 90 Equilibre 5-d. Utrustningsnivå: Equilibre. Miltal: 3 758 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PLX44W. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
     <g:custom_label_2>1769</g:custom_label_2>
     <link>https://goingebil.se/sok/id/77ff7f67-420b-4127-b882-c3cc595d69dd</link>
@@ -2512,7 +2512,7 @@
     <model>Clio</model>
     <year>2023</year>
     <mileage>
-      <value>37540</value>
+      <value>37580</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -5486,41 +5486,6 @@
     <make>Renault</make>
     <image>
       <url>https://cdn.wayke.se/cfit/d2c098e2-bbe1-41af-860c-2c655cef4508/742e3a0e-2f02-41e7-9207-4a8ef3314426?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Trafic</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>618875 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>618875 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>00e2f4f7-ad4e-450c-a554-f9a2d22257a2</vehicle_id>
-    <vehicle_registration_plate>HEJ96E</vehicle_registration_plate>
-    <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
-    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HEJ96E. Billån från 7 349 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 111 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 111</g:custom_label_0>
-    <g:custom_label_2>7349</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/00e2f4f7-ad4e-450c-a554-f9a2d22257a2</link>
-    <url>https://goingebil.se/sok/id/00e2f4f7-ad4e-450c-a554-f9a2d22257a2</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a17bfead-0fdf-4d45-9da4-3f61bb44b107/1e346f15-69fc-4bcd-b964-9dfd655c168c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Trafic</model>
