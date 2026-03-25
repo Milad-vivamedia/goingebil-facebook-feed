@@ -1520,45 +1520,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>86f9ed86-e830-4e26-87d0-6911bd2aa7d8</vehicle_id>
-    <vehicle_registration_plate>SER00Y</vehicle_registration_plate>
-    <title>Volkswagen Passat 1.4 TSI/ Drag-paket/ Massage stol/ Navigation</title>
-    <description>1.4 TSI/ Drag-paket/ Massage stol/ Navigation. Utrustningsnivå: GTE. Miltal: 5 438 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SER00Y. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_2>3788</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/86f9ed86-e830-4e26-87d0-6911bd2aa7d8</link>
-    <url>https://goingebil.se/sok/id/86f9ed86-e830-4e26-87d0-6911bd2aa7d8</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/90b11e58-fdd5-4162-b504-9af49e9ab9fe/890248d1-ff84-4d78-a9f2-69423e5d7c50?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Passat</model>
-    <year>2023</year>
-    <mileage>
-      <value>54380</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>dc2c8f1a-abd7-4c6f-b044-41f38bb6ed8f</vehicle_id>
     <vehicle_registration_plate>XCC91Z</vehicle_registration_plate>
     <title>Volvo V60 B4 Diesel Momentum Advanced Drag/ Navi/ Kamera/ Keyless / Rattvärme</title>
