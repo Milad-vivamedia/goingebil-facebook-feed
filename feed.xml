@@ -1286,45 +1286,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>4f67b0eb-e1ee-4a95-8f02-53a9e27fe0a1</vehicle_id>
-    <vehicle_registration_plate>PUH07W</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Core Edt Drag/ Navi/ Kamera/ Värmare/ Panorama</title>
-    <description>Recharge T6 Core Edt Drag/ Navi/ Kamera/ Värmare/ Panorama. Utrustningsnivå: Core. Miltal: 8 271 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PUH07W. Billån från 4 738 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 10 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 10</g:custom_label_0>
-    <g:custom_label_2>4738</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/4f67b0eb-e1ee-4a95-8f02-53a9e27fe0a1</link>
-    <url>https://goingebil.se/sok/id/4f67b0eb-e1ee-4a95-8f02-53a9e27fe0a1</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e8c0c730-1eda-48cb-9fea-ce8bee401341/e5d57a04-e88b-488f-a1c1-4d5f78484d86?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>82710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>2d48033a-7eba-4a4b-bbe9-f44fc318842e</vehicle_id>
     <vehicle_registration_plate>HKW38Z</vehicle_registration_plate>
     <title>Volvo XC40 D3 FWD Momentum Advanced Edition/Skinn/BLIS/Kamera/Drag</title>
@@ -3930,45 +3891,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>757889cb-e3e2-44bf-b6ea-62840c4fadfb</vehicle_id>
-    <vehicle_registration_plate>XAB48X</vehicle_registration_plate>
-    <title>Audi A1 Proline/ Tonade rutor/ Otroligt fint skick</title>
-    <description>Proline/ Tonade rutor/ Otroligt fint skick. Utrustningsnivå: Proline. Miltal: 2 053 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: XAB48X. Billån från 2 363 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
-    <g:custom_label_2>2363</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/757889cb-e3e2-44bf-b6ea-62840c4fadfb</link>
-    <url>https://goingebil.se/sok/id/757889cb-e3e2-44bf-b6ea-62840c4fadfb</url>
-    <brand>Audi</brand>
-    <make>Audi</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/969bfd1c-cc06-4c39-a882-e4ac128f76a6/bd2b1b8b-e12f-4ccf-b3c4-ca8a654a5cc9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A1</model>
-    <year>2023</year>
-    <mileage>
-      <value>20530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>199000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>199000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1f599536-c1a7-4deb-b3b6-abae874ca174</vehicle_id>
     <vehicle_registration_plate>FAF18Y</vehicle_registration_plate>
     <title>Kia EV6 77.4 kWh RWD 228hk Drag/ Kamera/ Navi/ LED-ramp</title>
@@ -4980,45 +4902,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>8e571154-68ae-494c-bde4-d1f0bc71d622</vehicle_id>
-    <vehicle_registration_plate>CLH23G</vehicle_registration_plate>
-    <title>Renault Scenic E-Tech Scénic Electric techno 87kWh/220hk</title>
-    <description>Scénic Electric techno 87kWh/220hk. Miltal: 1 315 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: CLH23G. Billån från 5 213 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 72 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 72</g:custom_label_0>
-    <g:custom_label_2>5213</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/8e571154-68ae-494c-bde4-d1f0bc71d622</link>
-    <url>https://goingebil.se/sok/id/8e571154-68ae-494c-bde4-d1f0bc71d622</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a0e8c720-5784-4043-a888-a40602d1f490/b7494223-96ac-42b6-a40a-9dc6b377c679?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Scenic E-Tech</model>
-    <year>2024</year>
-    <mileage>
-      <value>13150</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>439000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>042c124d-727a-4a9e-ad95-eba8e98aab6a</vehicle_id>
     <vehicle_registration_plate>HJB24X</vehicle_registration_plate>
     <title>Dacia Duster 4x2 expression A , Ny lagerbil, Mediadisplay</title>
@@ -5586,45 +5469,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>741b5a6b-6e42-4d12-b93c-0b99278e100a</vehicle_id>
-    <vehicle_registration_plate>ZAN72M</vehicle_registration_plate>
-    <title>Toyota RAV4 E-CVT 222hk Värmare/ Kamera/ Navi</title>
-    <description>E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ZAN72M. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 111 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 111</g:custom_label_0>
-    <g:custom_label_2>3788</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</link>
-    <url>https://goingebil.se/sok/id/741b5a6b-6e42-4d12-b93c-0b99278e100a</url>
-    <brand>Toyota</brand>
-    <make>Toyota</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bb33fb04-8d75-4b1e-ab02-eeef1bbd096f/2451bdb0-741a-46cb-81f9-08f2d29cc5c3?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>RAV4</model>
-    <year>2022</year>
-    <mileage>
-      <value>83120</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
