@@ -4707,45 +4707,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>0b139e4b-0a49-4a5d-a892-9017936a530e</vehicle_id>
-    <vehicle_registration_plate>LHP51R</vehicle_registration_plate>
-    <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Active/ Navi/ ECC/ Keyless/ Back kamera</title>
-    <description>Active/ Navi/ ECC/ Keyless/ Back kamera. Utrustningsnivå: Advantage. Miltal: 99 397 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LHP51R. Billån från 2 244 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
-    <g:custom_label_2>2244</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/0b139e4b-0a49-4a5d-a892-9017936a530e</link>
-    <url>https://goingebil.se/sok/id/0b139e4b-0a49-4a5d-a892-9017936a530e</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0a60ced1-a724-4234-b588-82e08da46acb/556fc052-17fd-4a1f-92ae-d4accb195c9b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2 Series Active/Gran Tourer/Gran Coupé</model>
-    <year>2020</year>
-    <mileage>
-      <value>993970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>189000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>189000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a7b7244f-70a5-4447-8367-20ca56311317</vehicle_id>
     <vehicle_registration_plate>RMH55F</vehicle_registration_plate>
     <title>Volkswagen Passat 2.0 TDI 4Motion R-Line GT/ Drag/ IQ Light/ Business Executive/ Keyless/ Ergocomfort</title>
