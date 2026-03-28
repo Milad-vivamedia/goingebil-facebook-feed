@@ -88,7 +88,7 @@
     <vehicle_id>8d28b662-de2d-4b54-903e-9a6590fd8447</vehicle_id>
     <vehicle_registration_plate>KUX700</vehicle_registration_plate>
     <title>Volvo V60 D3 Momentum Edition</title>
-    <description>D3 Momentum Edition. Utrustningsnivå: Momentum. Miltal: 18 781 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KUX700. Billån från 2 601 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>D3 Momentum Edition. Utrustningsnivå: Momentum. Miltal: 18 782 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KUX700. Billån från 2 601 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>2601</g:custom_label_2>
     <link>https://goingebil.se/sok/id/8d28b662-de2d-4b54-903e-9a6590fd8447</link>
@@ -102,7 +102,7 @@
     <model>V60</model>
     <year>2019</year>
     <mileage>
-      <value>187810</value>
+      <value>187820</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -2377,7 +2377,7 @@
     <vehicle_id>a08c4bc3-c67e-4b26-b56e-2152bebbb993</vehicle_id>
     <vehicle_registration_plate>DMW01A</vehicle_registration_plate>
     <title>Dacia Duster PhII 4x2 1,0 TCe 90 Essential</title>
-    <description>PhII 4x2 1,0 TCe 90 Essential. Miltal: 3 515 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: DMW01A. Billån från 1 888 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
+    <description>PhII 4x2 1,0 TCe 90 Essential. Miltal: 3 514 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: DMW01A. Billån från 1 888 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
     <g:custom_label_2>1888</g:custom_label_2>
     <link>https://goingebil.se/sok/id/a08c4bc3-c67e-4b26-b56e-2152bebbb993</link>
@@ -2391,7 +2391,7 @@
     <model>Duster</model>
     <year>2023</year>
     <mileage>
-      <value>35150</value>
+      <value>35140</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -4029,7 +4029,7 @@
     <transmission>Automatic</transmission>
     <price>331400 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
