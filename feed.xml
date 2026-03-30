@@ -7,6 +7,45 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>89bd0b4f-18e8-49b9-b5da-d1c907495807</vehicle_id>
+    <vehicle_registration_plate>NRB22A</vehicle_registration_plate>
+    <title>Volvo XC40 Core Edition Navi/ Kamera/ Värmepump/ Carplay</title>
+    <description>Core Edition Navi/ Kamera/ Värmepump/ Carplay. Utrustningsnivå: Core. Miltal: 3 299 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NRB22A. Billån från 3 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>3669</g:custom_label_2>
+    <link>https://goingebil.se/sok/id/89bd0b4f-18e8-49b9-b5da-d1c907495807</link>
+    <url>https://goingebil.se/sok/id/89bd0b4f-18e8-49b9-b5da-d1c907495807</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ca91614a-3d0b-4af9-8a75-41b5986aedaf/2e2c3719-efc0-42f4-b624-0774b0889ca9?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>32990</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>309000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>309000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>7a6ef671-c9b5-43fc-8747-9ac645990bea</vehicle_id>
     <vehicle_registration_plate>PAR979</vehicle_registration_plate>
     <title>Mercedes-Benz C-Klass 7G-Tronic AMG 170hk</title>
@@ -5235,45 +5274,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>de7a500c-44ad-4955-8aac-097ecafaae36</vehicle_id>
-    <vehicle_registration_plate>NRB22A</vehicle_registration_plate>
-    <title>Volvo XC40 Core Edition Navi/ Kamera/ Värmepump/ Carplay</title>
-    <description>Core Edition Navi/ Kamera/ Värmepump/ Carplay. Utrustningsnivå: Core. Miltal: 3 299 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NRB22A. Billån från 3 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 104 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 104</g:custom_label_0>
-    <g:custom_label_2>3669</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/de7a500c-44ad-4955-8aac-097ecafaae36</link>
-    <url>https://goingebil.se/sok/id/de7a500c-44ad-4955-8aac-097ecafaae36</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a913af66-8370-4f34-929e-750222da4386/68c2a7b3-16b6-4ba9-a7a5-898da5345ec4?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>32990</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>309000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
