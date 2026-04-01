@@ -4823,9 +4823,9 @@
     <vehicle_id>8429324b-53bb-497a-8d11-8d4e2ae23f78</vehicle_id>
     <vehicle_registration_plate>RAM02F</vehicle_registration_plate>
     <title>Renault Kangoo 3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink</title>
-    <description>3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink. Miltal: 6 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAM02F. Billån från 3 180 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 77 dagar sedan.</description>
+    <description>3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink. Miltal: 6 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAM02F. Billån från 2 981 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 77 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 77</g:custom_label_0>
-    <g:custom_label_2>3180</g:custom_label_2>
+    <g:custom_label_2>2981</g:custom_label_2>
     <link>https://goingebil.se/sok/id/8429324b-53bb-497a-8d11-8d4e2ae23f78</link>
     <url>https://goingebil.se/sok/id/8429324b-53bb-497a-8d11-8d4e2ae23f78</url>
     <brand>Renault</brand>
@@ -4843,14 +4843,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
+    <price>299000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>319000 SEK</sale_price>
+    <sale_price>299000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
