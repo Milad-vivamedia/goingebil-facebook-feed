@@ -88,8 +88,8 @@
     <vehicle_id>89bd0b4f-18e8-49b9-b5da-d1c907495807</vehicle_id>
     <vehicle_registration_plate>NRB22A</vehicle_registration_plate>
     <title>Volvo XC40 Core Edition Navi/ Kamera/ Värmepump/ Carplay</title>
-    <description>Core Edition Navi/ Kamera/ Värmepump/ Carplay. Utrustningsnivå: Core. Miltal: 3 299 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NRB22A. Billån från 3 080 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>Core Edition Navi/ Kamera/ Värmepump/ Carplay. Utrustningsnivå: Core. Miltal: 3 299 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NRB22A. Billån från 3 080 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>3080</g:custom_label_2>
     <link>https://goingebil.se/sok/id/89bd0b4f-18e8-49b9-b5da-d1c907495807</link>
     <url>https://goingebil.se/sok/id/89bd0b4f-18e8-49b9-b5da-d1c907495807</url>
@@ -6185,45 +6185,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</vehicle_id>
-    <vehicle_registration_plate>BEU01K</vehicle_registration_plate>
-    <title>Renault Mégane E-TECH Techno 60kWh 220hk Kamera / Navigation</title>
-    <description>Techno 60kWh 220hk Kamera / Navigation. Miltal: 4 897 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Billån från 2 582 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 384 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 384</g:custom_label_0>
-    <g:custom_label_2>2582</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</link>
-    <url>https://goingebil.se/sok/id/38d72b6f-3f45-43c0-af09-b5d9b9e01d6a</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0157338e-7746-4e7b-b5dc-c5efa16097b9/fce291e3-2568-45f2-ba50-89d3737ccde0?format=jpeg&amp;r=941c03a&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane E-TECH</model>
-    <year>2023</year>
-    <mileage>
-      <value>48970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>259000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>259000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
   </channel>
 </rss>
