@@ -46,45 +46,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>05dc9efe-1f84-4e43-aee9-76ba87fe9893</vehicle_id>
-    <vehicle_registration_plate>AGC52T</vehicle_registration_plate>
-    <title>Volvo V60 D4 AWD Advanced SE II</title>
-    <description>D4 AWD Advanced SE II. Utrustningsnivå: Cross Country Advanced. Miltal: 12 910 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AGC52T. Billån från 3 199 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
-    <g:custom_label_2>3199</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/05dc9efe-1f84-4e43-aee9-76ba87fe9893</link>
-    <url>https://goingebil.se/sok/id/05dc9efe-1f84-4e43-aee9-76ba87fe9893</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a3212efd-4428-4073-b79b-dcaa175e93eb/3b7e666f-0926-4ba6-890b-dda60bd8d4a0?format=jpeg&amp;r=a2a07ce&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2020</year>
-    <mileage>
-      <value>129100</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>609b6c0a-2a62-460e-a2e4-3185f8e3e3ad</vehicle_id>
     <vehicle_registration_plate>ZCX12P</vehicle_registration_plate>
     <title>Volvo V90 B4 Bensin Mom Adv Edt Drag/ Navi/ Kamera/ Tonade rutor</title>
@@ -2366,45 +2327,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>219900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>35611d91-62a4-4dee-b6d6-96606ac586be</vehicle_id>
-    <vehicle_registration_plate>JFJ88U</vehicle_registration_plate>
-    <title>Volkswagen Passat 2.0 TDI 4M DSG Drag/ Kamera/ Värmare/ Navi/ IQ.Light</title>
-    <description>2.0 TDI 4M DSG Drag/ Kamera/ Värmare/ Navi/ IQ.Light. Utrustningsnivå: Alltrack. Miltal: 12 469 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Förbränningsmotor. Registreringsnummer: JFJ88U. Billån från 3 199 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 24</g:custom_label_0>
-    <g:custom_label_2>3199</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/35611d91-62a4-4dee-b6d6-96606ac586be</link>
-    <url>https://goingebil.se/sok/id/35611d91-62a4-4dee-b6d6-96606ac586be</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bdb0853a-bf90-4ba6-bbdc-430e554a0c4a/cd661110-15f2-4fe6-8268-8a2cf50c403a?format=jpeg&amp;r=bc57af5&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Passat</model>
-    <year>2022</year>
-    <mileage>
-      <value>124690</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5547,9 +5469,8 @@
     <vehicle_id>0ffa8700-a0bb-4108-b880-865c57c6b630</vehicle_id>
     <vehicle_registration_plate>YLM43S</vehicle_registration_plate>
     <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
-    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YLM43S. Billån från 6 850 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 121 dagar sedan.</description>
+    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YLM43S. Kontakta oss för mer information om detta fordon. Publicerad för 121 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 121</g:custom_label_0>
-    <g:custom_label_2>6850</g:custom_label_2>
     <link>https://goingebil.se/sok/id/0ffa8700-a0bb-4108-b880-865c57c6b630</link>
     <url>https://goingebil.se/sok/id/0ffa8700-a0bb-4108-b880-865c57c6b630</url>
     <brand>Renault</brand>
