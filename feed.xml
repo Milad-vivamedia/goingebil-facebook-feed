@@ -1315,7 +1315,7 @@
     <transmission>Automatic</transmission>
     <price>269000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1831,9 +1831,8 @@
     <vehicle_id>dc2c8f1a-abd7-4c6f-b044-41f38bb6ed8f</vehicle_id>
     <vehicle_registration_plate>XCC91Z</vehicle_registration_plate>
     <title>Volvo V60 B4 Diesel Momentum Advanced Drag/ Navi/ Kamera/ Keyless / Rattvärme</title>
-    <description>B4 Diesel Momentum Advanced Drag/ Navi/ Kamera/ Keyless / Rattvärme. Utrustningsnivå: Momentum Advanced. Miltal: 8 931 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: XCC91Z. Billån från 3 199 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
+    <description>B4 Diesel Momentum Advanced Drag/ Navi/ Kamera/ Keyless / Rattvärme. Utrustningsnivå: Momentum Advanced. Miltal: 8 931 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: XCC91Z. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 22</g:custom_label_0>
-    <g:custom_label_2>3199</g:custom_label_2>
     <link>https://goingebil.se/sok/id/dc2c8f1a-abd7-4c6f-b044-41f38bb6ed8f</link>
     <url>https://goingebil.se/sok/id/dc2c8f1a-abd7-4c6f-b044-41f38bb6ed8f</url>
     <brand>Volvo</brand>
@@ -3196,9 +3195,8 @@
     <vehicle_id>69991ae8-1c51-4fc3-9d6c-d658bfed7fbc</vehicle_id>
     <vehicle_registration_plate>FLB25H</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Core Bright Navi/ Kamera/ Tonade/ Förarstöd</title>
-    <description>Recharge T4 Core Bright Navi/ Kamera/ Tonade/ Förarstöd. Utrustningsnivå: Core. Miltal: 7 365 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FLB25H. Billån från 3 752 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
+    <description>Recharge T4 Core Bright Navi/ Kamera/ Tonade/ Förarstöd. Utrustningsnivå: Core. Miltal: 7 365 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FLB25H. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 41</g:custom_label_0>
-    <g:custom_label_2>3752</g:custom_label_2>
     <link>https://goingebil.se/sok/id/69991ae8-1c51-4fc3-9d6c-d658bfed7fbc</link>
     <url>https://goingebil.se/sok/id/69991ae8-1c51-4fc3-9d6c-d658bfed7fbc</url>
     <brand>Volvo</brand>
