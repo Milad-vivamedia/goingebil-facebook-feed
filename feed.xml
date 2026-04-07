@@ -163,45 +163,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>609b6c0a-2a62-460e-a2e4-3185f8e3e3ad</vehicle_id>
-    <vehicle_registration_plate>ZCX12P</vehicle_registration_plate>
-    <title>Volvo V90 B4 Bensin Mom Adv Edt Drag/ Navi/ Kamera/ Tonade rutor</title>
-    <description>B4 Bensin Mom Adv Edt Drag/ Navi/ Kamera/ Tonade rutor. Utrustningsnivå: Momentum Advanced. Miltal: 11 279 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: ZCX12P. Billån från 3 310 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_2>3310</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/609b6c0a-2a62-460e-a2e4-3185f8e3e3ad</link>
-    <url>https://goingebil.se/sok/id/609b6c0a-2a62-460e-a2e4-3185f8e3e3ad</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9daf39fd-1f6b-4bb7-9c12-2f615c99ad54/badde144-a67c-4f0e-a3b4-0f00a9290c95?format=jpeg&amp;r=a2a07ce&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2022</year>
-    <mileage>
-      <value>112790</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>03d88d7c-32d4-4c53-8f20-cc2cd59c4edb</vehicle_id>
     <vehicle_registration_plate>TTK06G</vehicle_registration_plate>
     <title>Kia Sportage Plug-In GT-Line Drag/ 360/ Navi/ H/K/ LED Matrix</title>
@@ -315,45 +276,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>64bf75ec-c05d-40a8-a061-ceb6f5dc4bdd</vehicle_id>
-    <vehicle_registration_plate>WTU476</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Plus Dark Drag/ Panorama/ 360 kamera/ H/K</title>
-    <description>Recharge T6 Plus Dark Drag/ Panorama/ 360 kamera/ H/K. Utrustningsnivå: Plus. Miltal: 7 061 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WTU476. Billån från 5 413 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 10 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 10</g:custom_label_0>
-    <g:custom_label_2>5413</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/64bf75ec-c05d-40a8-a061-ceb6f5dc4bdd</link>
-    <url>https://goingebil.se/sok/id/64bf75ec-c05d-40a8-a061-ceb6f5dc4bdd</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/08c5492d-d9cb-471e-a867-516406dd3892/7f15c27a-85bf-4486-b737-7b73e977bb13?format=jpeg&amp;r=bc57af5&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>70610</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>489000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>489000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -1126,45 +1048,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>389000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>23946961-1e67-4f8b-a2f7-9fe93a0f17c6</vehicle_id>
-    <vehicle_registration_plate>BZR75Z</vehicle_registration_plate>
-    <title>Polestar 2 78kWh/ förarstol el minne/ parkeringsklimat</title>
-    <description>78kWh/ förarstol el minne/ parkeringsklimat. Miltal: 6 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BZR75Z. Billån från 3 863 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 18 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 18</g:custom_label_0>
-    <g:custom_label_2>3863</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/23946961-1e67-4f8b-a2f7-9fe93a0f17c6</link>
-    <url>https://goingebil.se/sok/id/23946961-1e67-4f8b-a2f7-9fe93a0f17c6</url>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b5123190-2173-45b4-8639-72c9316f1f96/f4c0e066-6fe3-4665-ae32-7eaa6e0c2290?format=jpeg&amp;r=6e5271a&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2023</year>
-    <mileage>
-      <value>65930</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>349000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>349000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
