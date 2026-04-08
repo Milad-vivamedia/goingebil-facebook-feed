@@ -305,7 +305,7 @@
     <transmission>Automatic</transmission>
     <price>339000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -3921,8 +3921,9 @@
     <vehicle_id>a0d233a5-07e5-45cb-aadd-4e9bc05dc3bf</vehicle_id>
     <vehicle_registration_plate>YXR849</vehicle_registration_plate>
     <title>Audi A1 1.4 TFSI 125hk Svart Optik</title>
-    <description>1.4 TFSI 125hk Svart Optik. Miltal: 8 436 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: YXR849. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
+    <description>1.4 TFSI 125hk Svart Optik. Miltal: 8 436 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: YXR849. Billån från 1 428 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 64</g:custom_label_0>
+    <g:custom_label_2>1428</g:custom_label_2>
     <link>https://goingebil.se/sok/id/a0d233a5-07e5-45cb-aadd-4e9bc05dc3bf</link>
     <url>https://goingebil.se/sok/id/a0d233a5-07e5-45cb-aadd-4e9bc05dc3bf</url>
     <brand>Audi</brand>
@@ -4897,8 +4898,10 @@
     <vehicle_id>6667483f-44de-4664-a5ef-eda1d2437835</vehicle_id>
     <vehicle_registration_plate>DXJ06G</vehicle_registration_plate>
     <title>Renault 4 E-Tech R4 techno 52kWh</title>
-    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: DXJ06G. Kontakta oss för mer information om detta fordon. Publicerad för 96 dagar sedan.</description>
+    <description>R4 techno 52kWh. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: DXJ06G. Privatleasing från 3 990 kr/mån. Billån från 4 847 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 96 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 96</g:custom_label_0>
+    <g:custom_label_1>3990</g:custom_label_1>
+    <g:custom_label_2>4847</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6667483f-44de-4664-a5ef-eda1d2437835</link>
     <url>https://goingebil.se/sok/id/6667483f-44de-4664-a5ef-eda1d2437835</url>
     <brand>Renault</brand>
@@ -4931,8 +4934,9 @@
     <vehicle_id>6630b855-80dc-489d-a0cb-55659013c8a4</vehicle_id>
     <vehicle_registration_plate>OJW820</vehicle_registration_plate>
     <title>Peugeot 2008 1.2 PureTech 110hk AUT/ Dragkrok/ Pekskärm</title>
-    <description>1.2 PureTech 110hk AUT/ Dragkrok/ Pekskärm. Miltal: 9 801 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: OJW820. Kontakta oss för mer information om detta fordon. Publicerad för 110 dagar sedan.</description>
+    <description>1.2 PureTech 110hk AUT/ Dragkrok/ Pekskärm. Miltal: 9 801 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: OJW820. Billån från 1 096 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 110 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 110</g:custom_label_0>
+    <g:custom_label_2>1096</g:custom_label_2>
     <link>https://goingebil.se/sok/id/6630b855-80dc-489d-a0cb-55659013c8a4</link>
     <url>https://goingebil.se/sok/id/6630b855-80dc-489d-a0cb-55659013c8a4</url>
     <brand>Peugeot</brand>
