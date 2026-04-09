@@ -314,6 +314,9 @@ async function generateXMLFeed(vehicles) {
     if (financialOptions.loan) {
       xml += `    <g:custom_label_2>${financialOptions.loan}</g:custom_label_2>\n`;
     }
+    if (vehicle.mileage != null) {
+      xml += `    <g:custom_label_3>Mätarställning: ${vehicle.mileage.toLocaleString('sv-SE')} mil</g:custom_label_3>\n`;
+    }
 
     // URL / Link (Facebook requires 'link' field)
     const vehicleUrl = `https://goingebil.se/sok/id/${vehicle.id}`;
