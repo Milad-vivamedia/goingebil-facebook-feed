@@ -361,7 +361,7 @@
     <vehicle_id>24260b94-f3ca-49e9-86e7-0ab2e4dd9a68</vehicle_id>
     <vehicle_registration_plate>HGJ017</vehicle_registration_plate>
     <title>Kia Sorento Plug-In Hybrid Advance Nyservad/ Bose/ Läder/ Kamera/ Navi/ 7-sits</title>
-    <description>Plug-In Hybrid Advance Nyservad/ Bose/ Läder/ Kamera/ Navi/ 7-sits. Utrustningsnivå: Advance. Miltal: 4 978 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: HGJ017. Billån från 5 081 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
+    <description>Plug-In Hybrid Advance Nyservad/ Bose/ Läder/ Kamera/ Navi/ 7-sits. Utrustningsnivå: Advance. Miltal: 4 979 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: HGJ017. Billån från 5 081 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 12 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 12</g:custom_label_0>
     <g:custom_label_2>5081</g:custom_label_2>
     <link>https://goingebil.se/sok/id/24260b94-f3ca-49e9-86e7-0ab2e4dd9a68</link>
@@ -375,7 +375,7 @@
     <model>Sorento</model>
     <year>2023</year>
     <mileage>
-      <value>49780</value>
+      <value>49790</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -974,45 +974,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>ad8f8e63-8838-45fa-8603-ff11e92d8703</vehicle_id>
-    <vehicle_registration_plate>SXE176</vehicle_registration_plate>
-    <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Steptronic Drag/ Navi/ Kamera/ Elbaklucka</title>
-    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 254 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
-    <g:custom_label_2>3088</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/ad8f8e63-8838-45fa-8603-ff11e92d8703</link>
-    <url>https://goingebil.se/sok/id/ad8f8e63-8838-45fa-8603-ff11e92d8703</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d8d453b7-d5f6-4a13-9fe6-2527d73cf1bf/f9754ad9-e864-4576-afe6-5d530dae3f1f?format=jpeg&amp;r=058179d&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2 Series Active/Gran Tourer/Gran Coupé</model>
-    <year>2023</year>
-    <mileage>
-      <value>92540</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>279000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -2260,9 +2221,8 @@
     <vehicle_id>e3566f3b-0adf-4e22-8fbd-43868eba022a</vehicle_id>
     <vehicle_registration_plate>HXT94R</vehicle_registration_plate>
     <title>Renault Scenic E-Tech Scénic Electric evolution+ 60kWh/170hk</title>
-    <description>Scénic Electric evolution+ 60kWh/170hk. Miltal: 477 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: HXT94R. Billån från 4 077 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 29 dagar sedan.</description>
+    <description>Scénic Electric evolution+ 60kWh/170hk. Miltal: 477 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: HXT94R. Kontakta oss för mer information om detta fordon. Publicerad för 29 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 29</g:custom_label_0>
-    <g:custom_label_2>4077</g:custom_label_2>
     <link>https://goingebil.se/sok/id/e3566f3b-0adf-4e22-8fbd-43868eba022a</link>
     <url>https://goingebil.se/sok/id/e3566f3b-0adf-4e22-8fbd-43868eba022a</url>
     <brand>Renault</brand>
@@ -3621,8 +3581,8 @@
     <vehicle_id>cafb9058-90c8-416a-a65c-d25f024c85f0</vehicle_id>
     <vehicle_registration_plate>FZB56H</vehicle_registration_plate>
     <title>Kia EV6 77.4 kWh AWD Special Edition Drag/ Navi/ Kamera</title>
-    <description>77.4 kWh AWD Special Edition Drag/ Navi/ Kamera. Miltal: 4 741 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: FZB56H. Billån från 4 749 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 57 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 57</g:custom_label_0>
+    <description>77.4 kWh AWD Special Edition Drag/ Navi/ Kamera. Miltal: 4 741 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: FZB56H. Billån från 4 749 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 58 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 58</g:custom_label_0>
     <g:custom_label_2>4749</g:custom_label_2>
     <link>https://goingebil.se/sok/id/cafb9058-90c8-416a-a65c-d25f024c85f0</link>
     <url>https://goingebil.se/sok/id/cafb9058-90c8-416a-a65c-d25f024c85f0</url>
@@ -4590,45 +4550,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>8429324b-53bb-497a-8d11-8d4e2ae23f78</vehicle_id>
-    <vehicle_registration_plate>RAM02F</vehicle_registration_plate>
-    <title>Renault Kangoo 3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink</title>
-    <description>3,95% kampanjränta 45kWh Nordic Line L1/ Nav/ Adp Farth/ ECC/ Keyless/ LED/ Easylink. Miltal: 6 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAM02F. Billån från 2 981 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 85 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 85</g:custom_label_0>
-    <g:custom_label_2>2981</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/8429324b-53bb-497a-8d11-8d4e2ae23f78</link>
-    <url>https://goingebil.se/sok/id/8429324b-53bb-497a-8d11-8d4e2ae23f78</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/36692c95-2533-47b7-97aa-ed2136460c4d/7bb6cbfb-df86-4986-bd3a-aee4d99fc46e?format=jpeg&amp;r=53ba24d&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kangoo</model>
-    <year>2023</year>
-    <mileage>
-      <value>60</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>eea0bf13-b951-4373-9346-4c5a8330dcac</vehicle_id>
     <vehicle_registration_plate>EXU990</vehicle_registration_plate>
     <title>Volkswagen Touran 2.0 TDI GT DSG/ Dragkrok/ Navi/ Värmare/ Parkassist/ ECC</title>
@@ -5383,9 +5304,9 @@
     <vehicle_id>503e1064-6139-477f-8c1e-b86836418fa4</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 682 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 139 dagar sedan.</description>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 0 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 139 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 139</g:custom_label_0>
-    <g:custom_label_2>2682</g:custom_label_2>
+    <g:custom_label_2>2978</g:custom_label_2>
     <link>https://goingebil.se/sok/id/503e1064-6139-477f-8c1e-b86836418fa4</link>
     <url>https://goingebil.se/sok/id/503e1064-6139-477f-8c1e-b86836418fa4</url>
     <brand>JAC</brand>
@@ -5396,10 +5317,6 @@
     </image>
     <model>e-JS4</model>
     <year>2022</year>
-    <mileage>
-      <value>6850</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -5649,45 +5566,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>119e8277-e71d-43f5-977a-27c930a17741</vehicle_id>
-    <vehicle_registration_plate>XWT95Z</vehicle_registration_plate>
-    <title>Renault Trafic Skåp Base Line L2H1</title>
-    <description>Skåp Base Line L2H1. Miltal: 342 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: XWT95Z. Billån från 4 277 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 230 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 230</g:custom_label_0>
-    <g:custom_label_2>4277</g:custom_label_2>
-    <link>https://goingebil.se/sok/id/119e8277-e71d-43f5-977a-27c930a17741</link>
-    <url>https://goingebil.se/sok/id/119e8277-e71d-43f5-977a-27c930a17741</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c8d58d14-3a42-4069-b88e-7d7f36994a46/0a28cf5e-39a8-4caa-af87-5946f79357e5?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Trafic</model>
-    <year>2024</year>
-    <mileage>
-      <value>3420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>429000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
