@@ -247,46 +247,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>ad14df62-9731-4a4b-8e5f-c40f67749830</vehicle_id>
-    <vehicle_registration_plate>OCU673</vehicle_registration_plate>
-    <title>Kia Ceed 1,6 Crdi GT Line</title>
-    <description>1,6 Crdi GT Line. Utrustningsnivå: GT-Line. Miltal: 9 956 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: OCU673. Billån från 1 649 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>1649</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 9 956 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/ad14df62-9731-4a4b-8e5f-c40f67749830</link>
-    <url>https://goingebil.se/sok/id/ad14df62-9731-4a4b-8e5f-c40f67749830</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/655e6f5f-d494-472e-8445-46a83077400a/cdef00be-31e2-4fc0-8512-792539535950?format=jpeg&amp;r=a2a07ce&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Ceed</model>
-    <year>2016</year>
-    <mileage>
-      <value>99560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>149000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>149000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>f49de4de-586e-4243-8ed4-b6b0cc25fc15</vehicle_id>
     <vehicle_registration_plate>TJK97T</vehicle_registration_plate>
     <title>Volvo V90 D4 Momentum Advanced SE II</title>
@@ -363,46 +323,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>7682392d-3185-4c36-82fd-0df7a437d7ff</vehicle_id>
-    <vehicle_registration_plate>SRH789</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Core Edition / Dragkrok/ Backkamera</title>
-    <description>Recharge T6 Core Edition / Dragkrok/ Backkamera. Utrustningsnivå: Core. Miltal: 7 375 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SRH789. Billån från 4 417 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
-    <g:custom_label_2>4417</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 7 375 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/7682392d-3185-4c36-82fd-0df7a437d7ff</link>
-    <url>https://goingebil.se/sok/id/7682392d-3185-4c36-82fd-0df7a437d7ff</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b737135f-dedf-4e7d-bdec-6754c1281cd5/8d7135a5-614e-4a92-946f-45ea5fb7e4a8?format=jpeg&amp;r=058179d&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>73750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -643,46 +563,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>8d28b662-de2d-4b54-903e-9a6590fd8447</vehicle_id>
-    <vehicle_registration_plate>KUX700</vehicle_registration_plate>
-    <title>Volvo V60 D3 Momentum Edition/ Drag/ Pano/ Skinn/ Värmare/ PDC/ LED</title>
-    <description>D3 Momentum Edition/ Drag/ Pano/ Skinn/ Värmare/ PDC/ LED. Utrustningsnivå: Momentum. Miltal: 18 782 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KUX700. Billån från 2 424 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_2>2424</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 18 782 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/8d28b662-de2d-4b54-903e-9a6590fd8447</link>
-    <url>https://goingebil.se/sok/id/8d28b662-de2d-4b54-903e-9a6590fd8447</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ff7cee4a-8868-4629-aad0-b5fa47a0b7e9/38f0324d-a945-4682-b77c-b4ac23b50099?format=jpeg&amp;r=a2a07ce&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2019</year>
-    <mileage>
-      <value>187820</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>219000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>219000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
