@@ -490,8 +490,8 @@
     <vehicle_id>075d9aa3-38ed-4610-98bf-a9d8e44ae49d</vehicle_id>
     <vehicle_registration_plate>ZAN72M</vehicle_registration_plate>
     <title>Toyota RAV4 E-CVT 222hk Värmare/ Kamera/ Navi</title>
-    <description>E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ZAN72M. Billån från 3 642 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
+    <description>E-CVT 222hk Värmare/ Kamera/ Navi. Utrustningsnivå: Active. Miltal: 8 312 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ZAN72M. Billån från 3 642 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
     <g:custom_label_2>3642</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 8 312 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/075d9aa3-38ed-4610-98bf-a9d8e44ae49d</link>
@@ -2582,8 +2582,8 @@
     <price>159000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>159000 SEK</sale_price>
