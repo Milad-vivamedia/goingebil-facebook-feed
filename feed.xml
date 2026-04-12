@@ -1719,46 +1719,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>eaec6f47-073d-4a01-bb30-656de6a38f68</vehicle_id>
-    <vehicle_registration_plate>COZ14C</vehicle_registration_plate>
-    <title>Volvo V60 Recharge T6 R-Design Drag/ 360/ Head-Up/ Panorama/ H/K/ Navi</title>
-    <description>Recharge T6 R-Design Drag/ 360/ Head-Up/ Panorama/ H/K/ Navi. Utrustningsnivå: R-Design. Miltal: 6 300 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: COZ14C. Billån från 4 084 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
-    <g:custom_label_2>4084</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 6 300 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/eaec6f47-073d-4a01-bb30-656de6a38f68</link>
-    <url>https://goingebil.se/sok/id/eaec6f47-073d-4a01-bb30-656de6a38f68</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/53949dd3-7fa5-4ca4-a08c-0a297ca2b39b/864e34b8-af93-40e3-9b23-5e593bdca62a?format=jpeg&amp;r=317e84c&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2021</year>
-    <mileage>
-      <value>63000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>3a539db5-90f7-4188-bf6a-ff2735b06e24</vehicle_id>
     <vehicle_registration_plate>ZTJ17B</vehicle_registration_plate>
     <title>XPENG G6 RWD Premiumpkt Drag</title>
