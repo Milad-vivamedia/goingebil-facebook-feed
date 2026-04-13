@@ -203,46 +203,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>880357c5-4ad7-4b69-b7d7-7c6cc840725b</vehicle_id>
-    <vehicle_registration_plate>ERY44S</vehicle_registration_plate>
-    <title>Tesla Model 3 440hk Autopilot/ Premiuminteriör</title>
-    <description>440hk Autopilot/ Premiuminteriör. Miltal: 3 621 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: ERY44S. Billån från 3 974 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>3974</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 3 621 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/880357c5-4ad7-4b69-b7d7-7c6cc840725b</link>
-    <url>https://goingebil.se/sok/id/880357c5-4ad7-4b69-b7d7-7c6cc840725b</url>
-    <brand>Tesla</brand>
-    <make>Tesla</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f700b81d-6bb0-469e-ac11-53ed0125af37/098110e6-8356-4882-a0a9-438b846ecc5f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Model 3</model>
-    <year>2023</year>
-    <mileage>
-      <value>36210</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>b61e8cbe-2bab-42c2-90e5-6b2bb26b761c</vehicle_id>
     <vehicle_registration_plate>GDU46A</vehicle_registration_plate>
     <title>Volvo V90 Recharge T6 Plus Dark/ Dragkrok/ Panorama-Tak/ Läder</title>
@@ -3910,8 +3870,9 @@
     <vehicle_id>b85a067e-58eb-460e-948d-b4a44d3047b4</vehicle_id>
     <vehicle_registration_plate>YHO703</vehicle_registration_plate>
     <title>Mercedes-Benz E-Klass E 220 T 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi</title>
-    <description>E 220 T 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Kontakta oss för mer information om detta fordon. Publicerad för 67 dagar sedan.</description>
+    <description>E 220 T 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 2 988 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 67 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 67</g:custom_label_0>
+    <g:custom_label_2>2988</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 17 156 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</link>
     <url>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</url>
