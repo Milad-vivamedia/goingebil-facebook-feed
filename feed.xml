@@ -273,7 +273,7 @@
     <transmission>Automatic</transmission>
     <price>369000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -2718,8 +2718,9 @@
     <vehicle_id>e8a572ea-a359-4b7c-a9ea-2618a5eff29e</vehicle_id>
     <vehicle_registration_plate>BCN94K</vehicle_registration_plate>
     <title>BMW 5-serie M-Sport /Panorama /HUD /Drag /Komfortstolar</title>
-    <description>M-Sport /Panorama /HUD /Drag /Komfortstolar. Utrustningsnivå: M Sport. Miltal: 15 503 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Mildhybrid. Registreringsnummer: BCN94K. Kontakta oss för mer information om detta fordon. Publicerad för 40 dagar sedan.</description>
+    <description>M-Sport /Panorama /HUD /Drag /Komfortstolar. Utrustningsnivå: M Sport. Miltal: 15 503 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Mildhybrid. Registreringsnummer: BCN94K. Billån från 3 420 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 40 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 40</g:custom_label_0>
+    <g:custom_label_2>3420</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 15 503 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/e8a572ea-a359-4b7c-a9ea-2618a5eff29e</link>
     <url>https://goingebil.se/sok/id/e8a572ea-a359-4b7c-a9ea-2618a5eff29e</url>
@@ -2757,8 +2758,9 @@
     <vehicle_id>7a2d2127-9471-4dcf-a21c-1de81f6d712b</vehicle_id>
     <vehicle_registration_plate>LLZ74D</vehicle_registration_plate>
     <title>Renault Austral 200 Techno A</title>
-    <description>200 Techno A. Miltal: 4 989 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LLZ74D. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
+    <description>200 Techno A. Miltal: 4 989 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LLZ74D. Billån från 3 531 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 41 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 41</g:custom_label_0>
+    <g:custom_label_2>3531</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 989 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/7a2d2127-9471-4dcf-a21c-1de81f6d712b</link>
     <url>https://goingebil.se/sok/id/7a2d2127-9471-4dcf-a21c-1de81f6d712b</url>
