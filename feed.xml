@@ -326,8 +326,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>2978</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -3034,9 +3034,8 @@
     <vehicle_id>eead946f-b535-4039-9363-46456365e7b1</vehicle_id>
     <vehicle_registration_plate>WAY85K</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé M-sport/ Kamera/ Navi/ Laddhybrid</title>
-    <description>M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAY85K. Billån från 3 531 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
+    <description>M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WAY85K. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 45</g:custom_label_0>
-    <g:custom_label_2>3531</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 6 513 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/eead946f-b535-4039-9363-46456365e7b1</link>
     <url>https://goingebil.se/sok/id/eead946f-b535-4039-9363-46456365e7b1</url>
@@ -3434,9 +3433,9 @@
     <vehicle_id>277552d9-e960-4c58-80fc-bfbbbc009843</vehicle_id>
     <vehicle_registration_plate>FGR03R</vehicle_registration_plate>
     <title>Renault Rafale PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera</title>
-    <description>PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera. Miltal: 2 061 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FGR03R. Billån från 5 302 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 58 dagar sedan.</description>
+    <description>PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera. Miltal: 2 061 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FGR03R. Billån från 5 191 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 58 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 58</g:custom_label_0>
-    <g:custom_label_2>5302</g:custom_label_2>
+    <g:custom_label_2>5191</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 2 061 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/277552d9-e960-4c58-80fc-bfbbbc009843</link>
     <url>https://goingebil.se/sok/id/277552d9-e960-4c58-80fc-bfbbbc009843</url>
@@ -3455,14 +3454,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>479000 SEK</price>
+    <price>469000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>479000 SEK</sale_price>
+    <sale_price>469000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -3627,46 +3626,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>6e39e632-a206-493e-8358-c5e8d61fa391</vehicle_id>
-    <vehicle_registration_plate>PGB950</vehicle_registration_plate>
-    <title>Kia Rio Rattvärme/ Backkamera/ Farthållare/ Nav/</title>
-    <description>Rattvärme/ Backkamera/ Farthållare/ Nav/. Utrustningsnivå: GLS. Miltal: 11 126 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PGB950. Billån från 1 216 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 62 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 62</g:custom_label_0>
-    <g:custom_label_2>1216</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 126 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/6e39e632-a206-493e-8358-c5e8d61fa391</link>
-    <url>https://goingebil.se/sok/id/6e39e632-a206-493e-8358-c5e8d61fa391</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/89db036b-5cc8-4f6b-bb2a-dc589d49ce5e/119bb462-591b-4e41-a4fe-66a609bb2e76?format=jpeg&amp;r=bc57af5&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Rio</model>
-    <year>2017</year>
-    <mileage>
-      <value>111260</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>109900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>109900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -4399,86 +4358,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b9e2c3b2-3659-4c05-9167-5b2e7ce7c961</vehicle_id>
-    <vehicle_registration_plate>TCN98U</vehicle_registration_plate>
-    <title>Volvo XC40 Plus Drag/ Kamera/ Navi/ Värmepump</title>
-    <description>Plus Drag/ Kamera/ Navi/ Värmepump. Utrustningsnivå: Plus. Miltal: 2 665 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: TCN98U. Billån från 3 987 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 80</g:custom_label_0>
-    <g:custom_label_2>3987</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 665 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/b9e2c3b2-3659-4c05-9167-5b2e7ce7c961</link>
-    <url>https://goingebil.se/sok/id/b9e2c3b2-3659-4c05-9167-5b2e7ce7c961</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/45aae43b-0099-4997-b20a-cce4e3d7e42b/0e594240-717b-4957-9082-97a6d9a46ef0?format=jpeg&amp;r=941c03a&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>26650</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>2a17c8c3-5324-4fab-87f4-d4fe54f0348c</vehicle_id>
-    <vehicle_registration_plate>XUL391</vehicle_registration_plate>
-    <title>BMW 3-serie 292hk M-Sport Navi/ Live Cockpit/ Connected</title>
-    <description>292hk M-Sport Navi/ Live Cockpit/ Connected. Utrustningsnivå: M Sport. Miltal: 9 766 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: XUL391. Billån från 3 310 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 83 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 83</g:custom_label_0>
-    <g:custom_label_2>3310</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 9 766 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/2a17c8c3-5324-4fab-87f4-d4fe54f0348c</link>
-    <url>https://goingebil.se/sok/id/2a17c8c3-5324-4fab-87f4-d4fe54f0348c</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ca323e48-5ab8-459a-8eba-9c32bd8b4f88/c01be0fe-0a8d-4301-9e91-c41f53d7c0c9?format=jpeg&amp;r=317e84c&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3-serie</model>
-    <year>2022</year>
-    <mileage>
-      <value>97660</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>bd06df93-96c1-4123-8e5c-8ea68f02ca83</vehicle_id>
     <vehicle_registration_plate>DJB16R</vehicle_registration_plate>
     <title>Renault 5 E-Tech R5 techno 52kWh</title>
@@ -5149,42 +5028,6 @@
     <make>Renault</make>
     <image>
       <url>https://cdn.wayke.se/cfit/d2c098e2-bbe1-41af-860c-2c655cef4508/742e3a0e-2f02-41e7-9207-4a8ef3314426?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Trafic</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>618875 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>618875 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>0ffa8700-a0bb-4108-b880-865c57c6b630</vehicle_id>
-    <vehicle_registration_plate>YLM43S</vehicle_registration_plate>
-    <title>Renault Trafic Skåp PhII Racing L2H1 170A II</title>
-    <description>Skåp PhII Racing L2H1 170A II. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YLM43S. Billån från 6 850 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 135 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 135</g:custom_label_0>
-    <g:custom_label_2>6850</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/0ffa8700-a0bb-4108-b880-865c57c6b630</link>
-    <url>https://goingebil.se/sok/id/0ffa8700-a0bb-4108-b880-865c57c6b630</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/62ab4908-6d39-4fa1-8987-64aa3490aab6/693beeab-cd86-4232-a5d5-fedd6b06640c?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Trafic</model>
