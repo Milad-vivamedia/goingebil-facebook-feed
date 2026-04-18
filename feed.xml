@@ -557,11 +557,11 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>e956874c-071e-491d-80dc-ddf3f34f6283</vehicle_id>
     <vehicle_registration_plate>BEU01K</vehicle_registration_plate>
-    <title>Renault M��gane E-TECH Techno 60kWh/220hk</title>
-    <description>Techno 60kWh/220hk. Miltal: 4 897 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Billån från 2 582 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
+    <title>Renault Mégane E-TECH Techno 60kWh/220hk</title>
+    <description>Techno 60kWh/220hk. Miltal: 4 906 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BEU01K. Billån från 2 582 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
     <g:custom_label_2>2582</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 4 897 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 4 906 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/e956874c-071e-491d-80dc-ddf3f34f6283</link>
     <url>https://goingebil.se/sok/id/e956874c-071e-491d-80dc-ddf3f34f6283</url>
     <brand>Renault</brand>
@@ -570,10 +570,10 @@
       <url>https://cdn.wayke.se/cfit/68d5958f-e722-4874-b938-7ffa441674cb/55770051-2c3d-496c-bda0-57069780aa9f?format=jpeg&amp;r=53ba24d&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
-    <model>M��gane E-TECH</model>
+    <model>Mégane E-TECH</model>
     <year>2023</year>
     <mileage>
-      <value>48970</value>
+      <value>49060</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
