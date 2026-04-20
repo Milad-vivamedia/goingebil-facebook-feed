@@ -301,7 +301,7 @@
     <transmission>Automatic</transmission>
     <price>299000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil ��lmhult</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -1473,8 +1473,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>127470ca-7429-45a8-b1cc-1a696bd36cfe</vehicle_id>
     <vehicle_registration_plate>PYS17Z</vehicle_registration_plate>
-    <title>Volvo XC40 B4 FWD Bensin Plus Dark/ Infällbart Drag/ Förarstöd</title>
-    <description>B4 FWD Bensin Plus Dark/ Infällbart Drag/ Förarstöd. Utrustningsnivå: Plus. Miltal: 6 858 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PYS17Z. Billån från 4 306 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 31 dagar sedan.</description>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark/ Inf��llbart Drag/ Förarstöd</title>
+    <description>B4 FWD Bensin Plus Dark/ Inf��llbart Drag/ Förarstöd. Utrustningsnivå: Plus. Miltal: 6 858 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PYS17Z. Billån från 4 306 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 31 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 31</g:custom_label_0>
     <g:custom_label_2>4306</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 6 858 mil</g:custom_label_3>
