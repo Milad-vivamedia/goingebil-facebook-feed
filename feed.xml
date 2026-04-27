@@ -7,6 +7,46 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>beb2cd5c-4f4f-44a4-9613-fcdaa0a9ece3</vehicle_id>
+    <vehicle_registration_plate>XHR81E</vehicle_registration_plate>
+    <title>Volvo XC40 Recharge T4 Inscription Expression</title>
+    <description>Recharge T4 Inscription Expression. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 531 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>3531</g:custom_label_2>
+    <g:custom_label_3>Mätarställning: 7 620 mil</g:custom_label_3>
+    <link>https://goingebil.se/sok/id/beb2cd5c-4f4f-44a4-9613-fcdaa0a9ece3</link>
+    <url>https://goingebil.se/sok/id/beb2cd5c-4f4f-44a4-9613-fcdaa0a9ece3</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/0e9bc3a8-6181-4bcc-b995-50407e9eb55a/5a29480b-24de-49a5-883c-c35f0c7f6333?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2021</year>
+    <mileage>
+      <value>76200</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>319000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Osby</component>
+      <component name="city">Osby</component>
+      <component name="region">Osby</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>319000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>c469832e-410e-4214-bcf4-bb1684bdefe4</vehicle_id>
     <vehicle_registration_plate>YTG838</vehicle_registration_plate>
     <title>Volvo V60 D3 Momentum Advanced Edition</title>
@@ -19,7 +59,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/f428c0d9-7121-4409-8b5e-ad1a978ed3bc/f01f34f8-8e68-4438-9b2d-472abfd16285?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/f428c0d9-7121-4409-8b5e-ad1a978ed3bc/f01f34f8-8e68-4438-9b2d-472abfd16285?format=jpeg&amp;r=bc57af5&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -2830,9 +2870,9 @@
     <vehicle_id>b363f393-6e48-4d7b-a4d0-d7f69e9e050c</vehicle_id>
     <vehicle_registration_plate>GXP01X</vehicle_registration_plate>
     <title>Volkswagen Passat 1.4 TSI Drag/ Kamera/ Navi/ Säljs nyservad</title>
-    <description>1.4 TSI Drag/ Kamera/ Navi/ Säljs nyservad. Utrustningsnivå: GTE. Miltal: 9 941 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: GXP01X. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 54 dagar sedan.</description>
+    <description>1.4 TSI Drag/ Kamera/ Navi/ Säljs nyservad. Utrustningsnivå: GTE. Miltal: 9 941 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GXP01X. Billån från 2 867 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 54 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 54</g:custom_label_0>
-    <g:custom_label_2>2978</g:custom_label_2>
+    <g:custom_label_2>2867</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 941 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b363f393-6e48-4d7b-a4d0-d7f69e9e050c</link>
     <url>https://goingebil.se/sok/id/b363f393-6e48-4d7b-a4d0-d7f69e9e050c</url>
@@ -2849,16 +2889,16 @@
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <price>269000 SEK</price>
+    <price>259000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>269000 SEK</sale_price>
+    <sale_price>259000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -3110,9 +3150,9 @@
     <vehicle_id>df73fc05-0355-46e9-82a1-f37b7eb1752c</vehicle_id>
     <vehicle_registration_plate>RBP93A</vehicle_registration_plate>
     <title>Volkswagen T-Roc 2.0 TDI 4M DSG 150hk R-Line Navi/ Kamera</title>
-    <description>2.0 TDI 4M DSG 150hk R-Line Navi/ Kamera. Utrustningsnivå: R-Line. Miltal: 3 301 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RBP93A. Billån från 3 752 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 61 dagar sedan.</description>
+    <description>2.0 TDI 4M DSG 150hk R-Line Navi/ Kamera. Utrustningsnivå: R-Line. Miltal: 3 301 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: RBP93A. Billån från 3 642 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 61 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 61</g:custom_label_0>
-    <g:custom_label_2>3752</g:custom_label_2>
+    <g:custom_label_2>3642</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 3 301 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/df73fc05-0355-46e9-82a1-f37b7eb1752c</link>
     <url>https://goingebil.se/sok/id/df73fc05-0355-46e9-82a1-f37b7eb1752c</url>
@@ -3131,14 +3171,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>339000 SEK</price>
+    <price>329000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Osby</component>
       <component name="city">Osby</component>
       <component name="region">Osby</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>339000 SEK</sale_price>
+    <sale_price>329000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -3470,8 +3510,9 @@
     <vehicle_id>815c0e73-871c-433c-9fba-54cbf84cf355</vehicle_id>
     <vehicle_registration_plate>ENL24Z</vehicle_registration_plate>
     <title>Dacia Bigster extreme Rattvärme/ Panorama/ Elbaklucka</title>
-    <description>extreme Rattvärme/ Panorama/ Elbaklucka. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ENL24Z. Kontakta oss för mer information om detta fordon. Publicerad för 74 dagar sedan.</description>
+    <description>extreme Rattvärme/ Panorama/ Elbaklucka. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ENL24Z. Billån från 4 143 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 74 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 74</g:custom_label_0>
+    <g:custom_label_2>4143</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/815c0e73-871c-433c-9fba-54cbf84cf355</link>
     <url>https://goingebil.se/sok/id/815c0e73-871c-433c-9fba-54cbf84cf355</url>
@@ -3545,8 +3586,8 @@
     <vehicle_id>cafb9058-90c8-416a-a65c-d25f024c85f0</vehicle_id>
     <vehicle_registration_plate>FZB56H</vehicle_registration_plate>
     <title>Kia EV6 77.4 kWh AWD Special Edition Drag/ Navi/ Kamera</title>
-    <description>77.4 kWh AWD Special Edition Drag/ Navi/ Kamera. Miltal: 4 741 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: FZB56H. Billån från 4 749 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 75 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 75</g:custom_label_0>
+    <description>77.4 kWh AWD Special Edition Drag/ Navi/ Kamera. Miltal: 4 741 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: FZB56H. Billån från 4 749 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 76 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 76</g:custom_label_0>
     <g:custom_label_2>4749</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 741 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/cafb9058-90c8-416a-a65c-d25f024c85f0</link>
