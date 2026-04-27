@@ -1181,7 +1181,7 @@
     <transmission>Manual</transmission>
     <price>109000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Markaryd</component>
+      <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
@@ -1278,8 +1278,9 @@
     <vehicle_id>03d88d7c-32d4-4c53-8f20-cc2cd59c4edb</vehicle_id>
     <vehicle_registration_plate>TTK06G</vehicle_registration_plate>
     <title>Kia Sportage Plug-In GT-Line Drag/ 360/ Navi/ H/K/ LED Matrix</title>
-    <description>Plug-In GT-Line Drag/ 360/ Navi/ H/K/ LED Matrix. Utrustningsnivå: GT-Line. Miltal: 7 632 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TTK06G. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
+    <description>Plug-In GT-Line Drag/ 360/ Navi/ H/K/ LED Matrix. Utrustningsnivå: GT-Line. Miltal: 7 632 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: TTK06G. Billån från 3 642 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
+    <g:custom_label_2>3642</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 632 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/03d88d7c-32d4-4c53-8f20-cc2cd59c4edb</link>
     <url>https://goingebil.se/sok/id/03d88d7c-32d4-4c53-8f20-cc2cd59c4edb</url>
@@ -3469,9 +3470,8 @@
     <vehicle_id>815c0e73-871c-433c-9fba-54cbf84cf355</vehicle_id>
     <vehicle_registration_plate>ENL24Z</vehicle_registration_plate>
     <title>Dacia Bigster extreme Rattvärme/ Panorama/ Elbaklucka</title>
-    <description>extreme Rattvärme/ Panorama/ Elbaklucka. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ENL24Z. Billån från 4 143 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 74 dagar sedan.</description>
+    <description>extreme Rattvärme/ Panorama/ Elbaklucka. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ENL24Z. Kontakta oss för mer information om detta fordon. Publicerad för 74 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 74</g:custom_label_0>
-    <g:custom_label_2>4143</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/815c0e73-871c-433c-9fba-54cbf84cf355</link>
     <url>https://goingebil.se/sok/id/815c0e73-871c-433c-9fba-54cbf84cf355</url>
