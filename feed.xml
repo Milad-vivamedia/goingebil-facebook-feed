@@ -1914,8 +1914,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Steptronic Drag/ Navi/ Kamera/ Elbaklucka</title>
-    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
+    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
     <g:custom_label_2>3088</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -1994,8 +1994,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 22</g:custom_label_0>
     <g:custom_label_2>2978</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -2103,46 +2103,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>189000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>e2b57f16-6c06-4b08-a429-6b950768bed6</vehicle_id>
-    <vehicle_registration_plate>HAW67Y</vehicle_registration_plate>
-    <title>Renault Clio TCe 90 Techno 5-d/ Svart Metallic/ Navigation/ Park sensor Bak</title>
-    <description>TCe 90 Techno 5-d/ Svart Metallic/ Navigation/ Park sensor Bak. Utrustningsnivå: Intens. Miltal: 2 817 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: HAW67Y. Billån från 1 826 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
-    <g:custom_label_2>1826</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 817 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/e2b57f16-6c06-4b08-a429-6b950768bed6</link>
-    <url>https://goingebil.se/sok/id/e2b57f16-6c06-4b08-a429-6b950768bed6</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3dfc12e4-f8db-49ec-be19-54bcc4f8cdbe/d47d11fa-20e8-4aea-97de-83a32d0e4f8d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>28170</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>165000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>165000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -2947,46 +2907,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>2d48033a-7eba-4a4b-bbe9-f44fc318842e</vehicle_id>
-    <vehicle_registration_plate>HKW38Z</vehicle_registration_plate>
-    <title>Volvo XC40 D3 FWD Momentum Advanced Edition/Skinn/BLIS/Kamera/Drag</title>
-    <description>D3 FWD Momentum Advanced Edition/Skinn/BLIS/Kamera/Drag. Utrustningsnivå: Momentum Advanced. Miltal: 11 753 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HKW38Z. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
-    <g:custom_label_2>3088</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 753 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/2d48033a-7eba-4a4b-bbe9-f44fc318842e</link>
-    <url>https://goingebil.se/sok/id/2d48033a-7eba-4a4b-bbe9-f44fc318842e</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/89119134-e482-444c-80b3-2131038fb2ab/32999821-4c67-4419-877a-52fba0c908e1?format=jpeg&amp;r=317e84c&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2020</year>
-    <mileage>
-      <value>117530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>279000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
