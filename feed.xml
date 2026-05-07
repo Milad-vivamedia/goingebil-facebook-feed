@@ -4022,8 +4022,9 @@
     <vehicle_id>277552d9-e960-4c58-80fc-bfbbbc009843</vehicle_id>
     <vehicle_registration_plate>FGR03R</vehicle_registration_plate>
     <title>Renault Rafale PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera</title>
-    <description>PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera. Miltal: 2 061 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FGR03R. Kontakta oss för mer information om detta fordon. Publicerad för 79 dagar sedan.</description>
+    <description>PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera. Miltal: 2 061 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FGR03R. Billån från 5 191 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 79 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 79</g:custom_label_0>
+    <g:custom_label_2>5191</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 2 061 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/277552d9-e960-4c58-80fc-bfbbbc009843</link>
     <url>https://goingebil.se/sok/id/277552d9-e960-4c58-80fc-bfbbbc009843</url>
@@ -4399,7 +4400,7 @@
     <transmission>Automatic</transmission>
     <price>269900 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil ��lmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
