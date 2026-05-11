@@ -487,42 +487,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>adca2912-8143-4ae6-8c7f-7329c1713a02</vehicle_id>
-    <vehicle_registration_plate>OCB40F</vehicle_registration_plate>
-    <title>Renault Scenic E-Tech Scénic Electric esprit Alpine 87kWh/220</title>
-    <description>Scénic Electric esprit Alpine 87kWh/220. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: OCB40F. Billån från 3 399 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
-    <g:custom_label_2>3399</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/adca2912-8143-4ae6-8c7f-7329c1713a02</link>
-    <url>https://goingebil.se/sok/id/adca2912-8143-4ae6-8c7f-7329c1713a02</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/92cff7b7-f99a-41b0-972e-694fd856a7ed/10cd7819-f5fd-4dff-8e7f-e59a6f3f4b21?format=jpeg&amp;r=00ba236&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Scenic E-Tech</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>611800 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>611800 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>b55bc191-3d16-46da-90b2-ecfe40fe8b11</vehicle_id>
     <vehicle_registration_plate>EBB34P</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Ins Expr Drag/ Navi/ Kamera/ Värmare</title>
@@ -755,86 +719,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>bf4cfd9a-28ed-4492-b65f-aa5c3d593a40</vehicle_id>
-    <vehicle_registration_plate>LKH61D</vehicle_registration_plate>
-    <title>Mercedes-Benz A-Klass 306 HK</title>
-    <description>306 HK. Utrustningsnivå: AMG Line. Miltal: 6 953 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LKH61D. Billån från 4 417 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
-    <g:custom_label_2>4417</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 6 953 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/bf4cfd9a-28ed-4492-b65f-aa5c3d593a40</link>
-    <url>https://goingebil.se/sok/id/bf4cfd9a-28ed-4492-b65f-aa5c3d593a40</url>
-    <brand>Mercedes-Benz</brand>
-    <make>Mercedes-Benz</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/360f52aa824d40c2b3c52a76fbef74fc/686ce60ffb3e4926be629dc33b21818c?format=jpeg&amp;w=770&amp;overlay=b47cc4cc-42f9-4ef9-bee6-ef1f4ed3da04</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A-Klass</model>
-    <year>2022</year>
-    <mileage>
-      <value>69530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>399000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>102009a1-2f27-4017-a1f4-3ae651aed291</vehicle_id>
-    <vehicle_registration_plate>PCC15Y</vehicle_registration_plate>
-    <title>Tesla Model Y 534hk AWD 21&quot;/ Autopilot/ Premiuminteriör/ Glastak/ Navi/ Kamera</title>
-    <description>534hk AWD 21&quot;/ Autopilot/ Premiuminteriör/ Glastak/ Navi/ Kamera. Miltal: 5 882 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: PCC15Y. Billån från 4 306 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_2>4306</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 5 882 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/102009a1-2f27-4017-a1f4-3ae651aed291</link>
-    <url>https://goingebil.se/sok/id/102009a1-2f27-4017-a1f4-3ae651aed291</url>
-    <brand>Tesla</brand>
-    <make>Tesla</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bd8b4354-b175-4167-a48e-fda7a4aac9bf/b2c87d59-8628-4dee-a0cd-8eeec583952d?format=jpeg&amp;r=595b6eb&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Model Y</model>
-    <year>2022</year>
-    <mileage>
-      <value>58820</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -2230,8 +2114,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Steptronic Drag/ Navi/ Kamera/ Elbaklucka</title>
-    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
+    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 26 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 26</g:custom_label_0>
     <g:custom_label_2>3088</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -2310,8 +2194,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 26 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 26</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
     <g:custom_label_2>2978</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -3863,46 +3747,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>c46c98ae-c3df-4f14-8bae-588f7aa99c21</vehicle_id>
-    <vehicle_registration_plate>FME66H</vehicle_registration_plate>
-    <title>Toyota RAV4 Style Rattvärme/ bakkamera/ Halvskinn/ Nyservad/</title>
-    <description>Style Rattvärme/ bakkamera/ Halvskinn/ Nyservad/. Utrustningsnivå: Style. Miltal: 13 226 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FME66H. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 74 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 74</g:custom_label_0>
-    <g:custom_label_2>3088</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 13 226 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/c46c98ae-c3df-4f14-8bae-588f7aa99c21</link>
-    <url>https://goingebil.se/sok/id/c46c98ae-c3df-4f14-8bae-588f7aa99c21</url>
-    <brand>Toyota</brand>
-    <make>Toyota</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/db4f3eca-23d8-4f95-8c8a-49f05f352d2d/842cc554-1044-47a5-a949-659a89ce23bc?format=jpeg&amp;r=bc57af5&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>RAV4</model>
-    <year>2019</year>
-    <mileage>
-      <value>132260</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>279000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>df73fc05-0355-46e9-82a1-f37b7eb1752c</vehicle_id>
     <vehicle_registration_plate>RBP93A</vehicle_registration_plate>
     <title>Volkswagen T-Roc 2.0 TDI 4M DSG 150hk R-Line Navi/ Kamera</title>
@@ -4219,41 +4063,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>815c0e73-871c-433c-9fba-54cbf84cf355</vehicle_id>
-    <vehicle_registration_plate>ENL24Z</vehicle_registration_plate>
-    <title>Dacia Bigster extreme Rattvärme/ Panorama/ Elbaklucka</title>
-    <description>extreme Rattvärme/ Panorama/ Elbaklucka. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: ENL24Z. Kontakta oss för mer information om detta fordon. Publicerad för 89 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 89</g:custom_label_0>
-    <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/815c0e73-871c-433c-9fba-54cbf84cf355</link>
-    <url>https://goingebil.se/sok/id/815c0e73-871c-433c-9fba-54cbf84cf355</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a387b726-0cd2-4857-b240-ca0705e332c6/2dc03228-536a-4d77-bd33-6a263d330832?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Bigster</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>374300 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>374300 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
