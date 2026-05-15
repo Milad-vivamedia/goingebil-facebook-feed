@@ -57,6 +57,10 @@
     <url>https://goingebil.se/sok/id/3f4c0c6b-eab9-4d88-a531-309fcee78b0c</url>
     <brand>Dacia</brand>
     <make>Dacia</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/bd70f8293b94416c93c644da50fa1a3f/4a6a767e691e4de495228dfa8d14c771?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>Sandero</model>
     <year>2026</year>
     <body_style>Sedan</body_style>
@@ -914,46 +918,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>40f339a5-63c3-43ee-a88b-fe246c4eed87</vehicle_id>
-    <vehicle_registration_plate>PJW74G</vehicle_registration_plate>
-    <title>Volvo XC60 D4 Momentum Advanced Edition/ Läderpaket/ Klimatpaket/ dynamisk led Strålakstare</title>
-    <description>D4 Momentum Advanced Edition/ Läderpaket/ Klimatpaket/ dynamisk led Strålakstare. Utrustningsnivå: Momentum Advanced. Miltal: 11 990 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PJW74G. Billån från 3 376 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 8 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 8</g:custom_label_0>
-    <g:custom_label_2>3376</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 990 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/40f339a5-63c3-43ee-a88b-fe246c4eed87</link>
-    <url>https://goingebil.se/sok/id/40f339a5-63c3-43ee-a88b-fe246c4eed87</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/195570115d4047c184c5ad97fd36f8f2/f83a784066124d1397eff0e6771e6d3a?format=jpeg&amp;w=770&amp;overlay=2f1a2ebc-78fc-42ed-bd8e-99d3b9b2db99</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2020</year>
-    <mileage>
-      <value>119900</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>305000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>305000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -3822,46 +3786,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>277552d9-e960-4c58-80fc-bfbbbc009843</vehicle_id>
-    <vehicle_registration_plate>FGR03R</vehicle_registration_plate>
-    <title>Renault Rafale PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera</title>
-    <description>PHEV 300 esprit Alpine Edition/ Avtagbart drag/ 360 Kamera. Miltal: 2 061 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: FGR03R. Billån från 5 191 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 87 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 87</g:custom_label_0>
-    <g:custom_label_2>5191</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 061 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/277552d9-e960-4c58-80fc-bfbbbc009843</link>
-    <url>https://goingebil.se/sok/id/277552d9-e960-4c58-80fc-bfbbbc009843</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2461b6bb-73b8-4cdc-9b23-cd4c49917ef5/455b64b3-7423-4e47-8bd0-3c023210b030?format=jpeg&amp;r=058179d&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Rafale</model>
-    <year>2025</year>
-    <mileage>
-      <value>20610</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>469000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>469000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9d40e1a3-48ba-4881-b7a6-f1a452c37300</vehicle_id>
     <vehicle_registration_plate>KJD29K</vehicle_registration_plate>
     <title>Toyota RAV4 Fullutrustad/ Drag/ Head-Up/ Ventilerade stolar/ Rattvärme/ 360-kamera/</title>
@@ -4704,41 +4628,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>474900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>fa46bb92-c3c2-4122-a47f-3a362c27a09a</vehicle_id>
-    <vehicle_registration_plate>HFR04D</vehicle_registration_plate>
-    <title>Dacia Duster 4x2 extreme Rattvärme/ Multiview kamera/ P-sensor/ Nav/</title>
-    <description>4x2 extreme Rattvärme/ Multiview kamera/ P-sensor/ Nav/. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elhybrid. Registreringsnummer: HFR04D. Kontakta oss för mer information om detta fordon. Publicerad för 127 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 127</g:custom_label_0>
-    <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/fa46bb92-c3c2-4122-a47f-3a362c27a09a</link>
-    <url>https://goingebil.se/sok/id/fa46bb92-c3c2-4122-a47f-3a362c27a09a</url>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/07004790-fd9b-42e8-9905-873c27c3d91e/5c4377de-300b-4002-a4df-c05e36fe8be1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Duster</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>338900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>338900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
