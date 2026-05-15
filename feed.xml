@@ -2162,8 +2162,9 @@
     <vehicle_id>41e8a623-105c-4085-9ec4-4cd5def3a9e0</vehicle_id>
     <vehicle_registration_plate>UEJ17U</vehicle_registration_plate>
     <title>Kia Optima Plus 2 Drag/ 360/ Panorama/ Navi</title>
-    <description>Plus 2 Drag/ 360/ Panorama/ Navi. Utrustningsnivå: Advance Plus. Miltal: 7 313 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UEJ17U. Kontakta oss för mer information om detta fordon. Publicerad för 23 dagar sedan.</description>
+    <description>Plus 2 Drag/ 360/ Panorama/ Navi. Utrustningsnivå: Advance Plus. Miltal: 7 313 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UEJ17U. Billån från 2 646 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 23 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 23</g:custom_label_0>
+    <g:custom_label_2>2646</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 313 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/41e8a623-105c-4085-9ec4-4cd5def3a9e0</link>
     <url>https://goingebil.se/sok/id/41e8a623-105c-4085-9ec4-4cd5def3a9e0</url>
@@ -3036,8 +3037,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>127470ca-7429-45a8-b1cc-1a696bd36cfe</vehicle_id>
     <vehicle_registration_plate>PYS17Z</vehicle_registration_plate>
-    <title>Volvo XC40 B4 FWD Bensin Plus Dark/ Infällbart Drag/ Förarst��d</title>
-    <description>B4 FWD Bensin Plus Dark/ Infällbart Drag/ Förarst��d. Utrustningsnivå: Plus. Miltal: 6 858 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PYS17Z. Billån från 4 306 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 55 dagar sedan.</description>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark/ Infällbart Drag/ Förarstöd</title>
+    <description>B4 FWD Bensin Plus Dark/ Infällbart Drag/ Förarstöd. Utrustningsnivå: Plus. Miltal: 6 858 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PYS17Z. Billån från 4 306 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 55 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 55</g:custom_label_0>
     <g:custom_label_2>4306</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 6 858 mil</g:custom_label_3>
@@ -3157,7 +3158,7 @@
     <vehicle_id>96209758-a8e8-4e53-824c-2434b995f76b</vehicle_id>
     <vehicle_registration_plate>GSW46E</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 Extreme 7 platser II</title>
-    <description>TCe 110 Extreme 7 platser II. Miltal: 103 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Förbr��nningsmotor. Registreringsnummer: GSW46E. Billån från 2 646 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 58 dagar sedan.</description>
+    <description>TCe 110 Extreme 7 platser II. Miltal: 103 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Förbränningsmotor. Registreringsnummer: GSW46E. Billån från 2 646 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 58 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 58</g:custom_label_0>
     <g:custom_label_2>2646</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 103 mil</g:custom_label_3>
@@ -3176,7 +3177,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
-    <fuel_type>Förbr��nningsmotor</fuel_type>
+    <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>239000 SEK</price>
     <address format="simple">
