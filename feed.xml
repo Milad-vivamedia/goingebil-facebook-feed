@@ -2470,46 +2470,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>f08bab4f-0174-4230-8a2f-af9fd65ea24f</vehicle_id>
-    <vehicle_registration_plate>FZF18F</vehicle_registration_plate>
-    <title>Volvo V60 Recharge T8 Plus Dark / Dragkrok/ Panorama/ 360 Kamera</title>
-    <description>Recharge T8 Plus Dark / Dragkrok/ Panorama/ 360 Kamera. Utrustningsnivå: Plus. Miltal: 3 828 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FZF18F. Billån från 4 970 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 24 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 24</g:custom_label_0>
-    <g:custom_label_2>4970</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 3 828 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/f08bab4f-0174-4230-8a2f-af9fd65ea24f</link>
-    <url>https://goingebil.se/sok/id/f08bab4f-0174-4230-8a2f-af9fd65ea24f</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a949a9f7614342b79b36a7057088f6b0/7835e4def7244fd69cfe85fe762a8593?format=jpeg&amp;w=770&amp;overlay=2f1a2ebc-78fc-42ed-bd8e-99d3b9b2db99</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>38280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>449000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>449000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1dd1e9f4-ad79-43c6-ad1f-6b021e2b9286</vehicle_id>
     <vehicle_registration_plate>DOL50E</vehicle_registration_plate>
     <title>Mercedes-Benz CLA Brake/ AMG-Line/ Backkkamera/ Navigator</title>
@@ -3825,8 +3785,9 @@
     <vehicle_id>a0d34e58-c735-41e0-91b2-788ad26dcd25</vehicle_id>
     <vehicle_registration_plate>MMS496</vehicle_registration_plate>
     <title>Volvo XC40 D4 AWD R-Design/ Lounge/ Teknikpkt Pro/ Klimatpkt/ Navi/ LED/ PDC</title>
-    <description>D4 AWD R-Design/ Lounge/ Teknikpkt Pro/ Klimatpkt/ Navi/ LED/ PDC. Utrustningsnivå: R-Design. Miltal: 11 464 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MMS496. Kontakta oss för mer information om detta fordon. Publicerad för 67 dagar sedan.</description>
+    <description>D4 AWD R-Design/ Lounge/ Teknikpkt Pro/ Klimatpkt/ Navi/ LED/ PDC. Utrustningsnivå: R-Design. Miltal: 11 464 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MMS496. Billån från 3 420 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 67 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 67</g:custom_label_0>
+    <g:custom_label_2>3420</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 11 464 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/a0d34e58-c735-41e0-91b2-788ad26dcd25</link>
     <url>https://goingebil.se/sok/id/a0d34e58-c735-41e0-91b2-788ad26dcd25</url>
@@ -5577,43 +5538,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>480877b0-ef4e-433f-b209-1e368931da0f</vehicle_id>
-    <vehicle_registration_plate>BCT92S</vehicle_registration_plate>
-    <title>Renault Mégane E-TECH Evolution 60kWh/130hk SUPERDEAL!</title>
-    <description>Evolution 60kWh/130hk SUPERDEAL!. Miltal: 0 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: BCT92S. Privatleasing från 4 990 kr/mån. Billån från 3 669 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 344 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 344</g:custom_label_0>
-    <g:custom_label_1>4990</g:custom_label_1>
-    <g:custom_label_2>3669</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/480877b0-ef4e-433f-b209-1e368931da0f</link>
-    <url>https://goingebil.se/sok/id/480877b0-ef4e-433f-b209-1e368931da0f</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a36ffc31-d96b-43dc-ac7b-fe23b16bf54e/2ce3e049-a223-407f-93aa-d5fd1d5071c3?format=jpeg&amp;r=4ab2074&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane E-TECH</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>309000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
   </channel>
 </rss>
