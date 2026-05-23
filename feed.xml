@@ -90,10 +90,10 @@
     <vehicle_id>24330878-1858-4943-9297-ff9bf25ef926</vehicle_id>
     <vehicle_registration_plate>OYX208</vehicle_registration_plate>
     <title>Volvo V40 D2 Ocean R BE PRO Skinn/ Panorama/ Nyservad/ Värmare/ Adaptivfarthållare/</title>
-    <description>D2 Ocean R BE PRO Skinn/ Panorama/ Nyservad/ Värmare/ Adaptivfarthållare/. Utrustningsnivå: Ocean Race. Miltal: 11 379 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: OYX208. Billån från 1 991 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>D2 Ocean R BE PRO Skinn/ Panorama/ Nyservad/ Värmare/ Adaptivfarthållare/. Utrustningsnivå: Ocean Race. Miltal: 11 380 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: OYX208. Billån från 1 991 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>1991</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 379 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 11 380 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/24330878-1858-4943-9297-ff9bf25ef926</link>
     <url>https://goingebil.se/sok/id/24330878-1858-4943-9297-ff9bf25ef926</url>
     <brand>Volvo</brand>
@@ -105,7 +105,7 @@
     <model>V40</model>
     <year>2016</year>
     <mileage>
-      <value>113790</value>
+      <value>113800</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -1126,9 +1126,9 @@
     <vehicle_id>3f4c0c6b-eab9-4d88-a531-309fcee78b0c</vehicle_id>
     <vehicle_registration_plate>PSE24B</vehicle_registration_plate>
     <title>Dacia Sandero TCe 110 Extreme</title>
-    <description>TCe 110 Extreme. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PSE24B. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
+    <description>TCe 110 Extreme. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: PSE24B. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 1 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/3f4c0c6b-eab9-4d88-a531-309fcee78b0c</link>
     <url>https://goingebil.se/sok/id/3f4c0c6b-eab9-4d88-a531-309fcee78b0c</url>
     <brand>Dacia</brand>
@@ -1139,6 +1139,10 @@
     </image>
     <model>Sandero</model>
     <year>2026</year>
+    <mileage>
+      <value>10</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
@@ -2313,8 +2317,8 @@
     <vehicle_id>b3ab4491-2cb0-441c-9296-3c04582a47f5</vehicle_id>
     <vehicle_registration_plate>FCW16J</vehicle_registration_plate>
     <title>Volkswagen Passat Sport kombi 1,4 TSI</title>
-    <description>Sport kombi 1,4 TSI. Utrustningsnivå: GTE. Miltal: 11 368 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FCW16J. Billån från 2 424 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 18 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 18</g:custom_label_0>
+    <description>Sport kombi 1,4 TSI. Utrustningsnivå: GTE. Miltal: 11 368 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FCW16J. Billån från 2 424 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
     <g:custom_label_2>2424</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 11 368 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b3ab4491-2cb0-441c-9296-3c04582a47f5</link>
@@ -2553,8 +2557,8 @@
     <vehicle_id>beb2cd5c-4f4f-44a4-9613-fcdaa0a9ece3</vehicle_id>
     <vehicle_registration_plate>XHR81E</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd</title>
-    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 531 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 25 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 25</g:custom_label_0>
+    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 531 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 26 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 26</g:custom_label_0>
     <g:custom_label_2>3531</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 620 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/beb2cd5c-4f4f-44a4-9613-fcdaa0a9ece3</link>
