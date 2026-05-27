@@ -1834,46 +1834,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>ef73fb80-ef0b-4e00-86b2-789ab00e3c1c</vehicle_id>
-    <vehicle_registration_plate>ZEZ43W</vehicle_registration_plate>
-    <title>Volvo XC60 Recharge T6 Plus Dark Luftfjädring/ Drag/</title>
-    <description>Recharge T6 Plus Dark Luftfjädring/ Drag/. Utrustningsnivå: Plus. Miltal: 5 313 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ZEZ43W. Billån från 5 745 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
-    <g:custom_label_2>5745</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 5 313 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/ef73fb80-ef0b-4e00-86b2-789ab00e3c1c</link>
-    <url>https://goingebil.se/sok/id/ef73fb80-ef0b-4e00-86b2-789ab00e3c1c</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b70a2aa1-fa47-45da-bf1e-7b2c6a98922b/2acc3518-f981-43e0-9e6e-6e68631166d2?format=jpeg&amp;r=bc57af5&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>53130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>519000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>519000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>a24f9aaa-38ba-4dde-8925-143f86fc553c</vehicle_id>
     <vehicle_registration_plate>LDT21E</vehicle_registration_plate>
     <title>BMW iX</title>
