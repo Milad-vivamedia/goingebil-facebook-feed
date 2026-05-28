@@ -4324,7 +4324,7 @@
     <transmission>Manual</transmission>
     <price>249000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -5442,9 +5442,8 @@
     <vehicle_id>042c124d-727a-4a9e-ad95-eba8e98aab6a</vehicle_id>
     <vehicle_registration_plate>HJB24X</vehicle_registration_plate>
     <title>Dacia Duster 4x2 expression A , Ny lagerbil, Mediadisplay</title>
-    <description>4x2 expression A , Ny lagerbil, Mediadisplay. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HJB24X. Billån från 3 757 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 135 dagar sedan.</description>
+    <description>4x2 expression A , Ny lagerbil, Mediadisplay. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HJB24X. Kontakta oss för mer information om detta fordon. Publicerad för 135 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 135</g:custom_label_0>
-    <g:custom_label_2>3757</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/042c124d-727a-4a9e-ad95-eba8e98aab6a</link>
     <url>https://goingebil.se/sok/id/042c124d-727a-4a9e-ad95-eba8e98aab6a</url>
