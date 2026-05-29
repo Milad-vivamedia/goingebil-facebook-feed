@@ -3389,8 +3389,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Steptronic Drag/ Navi/ Kamera/ Elbaklucka</title>
-    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 43 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 43</g:custom_label_0>
+    <description>Steptronic Drag/ Navi/ Kamera/ Elbaklucka. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
     <g:custom_label_2>3088</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -3469,8 +3469,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 44 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 44</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 978 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 45</g:custom_label_0>
     <g:custom_label_2>2978</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -5704,46 +5704,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>b3701a62-5fcd-4b19-b94e-3d321a677c24</vehicle_id>
-    <vehicle_registration_plate>OFK33W</vehicle_registration_plate>
-    <title>Volkswagen Tiguan DSG 245hk / Elegance/ Drag/ Navi/ Kamera/ ergoActive/ LED Matrix/ IQ.Light</title>
-    <description>DSG 245hk / Elegance/ Drag/ Navi/ Kamera/ ergoActive/ LED Matrix/ IQ.Light. Utrustningsnivå: Elegance. Miltal: 5 808 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: OFK33W. Billån från 3 642 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 193 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 193</g:custom_label_0>
-    <g:custom_label_2>3642</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 5 808 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/b3701a62-5fcd-4b19-b94e-3d321a677c24</link>
-    <url>https://goingebil.se/sok/id/b3701a62-5fcd-4b19-b94e-3d321a677c24</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/12b683a3-b360-417c-b0ad-f230c905955f/f1d0ddd7-4c21-484b-9bb4-00165044a8be?format=jpeg&amp;r=058179d&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Tiguan</model>
-    <year>2023</year>
-    <mileage>
-      <value>58080</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>329000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>329000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
