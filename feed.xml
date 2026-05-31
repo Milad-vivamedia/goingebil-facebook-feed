@@ -1242,9 +1242,8 @@
     <vehicle_id>acfbe3e9-3576-4942-9c4a-26dd8e865ba5</vehicle_id>
     <vehicle_registration_plate>XZK31J</vehicle_registration_plate>
     <title>Volkswagen Tiguan 1.4 TSI DSG 245hk Drag/ Kamera/ Elbaklucka</title>
-    <description>1.4 TSI DSG 245hk Drag/ Kamera/ Elbaklucka. Utrustningsnivå: Elegance. Miltal: 6 181 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XZK31J. Billån från 3 752 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 11 dagar sedan.</description>
+    <description>1.4 TSI DSG 245hk Drag/ Kamera/ Elbaklucka. Utrustningsnivå: Elegance. Miltal: 6 181 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XZK31J. Kontakta oss för mer information om detta fordon. Publicerad för 11 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 11</g:custom_label_0>
-    <g:custom_label_2>3752</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 6 181 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/acfbe3e9-3576-4942-9c4a-26dd8e865ba5</link>
     <url>https://goingebil.se/sok/id/acfbe3e9-3576-4942-9c4a-26dd8e865ba5</url>
@@ -5286,9 +5285,8 @@
     <vehicle_id>042c124d-727a-4a9e-ad95-eba8e98aab6a</vehicle_id>
     <vehicle_registration_plate>HJB24X</vehicle_registration_plate>
     <title>Dacia Duster 4x2 expression A , Ny lagerbil, Mediadisplay</title>
-    <description>4x2 expression A , Ny lagerbil, Mediadisplay. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HJB24X. Billån från 3 757 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 138 dagar sedan.</description>
+    <description>4x2 expression A , Ny lagerbil, Mediadisplay. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HJB24X. Kontakta oss för mer information om detta fordon. Publicerad för 138 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 138</g:custom_label_0>
-    <g:custom_label_2>3757</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/042c124d-727a-4a9e-ad95-eba8e98aab6a</link>
     <url>https://goingebil.se/sok/id/042c124d-727a-4a9e-ad95-eba8e98aab6a</url>
@@ -5494,7 +5492,7 @@
     <transmission>Automatic</transmission>
     <price>367500 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
