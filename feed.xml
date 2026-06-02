@@ -683,46 +683,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b7a89d3e-a807-41b9-8f25-fdadfb425872</vehicle_id>
-    <vehicle_registration_plate>KHD06T</vehicle_registration_plate>
-    <title>Renault Clio TCe 90 Equilibre 5-d</title>
-    <description>TCe 90 Equilibre 5-d. Utrustningsnivå: Equilibre. Miltal: 4 713 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: KHD06T. Billån från 1 710 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_2>1710</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 4 713 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/b7a89d3e-a807-41b9-8f25-fdadfb425872</link>
-    <url>https://goingebil.se/sok/id/b7a89d3e-a807-41b9-8f25-fdadfb425872</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/f842043aff764f46bd1fed469407b5d7/08514aa1414a4b358150a45369c16416?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>47130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>144000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>144000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>3c68e2d1-a8f9-4100-900b-58bc0aef6328</vehicle_id>
     <vehicle_registration_plate>FWW01N</vehicle_registration_plate>
     <title>Volkswagen Passat 1.5 DSG 150hk Drag/ bakkamera/ Rattvärme/ Nav/</title>
@@ -829,7 +789,7 @@
     <transmission>Automatic</transmission>
     <price>309000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -995,46 +955,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>3821a9e6-3672-4aba-87d1-e45aafded159</vehicle_id>
-    <vehicle_registration_plate>XTR03E</vehicle_registration_plate>
-    <title>Polestar 4 Plus/ 360/ H/K/ Pano/ Laminerat glas</title>
-    <description>Plus/ 360/ H/K/ Pano/ Laminerat glas. Miltal: 2 256 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: XTR03E. Billån från 6 401 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <g:custom_label_2>6401</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 256 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/3821a9e6-3672-4aba-87d1-e45aafded159</link>
-    <url>https://goingebil.se/sok/id/3821a9e6-3672-4aba-87d1-e45aafded159</url>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/523af86bcd83497f976fd2613bbe87dd/d923199d0d674a96a1a8ded2ddf9ee78?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>4</model>
-    <year>2025</year>
-    <mileage>
-      <value>22560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>539000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>539000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -3665,8 +3585,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV</title>
-    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
+    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -3745,8 +3665,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 49 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 49</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
