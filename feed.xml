@@ -1194,9 +1194,8 @@
     <vehicle_id>e85d07a8-2c13-400f-9571-42494b48ddfe</vehicle_id>
     <vehicle_registration_plate>OSJ14B</vehicle_registration_plate>
     <title>Volvo XC40 T5 Twin Engine Mom Adv Edt Skinn/ Navi/ Kamera</title>
-    <description>T5 Twin Engine Mom Adv Edt Skinn/ Navi/ Kamera. Utrustningsnivå: Inscription Expression. Miltal: 7 300 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: OSJ14B. Billån från 3 907 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
+    <description>T5 Twin Engine Mom Adv Edt Skinn/ Navi/ Kamera. Utrustningsnivå: Inscription Expression. Miltal: 7 300 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: OSJ14B. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <g:custom_label_2>3907</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 300 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/e85d07a8-2c13-400f-9571-42494b48ddfe</link>
     <url>https://goingebil.se/sok/id/e85d07a8-2c13-400f-9571-42494b48ddfe</url>
@@ -3182,46 +3181,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b55bc191-3d16-46da-90b2-ecfe40fe8b11</vehicle_id>
-    <vehicle_registration_plate>EBB34P</vehicle_registration_plate>
-    <title>Volvo XC40 Recharge T4 Ins Expr Drag/ Navi/ Kamera/ Värmare</title>
-    <description>Recharge T4 Ins Expr Drag/ Navi/ Kamera/ Värmare. Utrustningsnivå: Inscription Expression. Miltal: 8 885 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: EBB34P. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 29 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 29</g:custom_label_0>
-    <g:custom_label_2>3788</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 8 885 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/b55bc191-3d16-46da-90b2-ecfe40fe8b11</link>
-    <url>https://goingebil.se/sok/id/b55bc191-3d16-46da-90b2-ecfe40fe8b11</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/72f04d6039eb460d99a988dc7b4a0a64/67f9c683fac64c8987e7cf415414677a?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2022</year>
-    <mileage>
-      <value>88850</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>2eae0dfc-9327-46c6-9aba-788602df532a</vehicle_id>
     <vehicle_registration_plate>LTA27J</vehicle_registration_plate>
     <title>Volvo V60 Recharge T6 Core Edition/ Infällbart Drag/ Backkamera/ Ljus-paket</title>
@@ -4016,8 +3975,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV</title>
-    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 50 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 50</g:custom_label_0>
+    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -4096,8 +4055,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 52 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 52</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
