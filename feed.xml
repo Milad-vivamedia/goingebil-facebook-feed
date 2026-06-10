@@ -446,10 +446,10 @@
     <vehicle_id>fe9ccf41-6997-4b15-9b72-862e3bde677b</vehicle_id>
     <vehicle_registration_plate>POA309</vehicle_registration_plate>
     <title>Renault Kadjar TCe 130 En Svensk Klassiker A 4x2</title>
-    <description>TCe 130 En Svensk Klassiker A 4x2. Utrustningsnivå: LIMITED. Miltal: 13 707 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: POA309. Billån från 1 532 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>TCe 130 En Svensk Klassiker A 4x2. Utrustningsnivå: LIMITED. Miltal: 13 708 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: POA309. Billån från 1 532 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>1532</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 13 707 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 13 708 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/fe9ccf41-6997-4b15-9b72-862e3bde677b</link>
     <url>https://goingebil.se/sok/id/fe9ccf41-6997-4b15-9b72-862e3bde677b</url>
     <brand>Renault</brand>
@@ -461,7 +461,7 @@
     <model>Kadjar</model>
     <year>2018</year>
     <mileage>
-      <value>137070</value>
+      <value>137080</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -4034,7 +4034,7 @@
     <transmission>Automatic</transmission>
     <price>194000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Markaryd</component>
+      <component name="addr1">Göinge Bil Markaryd</component>
       <component name="city">Markaryd</component>
       <component name="region">Markaryd</component>
       <component name="country">SE</component>
