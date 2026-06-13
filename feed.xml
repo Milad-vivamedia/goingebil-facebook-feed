@@ -1607,10 +1607,8 @@
     <vehicle_id>d850702d-4b0e-4bbe-a34d-4ab795964ea2</vehicle_id>
     <vehicle_registration_plate>XEE85R</vehicle_registration_plate>
     <title>Dacia Sandero TCe 110 Extreme</title>
-    <description>TCe 110 Extreme. Miltal: 4 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: XEE85R. Privatleasing från 2 190 kr/mån. Billån från 3 104 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
+    <description>TCe 110 Extreme. Miltal: 4 mil. Årsmodell: 2026. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: XEE85R. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
-    <g:custom_label_1>2190</g:custom_label_1>
-    <g:custom_label_2>3104</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/d850702d-4b0e-4bbe-a34d-4ab795964ea2</link>
     <url>https://goingebil.se/sok/id/d850702d-4b0e-4bbe-a34d-4ab795964ea2</url>
@@ -3895,7 +3893,7 @@
     <transmission>Automatic</transmission>
     <price>359000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil H��ssleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
