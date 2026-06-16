@@ -1497,46 +1497,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2371b58e-5883-47ff-91af-79a3cff2a2ac</vehicle_id>
-    <vehicle_registration_plate>NHP720</vehicle_registration_plate>
-    <title>Volvo XC60 D4 Classic Summum</title>
-    <description>D4 Classic Summum. Utrustningsnivå: Summum. Miltal: 21 352 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: NHP720. Billån från 2 007 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_2>2007</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 21 352 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/2371b58e-5883-47ff-91af-79a3cff2a2ac</link>
-    <url>https://goingebil.se/sok/id/2371b58e-5883-47ff-91af-79a3cff2a2ac</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/2c13c9edee7c4adf809bdc3a7d7c641c/6ff5d9430c1448319a19c4037806e1ec?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2017</year>
-    <mileage>
-      <value>213520</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>169000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>169000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>e978e14f-73e1-4b5b-af90-061f4e1c1213</vehicle_id>
     <vehicle_registration_plate>LYW91R</vehicle_registration_plate>
     <title>Renault Clio TCe 115 techno 5-d</title>
