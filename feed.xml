@@ -1418,46 +1418,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>daf0f887-5927-4ae7-b259-d1eab34e3b8e</vehicle_id>
-    <vehicle_registration_plate>DGH51B</vehicle_registration_plate>
-    <title>Volkswagen ID.3 204hk</title>
-    <description>204hk. Utrustningsnivå: Life. Miltal: 1 043 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: DGH51B. Billån från 3 551 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
-    <g:custom_label_2>3551</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 1 043 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/daf0f887-5927-4ae7-b259-d1eab34e3b8e</link>
-    <url>https://goingebil.se/sok/id/daf0f887-5927-4ae7-b259-d1eab34e3b8e</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/0b41c6f592a64a05a8560285ea4bcd0d/deecf9a923fe45d4bb6eed2d90035fda?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>ID.3</model>
-    <year>2023</year>
-    <mileage>
-      <value>10430</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>fe046e89-9c3d-4153-8f77-8aeb126b7e4c</vehicle_id>
     <vehicle_registration_plate>YNU846</vehicle_registration_plate>
     <title>Volvo V60 D4 Momentum Edition Drag/ Kamera/ Rattvärme/</title>
@@ -5057,46 +5017,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>148091c0-f696-44ee-8578-44ed555ae03b</vehicle_id>
-    <vehicle_registration_plate>WMH20R</vehicle_registration_plate>
-    <title>Volkswagen Caddy 2.0 TDI BMT DSG/Värmare med fjärr</title>
-    <description>2.0 TDI BMT DSG/Värmare med fjärr. Miltal: 3 970 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: WMH20R. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 85 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 85</g:custom_label_0>
-    <g:custom_label_2>3194</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 3 970 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/148091c0-f696-44ee-8578-44ed555ae03b</link>
-    <url>https://goingebil.se/sok/id/148091c0-f696-44ee-8578-44ed555ae03b</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/6a4bb2022ec14d379075f8a706f2f0e6/89e0a85581194f3982430c325c935e7d?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Caddy</model>
-    <year>2023</year>
-    <mileage>
-      <value>39700</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>269000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>269000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
