@@ -2639,46 +2639,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>c96f86bd-7468-491d-aa45-6fcc3bd76915</vehicle_id>
-    <vehicle_registration_plate>OJA17S</vehicle_registration_plate>
-    <title>Škoda Kamiq Adventure Edition, Style</title>
-    <description>Adventure Edition, Style. Utrustningsnivå: Style. Miltal: 2 667 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: OJA17S. Billån från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 17 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 17</g:custom_label_0>
-    <g:custom_label_2>2719</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 667 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/c96f86bd-7468-491d-aa45-6fcc3bd76915</link>
-    <url>https://goingebil.se/sok/id/c96f86bd-7468-491d-aa45-6fcc3bd76915</url>
-    <brand>Škoda</brand>
-    <make>Škoda</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/8f1487149a0c4d77bd3a95f8de910c99/b899e8267e104eb6ba7e39a05738da39?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kamiq</model>
-    <year>2023</year>
-    <mileage>
-      <value>26670</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>3cb31690-23db-43b0-aa98-189a545d02c0</vehicle_id>
     <vehicle_registration_plate>YNE416</vehicle_registration_plate>
     <title>Volvo XC60 D4 Mom Edt Drag/ Navi/ Kamera/ Värmare/ Dynamiska LED/ Klimatpaket/ Teknikpaket</title>
@@ -3786,46 +3746,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>149000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>626de29a-bdc2-4439-9761-1c4e1ec5cbdf</vehicle_id>
-    <vehicle_registration_plate>CEP65F</vehicle_registration_plate>
-    <title>Kia Ceed Advance plus 2/ Drag/ Rattvärme/ Panorama/ Skinn/</title>
-    <description>Advance plus 2/ Drag/ Rattvärme/ Panorama/ Skinn/. Miltal: 11 056 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CEP65F. Billån från 2 493 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 31 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 31</g:custom_label_0>
-    <g:custom_label_2>2493</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 056 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/626de29a-bdc2-4439-9761-1c4e1ec5cbdf</link>
-    <url>https://goingebil.se/sok/id/626de29a-bdc2-4439-9761-1c4e1ec5cbdf</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/96ab33107d714fa295a8f115dc523795/242efd13aaf84afa855eb5182a4dabc5?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Ceed</model>
-    <year>2020</year>
-    <mileage>
-      <value>110560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>209900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>209900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5224,8 +5144,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV</title>
-    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 63 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 63</g:custom_label_0>
+    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 64</g:custom_label_0>
     <g:custom_label_2>3147</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -5304,8 +5224,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 64 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 64</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 65 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 65</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
