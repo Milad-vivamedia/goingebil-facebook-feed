@@ -1024,8 +1024,8 @@
     <price>367900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
+      <component name="city">��lmhult</component>
+      <component name="region">��lmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>367900 SEK</sale_price>
@@ -1447,7 +1447,7 @@
     <transmission>Automatic</transmission>
     <price>389000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
+      <component name="addr1">G��inge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -3953,9 +3953,8 @@
     <vehicle_id>874afff6-c152-4403-9b49-c3025427ffdc</vehicle_id>
     <vehicle_registration_plate>LCP06A</vehicle_registration_plate>
     <title>Volvo XC60 T6 Plus Dark Edition Dragkrok/ H&amp;K/ 360 kamera</title>
-    <description>T6 Plus Dark Edition Dragkrok/ H&amp;K/ 360 kamera. Utrustningsnivå: Plus Edition. Miltal: 4 203 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LCP06A. Billån från 6 638 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
+    <description>T6 Plus Dark Edition Dragkrok/ H&amp;K/ 360 kamera. Utrustningsnivå: Plus Edition. Miltal: 4 203 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LCP06A. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 37</g:custom_label_0>
-    <g:custom_label_2>6638</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 203 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/874afff6-c152-4403-9b49-c3025427ffdc</link>
     <url>https://goingebil.se/sok/id/874afff6-c152-4403-9b49-c3025427ffdc</url>
@@ -6416,8 +6415,9 @@
     <vehicle_id>98ca6561-1c32-419e-b9db-13afa6f97172</vehicle_id>
     <vehicle_registration_plate>SJA09S</vehicle_registration_plate>
     <title>Kia EV6 AWD GT LINE 325HK/ Matrix/ V2L/ HUD/  Keyless/ Elbaklucka</title>
-    <description>AWD GT LINE 325HK/ Matrix/ V2L/ HUD/  Keyless/ Elbaklucka. Utrustningsnivå: GT-Line. Miltal: 4 909 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: SJA09S. Kontakta oss för mer information om detta fordon. Publicerad för 134 dagar sedan.</description>
+    <description>AWD GT LINE 325HK/ Matrix/ V2L/ HUD/  Keyless/ Elbaklucka. Utrustningsnivå: GT-Line. Miltal: 4 909 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: SJA09S. Billån från 4 857 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 134 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 134</g:custom_label_0>
+    <g:custom_label_2>4857</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 909 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/98ca6561-1c32-419e-b9db-13afa6f97172</link>
     <url>https://goingebil.se/sok/id/98ca6561-1c32-419e-b9db-13afa6f97172</url>
@@ -6455,8 +6455,9 @@
     <vehicle_id>b85a067e-58eb-460e-948d-b4a44d3047b4</vehicle_id>
     <vehicle_registration_plate>YHO703</vehicle_registration_plate>
     <title>Mercedes-Benz E-Klass 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi</title>
-    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Kontakta oss för mer information om detta fordon. Publicerad för 136 dagar sedan.</description>
+    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 3 205 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 136 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 136</g:custom_label_0>
+    <g:custom_label_2>3205</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 17 156 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</link>
     <url>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</url>
