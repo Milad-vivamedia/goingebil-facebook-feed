@@ -1024,8 +1024,8 @@
     <price>367900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">��lmhult</component>
-      <component name="region">��lmhult</component>
+      <component name="city">Älmhult</component>
+      <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
     <sale_price>367900 SEK</sale_price>
@@ -1447,7 +1447,7 @@
     <transmission>Automatic</transmission>
     <price>389000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
@@ -3953,8 +3953,9 @@
     <vehicle_id>874afff6-c152-4403-9b49-c3025427ffdc</vehicle_id>
     <vehicle_registration_plate>LCP06A</vehicle_registration_plate>
     <title>Volvo XC60 T6 Plus Dark Edition Dragkrok/ H&amp;K/ 360 kamera</title>
-    <description>T6 Plus Dark Edition Dragkrok/ H&amp;K/ 360 kamera. Utrustningsnivå: Plus Edition. Miltal: 4 203 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LCP06A. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
+    <description>T6 Plus Dark Edition Dragkrok/ H&amp;K/ 360 kamera. Utrustningsnivå: Plus Edition. Miltal: 4 203 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LCP06A. Billån från 6 638 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 37</g:custom_label_0>
+    <g:custom_label_2>6638</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 203 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/874afff6-c152-4403-9b49-c3025427ffdc</link>
     <url>https://goingebil.se/sok/id/874afff6-c152-4403-9b49-c3025427ffdc</url>
