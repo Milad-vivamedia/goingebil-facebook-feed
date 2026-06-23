@@ -527,10 +527,10 @@
     <vehicle_id>235f57b0-04c1-415c-ae80-c34b332f377b</vehicle_id>
     <vehicle_registration_plate>TBJ13U</vehicle_registration_plate>
     <title>XPENG G9 Black Edition</title>
-    <description>Black Edition. Miltal: 1 300 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: TBJ13U. Billån från 9 251 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
+    <description>Black Edition. Miltal: 1 349 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: TBJ13U. Billån från 9 251 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
     <g:custom_label_2>9251</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 1 300 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 1 349 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/235f57b0-04c1-415c-ae80-c34b332f377b</link>
     <url>https://goingebil.se/sok/id/235f57b0-04c1-415c-ae80-c34b332f377b</url>
     <brand>XPENG</brand>
@@ -542,7 +542,7 @@
     <model>G9</model>
     <year>2025</year>
     <mileage>
-      <value>13000</value>
+      <value>13490</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -6140,10 +6140,10 @@
     <vehicle_id>2ce47cdb-d416-4656-bb3d-7269b12059de</vehicle_id>
     <vehicle_registration_plate>RBH98N</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 Extreme 7 platser II</title>
-    <description>TCe 110 Extreme 7 platser II. Miltal: 2 088 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: RBH98N. Billån från 2 968 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 116 dagar sedan.</description>
+    <description>TCe 110 Extreme 7 platser II. Miltal: 2 089 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: RBH98N. Billån från 2 968 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 116 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 116</g:custom_label_0>
     <g:custom_label_2>2968</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 088 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 2 089 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/2ce47cdb-d416-4656-bb3d-7269b12059de</link>
     <url>https://goingebil.se/sok/id/2ce47cdb-d416-4656-bb3d-7269b12059de</url>
     <brand>Dacia</brand>
@@ -6155,7 +6155,7 @@
     <model>Jogger</model>
     <year>2025</year>
     <mileage>
-      <value>20880</value>
+      <value>20890</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
