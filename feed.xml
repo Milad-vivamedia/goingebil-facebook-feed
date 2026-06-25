@@ -646,8 +646,8 @@
     <vehicle_id>b495980a-dcdb-433c-8d7c-19818c11e5a1</vehicle_id>
     <vehicle_registration_plate>XHR81E</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd</title>
-    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
+    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
     <g:custom_label_2>3788</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 620 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b495980a-dcdb-433c-8d7c-19818c11e5a1</link>
@@ -1076,46 +1076,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>6a6baf8a-58bf-4178-9bbd-4110d70a4652</vehicle_id>
-    <vehicle_registration_plate>KGC11D</vehicle_registration_plate>
-    <title>Kia Niro Action</title>
-    <description>Action. Utrustningsnivå: Advance. Miltal: 5 470 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: KGC11D. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
-    <g:custom_label_2>3432</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 5 470 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/6a6baf8a-58bf-4178-9bbd-4110d70a4652</link>
-    <url>https://goingebil.se/sok/id/6a6baf8a-58bf-4178-9bbd-4110d70a4652</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/3c35ddfb05f640c38ae489ea961fe159/a6642807f2e842dead7cdf3ccddd0f1c?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Niro</model>
-    <year>2023</year>
-    <mileage>
-      <value>54700</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -3041,9 +3001,9 @@
     <vehicle_id>db09a7c7-daaa-4d8d-9e3b-e0f43ef5082a</vehicle_id>
     <vehicle_registration_plate>YTR099</vehicle_registration_plate>
     <title>Peugeot 2008 GT Line</title>
-    <description>GT Line. Utrustningsnivå: GT. Miltal: 3 666 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YTR099. Billån från 1 888 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
+    <description>GT Line. Utrustningsnivå: GT. Miltal: 3 666 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YTR099. Billån från 1 769 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 22</g:custom_label_0>
-    <g:custom_label_2>1888</g:custom_label_2>
+    <g:custom_label_2>1769</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 3 666 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/db09a7c7-daaa-4d8d-9e3b-e0f43ef5082a</link>
     <url>https://goingebil.se/sok/id/db09a7c7-daaa-4d8d-9e3b-e0f43ef5082a</url>
@@ -3062,14 +3022,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <price>159000 SEK</price>
+    <price>149000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>159000 SEK</sale_price>
+    <sale_price>149000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -4233,8 +4193,8 @@
     <vehicle_id>d44eb413-1c72-40df-afa7-6131abd6aebd</vehicle_id>
     <vehicle_registration_plate>GFC17T</vehicle_registration_plate>
     <title>Volvo V60 B4 AWD D Adv NaviP Edt Drag/ Skinn/ Värmare/ Kamera/ Navi/ Dynförl/ Akustikrutor</title>
-    <description>B4 AWD D Adv NaviP Edt Drag/ Skinn/ Värmare/ Kamera/ Navi/ Dynförl/ Akustikrutor. Utrustningsnivå: Cross Country Advanced. Miltal: 12 018 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: GFC17T. Billån från 4 145 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 36 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 36</g:custom_label_0>
+    <description>B4 AWD D Adv NaviP Edt Drag/ Skinn/ Värmare/ Kamera/ Navi/ Dynförl/ Akustikrutor. Utrustningsnivå: Cross Country Advanced. Miltal: 12 018 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: GFC17T. Billån från 4 145 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 37 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 37</g:custom_label_0>
     <g:custom_label_2>4145</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 12 018 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/d44eb413-1c72-40df-afa7-6131abd6aebd</link>
@@ -4589,9 +4549,9 @@
     <vehicle_id>a24f9aaa-38ba-4dde-8925-143f86fc553c</vehicle_id>
     <vehicle_registration_plate>LDT21E</vehicle_registration_plate>
     <title>BMW iX</title>
-    <description>Utrustningsnivå: Sport line. Miltal: 7 373 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: LDT21E. Billån från 5 818 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 43 dagar sedan.</description>
+    <description>Utrustningsnivå: Sport line. Miltal: 7 373 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: LDT21E. Billån från 5 699 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 43 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 43</g:custom_label_0>
-    <g:custom_label_2>5818</g:custom_label_2>
+    <g:custom_label_2>5699</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 373 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/a24f9aaa-38ba-4dde-8925-143f86fc553c</link>
     <url>https://goingebil.se/sok/id/a24f9aaa-38ba-4dde-8925-143f86fc553c</url>
@@ -4610,14 +4570,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>489900 SEK</price>
+    <price>479900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>489900 SEK</sale_price>
+    <sale_price>479900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5103,8 +5063,8 @@
     <vehicle_id>3777c98b-e579-48c9-ad7f-a0c38ab8b528</vehicle_id>
     <vehicle_registration_plate>PAF626</vehicle_registration_plate>
     <title>Volvo XC70 D4 AWD Classic Summum / Dragkrok/ Svartmetallic/ El baklucka</title>
-    <description>D4 AWD Classic Summum / Dragkrok/ Svartmetallic/ El baklucka. Utrustningsnivå: Summum. Miltal: 21 228 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PAF626. Billån från 2 304 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 51 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 51</g:custom_label_0>
+    <description>D4 AWD Classic Summum / Dragkrok/ Svartmetallic/ El baklucka. Utrustningsnivå: Summum. Miltal: 21 228 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: PAF626. Billån från 2 304 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 52 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 52</g:custom_label_0>
     <g:custom_label_2>2304</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 21 228 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/3777c98b-e579-48c9-ad7f-a0c38ab8b528</link>
@@ -5580,8 +5540,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV</title>
-    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 70 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 70</g:custom_label_0>
+    <description>Plug-in/ Drag/ Navi/ Kamera/ Elbaklucka/ PHEV. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 71 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 71</g:custom_label_0>
     <g:custom_label_2>3147</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -5620,8 +5580,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 71 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 71</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 72 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 72</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -5900,8 +5860,8 @@
     <vehicle_id>1b15acf5-c78b-4cd2-9049-bab918bdc8e2</vehicle_id>
     <vehicle_registration_plate>BXJ05G</vehicle_registration_plate>
     <title>Volvo XC90 T8 Ultra Dark Drag/ Head-up/ H/K/ Pano/ 360/ Navi/ Tonade rutor</title>
-    <description>T8 Ultra Dark Drag/ Head-up/ H/K/ Pano/ 360/ Navi/ Tonade rutor. Utrustningsnivå: Ultra. Miltal: 3 414 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXJ05G. Billån från 8 301 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 98 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 98</g:custom_label_0>
+    <description>T8 Ultra Dark Drag/ Head-up/ H/K/ Pano/ 360/ Navi/ Tonade rutor. Utrustningsnivå: Ultra. Miltal: 3 414 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXJ05G. Billån från 8 301 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 99 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 99</g:custom_label_0>
     <g:custom_label_2>8301</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 3 414 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/1b15acf5-c78b-4cd2-9049-bab918bdc8e2</link>
@@ -5980,8 +5940,8 @@
     <vehicle_id>083d377b-9c22-4fa6-9048-781cdb6b69d9</vehicle_id>
     <vehicle_registration_plate>MZF00S</vehicle_registration_plate>
     <title>Volvo V90 B4 Diesel Mom Adv SE Drag/ Navi Pro/ Kamera/ BLIS/ Värmare/ Tonade rutor</title>
-    <description>B4 Diesel Mom Adv SE Drag/ Navi Pro/ Kamera/ BLIS/ Värmare/ Tonade rutor. Utrustningsnivå: Momentum Advanced. Miltal: 13 098 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MZF00S. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 100 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 100</g:custom_label_0>
+    <description>B4 Diesel Mom Adv SE Drag/ Navi Pro/ Kamera/ BLIS/ Värmare/ Tonade rutor. Utrustningsnivå: Momentum Advanced. Miltal: 13 098 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MZF00S. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 101 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 101</g:custom_label_0>
     <g:custom_label_2>3432</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 13 098 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/083d377b-9c22-4fa6-9048-781cdb6b69d9</link>
@@ -6096,8 +6056,8 @@
     <vehicle_id>6e2b21d7-76c8-4753-81a8-55c23c512fb4</vehicle_id>
     <vehicle_registration_plate>JBF67E</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 extreme 7-sits/ LED/ Pekskärm/ PDC</title>
-    <description>TCe 110 extreme 7-sits/ LED/ Pekskärm/ PDC. Miltal: 1 145 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: JBF67E. Billån från 2 957 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 105 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 105</g:custom_label_0>
+    <description>TCe 110 extreme 7-sits/ LED/ Pekskärm/ PDC. Miltal: 1 145 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: JBF67E. Billån från 2 957 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 106 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 106</g:custom_label_0>
     <g:custom_label_2>2957</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 1 145 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/6e2b21d7-76c8-4753-81a8-55c23c512fb4</link>
@@ -6216,9 +6176,9 @@
     <vehicle_id>d3948096-f68d-49f3-8709-4a7c77b00956</vehicle_id>
     <vehicle_registration_plate>TME76T</vehicle_registration_plate>
     <title>Audi A4</title>
-    <description>Utrustningsnivå: Sport. Miltal: 11 353 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: TME76T. Billån från 2 611 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 108 dagar sedan.</description>
+    <description>Utrustningsnivå: Sport. Miltal: 11 353 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: TME76T. Billån från 2 493 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 108 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 108</g:custom_label_0>
-    <g:custom_label_2>2611</g:custom_label_2>
+    <g:custom_label_2>2493</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 11 353 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/d3948096-f68d-49f3-8709-4a7c77b00956</link>
     <url>https://goingebil.se/sok/id/d3948096-f68d-49f3-8709-4a7c77b00956</url>
@@ -6237,14 +6197,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>219900 SEK</price>
+    <price>209900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>219900 SEK</sale_price>
+    <sale_price>209900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6536,9 +6496,9 @@
     <vehicle_id>2ce47cdb-d416-4656-bb3d-7269b12059de</vehicle_id>
     <vehicle_registration_plate>RBH98N</vehicle_registration_plate>
     <title>Dacia Jogger TCe 110 Extreme 7 platser II</title>
-    <description>TCe 110 Extreme 7 platser II. Miltal: 2 089 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: RBH98N. Billån från 2 968 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 119 dagar sedan.</description>
+    <description>TCe 110 Extreme 7 platser II. Miltal: 2 089 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: RBH98N. Billån från 2 849 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 119 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 119</g:custom_label_0>
-    <g:custom_label_2>2968</g:custom_label_2>
+    <g:custom_label_2>2849</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 2 089 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/2ce47cdb-d416-4656-bb3d-7269b12059de</link>
     <url>https://goingebil.se/sok/id/2ce47cdb-d416-4656-bb3d-7269b12059de</url>
@@ -6557,14 +6517,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
-    <price>249900 SEK</price>
+    <price>239900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>249900 SEK</sale_price>
+    <sale_price>239900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6616,9 +6576,9 @@
     <vehicle_id>c3054515-31b3-4d51-ad3a-a63d27a200a0</vehicle_id>
     <vehicle_registration_plate>BMT75X</vehicle_registration_plate>
     <title>Nissan Leaf 62 kWh N-Connecta 360° Navi/ Rattvärme/ CarPlay</title>
-    <description>62 kWh N-Connecta 360° Navi/ Rattvärme/ CarPlay. Miltal: 4 361 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BMT75X. Billån från 2 849 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 132 dagar sedan.</description>
+    <description>62 kWh N-Connecta 360° Navi/ Rattvärme/ CarPlay. Miltal: 4 361 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BMT75X. Billån från 2 671 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 132 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 132</g:custom_label_0>
-    <g:custom_label_2>2849</g:custom_label_2>
+    <g:custom_label_2>2671</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 4 361 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c3054515-31b3-4d51-ad3a-a63d27a200a0</link>
     <url>https://goingebil.se/sok/id/c3054515-31b3-4d51-ad3a-a63d27a200a0</url>
@@ -6637,14 +6597,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <price>239900 SEK</price>
+    <price>224900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>239900 SEK</sale_price>
+    <sale_price>224900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6732,9 +6692,9 @@
     <vehicle_id>b85a067e-58eb-460e-948d-b4a44d3047b4</vehicle_id>
     <vehicle_registration_plate>YHO703</vehicle_registration_plate>
     <title>Mercedes-Benz E-Klass 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi</title>
-    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 3 205 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 139 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 139</g:custom_label_0>
-    <g:custom_label_2>3205</g:custom_label_2>
+    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Navi. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 2 968 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 140 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 140</g:custom_label_0>
+    <g:custom_label_2>2968</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 17 156 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</link>
     <url>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</url>
@@ -6753,14 +6713,14 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>269900 SEK</price>
+    <price>249900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>269900 SEK</sale_price>
+    <sale_price>249900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6772,9 +6732,9 @@
     <vehicle_id>ebeb552f-83d9-4162-a877-2a2a3ed7118a</vehicle_id>
     <vehicle_registration_plate>ARA11D</vehicle_registration_plate>
     <title>Volvo V60 Recharge T6 Core Edition Dynamiska Led/ Dragkrok</title>
-    <description>Recharge T6 Core Edition Dynamiska Led/ Dragkrok. Utrustningsnivå: Core. Miltal: 15 525 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ARA11D. Billån från 3 551 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 141 dagar sedan.</description>
+    <description>Recharge T6 Core Edition Dynamiska Led/ Dragkrok. Utrustningsnivå: Core. Miltal: 15 525 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ARA11D. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 141 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 141</g:custom_label_0>
-    <g:custom_label_2>3551</g:custom_label_2>
+    <g:custom_label_2>3432</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 15 525 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/ebeb552f-83d9-4162-a877-2a2a3ed7118a</link>
     <url>https://goingebil.se/sok/id/ebeb552f-83d9-4162-a877-2a2a3ed7118a</url>
@@ -6793,14 +6753,14 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
+    <price>289000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>299000 SEK</sale_price>
+    <sale_price>289000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6812,9 +6772,9 @@
     <vehicle_id>c0d9ac1c-9472-4f80-bbd0-b7d74d6c8c29</vehicle_id>
     <vehicle_registration_plate>BYY301</vehicle_registration_plate>
     <title>BMW X5 M-Sport Innovation Edt Pano/ HuD/ Drag/ H/K</title>
-    <description>M-Sport Innovation Edt Pano/ HuD/ Drag/ H/K. Utrustningsnivå: M Sport. Miltal: 12 898 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BYY301. Billån från 3 918 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 147 dagar sedan.</description>
+    <description>M-Sport Innovation Edt Pano/ HuD/ Drag/ H/K. Utrustningsnivå: M Sport. Miltal: 12 898 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BYY301. Billån från 3 680 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 147 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 147</g:custom_label_0>
-    <g:custom_label_2>3918</g:custom_label_2>
+    <g:custom_label_2>3680</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 12 898 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0d9ac1c-9472-4f80-bbd0-b7d74d6c8c29</link>
     <url>https://goingebil.se/sok/id/c0d9ac1c-9472-4f80-bbd0-b7d74d6c8c29</url>
@@ -6833,14 +6793,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <price>329900 SEK</price>
+    <price>309900 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>329900 SEK</sale_price>
+    <sale_price>309900 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
