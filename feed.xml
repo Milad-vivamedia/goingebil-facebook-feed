@@ -1976,7 +1976,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/67e519bff17c44528870079179c049ef/bec0c6acc43b4a2ba7ef8838be4437ef?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/688f1b77-5b04-4c28-9658-55516e9be060/5a999cb5-899f-4899-8a76-50c1f56727e4?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Master</model>
@@ -2897,7 +2897,7 @@
     <transmission>Automatic</transmission>
     <price>367900 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Älmhult</component>
+      <component name="addr1">Göinge Bil Älmhult</component>
       <component name="city">Älmhult</component>
       <component name="region">Älmhult</component>
       <component name="country">SE</component>
