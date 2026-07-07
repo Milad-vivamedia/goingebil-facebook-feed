@@ -7,46 +7,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>84874043-4bad-4812-b73e-f5cc0a5e5c43</vehicle_id>
-    <vehicle_registration_plate>WAY85K</vehicle_registration_plate>
-    <title>BMW 2 Series Active/Gran Tourer/Gran Coupé M-sport/ Kamera/ Navi/ Laddhybrid</title>
-    <description>M-sport/ Kamera/ Navi/ Laddhybrid. Utrustningsnivå: M Sport. Miltal: 6 513 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAY85K. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
-    <g:custom_label_2>3788</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 6 513 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/84874043-4bad-4812-b73e-f5cc0a5e5c43</link>
-    <url>https://goingebil.se/sok/id/84874043-4bad-4812-b73e-f5cc0a5e5c43</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ba07e02cf5144e519f3f7fab8670d725/3ccb92de5fef481cb13e3701323a05bb?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2 Series Active/Gran Tourer/Gran Coupé</model>
-    <year>2024</year>
-    <mileage>
-      <value>65130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9ee432ec-4821-4922-9743-10a72220e9b0</vehicle_id>
     <vehicle_registration_plate>WAP53T</vehicle_registration_plate>
     <title>Renault Captur TCe 140 Equilibre EDC</title>
@@ -883,46 +843,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>fbeff0e2-afa9-4cee-9c29-0b687dfe0164</vehicle_id>
-    <vehicle_registration_plate>TKP97T</vehicle_registration_plate>
-    <title>BMW 3-serie Aut M-Sport/ Navigation/ El-Baklucka/ Skinn klädsel</title>
-    <description>Aut M-Sport/ Navigation/ El-Baklucka/ Skinn klädsel. Utrustningsnivå: M Sport. Miltal: 11 929 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: TKP97T. Billån från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_2>2719</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 929 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/fbeff0e2-afa9-4cee-9c29-0b687dfe0164</link>
-    <url>https://goingebil.se/sok/id/fbeff0e2-afa9-4cee-9c29-0b687dfe0164</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/df2541a04632442b93d8825510a9c1ca/af6bff384a01488e9e60e1a74d208938?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3-serie</model>
-    <year>2019</year>
-    <mileage>
-      <value>119290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -1887,8 +1807,8 @@
     <vehicle_id>b495980a-dcdb-433c-8d7c-19818c11e5a1</vehicle_id>
     <vehicle_registration_plate>XHR81E</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd</title>
-    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
+    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
     <g:custom_label_2>3788</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 620 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b495980a-dcdb-433c-8d7c-19818c11e5a1</link>
@@ -4997,8 +4917,8 @@
     <vehicle_id>d44eb413-1c72-40df-afa7-6131abd6aebd</vehicle_id>
     <vehicle_registration_plate>GFC17T</vehicle_registration_plate>
     <title>Volvo V60 B4 AWD D Adv NaviP Edt Drag/ Skinn/ Värmare/ Kamera/ Navi/ Dynförl/ Akustikrutor</title>
-    <description>B4 AWD D Adv NaviP Edt Drag/ Skinn/ Värmare/ Kamera/ Navi/ Dynförl/ Akustikrutor. Utrustningsnivå: Cross Country Advanced. Miltal: 12 018 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: GFC17T. Billån från 4 145 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
+    <description>B4 AWD D Adv NaviP Edt Drag/ Skinn/ Värmare/ Kamera/ Navi/ Dynförl/ Akustikrutor. Utrustningsnivå: Cross Country Advanced. Miltal: 12 018 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: GFC17T. Billån från 4 145 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 49 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 49</g:custom_label_0>
     <g:custom_label_2>4145</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 12 018 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/d44eb413-1c72-40df-afa7-6131abd6aebd</link>
@@ -6224,8 +6144,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in</title>
-    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 82 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 82</g:custom_label_0>
+    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 83 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 83</g:custom_label_0>
     <g:custom_label_2>3147</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -6264,8 +6184,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 83 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 83</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 84</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -6544,8 +6464,8 @@
     <vehicle_id>1b15acf5-c78b-4cd2-9049-bab918bdc8e2</vehicle_id>
     <vehicle_registration_plate>BXJ05G</vehicle_registration_plate>
     <title>Volvo XC90 T8 Ultra Dark Drag/ Head-up/ H/K/ Pano/ 360/ Navi/ Tonade rutor</title>
-    <description>T8 Ultra Dark Drag/ Head-up/ H/K/ Pano/ 360/ Navi/ Tonade rutor. Utrustningsnivå: Ultra. Miltal: 3 414 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXJ05G. Billån från 8 301 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 110 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 110</g:custom_label_0>
+    <description>T8 Ultra Dark Drag/ Head-up/ H/K/ Pano/ 360/ Navi/ Tonade rutor. Utrustningsnivå: Ultra. Miltal: 3 414 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXJ05G. Billån från 8 301 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 111 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 111</g:custom_label_0>
     <g:custom_label_2>8301</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 3 414 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/1b15acf5-c78b-4cd2-9049-bab918bdc8e2</link>
@@ -6624,8 +6544,8 @@
     <vehicle_id>083d377b-9c22-4fa6-9048-781cdb6b69d9</vehicle_id>
     <vehicle_registration_plate>MZF00S</vehicle_registration_plate>
     <title>Volvo V90 B4 Diesel Mom Adv SE Drag/ Navi Pro/ Kamera/ BLIS/ Värmare/ Tonade rutor</title>
-    <description>B4 Diesel Mom Adv SE Drag/ Navi Pro/ Kamera/ BLIS/ Värmare/ Tonade rutor. Utrustningsnivå: Momentum Advanced. Miltal: 13 098 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MZF00S. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 112 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 112</g:custom_label_0>
+    <description>B4 Diesel Mom Adv SE Drag/ Navi Pro/ Kamera/ BLIS/ Värmare/ Tonade rutor. Utrustningsnivå: Momentum Advanced. Miltal: 13 098 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MZF00S. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 113 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 113</g:custom_label_0>
     <g:custom_label_2>3432</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 13 098 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/083d377b-9c22-4fa6-9048-781cdb6b69d9</link>
@@ -7176,8 +7096,8 @@
     <vehicle_id>b85a067e-58eb-460e-948d-b4a44d3047b4</vehicle_id>
     <vehicle_registration_plate>YHO703</vehicle_registration_plate>
     <title>Mercedes-Benz E-Klass 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Värmare/</title>
-    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Värmare/. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 2 968 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 151 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 151</g:custom_label_0>
+    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Värmare/. Utrustningsnivå: AMG Line. Miltal: 17 156 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 2 968 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 152 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 152</g:custom_label_0>
     <g:custom_label_2>2968</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 17 156 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</link>
