@@ -207,46 +207,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>a287d7d8-5c9d-4cb3-8647-0b26d81aca02</vehicle_id>
-    <vehicle_registration_plate>EJA23U</vehicle_registration_plate>
-    <title>Volkswagen Passat 1.4 TSI DSG 218hk</title>
-    <description>1.4 TSI DSG 218hk. Utrustningsnivå: GTE. Miltal: 8 799 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: EJA23U. Billån från 3 432 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>3432</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 8 799 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/a287d7d8-5c9d-4cb3-8647-0b26d81aca02</link>
-    <url>https://goingebil.se/sok/id/a287d7d8-5c9d-4cb3-8647-0b26d81aca02</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/181d1b85356e448ba34866795af66135/57d81d62b2544d96925b0cf7844bb158?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Passat</model>
-    <year>2023</year>
-    <mileage>
-      <value>87990</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>289000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9efe10b8-d7dd-48f3-a18d-289e6e249529</vehicle_id>
     <vehicle_registration_plate>FRU18P</vehicle_registration_plate>
     <title>Volvo C40 Plus/ Värmepump/ Backamera/</title>
