@@ -1114,8 +1114,8 @@
     <price>365000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">H��ssleholm</component>
-      <component name="region">H��ssleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>365000 SEK</sale_price>
@@ -2527,8 +2527,8 @@
     <vehicle_id>5d080b42-4ea0-453f-bd52-b2e8a9483061</vehicle_id>
     <vehicle_registration_plate>EBT26W</vehicle_registration_plate>
     <title>Ford Transit Connect 1.0 100hk Trend L2 Automat/ Kamera/ Drag/ Skåplås</title>
-    <description>1.0 100hk Trend L2 Automat/ Kamera/ Drag/ Skåplås. Miltal: 7 250 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: EBT26W. Billån från 2 363 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 22 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 22</g:custom_label_0>
+    <description>1.0 100hk Trend L2 Automat/ Kamera/ Drag/ Skåplås. Miltal: 7 250 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: EBT26W. Billån från 2 363 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 23 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 23</g:custom_label_0>
     <g:custom_label_2>2363</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 250 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/5d080b42-4ea0-453f-bd52-b2e8a9483061</link>
@@ -2963,8 +2963,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>661381ae-cd5b-4349-a33a-c9f4cadba66a</vehicle_id>
     <vehicle_registration_plate>GBJ46Y</vehicle_registration_plate>
-    <title>Volkswagen Golf 1.5 eTSI DSG Drag/ Värmare</title>
-    <description>1.5 eTSI DSG Drag/ Värmare. Utrustningsnivå: Base. Miltal: 9 112 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: GBJ46Y. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
+    <title>Volkswagen Golf 1.5 eTSI DSG Drag/ V��rmare</title>
+    <description>1.5 eTSI DSG Drag/ V��rmare. Utrustningsnivå: Base. Miltal: 9 112 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: GBJ46Y. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 28 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 28</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 112 mil</g:custom_label_3>
