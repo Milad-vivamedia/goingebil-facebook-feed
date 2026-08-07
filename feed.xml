@@ -234,8 +234,8 @@
     <price>379000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
+      <component name="city">H��ssleholm</component>
+      <component name="region">H��ssleholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>379000 SEK</sale_price>
@@ -1549,7 +1549,7 @@
     <transmission>Automatic</transmission>
     <price>569000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">G��inge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -4760,9 +4760,8 @@
     <vehicle_id>88f845a0-e42e-44ab-933d-5b16ffb372cd</vehicle_id>
     <vehicle_registration_plate>WAT79T</vehicle_registration_plate>
     <title>Volvo V90 B4 AWD Diesel Core Drag/ Värmare/ Navi/ Kamera/ Dynamiska LED/ Tonade rutor/ LED-ramp</title>
-    <description>B4 AWD Diesel Core Drag/ Värmare/ Navi/ Kamera/ Dynamiska LED/ Tonade rutor/ LED-ramp. Utrustningsnivå: Core. Miltal: 10 307 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: WAT79T. Billån från 5 213 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
+    <description>B4 AWD Diesel Core Drag/ Värmare/ Navi/ Kamera/ Dynamiska LED/ Tonade rutor/ LED-ramp. Utrustningsnivå: Core. Miltal: 10 307 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: WAT79T. Kontakta oss för mer information om detta fordon. Publicerad för 80 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 80</g:custom_label_0>
-    <g:custom_label_2>5213</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 10 307 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/88f845a0-e42e-44ab-933d-5b16ffb372cd</link>
     <url>https://goingebil.se/sok/id/88f845a0-e42e-44ab-933d-5b16ffb372cd</url>
