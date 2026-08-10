@@ -313,7 +313,7 @@
     <transmission>Automatic</transmission>
     <price>389000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="addr1">G��inge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -5510,10 +5510,8 @@
     <vehicle_id>d4fa6218-e2cd-4609-b7ca-fefba441c144</vehicle_id>
     <vehicle_registration_plate>BTJ93G</vehicle_registration_plate>
     <title>Renault Clio TCe 115 techno 5-d /nya modellen/ Google map/ Metallic/ Adapt Farthållare</title>
-    <description>TCe 115 techno 5-d /nya modellen/ Google map/ Metallic/ Adapt Farthållare. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BTJ93G. Privatleasing från 3 990 kr/mån. Billån från 3 597 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 116 dagar sedan.</description>
+    <description>TCe 115 techno 5-d /nya modellen/ Google map/ Metallic/ Adapt Farthållare. Miltal: 0 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BTJ93G. Kontakta oss för mer information om detta fordon. Publicerad för 116 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 116</g:custom_label_0>
-    <g:custom_label_1>3990</g:custom_label_1>
-    <g:custom_label_2>3597</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 0 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/d4fa6218-e2cd-4609-b7ca-fefba441c144</link>
     <url>https://goingebil.se/sok/id/d4fa6218-e2cd-4609-b7ca-fefba441c144</url>
@@ -5547,9 +5545,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in</title>
-    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 117 dagar sedan.</description>
+    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Kontakta oss för mer information om detta fordon. Publicerad för 117 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 117</g:custom_label_0>
-    <g:custom_label_2>3147</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
     <url>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</url>
