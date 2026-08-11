@@ -247,46 +247,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>7294b7ba-e038-4bcf-9c2b-82b5d6e1040e</vehicle_id>
-    <vehicle_registration_plate>XRA00M</vehicle_registration_plate>
-    <title>Mercedes-Benz A-Klass 8G-DCT AMG/ Backkamera/ Widescreen/ Navigation</title>
-    <description>8G-DCT AMG/ Backkamera/ Widescreen/ Navigation. Utrustningsnivå: AMG. Miltal: 4 398 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XRA00M. Billån från 3 551 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>3551</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 4 398 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/7294b7ba-e038-4bcf-9c2b-82b5d6e1040e</link>
-    <url>https://goingebil.se/sok/id/7294b7ba-e038-4bcf-9c2b-82b5d6e1040e</url>
-    <brand>Mercedes-Benz</brand>
-    <make>Mercedes-Benz</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/53f7c9e78e5541cb8546c8cc79894b75/8674b67744cb42cb83d07b5b031bb418?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A-Klass</model>
-    <year>2023</year>
-    <mileage>
-      <value>43980</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>afbfc20c-c836-4cab-8423-ed6dfae48fef</vehicle_id>
     <vehicle_registration_plate>KJD29K</vehicle_registration_plate>
     <title>Toyota RAV4 Fullutrustad/ Drag/ Head-Up/ Ventilerade stolar/ Rattvärme/ 360-kamera/</title>
@@ -370,8 +330,8 @@
     <vehicle_id>bc1200dc-0103-461a-a8f6-e93069318466</vehicle_id>
     <vehicle_registration_plate>YOD242</vehicle_registration_plate>
     <title>Peugeot 3008 1.6 BlueHDi GT-Line Drag</title>
-    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 244 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 4 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 4</g:custom_label_0>
+    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 244 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
     <g:custom_label_2>2244</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 050 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/bc1200dc-0103-461a-a8f6-e93069318466</link>
@@ -1079,46 +1039,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>30c6943a-ff1b-4484-afb1-36acffd3cbe7</vehicle_id>
-    <vehicle_registration_plate>XCR95L</vehicle_registration_plate>
-    <title>Polestar 2</title>
-    <description>Miltal: 4 583 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: XCR95L. Billån från 4 263 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
-    <g:custom_label_2>4263</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 4 583 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/30c6943a-ff1b-4484-afb1-36acffd3cbe7</link>
-    <url>https://goingebil.se/sok/id/30c6943a-ff1b-4484-afb1-36acffd3cbe7</url>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/b7552eb34ade4402b2aeab99766725dc/02ef023dee8c4e20b242faac0a5cfc7a?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2024</year>
-    <mileage>
-      <value>45830</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>359000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -2923,8 +2843,8 @@
     <vehicle_id>b495980a-dcdb-433c-8d7c-19818c11e5a1</vehicle_id>
     <vehicle_registration_plate>XHR81E</vehicle_registration_plate>
     <title>Volvo XC40 Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd</title>
-    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
+    <description>Recharge T4 Ins Expr Navi/ Kamera/ BLIS/ Värmare/ Förarstöd. Utrustningsnivå: Inscription Expression. Miltal: 7 620 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XHR81E. Billån från 3 788 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 49 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 49</g:custom_label_0>
     <g:custom_label_2>3788</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 620 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b495980a-dcdb-433c-8d7c-19818c11e5a1</link>
@@ -5667,8 +5587,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in</title>
-    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 117 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 117</g:custom_label_0>
+    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 118 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 118</g:custom_label_0>
     <g:custom_label_2>3147</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -5707,8 +5627,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 118 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 118</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 119 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 119</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
