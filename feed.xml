@@ -330,10 +330,10 @@
     <vehicle_id>de3630d5-d67b-43da-b0b9-e4b8a14b456d</vehicle_id>
     <vehicle_registration_plate>JAX04U</vehicle_registration_plate>
     <title>Volvo V60 T6 Core Bright/ Infällbart drag/ Backkamera/ Google Maps/ Klimat-paket</title>
-    <description>T6 Core Bright/ Infällbart drag/ Backkamera/ Google Maps/ Klimat-paket. Utrustningsnivå: Core. Miltal: 5 000 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JAX04U. Billån från 4 976 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
+    <description>T6 Core Bright/ Infällbart drag/ Backkamera/ Google Maps/ Klimat-paket. Utrustningsnivå: Core. Miltal: 5 001 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JAX04U. Billån från 4 976 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
     <g:custom_label_2>4976</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 5 000 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 5 001 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/de3630d5-d67b-43da-b0b9-e4b8a14b456d</link>
     <url>https://goingebil.se/sok/id/de3630d5-d67b-43da-b0b9-e4b8a14b456d</url>
     <brand>Volvo</brand>
@@ -345,7 +345,7 @@
     <model>V60</model>
     <year>2025</year>
     <mileage>
-      <value>50000</value>
+      <value>50010</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -1646,10 +1646,10 @@
     <vehicle_id>37914552-5075-4679-9de8-a76f06030a55</vehicle_id>
     <vehicle_registration_plate>JAR20H</vehicle_registration_plate>
     <title>Kia Sportage 1.6 T-GDI AWD AUT ADVANCE 360-kamera/Navi/Harman Kardon</title>
-    <description>1.6 T-GDI AWD AUT ADVANCE 360-kamera/Navi/Harman Kardon. Utrustningsnivå: Advance. Miltal: 8 954 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JAR20H. Billån från 3 907 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
+    <description>1.6 T-GDI AWD AUT ADVANCE 360-kamera/Navi/Harman Kardon. Utrustningsnivå: Advance. Miltal: 8 984 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JAR20H. Billån från 3 907 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 32 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 32</g:custom_label_0>
     <g:custom_label_2>3907</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 8 954 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 8 984 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/37914552-5075-4679-9de8-a76f06030a55</link>
     <url>https://goingebil.se/sok/id/37914552-5075-4679-9de8-a76f06030a55</url>
     <brand>Kia</brand>
@@ -1661,7 +1661,7 @@
     <model>Sportage</model>
     <year>2024</year>
     <mileage>
-      <value>89540</value>
+      <value>89840</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
