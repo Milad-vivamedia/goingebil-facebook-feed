@@ -367,86 +367,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3b958724-14df-4149-a19a-b50bdba79eb5</vehicle_id>
-    <vehicle_registration_plate>UCF77F</vehicle_registration_plate>
-    <title>Kia Niro Advance Plus/ Elstol/ LED/ Ventilerade stolar/ Rattv./ Tonade rutor</title>
-    <description>Advance Plus/ Elstol/ LED/ Ventilerade stolar/ Rattv./ Tonade rutor. Utrustningsnivå: Advance Plus. Miltal: 8 955 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: UCF77F. Billån från 2 838 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
-    <g:custom_label_2>2838</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 8 955 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/3b958724-14df-4149-a19a-b50bdba79eb5</link>
-    <url>https://goingebil.se/sok/id/3b958724-14df-4149-a19a-b50bdba79eb5</url>
-    <brand>Kia</brand>
-    <make>Kia</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ebd06e719623410e80b2408e28ab6d5d/3b6eb9cc082a49e59ffb123cbe47aa67?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Niro</model>
-    <year>2022</year>
-    <mileage>
-      <value>89550</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>239000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>239000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>e5d5c66b-0915-4963-bfa1-66ba83209d2f</vehicle_id>
-    <vehicle_registration_plate>DZS54F</vehicle_registration_plate>
-    <title>Renault Clio TCe 100 Intens 5-d / Klimator/ Backsensorer/ Rattvärme</title>
-    <description>TCe 100 Intens 5-d / Klimator/ Backsensorer/ Rattvärme. Utrustningsnivå: Intens. Miltal: 6 788 mil. Årsmodell: 2020. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: DZS54F. Billån från 1 532 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
-    <g:custom_label_2>1532</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 6 788 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/e5d5c66b-0915-4963-bfa1-66ba83209d2f</link>
-    <url>https://goingebil.se/sok/id/e5d5c66b-0915-4963-bfa1-66ba83209d2f</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/fd520a9586714fa1acd219b7356ee22f/6ebf210714294c4fbb79d737088aa00c?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2020</year>
-    <mileage>
-      <value>67880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>129000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>129000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>de3630d5-d67b-43da-b0b9-e4b8a14b456d</vehicle_id>
     <vehicle_registration_plate>JAX04U</vehicle_registration_plate>
     <title>Volvo V60 T6 Core Bright/ Infällbart drag/ Backkamera/ Google Maps/ Klimat-paket</title>
@@ -5068,46 +4988,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>359000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>0d148997-9c9c-485f-9fc8-8391f0c8b502</vehicle_id>
-    <vehicle_registration_plate>BFP03Z</vehicle_registration_plate>
-    <title>Volvo V60 B4 Diesel Momentum Advanced SE/Backkamera/Navi/Dragkrok/HK Ljud</title>
-    <description>B4 Diesel Momentum Advanced SE/Backkamera/Navi/Dragkrok/HK Ljud. Utrustningsnivå: Momentum Advanced. Miltal: 15 886 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BFP03Z. Billån från 2 957 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 100 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 100</g:custom_label_0>
-    <g:custom_label_2>2957</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 15 886 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/0d148997-9c9c-485f-9fc8-8391f0c8b502</link>
-    <url>https://goingebil.se/sok/id/0d148997-9c9c-485f-9fc8-8391f0c8b502</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/2b7127d676394225be8c4d404d38dee6/0681a8f49ab54b8e85127727609545f4?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2021</year>
-    <mileage>
-      <value>158860</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>249000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>249000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
