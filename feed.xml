@@ -1153,7 +1153,7 @@
     <transmission>Automatic</transmission>
     <price>259000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -4525,8 +4525,9 @@
     <vehicle_id>3c68e2d1-a8f9-4100-900b-58bc0aef6328</vehicle_id>
     <vehicle_registration_plate>FWW01N</vehicle_registration_plate>
     <title>Volkswagen Passat 1.5 DSG 150hk Drag/ bakkamera/ Rattvärme/ Nav/</title>
-    <description>1.5 DSG 150hk Drag/ bakkamera/ Rattvärme/ Nav/. Utrustningsnivå: Business. Miltal: 6 894 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: FWW01N. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
+    <description>1.5 DSG 150hk Drag/ bakkamera/ Rattvärme/ Nav/. Utrustningsnivå: Business. Miltal: 6 894 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: FWW01N. Billån från 4 026 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 84 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 84</g:custom_label_0>
+    <g:custom_label_2>4026</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 6 894 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/3c68e2d1-a8f9-4100-900b-58bc0aef6328</link>
     <url>https://goingebil.se/sok/id/3c68e2d1-a8f9-4100-900b-58bc0aef6328</url>
