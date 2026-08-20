@@ -807,46 +807,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>586f7850-4ff9-49b0-ae13-8fef12e8b913</vehicle_id>
-    <vehicle_registration_plate>ODA43S</vehicle_registration_plate>
-    <title>Land Rover Range Rover Evoque 1,8i E WWVJ 5-d</title>
-    <description>1,8i E WWVJ 5-d. Miltal: 15 596 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ODA43S. Billån från 2 719 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
-    <g:custom_label_2>2719</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 15 596 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/586f7850-4ff9-49b0-ae13-8fef12e8b913</link>
-    <url>https://goingebil.se/sok/id/586f7850-4ff9-49b0-ae13-8fef12e8b913</url>
-    <brand>Land Rover</brand>
-    <make>Land Rover</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/46f25beb1cfc4e59bf9cfd810abacae9/790995254cc84a56a246a21e5861b43d?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Range Rover Evoque</model>
-    <year>2020</year>
-    <mileage>
-      <value>155960</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>229000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>229000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ad577130-040e-48a1-b8bf-f622f5046734</vehicle_id>
     <vehicle_registration_plate>ZRL83C</vehicle_registration_plate>
     <title>Volkswagen Passat 1.4 TSI DSG Drag/ Värmare/ Navi/ Kamera</title>
