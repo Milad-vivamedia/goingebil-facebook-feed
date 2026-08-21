@@ -607,46 +607,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>f544800d-9581-465f-b1e1-c8f964d29bc8</vehicle_id>
-    <vehicle_registration_plate>OFR63R</vehicle_registration_plate>
-    <title>Volkswagen ID.3</title>
-    <description>Utrustningsnivå: Pro. Miltal: 9 128 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: OFR63R. Billån från 2 482 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
-    <g:custom_label_2>2482</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 9 128 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/f544800d-9581-465f-b1e1-c8f964d29bc8</link>
-    <url>https://goingebil.se/sok/id/f544800d-9581-465f-b1e1-c8f964d29bc8</url>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/063f42a9dffd46438d723840deddddfe/cf5f9d5b28f24619bf2eefe3bf990651?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>ID.3</model>
-    <year>2022</year>
-    <mileage>
-      <value>91280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>209000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>209000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>dc98b036-ec08-4db9-b64a-7cc133bcfca7</vehicle_id>
     <vehicle_registration_plate>WMC491</vehicle_registration_plate>
     <title>Ford S-Max 2.0 TDCi 180 Business A AWD 5-d Drag/ 7-sits/ Carplay/ Elstol/</title>
@@ -1250,8 +1210,8 @@
     <vehicle_id>bc1200dc-0103-461a-a8f6-e93069318466</vehicle_id>
     <vehicle_registration_plate>YOD242</vehicle_registration_plate>
     <title>Peugeot 3008 1.6 BlueHDi GT-Line Drag</title>
-    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 244 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
+    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 244 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 15 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 15</g:custom_label_0>
     <g:custom_label_2>2244</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 050 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/bc1200dc-0103-461a-a8f6-e93069318466</link>
@@ -5796,8 +5756,9 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in</title>
-    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Kontakta oss för mer information om detta fordon. Publicerad för 127 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 127</g:custom_label_0>
+    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 3 147 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 128 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 128</g:custom_label_0>
+    <g:custom_label_2>3147</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
     <url>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</url>
@@ -5835,8 +5796,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 128 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 128</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 3 194 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 129 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 129</g:custom_label_0>
     <g:custom_label_2>3194</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
