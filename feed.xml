@@ -995,10 +995,10 @@
     <vehicle_id>385f4966-b130-4528-b9e1-5b45b5b369c9</vehicle_id>
     <vehicle_registration_plate>HLH898</vehicle_registration_plate>
     <title>Volvo V60 D3 Momentum Edition</title>
-    <description>D3 Momentum Edition. Utrustningsnivå: Momentum. Miltal: 19 255 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HLH898. Billån från 2 363 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
+    <description>D3 Momentum Edition. Utrustningsnivå: Momentum. Miltal: 19 256 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: HLH898. Billån från 2 363 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
     <g:custom_label_2>2363</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 19 255 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 19 256 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/385f4966-b130-4528-b9e1-5b45b5b369c9</link>
     <url>https://goingebil.se/sok/id/385f4966-b130-4528-b9e1-5b45b5b369c9</url>
     <brand>Volvo</brand>
@@ -1010,7 +1010,7 @@
     <model>V60</model>
     <year>2019</year>
     <mileage>
-      <value>192550</value>
+      <value>192560</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -4808,10 +4808,10 @@
     <vehicle_id>22f99ff7-5143-49a6-800b-3ed90385404d</vehicle_id>
     <vehicle_registration_plate>GJF68H</vehicle_registration_plate>
     <title>XPENG G9 Demobil, ring för visning</title>
-    <description>Demobil, ring för visning. Miltal: 2 694 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: GJF68H. Billån från 8 657 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 82 dagar sedan.</description>
+    <description>Demobil, ring för visning. Miltal: 4 694 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: GJF68H. Billån från 8 657 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 82 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 82</g:custom_label_0>
     <g:custom_label_2>8657</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 2 694 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 4 694 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/22f99ff7-5143-49a6-800b-3ed90385404d</link>
     <url>https://goingebil.se/sok/id/22f99ff7-5143-49a6-800b-3ed90385404d</url>
     <brand>XPENG</brand>
@@ -4823,7 +4823,7 @@
     <model>G9</model>
     <year>2025</year>
     <mileage>
-      <value>26940</value>
+      <value>46940</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
