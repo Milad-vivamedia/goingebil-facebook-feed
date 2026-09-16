@@ -59,7 +59,7 @@
     <brand>Volvo</brand>
     <make>Volvo</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/e3c60554e077415185b93d956b944cb9/0c039a3855be4d468af5ce4e44b0e2d4?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/e3c60554e077415185b93d956b944cb9/0c039a3855be4d468af5ce4e44b0e2d4?format=jpeg&amp;w=770&amp;overlay=ee188c7a-c36f-4c3b-8f97-6071d32ea198</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -170,10 +170,10 @@
     <vehicle_id>97fa8b47-c03e-4c3e-9cf3-36031516e1cc</vehicle_id>
     <vehicle_registration_plate>TBN66J</vehicle_registration_plate>
     <title>Peugeot 208</title>
-    <description>Utrustningsnivå: Active Pack. Miltal: 9 000 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TBN66J. Billån från 1 536 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <description>Utrustningsnivå: Active Pack. Miltal: 9 207 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TBN66J. Billån från 1 536 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>1536</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 9 000 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 9 207 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/97fa8b47-c03e-4c3e-9cf3-36031516e1cc</link>
     <url>https://goingebil.se/sok/id/97fa8b47-c03e-4c3e-9cf3-36031516e1cc</url>
     <brand>Peugeot</brand>
@@ -185,7 +185,7 @@
     <model>208</model>
     <year>2020</year>
     <mileage>
-      <value>90000</value>
+      <value>92070</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -649,8 +649,8 @@
     <vehicle_id>bfc65b46-c33e-4193-b3e5-022970df3af4</vehicle_id>
     <vehicle_registration_plate>AKW00L</vehicle_registration_plate>
     <title>Volvo V60 B4 Diesel Core</title>
-    <description>B4 Diesel Core. Utrustningsnivå: Core. Miltal: 7 260 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKW00L. Billån från 3 303 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 5 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 5</g:custom_label_0>
+    <description>B4 Diesel Core. Utrustningsnivå: Core. Miltal: 7 260 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKW00L. Billån från 3 303 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
     <g:custom_label_2>3303</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 260 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/bfc65b46-c33e-4193-b3e5-022970df3af4</link>
@@ -3020,10 +3020,10 @@
     <vehicle_id>9f795b7b-2425-4766-b89f-6cd585fb4717</vehicle_id>
     <vehicle_registration_plate>JBO215</vehicle_registration_plate>
     <title>Kia Sportage 2,0 CRDI AWD 185 HK</title>
-    <description>2,0 CRDI AWD 185 HK. Utrustningsnivå: Advance. Miltal: 13 201 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: JBO215. Billån från 1 867 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 26 dagar sedan.</description>
+    <description>2,0 CRDI AWD 185 HK. Utrustningsnivå: Advance. Miltal: 13 607 mil. Årsmodell: 2016. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: JBO215. Billån från 1 867 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 26 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 26</g:custom_label_0>
     <g:custom_label_2>1867</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 13 201 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 13 607 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/9f795b7b-2425-4766-b89f-6cd585fb4717</link>
     <url>https://goingebil.se/sok/id/9f795b7b-2425-4766-b89f-6cd585fb4717</url>
     <brand>Kia</brand>
@@ -3035,7 +3035,7 @@
     <model>Sportage</model>
     <year>2016</year>
     <mileage>
-      <value>132010</value>
+      <value>136070</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -3976,10 +3976,10 @@
     <vehicle_id>429bcf1d-ff40-4c01-953a-52e618f3f87a</vehicle_id>
     <vehicle_registration_plate>DTW50F</vehicle_registration_plate>
     <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: DTW50F. Billån från 4 960 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 57 dagar sedan.</description>
+    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 4 492 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: DTW50F. Billån från 4 960 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 57 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 57</g:custom_label_0>
     <g:custom_label_2>4960</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 4 400 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 4 492 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/429bcf1d-ff40-4c01-953a-52e618f3f87a</link>
     <url>https://goingebil.se/sok/id/429bcf1d-ff40-4c01-953a-52e618f3f87a</url>
     <brand>Volvo</brand>
@@ -3991,7 +3991,7 @@
     <model>XC60</model>
     <year>2023</year>
     <mileage>
-      <value>44000</value>
+      <value>44920</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
