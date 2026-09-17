@@ -125,8 +125,8 @@
     <fb_product_category>173</fb_product_category>
     <vehicle_id>b81d61c2-bc73-4893-bcbe-f08e453134b1</vehicle_id>
     <vehicle_registration_plate>HWS47A</vehicle_registration_plate>
-    <title>Renault Captur PHEV Zen CVT II Säljs nyservad/ Navi / Keyless/ Lågmil</title>
-    <description>PHEV Zen CVT II Säljs nyservad/ Navi / Keyless/ Lågmil. Miltal: 1 933 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HWS47A. Billån från 2 419 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <title>Renault Captur Zen Säljs nyservad/ Navi / Keyless/ Lågmil</title>
+    <description>Zen Säljs nyservad/ Navi / Keyless/ Lågmil. Miltal: 1 933 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HWS47A. Billån från 2 419 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
     <g:custom_label_2>2419</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 1 933 mil</g:custom_label_3>
@@ -846,8 +846,8 @@
     <vehicle_id>bfc65b46-c33e-4193-b3e5-022970df3af4</vehicle_id>
     <vehicle_registration_plate>AKW00L</vehicle_registration_plate>
     <title>Volvo V60 B4 Diesel Core</title>
-    <description>B4 Diesel Core. Utrustningsnivå: Core. Miltal: 7 260 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKW00L. Billån från 3 303 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
+    <description>B4 Diesel Core. Utrustningsnivå: Core. Miltal: 7 260 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: AKW00L. Billån från 3 303 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
     <g:custom_label_2>3303</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 260 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/bfc65b46-c33e-4193-b3e5-022970df3af4</link>
@@ -4013,10 +4013,10 @@
     <vehicle_id>a41fff46-7199-4a6c-877e-65bf07a33cd0</vehicle_id>
     <vehicle_registration_plate>RCB19H</vehicle_registration_plate>
     <title>Renault 5 E-Tech R5 techno 52kWh</title>
-    <description>R5 techno 52kWh. Miltal: 551 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RCB19H. Billån från 3 634 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 55 dagar sedan.</description>
+    <description>R5 techno 52kWh. Miltal: 554 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RCB19H. Billån från 3 634 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 55 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 55</g:custom_label_0>
     <g:custom_label_2>3634</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 551 mil</g:custom_label_3>
+    <g:custom_label_3>Mätarställning: 554 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/a41fff46-7199-4a6c-877e-65bf07a33cd0</link>
     <url>https://goingebil.se/sok/id/a41fff46-7199-4a6c-877e-65bf07a33cd0</url>
     <brand>Renault</brand>
@@ -4028,7 +4028,7 @@
     <model>5 E-Tech</model>
     <year>2025</year>
     <mileage>
-      <value>5510</value>
+      <value>5540</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
