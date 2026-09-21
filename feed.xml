@@ -353,7 +353,7 @@
     <transmission>Automatic</transmission>
     <price>309000 SEK</price>
     <address format="simple">
-      <component name="addr1">G��inge Bil Hässleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -1446,8 +1446,9 @@
     <vehicle_id>7b120588-0d19-4e58-9feb-e02d39619874</vehicle_id>
     <vehicle_registration_plate>BFH63Y</vehicle_registration_plate>
     <title>Volvo V60 Recharge T6 II Inscription 99% SOH/ Läder/ Drag/ Kamera/ Navi/ Tonade rutor</title>
-    <description>Recharge T6 II Inscription 99% SOH/ Läder/ Drag/ Kamera/ Navi/ Tonade rutor. Utrustningsnivå: Inscription. Miltal: 14 215 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BFH63Y. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
+    <description>Recharge T6 II Inscription 99% SOH/ Läder/ Drag/ Kamera/ Navi/ Tonade rutor. Utrustningsnivå: Inscription. Miltal: 14 215 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BFH63Y. Billån från 3 524 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 14 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 14</g:custom_label_0>
+    <g:custom_label_2>3524</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 14 215 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/7b120588-0d19-4e58-9feb-e02d39619874</link>
     <url>https://goingebil.se/sok/id/7b120588-0d19-4e58-9feb-e02d39619874</url>
