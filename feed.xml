@@ -643,46 +643,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>b81d61c2-bc73-4893-bcbe-f08e453134b1</vehicle_id>
-    <vehicle_registration_plate>HWS47A</vehicle_registration_plate>
-    <title>Renault Captur Zen Nyservad/ Navi / Keyless/ Lågmil</title>
-    <description>Zen Nyservad/ Navi / Keyless/ Lågmil. Miltal: 1 933 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HWS47A. Billån från 2 419 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
-    <g:custom_label_2>2419</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 1 933 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/b81d61c2-bc73-4893-bcbe-f08e453134b1</link>
-    <url>https://goingebil.se/sok/id/b81d61c2-bc73-4893-bcbe-f08e453134b1</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/999cfd2a1a9145f8b85ecccc16ab4305/d0b4d517913f4a87b5f8bb5bf1e18c1f?format=jpeg&amp;w=770&amp;overlay=c44aef8d-90d4-45b5-a309-cd5e45c753f1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2023</year>
-    <mileage>
-      <value>19330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>219000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>219000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9692bf54-c402-4797-93ad-1f6187099182</vehicle_id>
     <vehicle_registration_plate>JHE635</vehicle_registration_plate>
     <title>Volvo V70 D3 S/S Momentum Business Edition Drag/ Skinn/ SportChassi/</title>
@@ -959,46 +919,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>5d257324-d012-4223-a713-7384e0fb62e3</vehicle_id>
-    <vehicle_registration_plate>XNH85K</vehicle_registration_plate>
-    <title>Volvo C40 Core Klimat/ Värmepump/ Tonade rutor</title>
-    <description>Core Klimat/ Värmepump/ Tonade rutor. Utrustningsnivå: Core. Miltal: 8 523 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: XNH85K. Billån från 3 524 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 11 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 11</g:custom_label_0>
-    <g:custom_label_2>3524</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 8 523 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/5d257324-d012-4223-a713-7384e0fb62e3</link>
-    <url>https://goingebil.se/sok/id/5d257324-d012-4223-a713-7384e0fb62e3</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/bf90a30c4a5a4c048e3962b2c6b8e8c3/ddba8c20b46b4f43b2c4d578d1309f23?format=jpeg&amp;w=770&amp;overlay=a9049abe-d86a-4183-be16-5f323d75e6f8</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>85230</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>319000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -1926,9 +1846,8 @@
     <vehicle_id>2c0cf26f-6097-4149-8047-ddfee7cf30db</vehicle_id>
     <vehicle_registration_plate>WAS116</vehicle_registration_plate>
     <title>Kia EV6 77.4 kWh PLUS AWD Dragkrok</title>
-    <description>77.4 kWh PLUS AWD Dragkrok. Utrustningsnivå: Base. Miltal: 8 348 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAS116. Billån från 4 629 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
+    <description>77.4 kWh PLUS AWD Dragkrok. Utrustningsnivå: Base. Miltal: 8 348 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAS116. Kontakta oss för mer information om detta fordon. Publicerad för 20 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 20</g:custom_label_0>
-    <g:custom_label_2>4629</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 8 348 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/2c0cf26f-6097-4149-8047-ddfee7cf30db</link>
     <url>https://goingebil.se/sok/id/2c0cf26f-6097-4149-8047-ddfee7cf30db</url>
@@ -3657,8 +3576,8 @@
     <vehicle_id>bc1200dc-0103-461a-a8f6-e93069318466</vehicle_id>
     <vehicle_registration_plate>YOD242</vehicle_registration_plate>
     <title>Peugeot 3008 1.6 BlueHDi GT-Line Drag</title>
-    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 46 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 46</g:custom_label_0>
+    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
     <g:custom_label_2>2088</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 050 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/bc1200dc-0103-461a-a8f6-e93069318466</link>
@@ -6374,8 +6293,8 @@
     <vehicle_id>866b6cfd-5c6f-4e28-ab7e-bab5242b0093</vehicle_id>
     <vehicle_registration_plate>SXE176</vehicle_registration_plate>
     <title>BMW 2 Series Active/Gran Tourer/Gran Coupé Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in</title>
-    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 2 927 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 159 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 159</g:custom_label_0>
+    <description>Tourer/ Drag/ Navi/ Kamera/ Elbaklucka/ Plug-in. Miltal: 9 257 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SXE176. Billån från 2 927 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 160 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 160</g:custom_label_0>
     <g:custom_label_2>2927</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 257 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/866b6cfd-5c6f-4e28-ab7e-bab5242b0093</link>
@@ -6414,8 +6333,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 160 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 160</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 161 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 161</g:custom_label_0>
     <g:custom_label_2>2751</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
