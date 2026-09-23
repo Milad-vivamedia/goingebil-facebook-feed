@@ -87,46 +87,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>9ae6e15a-823e-4cf5-aaea-166fac39f8a2</vehicle_id>
-    <vehicle_registration_plate>YUT42L</vehicle_registration_plate>
-    <title>Škoda Enyaq iV 204hk Dragkrok/ Navi/ Kamera</title>
-    <description>204hk Dragkrok/ Navi/ Kamera. Utrustningsnivå: iV80. Miltal: 5 541 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: YUT42L. Billån från 4 307 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
-    <g:custom_label_2>4307</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 5 541 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/9ae6e15a-823e-4cf5-aaea-166fac39f8a2</link>
-    <url>https://goingebil.se/sok/id/9ae6e15a-823e-4cf5-aaea-166fac39f8a2</url>
-    <brand>Škoda</brand>
-    <make>Škoda</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/57ecf028c3f34979ae60e82a4e999068/06807ca552c84e8f846859cd39b3dff3?format=jpeg&amp;w=770&amp;overlay=ee188c7a-c36f-4c3b-8f97-6071d32ea198</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Enyaq iV</model>
-    <year>2023</year>
-    <mileage>
-      <value>55410</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389900 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389900 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>7bb749dc-6861-4978-a9fd-1edab63ba443</vehicle_id>
     <vehicle_registration_plate>YWK127</vehicle_registration_plate>
     <title>Škoda Kodiaq 7-Seater 2.0 TDI 4x4 DSG</title>
@@ -3014,46 +2974,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2b526463-edd3-4a80-aea1-d45e1ca7624d</vehicle_id>
-    <vehicle_registration_plate>MWY02U</vehicle_registration_plate>
-    <title>Peugeot 5008 2,0 BlueHDi GT-Line 180/ AGR-Stolar/ Skinn/ Avtabart Drag/ 360 backkamera</title>
-    <description>2,0 BlueHDi GT-Line 180/ AGR-Stolar/ Skinn/ Avtabart Drag/ 360 backkamera. Miltal: 13 531 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MWY02U. Billån från 2 463 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 33 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 33</g:custom_label_0>
-    <g:custom_label_2>2463</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 13 531 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/2b526463-edd3-4a80-aea1-d45e1ca7624d</link>
-    <url>https://goingebil.se/sok/id/2b526463-edd3-4a80-aea1-d45e1ca7624d</url>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/5d293656efdb49cdbb105c1243777ec3/f956546cbcf24c82acea38ba1e8a73b5?format=jpeg&amp;w=770&amp;overlay=831cdcd8-e673-49fe-b959-972a1f136ac1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5008</model>
-    <year>2019</year>
-    <mileage>
-      <value>135310</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>223000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>223000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>76d46ce1-b2cf-4f21-b820-98931fe3c10e</vehicle_id>
     <vehicle_registration_plate>RCW20H</vehicle_registration_plate>
     <title>Renault Captur PhII Mildhybrid 140 techno EDC</title>
@@ -3657,8 +3577,8 @@
     <vehicle_id>bc1200dc-0103-461a-a8f6-e93069318466</vehicle_id>
     <vehicle_registration_plate>YOD242</vehicle_registration_plate>
     <title>Peugeot 3008 1.6 BlueHDi GT-Line Drag</title>
-    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 47 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 47</g:custom_label_0>
+    <description>1.6 BlueHDi GT-Line Drag. Utrustningsnivå: GT-Line. Miltal: 7 050 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YOD242. Billån från 2 088 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 48 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 48</g:custom_label_0>
     <g:custom_label_2>2088</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 7 050 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/bc1200dc-0103-461a-a8f6-e93069318466</link>
@@ -3876,7 +3796,7 @@
     <transmission>Automatic</transmission>
     <price>389000 SEK</price>
     <address format="simple">
-      <component name="addr1">Göinge Bil H��ssleholm</component>
+      <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
@@ -6414,8 +6334,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 161 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 161</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 685 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 162 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 162</g:custom_label_0>
     <g:custom_label_2>2751</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 685 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -6443,46 +6363,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>249000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>55947011-b57d-4993-876b-a3547887e1d4</vehicle_id>
-    <vehicle_registration_plate>LGD11W</vehicle_registration_plate>
-    <title>Renault Clio phII TCe 90 Evolution Rattvärme/ P-Sensor/ Pure Vision LED</title>
-    <description>phII TCe 90 Evolution Rattvärme/ P-Sensor/ Pure Vision LED. Utrustningsnivå: Evolution. Miltal: 385 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: LGD11W. Billån från 1 977 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 166 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 166</g:custom_label_0>
-    <g:custom_label_2>1977</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 385 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/55947011-b57d-4993-876b-a3547887e1d4</link>
-    <url>https://goingebil.se/sok/id/55947011-b57d-4993-876b-a3547887e1d4</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/29979fed5ecc476c921e76ce558b9dd0/2878c746d9bc4c8788954cffbf5b0200?format=jpeg&amp;w=770&amp;overlay=831cdcd8-e673-49fe-b959-972a1f136ac1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2025</year>
-    <mileage>
-      <value>3850</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>179000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>179000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
