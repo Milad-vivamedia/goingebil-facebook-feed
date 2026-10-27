@@ -59,7 +59,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/40ec3150d3c2424aa73b8c8e02fc64bc/0802943584f5435ebdfb52632617f7db?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/1482bb4ca22642eba05fc66a516fece4/2f85c57343e74470ba01d4133e3f3c04?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Clio</model>
@@ -1127,46 +1127,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3d75b232-5e3f-4956-b373-89e2a81e127c</vehicle_id>
-    <vehicle_registration_plate>WJR741</vehicle_registration_plate>
-    <title>Volvo XC60 T5 II AWD Business Advanced/Backkamera/Navi/Dragkrok/BLIS/Värmare</title>
-    <description>T5 II AWD Business Advanced/Backkamera/Navi/Dragkrok/BLIS/Värmare. Utrustningsnivå: Momentum Pro Edition. Miltal: 15 702 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WJR741. Billån från 2 972 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 13 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 13</g:custom_label_0>
-    <g:custom_label_2>2972</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 15 702 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/3d75b232-5e3f-4956-b373-89e2a81e127c</link>
-    <url>https://goingebil.se/sok/id/3d75b232-5e3f-4956-b373-89e2a81e127c</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/9b9ab81652784a1684db86f69bd18be6/4ff616684d2449179a30cff7812c242c?format=jpeg&amp;w=770&amp;overlay=c44aef8d-90d4-45b5-a309-cd5e45c753f1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2018</year>
-    <mileage>
-      <value>157020</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>269000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Osby</component>
-      <component name="city">Osby</component>
-      <component name="region">Osby</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>269000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>9d8a5563-c5aa-4c30-815b-c2a75b79a5e6</vehicle_id>
     <vehicle_registration_plate>CKU04R</vehicle_registration_plate>
     <title>Kia Optima Advance Plus 2 Dragkrok/ 360 Kamera/ Panorama-Tak</title>
@@ -2158,46 +2118,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>399000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>53b676a7-baac-49b7-b59b-6b08ee2da6e0</vehicle_id>
-    <vehicle_registration_plate>AJP184</vehicle_registration_plate>
-    <title>BMW 3-serie Gran Turismo 184hk</title>
-    <description>Gran Turismo 184hk. Utrustningsnivå: Sport line. Miltal: 11 762 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: AJP184. Billån från 2 198 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 21 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 21</g:custom_label_0>
-    <g:custom_label_2>2198</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 11 762 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/53b676a7-baac-49b7-b59b-6b08ee2da6e0</link>
-    <url>https://goingebil.se/sok/id/53b676a7-baac-49b7-b59b-6b08ee2da6e0</url>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/50e6695040c64be0a10b988bc413825e/493b29b3325a49fd964a3a8481c15a02?format=jpeg&amp;w=770&amp;overlay=a9049abe-d86a-4183-be16-5f323d75e6f8</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3-serie</model>
-    <year>2019</year>
-    <mileage>
-      <value>117620</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>199000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>199000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
