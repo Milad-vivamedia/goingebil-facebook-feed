@@ -7,6 +7,46 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>2774a6fe-4bb5-42dd-967b-2f165417346a</vehicle_id>
+    <vehicle_registration_plate>FBD25R</vehicle_registration_plate>
+    <title>Polestar 2 78kWh Plus</title>
+    <description>78kWh Plus. Miltal: 10 914 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: FBD25R. Billån från 3 745 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 0 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 0</g:custom_label_0>
+    <g:custom_label_2>3745</g:custom_label_2>
+    <g:custom_label_3>Mätarställning: 10 914 mil</g:custom_label_3>
+    <link>https://goingebil.se/sok/id/2774a6fe-4bb5-42dd-967b-2f165417346a</link>
+    <url>https://goingebil.se/sok/id/2774a6fe-4bb5-42dd-967b-2f165417346a</url>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/8722950627ae455ea572247a48cb12f4/044996e772704258be5789f392e5a95f?format=jpeg&amp;w=770&amp;overlay=a9049abe-d86a-4183-be16-5f323d75e6f8</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>109140</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>339000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Göinge Bil Hässleholm</component>
+      <component name="city">Hässleholm</component>
+      <component name="region">Hässleholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>339000 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>fe8364f2-bd8e-4667-a0de-faf88e045711</vehicle_id>
     <vehicle_registration_plate>XUJ01R</vehicle_registration_plate>
     <title>Tesla Model Y 534hk/ Dragkrok/ Autopilot</title>
@@ -239,46 +279,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>379000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>951e2130-e137-48cf-9eb7-012e273a991f</vehicle_id>
-    <vehicle_registration_plate>TWT28A</vehicle_registration_plate>
-    <title>Volvo V60 D4 R-Design</title>
-    <description>D4 R-Design. Utrustningsnivå: R-Design. Miltal: 10 876 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: TWT28A. Billån från 3 303 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 1 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 1</g:custom_label_0>
-    <g:custom_label_2>3303</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 10 876 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/951e2130-e137-48cf-9eb7-012e273a991f</link>
-    <url>https://goingebil.se/sok/id/951e2130-e137-48cf-9eb7-012e273a991f</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/258d557162534bcd937a8f3173891fe5/49949a0c2caa48a79cf272c1cf7ae064?format=jpeg&amp;w=770&amp;overlay=a9049abe-d86a-4183-be16-5f323d75e6f8</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2019</year>
-    <mileage>
-      <value>108760</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>299000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Hässleholm</component>
-      <component name="city">Hässleholm</component>
-      <component name="region">Hässleholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>299000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -610,8 +610,8 @@
     <vehicle_id>2884e34b-d183-400b-971d-a6489f552afd</vehicle_id>
     <vehicle_registration_plate>JAE573</vehicle_registration_plate>
     <title>Mercedes-Benz GLC 9G-Tronic</title>
-    <description>9G-Tronic. Utrustningsnivå: Avantgarde. Miltal: 5 537 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JAE573. Billån från 6 065 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 2 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 2</g:custom_label_0>
+    <description>9G-Tronic. Utrustningsnivå: Avantgarde. Miltal: 5 537 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JAE573. Billån från 6 065 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 3 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 3</g:custom_label_0>
     <g:custom_label_2>6065</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 5 537 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/2884e34b-d183-400b-971d-a6489f552afd</link>
@@ -890,8 +890,8 @@
     <vehicle_id>de7e918e-9108-4774-96b6-41b55e3f1f6e</vehicle_id>
     <vehicle_registration_plate>WBD93P</vehicle_registration_plate>
     <title>Ford Mustang Mach-E Premium LRDM 87kWh</title>
-    <description>Premium LRDM 87kWh. Miltal: 3 118 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBD93P. Billån från 4 960 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 6 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 6</g:custom_label_0>
+    <description>Premium LRDM 87kWh. Miltal: 3 118 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBD93P. Billån från 4 960 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 7 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 7</g:custom_label_0>
     <g:custom_label_2>4960</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 3 118 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/de7e918e-9108-4774-96b6-41b55e3f1f6e</link>
@@ -1090,8 +1090,8 @@
     <vehicle_id>9b16bc3a-5a46-4cb2-9d2e-b32c1b5e0f8f</vehicle_id>
     <vehicle_registration_plate>YXP918</vehicle_registration_plate>
     <title>Renault Kadjar 1,2 TCe 130hk Zen EDC 4x2</title>
-    <description>1,2 TCe 130hk Zen EDC 4x2. Utrustningsnivå: LIMITED. Miltal: 11 028 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YXP918. Billån från 1 425 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 9 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 9</g:custom_label_0>
+    <description>1,2 TCe 130hk Zen EDC 4x2. Utrustningsnivå: LIMITED. Miltal: 11 028 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YXP918. Billån från 1 425 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 10 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 10</g:custom_label_0>
     <g:custom_label_2>1425</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 11 028 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/9b16bc3a-5a46-4cb2-9d2e-b32c1b5e0f8f</link>
@@ -1139,7 +1139,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/3c4e136ef1454003aae4779f8eb74ce9/b9fba9f0860e41a587aa162f9d5a603a?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/ece1712546064920b0325ff1aefb9f96/7acb1d8fd29647d0996204b1ec90d25b?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Clio</model>
@@ -5142,46 +5142,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>d4010a99-c15b-4c33-a0c4-b01be367bdd4</vehicle_id>
-    <vehicle_registration_plate>JPM52H</vehicle_registration_plate>
-    <title>Škoda Octavia 1.0 TSI e-TEC DSG Backkamera</title>
-    <description>1.0 TSI e-TEC DSG Backkamera. Utrustningsnivå: Style. Miltal: 4 716 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: JPM52H. Billån från 2 972 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
-    <g:custom_label_2>2972</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 4 716 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/d4010a99-c15b-4c33-a0c4-b01be367bdd4</link>
-    <url>https://goingebil.se/sok/id/d4010a99-c15b-4c33-a0c4-b01be367bdd4</url>
-    <brand>Škoda</brand>
-    <make>Škoda</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/7a13eb51c04e45719bf7f0b20212460f/28828eb65fe246f9b42b831f9bd147bd?format=jpeg&amp;w=770&amp;overlay=ee188c7a-c36f-4c3b-8f97-6071d32ea198</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Octavia</model>
-    <year>2024</year>
-    <mileage>
-      <value>47160</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>269000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Älmhult</component>
-      <component name="city">Älmhult</component>
-      <component name="region">Älmhult</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>269000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>ada3b30b-9a80-45cd-8763-9afef21e582a</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>1049d117-846c-4cab-abe7-53ce0c151e67</vehicle_id>
     <vehicle_registration_plate>PAM55E</vehicle_registration_plate>
     <title>Volvo V60 T6 Core Edition Drag/ Navi/ Kamera/ BLIS/ Pilot assist/ Adaptiv farthållare</title>
@@ -5660,8 +5620,9 @@
     <vehicle_id>78f6863a-41c7-4ed5-b48f-dcc8ec2777f1</vehicle_id>
     <vehicle_registration_plate>MMB86G</vehicle_registration_plate>
     <title>Dacia Sandero TCe 90 essential</title>
-    <description>TCe 90 essential. Miltal: 3 147 mil. Årsmodell: 2024. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: MMB86G. Kontakta oss för mer information om detta fordon. Publicerad för 92 dagar sedan.</description>
+    <description>TCe 90 essential. Miltal: 3 147 mil. Årsmodell: 2024. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: MMB86G. Billån från 1 646 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 92 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 92</g:custom_label_0>
+    <g:custom_label_2>1646</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 3 147 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/78f6863a-41c7-4ed5-b48f-dcc8ec2777f1</link>
     <url>https://goingebil.se/sok/id/78f6863a-41c7-4ed5-b48f-dcc8ec2777f1</url>
@@ -6609,8 +6570,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 205 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 205</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 206 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 206</g:custom_label_0>
     <g:custom_label_2>2751</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 689 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
@@ -6769,8 +6730,8 @@
     <vehicle_id>b85a067e-58eb-460e-948d-b4a44d3047b4</vehicle_id>
     <vehicle_registration_plate>YHO703</vehicle_registration_plate>
     <title>Mercedes-Benz E-Klass 9G-Tronic 194hk AMG/ Widescreen/ Drag/ Värmare/</title>
-    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Värmare/. Utrustningsnivå: AMG Line. Miltal: 17 058 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 2 761 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 273 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 273</g:custom_label_0>
+    <description>9G-Tronic 194hk AMG/ Widescreen/ Drag/ Värmare/. Utrustningsnivå: AMG Line. Miltal: 17 058 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YHO703. Billån från 2 761 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 274 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 274</g:custom_label_0>
     <g:custom_label_2>2761</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 17 058 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/b85a067e-58eb-460e-948d-b4a44d3047b4</link>
