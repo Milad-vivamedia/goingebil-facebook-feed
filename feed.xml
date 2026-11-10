@@ -1219,7 +1219,7 @@
     <brand>Renault</brand>
     <make>Renault</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/6d7b1ea11f0144cb930c13257370cf88/19fb920e7d434c0f82d73a9c2e68b7ee?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/cd43b8a4d9fb4e3ba2533852e6f196aa/50625fe234a244f38238b65ef44e707b?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Clio</model>
@@ -2163,46 +2163,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a50b93cc-54dc-4472-b245-82225330de2f</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>1dda8ae2-928f-4c30-a5d0-3af3d9858c1a</vehicle_id>
-    <vehicle_registration_plate>MBO718</vehicle_registration_plate>
-    <title>Renault Clio TCe 100 Zen 5-d/ Backsensor/ Farthållare/ AC</title>
-    <description>TCe 100 Zen 5-d/ Backsensor/ Farthållare/ AC. Utrustningsnivå: Zen. Miltal: 9 902 mil. Årsmodell: 2020. Växellåda: Manuell. Bränsle: Bensin. Registreringsnummer: MBO718. Billån från 1 270 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 26 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 26</g:custom_label_0>
-    <g:custom_label_2>1270</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 9 902 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/1dda8ae2-928f-4c30-a5d0-3af3d9858c1a</link>
-    <url>https://goingebil.se/sok/id/1dda8ae2-928f-4c30-a5d0-3af3d9858c1a</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/29fbb2bd56194e5f82d18fcc854aacf8/71958d107b944aedbbc1a4fbbe0be2ee?format=jpeg&amp;w=770&amp;overlay=831cdcd8-e673-49fe-b959-972a1f136ac1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2020</year>
-    <mileage>
-      <value>99020</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <price>115000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>115000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -4662,46 +4622,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2f839cf6-7a87-4e58-a8db-42aff2199d6e</vehicle_id>
-    <vehicle_registration_plate>TEJ56S</vehicle_registration_plate>
-    <title>Renault Kadjar PhII TCe 160 Black GPF EDC 4x2/ infällbart Drag/ Backkamera/ Panorama-tak</title>
-    <description>PhII TCe 160 Black GPF EDC 4x2/ infällbart Drag/ Backkamera/ Panorama-tak. Miltal: 8 198 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TEJ56S. Billån från 2 143 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 66 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 66</g:custom_label_0>
-    <g:custom_label_2>2143</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 8 198 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/2f839cf6-7a87-4e58-a8db-42aff2199d6e</link>
-    <url>https://goingebil.se/sok/id/2f839cf6-7a87-4e58-a8db-42aff2199d6e</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/c5d0d3b1974c4c96ba7101a0267a52cc/e0c9e8c4f4504724a223663ec480b788?format=jpeg&amp;w=770&amp;overlay=831cdcd8-e673-49fe-b959-972a1f136ac1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Kadjar</model>
-    <year>2020</year>
-    <mileage>
-      <value>81980</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>194000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>194000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>8ab8560b-62c4-44fc-814b-76bdaa6d59db</vehicle_id>
     <vehicle_registration_plate>PZR615</vehicle_registration_plate>
     <title>Dacia Duster 4x4 1,2 TCe 125 Comfort</title>
@@ -6410,8 +6330,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 208 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 208</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 209 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 209</g:custom_label_0>
     <g:custom_label_2>2751</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 689 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
