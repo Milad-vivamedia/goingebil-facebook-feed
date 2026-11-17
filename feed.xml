@@ -19,7 +19,7 @@
     <brand>Kia</brand>
     <make>Kia</make>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/66357a1aeecc4a1db619c913e4a243df/8b7140a4993d444aa014f17691d527ce?format=jpeg&amp;w=770&amp;overlay=a9049abe-d86a-4183-be16-5f323d75e6f8</url>
+      <url>https://cdn.wayke.se/cfit/v3/495b950cbe044f48bd255b97759354d3/3311cdbf5a8a4789ab42bd90c4ca8a72?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>Sorento</model>
@@ -1642,46 +1642,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>d2b9350b-4949-4df8-b8d0-292cb1986347</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>88428102-e4e9-42de-b598-b7b4e1936ed9</vehicle_id>
-    <vehicle_registration_plate>JAU846</vehicle_registration_plate>
-    <title>Renault Captur PhII Energy TCe 120 Intens EDC</title>
-    <description>PhII Energy TCe 120 Intens EDC. Miltal: 1 509 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: JAU846. Billån från 1 756 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 19 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 19</g:custom_label_0>
-    <g:custom_label_2>1756</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 1 509 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/88428102-e4e9-42de-b598-b7b4e1936ed9</link>
-    <url>https://goingebil.se/sok/id/88428102-e4e9-42de-b598-b7b4e1936ed9</url>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/c4d6c5b9c671432193deb84fc5166d93/1bc85ec5509a4d399fea8f462685a65c?format=jpeg&amp;w=770&amp;overlay=831cdcd8-e673-49fe-b959-972a1f136ac1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2018</year>
-    <mileage>
-      <value>15090</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>159000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>159000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -3688,9 +3648,9 @@
     <vehicle_id>50e8ffe6-6ecd-4e7c-bb00-008042c5b90a</vehicle_id>
     <vehicle_registration_plate>UFM89X</vehicle_registration_plate>
     <title>Audi Q5 Proline Advanced/ Sport edt</title>
-    <description>Proline Advanced/ Sport edt. Utrustningsnivå: Comfort. Miltal: 9 577 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: UFM89X. Billån från 110 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
+    <description>Proline Advanced/ Sport edt. Utrustningsnivå: Comfort. Miltal: 9 577 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: UFM89X. Billån från 4 076 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 45 dagar sedan.</description>
     <g:custom_label_0>Dagar i lager: 45</g:custom_label_0>
-    <g:custom_label_2>110</g:custom_label_2>
+    <g:custom_label_2>4076</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 9 577 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/50e8ffe6-6ecd-4e7c-bb00-008042c5b90a</link>
     <url>https://goingebil.se/sok/id/50e8ffe6-6ecd-4e7c-bb00-008042c5b90a</url>
@@ -3709,14 +3669,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>10000 SEK</price>
+    <price>369000 SEK</price>
     <address format="simple">
       <component name="addr1">Göinge Bil Hässleholm</component>
       <component name="city">Hässleholm</component>
       <component name="region">Hässleholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>10000 SEK</sale_price>
+    <sale_price>369000 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -6609,8 +6569,8 @@
     <vehicle_id>c0a0c190-5d06-472e-8a9a-d13a3b301aac</vehicle_id>
     <vehicle_registration_plate>AUD81T</vehicle_registration_plate>
     <title>JAC e-JS4 193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay</title>
-    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 215 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 215</g:custom_label_0>
+    <description>193hk/ Panorama/ Värmepump/ 360 kamera/ Carplay. Miltal: 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: AUD81T. Billån från 2 751 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 216 dagar sedan.</description>
+    <g:custom_label_0>Dagar i lager: 216</g:custom_label_0>
     <g:custom_label_2>2751</g:custom_label_2>
     <g:custom_label_3>Mätarställning: 689 mil</g:custom_label_3>
     <link>https://goingebil.se/sok/id/c0a0c190-5d06-472e-8a9a-d13a3b301aac</link>
