@@ -2206,46 +2206,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>e6f42327-30ac-4af3-a800-f9526c79d96f</vehicle_id>
-    <vehicle_registration_plate>YRW776</vehicle_registration_plate>
-    <title>Volvo V60 D3 Momentum Advanced Edition/ Backkamera/ Klimat-Paket</title>
-    <description>D3 Momentum Advanced Edition/ Backkamera/ Klimat-Paket. Utrustningsnivå: Momentum. Miltal: 14 403 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: YRW776. Billån från 2 309 kr/mån. Kontakta oss för mer information om detta fordon. Publicerad för 27 dagar sedan.</description>
-    <g:custom_label_0>Dagar i lager: 27</g:custom_label_0>
-    <g:custom_label_2>2309</g:custom_label_2>
-    <g:custom_label_3>Mätarställning: 14 403 mil</g:custom_label_3>
-    <link>https://goingebil.se/sok/id/e6f42327-30ac-4af3-a800-f9526c79d96f</link>
-    <url>https://goingebil.se/sok/id/e6f42327-30ac-4af3-a800-f9526c79d96f</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/000e0d6cdeca40e7a78d0354bef56c46/d38624529c274fdaacad6661017becfd?format=jpeg&amp;w=770&amp;overlay=831cdcd8-e673-49fe-b959-972a1f136ac1</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2019</year>
-    <mileage>
-      <value>144030</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>209000 SEK</price>
-    <address format="simple">
-      <component name="addr1">Göinge Bil Markaryd</component>
-      <component name="city">Markaryd</component>
-      <component name="region">Markaryd</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>209000 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>7ef7d7c9-4011-4af7-8b57-804bceef7cde</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>de2af243-e46e-4180-9e9b-17ad84337925</vehicle_id>
     <vehicle_registration_plate>DGN413</vehicle_registration_plate>
     <title>Volvo XC40 D3 FWD Inscription/ Drag/ skinn/ 360-kamera/ Värmare/ Rattvärme/</title>
